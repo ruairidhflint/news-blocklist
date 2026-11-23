@@ -4,8 +4,8 @@
 ! Homepage: https://github.com/ruairidhflint/news-blocklist
 ! License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 ! Syntax: Adblock Plus / uBlock Origin / AdGuard (||domain^)
-! Entries: 14,893
-! Last modified: 2026-11-23 11:07 UTC
+! Entries: 14,894
+! Last modified: 2026-11-23 11:20 UTC
 ! Expires: 1 day
 !
 ||021.rs^
@@ -13183,6 +13183,7 @@
 ||theworldweekly.com^
 ||thewynneprogress.com^
 ||theyellowjacket.org^
+||theyouth.com.pk^
 ||theyukonstar.com^
 ||thezimbabwemail.com^
 ||thezioneer.com^

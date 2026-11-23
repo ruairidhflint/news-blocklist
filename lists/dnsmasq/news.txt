@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: dnsmasq (local=/domain/); each entry also covers all its subdomains
-# Entries: 14,893
-# Last modified: 2026-11-23 11:07 UTC
+# Entries: 14,894
+# Last modified: 2026-11-23 11:20 UTC
 #
 local=/021.rs/
 local=/021east.com/
@@ -13181,6 +13181,7 @@ local=/theworldnews.net/
 local=/theworldweekly.com/
 local=/thewynneprogress.com/
 local=/theyellowjacket.org/
+local=/theyouth.com.pk/
 local=/theyukonstar.com/
 local=/thezimbabwemail.com/
 local=/thezioneer.com/

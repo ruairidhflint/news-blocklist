@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: one domain per line; each entry also covers all its subdomains
-# Entries: 14,893
-# Last modified: 2026-11-23 11:07 UTC
+# Entries: 14,894
+# Last modified: 2026-11-23 11:20 UTC
 #
 021.rs
 021east.com
@@ -13181,6 +13181,7 @@ theworldnews.net
 theworldweekly.com
 thewynneprogress.com
 theyellowjacket.org
+theyouth.com.pk
 theyukonstar.com
 thezimbabwemail.com
 thezioneer.com
