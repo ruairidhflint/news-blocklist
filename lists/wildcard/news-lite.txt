@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: one domain per line; each entry also covers all its subdomains
-# Entries: 6,729
-# Last modified: 2026-11-23 12:19 UTC
+# Entries: 6,645
+# Last modified: 2026-11-23 12:34 UTC
 #
 021.rs
 0223.com.ar
@@ -167,7 +167,6 @@ abplive.com
 abpnews.abplive.in
 abqjournal.com
 abs-cbn.com
-accesswire.com
 acento.com.do
 acheconcursos.com.br
 achgut.com
@@ -225,7 +224,6 @@ agazeta.com.br
 agderposten.no
 agefi.fr
 agenciabrasil.ebc.com.br
-agenciasinc.es
 agensir.it
 agenzianova.com
 agerpres.ro
@@ -241,7 +239,6 @@ ahram.org.eg
 aib.media
 aif.ru
 aim.org
-ain.ua
 aina.org
 airforcetimes.com
 aisnenouvelle.fr
@@ -353,7 +350,6 @@ alsudaninews.com
 alsumaria.tv
 alsumarianews.com
 altaghyeer.info
-altalex.com
 altapress.ru
 altaveu.com
 alternet.org
@@ -400,7 +396,6 @@ anandabazar.com
 andaluciainformacion.es
 andhrajyothy.com
 andina.pe
-androidplanet.nl
 anews.com.tr
 angola24horas.com
 angop.ao
@@ -449,9 +444,6 @@ arabnews.pk
 arabtimesonline.com
 aravot.am
 arbetet.se
-archdaily.cl
-archdaily.com.br
-archives.yvelines.fr
 archpaper.com
 arcinfo.ch
 aredacao.com.br
@@ -680,9 +672,7 @@ bienpublic.com
 bigissue.com
 bignewsnetwork.com
 bihus.info
-bikeportland.org
 bild.de
-billboard.com.br
 billingsgazette.com
 billmoyers.com
 billypenn.com
@@ -780,7 +770,6 @@ botapress.info
 botasot.info
 bote.ch
 bournemouthecho.co.uk
-boursedirect.fr
 bozemandailychronicle.com
 br24.de
 bradenton.com
@@ -910,7 +899,6 @@ canadaland.com
 canal1.com.co
 canal26.com
 canaln.pe
-canalsur.es
 canarias7.es
 canberratimes.com.au
 cancan.ro
@@ -971,7 +959,6 @@ cdt.ch
 ce.cn
 cekfakta.com
 censor.net
-centraldatoca.com.br
 centralmaine.com
 centredaily.com
 centrepresseaveyron.fr
@@ -1064,11 +1051,9 @@ cjonline.com
 cjrb.cjn.cn
 clarin.com
 clarionledger.com
-cleanenergywire.org
 cleveland.com
 cleveland19.com
 click2houston.com
-clickhole.com
 clickondetroit.com
 clickorlando.com
 clickpb.com.br
@@ -1103,7 +1088,6 @@ cnycentral.com
 cnyes.com
 coastalabc.com
 coconuts.co
-coinworld.com
 colombiacheck.com
 colombiareports.com
 colombogazette.com
@@ -1111,7 +1095,6 @@ coloradoan.com
 coloradonewsline.com
 coloradopolitics.com
 coloradosun.com
-colta.ru
 columbia.co.cr
 columbiadailyherald.com
 columbiamissourian.com
@@ -1127,15 +1110,12 @@ commondreams.org
 communityimpact.com
 como.fi
 compactmag.com
-computerworld.dk
 concordmonitor.com
 conexaopolitica.com.br
 confidencial.digital
-confilegal.com
 congan.com.vn
 congressoemfoco.com.br
 connachttribune.ie
-connaissancedesenergies.org
 connectionivoirienne.net
 connexionfrance.com
 conservativehome.com
@@ -1368,7 +1348,6 @@ deepika.com
 defapress.ir
 defapt.ro
 defence-ua.com
-defense-update.com
 defensenews.com
 defenseone.com
 defimedia.info
@@ -1403,7 +1382,6 @@ denverite.com
 denverpost.com
 depo.ba
 depo.ua
-depor.com
 der-farang.com
 derbund.ch
 derbyshiretimes.co.uk
@@ -1520,10 +1498,8 @@ dispatch.com
 dispatchlive.co.za
 divaina.lk
 divergentes.com
-diverseeducation.com
 divyabhaskar.co.in
 djournal.com
-dlib.si
 dn.no
 dn.pt
 dn.se
@@ -1554,7 +1530,6 @@ donaukurier.de
 doncasterfreepress.co.uk
 donegaldaily.com
 donga.com
-donpol.donntu.ru
 donya-e-eqtesad.com
 dorsetecho.co.uk
 dorzeczy.pl
@@ -1747,7 +1722,6 @@ elfagr.org
 elfaro.net
 elfarodeceuta.es
 elfinanciero.com.mx
-elgrafico.com
 elguardian.cr
 elheraldo.co
 elheraldo.hn
@@ -1985,7 +1959,6 @@ farodevigo.es
 farsnews.ir
 fastcheck.cl
 fastcompany.com
-fatherly.com
 fayobserver.com
 faz.net
 fbcnews.com.fj
@@ -1996,8 +1969,6 @@ febrayer.com
 federalna.ba
 feeds.bbci.co.uk
 femina.fr
-femina.hu
-femmeactuelle.fr
 feol.hu
 fergana.media
 fergana.news
@@ -2026,7 +1997,6 @@ firda.no
 firenzetoday.it
 firstalert4.com
 firstcoastnews.com
-firstdraftnews.org
 firstpost.com
 fivethirtyeight.com
 flagman.bg
@@ -2216,12 +2186,10 @@ gdnonline.com
 gds.it
 gds.ro
 gea.de
-geeky-gadgets.com
 geelongadvertiser.com.au
 geenstijl.nl
 gelderlander.nl
 gendai.media
-geneticliteracyproject.org
 geo.tv
 geopoliticalfutures.com
 georgiarecorder.com
@@ -2230,7 +2198,6 @@ gestion.pe
 getreading.co.uk
 getsurrey.co.uk
 gfcnieuws.com
-ggwash.org
 ghanabusinessnews.com
 ghanaweb.com
 giaoduc.net.vn
@@ -2292,7 +2259,6 @@ govoritmoskva.ru
 gp.se
 gp1.com.br
 gp24.pl
-gpone.com
 granadahoy.com
 grandforksherald.com
 graniru.org
@@ -2306,10 +2272,8 @@ greekreporter.com
 greenbaypressgazette.com
 greenfieldreporter.com
 greenleft.org.au
-greenme.it
 greenocktelegraph.co.uk
 greenprophet.com
-greenreport.it
 greensboro.com
 greenvilleonline.com
 greenwichtime.com
@@ -2330,7 +2294,6 @@ guardian.co.uk
 guardian.ng
 guardianlv.com
 gubdaily.ru
-gudok.ru
 guelphtoday.com
 guernseypress.com
 gujaratsamachar.com
@@ -2503,7 +2466,6 @@ hoy.com.do
 hoy.com.py
 hoy.es
 hoydiariodelmagdalena.com.co
-hr.de
 hraparak.am
 hromadske.ua
 hronikatm.com
@@ -2530,7 +2492,6 @@ humanevents.com
 humanglemedia.com
 humanite.fr
 humnews.pk
-hungaricana.hu
 hurriyet.com.tr
 hurriyetdailynews.com
 hutchnews.com
@@ -2584,7 +2545,6 @@ ilfoglio.it
 ilfordrecorder.co.uk
 ilgazzettino.it
 ilgiornale.it
-ilgiornaledellarte.com
 ilgiornaleditalia.it
 ilgiornaledivicenza.it
 ilgiorno.it
@@ -2594,7 +2554,6 @@ ilmanifesto.it
 ilmattino.it
 ilmessaggero.it
 ilna.ir
-ilnapolista.it
 ilpescara.it
 ilpiccolo.it
 ilpost.it
@@ -2623,7 +2582,6 @@ in.gr
 in4s.net
 ina.iq
 inbusiness.kz
-inc42.com
 incheonilbo.com
 indaily.com.au
 indeksonline.net
@@ -2660,7 +2618,6 @@ inews.id
 inews24.com
 inewsguyana.com
 inewsweek.cn
-influencewatch.fireside.fm
 info.arte.tv
 info.cz
 infobae.com
@@ -2708,8 +2665,6 @@ insajder.net
 insajderi.com
 inshorts.com
 inside-paradeplatz.ch
-inside.com.tw
-insidehoops.com
 insideparadeplatz.ch
 insidephilanthropy.com
 insider.com
@@ -2772,7 +2727,6 @@ irl.mk
 irna.ir
 irozhlas.cz
 irrawaddy.com
-irunfar.com
 is.fi
 island.lk
 islandpacket.com
@@ -2796,7 +2750,6 @@ istramet.hr
 ita-savo.fi
 italiaoggi.it
 ithacajournal.com
-ithome.com.tw
 itnonline.com
 itromso.no
 ittefaq.com.bd
@@ -2855,7 +2808,6 @@ jhnewsandguide.com
 jiemian.com
 jiji.com
 jinhaagency.com
-jinrmag.jinr.ru
 jjan.kr
 jjckb.cn
 jkb.com.cn
@@ -2930,7 +2882,6 @@ kabulnow.com
 kado.net
 kahawatungu.com
 kahoku.news
-kai-you.net
 kaieteurnewsonline.com
 kaipkada.lt
 kait8.com
@@ -3042,7 +2993,6 @@ kjzz.org
 klankosova.tv
 klassekampen.no
 kleinezeitung.at
-klikk.no
 klix.ba
 kloop.kg
 klops.ru
@@ -3118,7 +3068,6 @@ ksl.com
 ksml.fi
 ksta.de
 kstp.com
-kstyle.com
 ktla.com
 ktnv.com
 ktrk.kg
@@ -3184,7 +3133,6 @@ lacuarta.com
 ladepeche.fr
 ladiaria.com.uy
 ladige.it
-ladn.eu
 laestrella.com.pa
 lafm.com.co
 lafranceagricole.fr
@@ -3357,7 +3305,6 @@ leidschdagblad.nl
 lejdc.fr
 lejdd.fr
 lejsl.com
-lelezard.com
 lematin.ch
 lematin.ma
 lemediatv.fr
@@ -3521,7 +3468,6 @@ macombdaily.com
 macon.com
 macstories.net
 madamasr.com
-maddyness.com
 madeinvilnius.lt
 madhyamam.com
 madison.com
@@ -3584,7 +3530,6 @@ marinecorpstimes.com
 marinij.com
 marionstar.com
 marketbusinessnews.com
-marketingdirecto.com
 marketplace.org
 marketwatch.com
 maroelamedia.co.za
@@ -3741,7 +3686,6 @@ mkset.ru
 mladina.si
 mlive.com
 mlyn.by
-mmafighting.com
 mmegi.bw
 mmnews.tv
 mmsonline.com
@@ -3803,7 +3747,6 @@ mrt.com
 ms.now
 mskagency.ru
 msnbc.com
-mstar.com.my
 mt.co.kr
 mt.de
 mtavari.tv
@@ -3814,7 +3757,6 @@ mtstandard.com
 mtv.com.lb
 mtvuutiset.fi
 muksun.fm
-multihousingnews.com
 mumbaimirror.com
 mumbaimirror.indiatimes.com
 mundiario.com
@@ -3915,7 +3857,6 @@ nationwideradiojm.com
 nativenewsonline.net
 naturalnews.com
 nau.ch
-naukatv.ru
 navbharattimes.com
 navbharattimes.indiatimes.com
 navhindtimes.in
@@ -4174,7 +4115,6 @@ newsweek.com
 newsweek.pl
 newsweek.ro
 newsweekjapan.jp
-newswire.com
 newswire.lk
 newsx.com
 newtalk.tw
@@ -4473,7 +4413,6 @@ opinion-info.cd
 opinion.com.bo
 opopular.com.br
 opovo.com.br
-oprf.ru
 oranews.tv
 orda.kz
 order-order.com
@@ -4511,7 +4450,6 @@ otz.de
 ouest-france.fr
 ourmidland.com
 ournews.bs
-out.com
 outlookbusiness.com
 outlookindia.com
 outraspalavras.net
@@ -4590,7 +4528,6 @@ people.onliner.by
 peopledaily.digital
 peoplesdaily.pdnews.cn
 peoplesworld.org
-peopletalk.ru
 perfil.com
 periodicodeibiza.es
 periodismoinvestigativo.com
@@ -4601,10 +4538,8 @@ peru21.pe
 pescanik.net
 peterboroughtoday.co.uk
 petitbleu.fr
-petitesaffiches.fr
 pghcitypaper.com
 philadelphiaweekly.com
-philanthropy.com
 philenews.com
 philly.com
 phillyburbs.com
@@ -4625,7 +4560,6 @@ pittnews.com
 pix11.com
 pjmedia.com
 pjstar.com
-plantbasednews.org
 planv.com.ec
 playtech.ro
 plazapublica.com.gt
@@ -4722,7 +4656,6 @@ pravda.com.ua
 pravda.rs
 pravda.ru
 pravda.sk
-pravoslavie.ru
 prealpina.it
 premiumtimesng.com
 prensa-latina.cu
@@ -4732,7 +4665,6 @@ prensalibre.com
 president.jp
 press-citizen.com
 press.lv
-press.lvcva.com
 pressafrik.com
 pressandjournal.co.uk
 pressball.by
@@ -4829,7 +4761,6 @@ qns.com
 qstheory.cn
 quadrant.org.au
 quadratin.com.mx
-qualenergia.it
 qub.ca
 qudsn.co
 que.es
@@ -4988,7 +4919,6 @@ rights.no
 rijnmond.nl
 riknews.com.cy
 ringblad.no
-rinnovabili.it
 rionegro.com.ar
 riotimesonline.com
 ripost.hu
@@ -5068,7 +4998,6 @@ rus.err.ee
 rus.lsm.lv
 russ.ru
 russia-insider.com
-russkiymir.ru
 rustavi2.ge
 rusvesna.su
 rutlandherald.com
@@ -5142,7 +5071,6 @@ sbtnews.sbt.com.br
 schwaebische.de
 schwarzwaelder-bote.de
 scmp.com
-scmr.com
 scnow.com
 scol.com.cn
 scotsman.com
@@ -5294,7 +5222,6 @@ sol.de
 sol.iol.pt
 sol.org.tr
 sol.sapo.pt
-solidot.org
 solinger-tageblatt.de
 solopos.com
 solothurnerzeitung.ch
@@ -5356,7 +5283,6 @@ srilankamirror.com
 srpskainfo.com
 srugim.co.il
 sss.fi
-sst.dk
 st.nu
 sta.si
 stabroeknews.com
@@ -5435,7 +5361,6 @@ sudantribune.net
 sudarshannews.in
 sudbury.com
 sudinfo.be
-sudoku-online.org
 sudouest.fr
 sudradio.fr
 sueddeutsche.de
@@ -5632,7 +5557,6 @@ the-miyanichi.co.jp
 the-riotact.com
 the-star.co.ke
 the-sun.com
-the-village.ru
 the74million.org
 the961.com
 theadvertiser.com
@@ -5656,8 +5580,6 @@ thebetterindia.com
 thebfd.co.nz
 thebftonline.com
 theblaze.com
-theblueprint.ru
-thebody.com
 theboltonnews.co.uk
 theborneopost.com
 thebrief.com.na
@@ -5738,7 +5660,6 @@ thegrayzone.com
 thegrio.com
 theguardian.com
 thehansindia.com
-thehardtimes.net
 theherald.co.za
 thehighstreetjournal.com
 thehill.com
@@ -5852,7 +5773,6 @@ thesaigontimes.vn
 thesaturdaypaper.com.au
 thescarboroughnews.co.uk
 thescottishsun.co.uk
-theshaderoom.com
 theshiftnews.com
 theshillongtimes.com
 thesierraleonetelegraph.com
@@ -6076,7 +5996,6 @@ turkmenportal.com
 turnbackhoax.id
 turnto10.com
 tuscaloosanews.com
-tuttobiciweb.it
 tv2bornholm.dk
 tv2east.dk
 tv2fyn.dk
@@ -6113,7 +6032,6 @@ tvsyd.dk
 tvzvezda.ru
 tw.nextapple.com
 twentyfournews.com
-twice.com
 twincities.com
 twitchy.com
 twreporter.org
@@ -6390,7 +6308,6 @@ webdo.tn
 webmanagercenter.com
 webnews.lk
 webnoviny.sk
-webtekno.com
 wedge.ismedia.jp
 weekendavisen.dk
 weekendpost.co.bw
@@ -6691,7 +6608,6 @@ zaxid.net
 zbcnews.co.zw
 zdfheute.de
 zdg.md
-zdnet.co.kr
 zee24ghanta.com
 zee24taas.com
 zeebiz.com

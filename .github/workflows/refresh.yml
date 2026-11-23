@@ -17,7 +17,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 90
     steps:
+      # Start from the latest main, not the commit that triggered the run: runs queue behind
+      # each other, and the one ahead may have pushed rebuilt lists.
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -41,4 +45,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Weekly refresh from Wikidata"
+          git pull --rebase origin main
           git push
