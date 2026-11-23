@@ -249,7 +249,6 @@ academia-de-talentos.com: academia-de-talentos.com www.academia-de-talentos.com
 academiacatavencu.info: academiacatavencu.info www.academiacatavencu.info
 acadienouvelle.com: acadienouvelle.com www.acadienouvelle.com
 access-journal.jp: access-journal.jp www.access-journal.jp
-accesswire.com: accesswire.com www.accesswire.com
 accionnewspaper.com: accionnewspaper.com www.accionnewspaper.com
 acento.com.do: acento.com.do www.acento.com.do
 acheconcursos.com.br: acheconcursos.com.br www.acheconcursos.com.br
@@ -316,7 +315,6 @@ advocate.com: advocate.com news.advocate.com www.advocate.com
 advokatwatch.dk: advokatwatch.dk www.advokatwatch.dk
 adygvoice.ru: adygvoice.ru www.adygvoice.ru
 aera.gr: aera.gr www.aera.gr
-aerotechnews.com: aerotechnews.com www.aerotechnews.com
 affaritaliani.it: affaritaliani.it www.affaritaliani.it
 affarsvarlden.se: affarsvarlden.se m.affarsvarlden.se www.affarsvarlden.se
 affiches.fr: affiches.fr www.affiches.fr
@@ -357,7 +355,6 @@ agenceqmi.ca: agenceqmi.ca www.agenceqmi.ca
 agenciabrasil.ebc.com.br: agenciabrasil.ebc.com.br www.agenciabrasil.ebc.com.br
 agenciaeconordeste.com.br: agenciaeconordeste.com.br www.agenciaeconordeste.com.br
 agenciapresentes.org: agenciapresentes.org www.agenciapresentes.org
-agenciasinc.es: agenciasinc.es www.agenciasinc.es
 agenda.ge: agenda.ge www.agenda.ge
 agenda.liternet.ro: agenda.liternet.ro
 agendamagasin.no: agendamagasin.no www.agendamagasin.no
@@ -397,7 +394,6 @@ aif.ru: aif.ru www.aif.ru
 aifua.com.ua: aifua.com.ua www.aifua.com.ua
 aikenstandard.com: aikenstandard.com www.aikenstandard.com
 aim.org: aim.org www.aim.org
-ain.ua: ain.ua www.ain.ua
 aina.org: aina.org www.aina.org
 aip.ci: aip.ci www.aip.ci
 air-cosmos.com: air-cosmos.com www.air-cosmos.com
@@ -645,7 +641,6 @@ alsumarianews.com: alsumarianews.com m.alsumarianews.com www.alsumarianews.com
 altaghyeer.info: altaghyeer.info www.altaghyeer.info
 altaicholmon.ru: altaicholmon.ru www.altaicholmon.ru
 altaleea.com: altaleea.com www.altaleea.com
-altalex.com: altalex.com www.altalex.com
 altaposten.no: altaposten.no www.altaposten.no
 altapress.ru: altapress.ru www.altapress.ru
 altaveu.com: altaveu.com www.altaveu.com
@@ -768,7 +763,6 @@ andina.pe: andina.pe www.andina.pe
 andoveradvertiser.co.uk: andoveradvertiser.co.uk www.andoveradvertiser.co.uk
 andovertownsman.com: andovertownsman.com www.andovertownsman.com
 andoyposten.no: andoyposten.no www.andoyposten.no
-androidplanet.nl: androidplanet.nl www.androidplanet.nl
 androidwedakarayo.com: androidwedakarayo.com www.androidwedakarayo.com
 anews.com.tr: anews.com.tr www.anews.com.tr
 anfarabic.com: anfarabic.com www.anfarabic.com
@@ -891,10 +885,7 @@ arbetsvarlden.se: arbetsvarlden.se www.arbetsvarlden.se
 arc-times.square.site: arc-times.square.site www.arc-times.square.site
 arcadianews.com: arcadianews.com www.arcadianews.com
 arcananews.com: arcananews.com www.arcananews.com
-archdaily.cl: archdaily.cl www.archdaily.cl
 archdaily.cn: archdaily.cn www.archdaily.cn
-archdaily.com.br: archdaily.com.br www.archdaily.com.br
-archives.yvelines.fr: archives.yvelines.fr
 archpaper.com: archpaper.com www.archpaper.com
 arcinfo.ch: arcinfo.ch www.arcinfo.ch
 arctimes.com: arctimes.com
@@ -1365,7 +1356,7 @@ belpatriot.by: belpatriot.by www.belpatriot.by
 belpressa.ru: belpressa.ru www.belpressa.ru
 belqees.net: belqees.net rss.belqees.net www.belqees.net
 belsat.eu: belsat.eu en.belsat.eu www.belsat.eu
-belta.by: belta.by news.belta.by www.belta.by
+belta.by: belta.by m.belta.by news.belta.by www.belta.by
 bemidjipioneer.com: bemidjipioneer.com www.bemidjipioneer.com
 bemparana.com.br: amp.bemparana.com.br bemparana.com.br www.bemparana.com.br
 benarnews.org: benarnews.org www.benarnews.org
@@ -1471,11 +1462,9 @@ bihartimes.com: bihartimes.com www.bihartimes.com
 bihorinfo.ro: bihorinfo.ro www.bihorinfo.ro
 bihus.info: bihus.info www.bihus.info
 bijeljina.org: bijeljina.org www.bijeljina.org
-bikeportland.org: bikeportland.org www.bikeportland.org
 bilan.media: bilan.media www.bilan.media
 bild.de: bild.de m.bild.de mobile.bild.de news.bild.de www.bild.de
 bildtsepost.nl: bildtsepost.nl www.bildtsepost.nl
-billboard.com.br: billboard.com.br www.billboard.com.br
 billingsgazette.com: billingsgazette.com www.billingsgazette.com
 billmoyers.com: billmoyers.com www.billmoyers.com
 billypenn.com: billypenn.com www.billypenn.com
@@ -1534,7 +1523,7 @@ blesk.cz: blesk.cz isport.blesk.cz m.blesk.cz www.blesk.cz www.isport.blesk.cz
 blic.rs: blic.rs m.blic.rs sportal.blic.rs www.blic.rs
 blick-aktuell.de: blick-aktuell.de www.blick-aktuell.de
 blick.ch: blick.ch m.blick.ch www.blick.ch
-blikk.hu: blikk.hu kiskegyed.blikk.hu m.blikk.hu www.blikk.hu www.kiskegyed.blikk.hu
+blikk.hu: blikk.hu m.blikk.hu www.blikk.hu
 blikopnieuws.nl: blikopnieuws.nl www.blikopnieuws.nl
 bliteoc.com: bliteoc.com www.bliteoc.com
 blitz.bg: blitz.bg m.blitz.bg www.blitz.bg
@@ -1658,7 +1647,6 @@ boueinews.com: boueinews.com www.boueinews.com
 boulderweekly.com: boulderweekly.com www.boulderweekly.com
 boulevard-des-infos.com: boulevard-des-infos.com www.boulevard-des-infos.com
 bournemouthecho.co.uk: bournemouthecho.co.uk www.bournemouthecho.co.uk
-boursedirect.fr: www.boursedirect.fr
 boutique.assabah.tn: boutique.assabah.tn
 bowdoinorient.com: bowdoinorient.com www.bowdoinorient.com
 bowenislandundercurrent.com: bowenislandundercurrent.com www.bowenislandundercurrent.com
@@ -1944,7 +1932,6 @@ canal1.com.co: canal1.com.co www.canal1.com.co
 canal26.com: canal26.com www.canal26.com
 canal7.com.ar: canal7.com.ar www.canal7.com.ar
 canaln.pe: canaln.pe www.canaln.pe
-canalsur.es: canalsur.es www.canalsur.es
 cananewsonline.com: cananewsonline.com www.cananewsonline.com
 canarias7.es: canarias7.es www.canarias7.es
 canberratimes.com.au: canberratimes.com.au www.canberratimes.com.au
@@ -2092,7 +2079,6 @@ ceh.com.cn: ceh.com.cn www.ceh.com.cn
 cekfakta.com: cekfakta.com www.cekfakta.com
 censor.net: amp.censor.net censor.net en.censor.net m.censor.net uk.censor.net www.censor.net
 centernews.com.ua: centernews.com.ua www.centernews.com.ua
-centraldatoca.com.br: centraldatoca.com.br www.centraldatoca.com.br
 centralecho.com: centralecho.com www.centralecho.com
 centralmaine.com: centralmaine.com www.centralmaine.com
 centraloregonian.com: centraloregonian.com www.centraloregonian.com
@@ -2314,7 +2300,6 @@ classmag.ru: classmag.ru www.classmag.ru
 claxtonenterprise.com: claxtonenterprise.com www.claxtonenterprise.com
 claycountyprogress.com: claycountyprogress.com www.claycountyprogress.com
 clclt.com: clclt.com www.clclt.com
-cleanenergywire.org: cleanenergywire.org www.cleanenergywire.org
 clearcreekcourant.com: clearcreekcourant.com www.clearcreekcourant.com
 clearwaterprogress.com: clearwaterprogress.com www.clearwaterprogress.com
 clearwatertimes.com: clearwatertimes.com www.clearwatertimes.com
@@ -2328,7 +2313,6 @@ clevelandnewsleader.com: clevelandnewsleader.com www.clevelandnewsleader.com
 clevelandpost.com: clevelandpost.com www.clevelandpost.com
 clicanoo.re: clicanoo.re www.clicanoo.re
 click2houston.com: click2houston.com m.click2houston.com www.click2houston.com
-clickhole.com: clickhole.com www.clickhole.com
 clickondetroit.com: clickondetroit.com m.clickondetroit.com www.clickondetroit.com
 clickorlando.com: clickorlando.com m.clickorlando.com www.clickorlando.com
 clickpb.com.br: clickpb.com.br www.clickpb.com.br
@@ -2391,7 +2375,6 @@ codigocero.com: codigocero.com www.codigocero.com
 coffscoastadvocate.com.au: coffscoastadvocate.com.au www.coffscoastadvocate.com.au
 coinagemag.com: coinagemag.com www.coinagemag.com
 coinex-farsi.com: coinex-farsi.com www.coinex-farsi.com
-coinworld.com: coinworld.com www.coinworld.com
 coinworldonline.com: coinworldonline.com www.coinworldonline.com
 colimaaldia.com: colimaaldia.com www.colimaaldia.com
 colimanoticias.com: colimanoticias.com www.colimanoticias.com
@@ -2408,7 +2391,6 @@ coloradopolitics.com: coloradopolitics.com www.coloradopolitics.com
 coloradosun.com: coloradosun.com www.coloradosun.com
 coloradotimesrecorder.com: coloradotimesrecorder.com www.coloradotimesrecorder.com
 colpisa.com: colpisa.com www.colpisa.com
-colta.ru: colta.ru www.colta.ru
 columbia.co.cr: columbia.co.cr www.columbia.co.cr
 columbiabasinherald.com: columbiabasinherald.com www.columbiabasinherald.com
 columbiacitypaper.com: columbiacitypaper.com www.columbiacitypaper.com
@@ -2444,7 +2426,6 @@ como.fi: como.fi www.como.fi
 compact-online.de: compact-online.de www.compact-online.de
 compactmag.com: compactmag.com www.compactmag.com
 compassnewspaper.com.ng: compassnewspaper.com.ng www.compassnewspaper.com.ng
-computerworld.dk: computerworld.dk www.computerworld.dk
 con-telegraph.ie: con-telegraph.ie www.con-telegraph.ie
 concordiensis.com: concordiensis.com www.concordiensis.com
 concordmonitor.com: concordmonitor.com www.concordmonitor.com
@@ -2453,11 +2434,9 @@ concrete-online.co.uk: concrete-online.co.uk www.concrete-online.co.uk
 conexaopolitica.com.br: conexaopolitica.com.br www.conexaopolitica.com.br
 confedere.ch: confedere.ch www.confedere.ch
 confidencial.digital: confidencial.digital www.confidencial.digital
-confilegal.com: confilegal.com www.confilegal.com
 congan.com.vn: amp.congan.com.vn congan.com.vn www.congan.com.vn
 congressoemfoco.com.br: congressoemfoco.com.br www.congressoemfoco.com.br
 connachttribune.ie: connachttribune.ie www.connachttribune.ie
-connaissancedesenergies.org: connaissancedesenergies.org www.connaissancedesenergies.org
 connectionivoirienne.net: connectionivoirienne.net www.connectionivoirienne.net
 connectionnewspapers.com: connectionnewspapers.com www.connectionnewspapers.com
 connectoregonwi.com: connectoregonwi.com www.connectoregonwi.com
@@ -2970,7 +2949,6 @@ deepika.com: deepika.com m.deepika.com www.deepika.com
 defapress.ir: defapress.ir www.defapress.ir
 defapt.ro: defapt.ro www.defapt.ro
 defence-ua.com: defence-ua.com en.defence-ua.com www.defence-ua.com
-defense-update.com: defense-update.com www.defense-update.com
 defensenews.com: awi.defensenews.com defensenews.com www.awi.defensenews.com www.defensenews.com
 defenseone.com: defenseone.com www.defenseone.com
 defimedia.info: defimedia.info www.defimedia.info
@@ -3038,7 +3016,6 @@ depechedekabylie.com: depechedekabylie.com www.depechedekabylie.com
 depers.nl: depers.nl
 depo.ba: depo.ba www.depo.ba
 depo.ua: depo.ua news.depo.ua www.depo.ua
-depor.com: depor.com www.depor.com
 deposthoorn-denhaag.nl: deposthoorn-denhaag.nl www.deposthoorn-denhaag.nl
 der-bote.de: der-bote.de www.der-bote.de
 der-farang.com: der-farang.com www.der-farang.com
@@ -3271,13 +3248,11 @@ ditzeitung.com: ditzeitung.com www.ditzeitung.com
 divaina.com: divaina.com www.divaina.com
 divaina.lk: divaina.lk www.divaina.lk
 divergentes.com: divergentes.com www.divergentes.com
-diverseeducation.com: diverseeducation.com www.diverseeducation.com
 divyabhaskar.co.in: divyabhaskar.co.in www.divyabhaskar.co.in
 diyarname.com: diyarname.com www.diyarname.com
 djcoregon.com: djcoregon.com www.djcoregon.com
 djournal.com: djournal.com www.djournal.com
 dl-online.com: dl-online.com www.dl-online.com
-dlib.si: dlib.si www.dlib.si
 dmcityview.com: dmcityview.com www.dmcityview.com
 dn.no: dn.no www.dn.no
 dn.pt: dn.pt www.dn.pt
@@ -3335,9 +3310,8 @@ donegaldemocrat.com: donegaldemocrat.com www.donegaldemocrat.com
 donegalnews.com: donegalnews.com www.donegalnews.com
 donegalpost.com: donegalpost.com www.donegalpost.com
 donegaltimes.com: donegaltimes.com www.donegaltimes.com
-donga.com: donga.com game.donga.com m.donga.com mobile.donga.com news.donga.com rss.donga.com www.donga.com
+donga.com: donga.com m.donga.com mobile.donga.com news.donga.com rss.donga.com www.donga.com
 donkr.dn.ua: donkr.dn.ua www.donkr.dn.ua
-donpol.donntu.ru: donpol.donntu.ru www.donpol.donntu.ru
 dontimes.ru: dontimes.ru www.dontimes.ru
 donya-e-eqtesad.com: donya-e-eqtesad.com www.donya-e-eqtesad.com
 doorcountyadvocate.com: doorcountyadvocate.com www.doorcountyadvocate.com
@@ -3521,7 +3495,7 @@ eco.sapo.pt: eco.sapo.pt www.eco.sapo.pt
 ecodibergamo.it: ecodibergamo.it www.ecodibergamo.it
 ecoiran.com: ecoiran.com en.ecoiran.com www.ecoiran.com
 economia.uol.com.br: economia.uol.com.br m.economia.uol.com.br rss.economia.uol.com.br www.economia.uol.com.br
-economiadigital.es: economiadigital.es www.economiadigital.es
+economiadigital.es: amp.economiadigital.es economiadigital.es www.economiadigital.es
 economica.net: economica.net www.economica.net
 economico.sapo.pt: economico.sapo.pt www.economico.sapo.pt
 economictimes.com: economictimes.com hindi.economictimes.com m.economictimes.com mobile.economictimes.com www.economictimes.com www.hindi.economictimes.com
@@ -3697,7 +3671,7 @@ eleditorplatense.com.ar: eleditorplatense.com.ar www.eleditorplatense.com.ar
 eleftherostypos.gr: eleftherostypos.gr www.eleftherostypos.gr
 elektra.elektroteknolog.se: elektra.elektroteknolog.se
 elepoch.com: elepoch.com www.elepoch.com
-elespanol.com: elespanol.com vandal.elespanol.com www.elespanol.com
+elespanol.com: elespanol.com www.elespanol.com
 elespecialitomk.com: elespecialitomk.com www.elespecialitomk.com
 elespectador.com: amp.elespectador.com elespectador.com m.elespectador.com www.elespectador.com
 elestimulo.com: elestimulo.com www.elestimulo.com
@@ -3713,7 +3687,6 @@ elfinanciero.com.mx: amp.elfinanciero.com.mx elfinanciero.com.mx www.elfinancier
 elfolio.es: elfolio.es www.elfolio.es
 elgincourier.com: elgincourier.com www.elgincourier.com
 elginreview.com: elginreview.com www.elginreview.com
-elgrafico.com: elgrafico.com www.elgrafico.com
 elgrafico.mx: elgrafico.mx www.elgrafico.mx
 elguardian.cr: elguardian.cr www.elguardian.cr
 elheraldo.co: elheraldo.co www.elheraldo.co
@@ -4277,7 +4250,6 @@ faso-actu.info: faso-actu.info www.faso-actu.info
 faso7.com: faso7.com www.faso7.com
 fastcheck.cl: fastcheck.cl news.fastcheck.cl www.fastcheck.cl
 fastcompany.com: amp.fastcompany.com fastcompany.com feeds.fastcompany.com news.fastcompany.com www.fastcompany.com
-fatherly.com: fatherly.com www.fatherly.com
 fattail.com.au: fattail.com.au www.fattail.com.au
 faxenyt.dk: faxenyt.dk www.faxenyt.dk
 fayettevillesource.com: fayettevillesource.com www.fayettevillesource.com
@@ -4307,9 +4279,6 @@ felixonline.co.uk: felixonline.co.uk www.felixonline.co.uk
 femernbusiness.com: femernbusiness.com www.femernbusiness.com
 femina.ch: femina.ch www.femina.ch
 femina.fr: femina.fr www.femina.fr
-femina.hu: femina.hu www.femina.hu
-feminetas.com: feminetas.com www.feminetas.com
-femmeactuelle.fr: femmeactuelle.fr www.femmeactuelle.fr
 femmes-medecins.com: femmes-medecins.com www.femmes-medecins.com
 fena.ba: fena.ba www.fena.ba
 fenceviewer.com: fenceviewer.com www.fenceviewer.com
@@ -4372,7 +4341,6 @@ firenze.notizie.it: firenze.notizie.it
 firenzetoday.it: amp.firenzetoday.it firenzetoday.it www.firenzetoday.it
 firstalert4.com: firstalert4.com www.firstalert4.com
 firstcoastnews.com: firstcoastnews.com m.firstcoastnews.com www.firstcoastnews.com
-firstdraftnews.org: firstdraftnews.org www.firstdraftnews.org
 firstlook.media: firstlook.media www.firstlook.media
 firstnationsnews.com.au: firstnationsnews.com.au www.firstnationsnews.com.au
 firstnews.co.uk: firstnews.co.uk www.firstnews.co.uk
@@ -4785,7 +4753,6 @@ gds.it: gds.it www.gds.it
 gds.ro: gds.ro www.gds.ro
 gea.de: gea.de www.gea.de
 gedar.eus: gedar.eus www.gedar.eus
-geeky-gadgets.com: geeky-gadgets.com www.geeky-gadgets.com
 geelongadvertiser.com.au: geelongadvertiser.com.au www.geelongadvertiser.com.au
 geelongindy.com.au: geelongindy.com.au www.geelongindy.com.au
 geenstijl.nl: geenstijl.nl www.geenstijl.nl
@@ -4795,7 +4762,6 @@ gemercan.sk: gemercan.sk www.gemercan.sk
 geminigrafica.it: geminigrafica.it www.geminigrafica.it
 gendai.media: gendai.media
 genderindetail.org.ua: genderindetail.org.ua www.genderindetail.org.ua
-geneticliteracyproject.org: geneticliteracyproject.org www.geneticliteracyproject.org
 genevasolutions.news: genevasolutions.news www.genevasolutions.news
 gentenaar.be: gentenaar.be www.gentenaar.be
 geo.tv: geo.tv www.geo.tv
@@ -4815,7 +4781,6 @@ getsurrey.co.uk: edition.getsurrey.co.uk getsurrey.co.uk www.getsurrey.co.uk
 gettysburgtimes.com: gettysburgtimes.com www.gettysburgtimes.com
 gf24.pl: gf24.pl www.gf24.pl
 gfcnieuws.com: gfcnieuws.com www.gfcnieuws.com
-ggwash.org: ggwash.org www.ggwash.org
 ghanabusinessnews.com: ghanabusinessnews.com www.ghanabusinessnews.com
 ghanaiantimes.com.gh: ghanaiantimes.com.gh www.ghanaiantimes.com.gh
 ghanaweb.com: ghanaweb.com mobile.ghanaweb.com www.ghanaweb.com
@@ -4950,7 +4915,6 @@ gp.by: gp.by www.gp.by
 gp.se: gp.se www.gp.se
 gp1.com.br: gp1.com.br m.gp1.com.br www.gp1.com.br
 gp24.pl: gp24.pl www.gp24.pl
-gpone.com: gpone.com www.gpone.com
 gradjanski.rs: gradjanski.rs www.gradjanski.rs
 gradpryluky.info: gradpryluky.info www.gradpryluky.info
 graffici.ca: graffici.ca www.graffici.ca
@@ -4987,10 +4951,8 @@ greenevillesun.com: greenevillesun.com www.greenevillesun.com
 greenfieldnews.com: greenfieldnews.com www.greenfieldnews.com
 greenfieldreporter.com: greenfieldreporter.com www.greenfieldreporter.com
 greenleft.org.au: greenleft.org.au www.greenleft.org.au
-greenme.it: greenme.it www.greenme.it
 greenocktelegraph.co.uk: greenocktelegraph.co.uk www.greenocktelegraph.co.uk
 greenprophet.com: greenprophet.com www.greenprophet.com
-greenreport.it: greenreport.it www.greenreport.it
 greensboro.com: greensboro.com www.greensboro.com
 greensborolatino.com: greensborolatino.com www.greensborolatino.com
 greensburgdailynews.com: greensburgdailynews.com www.greensburgdailynews.com
@@ -5040,7 +5002,6 @@ guardianmessenger.com.au: guardianmessenger.com.au www.guardianmessenger.com.au
 gubdaily.ru: gubdaily.ru www.gubdaily.ru
 gubernia.media: gubernia.media
 guddzje.de: guddzje.de www.guddzje.de
-gudok.ru: gudok.ru www.gudok.ru
 guelphmercury.com: guelphmercury.com www.guelphmercury.com
 guelphtoday.com: guelphtoday.com www.guelphtoday.com
 guernseypress.com: guernseypress.com www.guernseypress.com
@@ -5180,7 +5141,7 @@ harigeet.com: harigeet.com www.harigeet.com
 harjuelu.ee: harjuelu.ee www.harjuelu.ee
 harlandaily.com: harlandaily.com www.harlandaily.com
 harlanenterprise.net: harlanenterprise.net www.harlanenterprise.net
-harlemweekly.com: harlemweekly.com www.harlemweekly.com
+harlemweekly.com: www.harlemweekly.com
 harpers.org: harpers.org www.harpers.org
 harrisondaily.com: harrisondaily.com www.harrisondaily.com
 harrogateadvertiser.co.uk: harrogateadvertiser.co.uk www.harrogateadvertiser.co.uk
@@ -5206,7 +5167,7 @@ havenews.com: havenews.com www.havenews.com
 havre-libre.fr: havre-libre.fr www.havre-libre.fr
 havredailynews.com: havredailynews.com www.havredailynews.com
 hawaii247.com: hawaii247.com www.hawaii247.com
-hawaiinewsnow.com: hawaiinewsnow.com www.hawaiinewsnow.com
+hawaiinewsnow.com: hawaiinewsnow.com m.hawaiinewsnow.com mobile.hawaiinewsnow.com www.hawaiinewsnow.com
 hawaiitribune-herald.com: hawaiitribune-herald.com www.hawaiitribune-herald.com
 hawarnews.com: hawarnews.com www.hawarnews.com
 hawick-news.co.uk: hawick-news.co.uk www.hawick-news.co.uk
@@ -5457,7 +5418,6 @@ hpenews.com: hpenews.com www.hpenews.com
 hpherald.com: hpherald.com www.hpherald.com
 hpj.com: hpj.com www.hpj.com
 hpr1.com: hpr1.com www.hpr1.com
-hr.de: hr.de www.hr.de
 hraparak.am: hraparak.am www.hraparak.am
 hromadske.ua: en.hromadske.ua hromadske.ua www.hromadske.ua
 hronikatm.com: en.hronikatm.com hronikatm.com www.hronikatm.com
@@ -5502,7 +5462,6 @@ humberetc.ca: humberetc.ca www.humberetc.ca
 humberetc.com: humberetc.com www.humberetc.com
 humnews.pk: humnews.pk www.humnews.pk
 humortimes.com: humortimes.com www.humortimes.com
-hungaricana.hu: hungaricana.hu www.hungaricana.hu
 huntingdondailynews.com: huntingdondailynews.com www.huntingdondailynews.com
 huntnewsnu.com: huntnewsnu.com www.huntnewsnu.com
 huntspost.co.uk: huntspost.co.uk www.huntspost.co.uk
@@ -5610,7 +5569,6 @@ ilfordrecorder.co.uk: ilfordrecorder.co.uk www.ilfordrecorder.co.uk
 ilgazzettino.it: ilgazzettino.it m.ilgazzettino.it mobile.ilgazzettino.it www.ilgazzettino.it
 ilgiornale.it: ilgiornale.it www.ilgiornale.it
 ilgiornaledellarchitettura.com: ilgiornaledellarchitettura.com www.ilgiornaledellarchitettura.com
-ilgiornaledellarte.com: ilgiornaledellarte.com www.ilgiornaledellarte.com
 ilgiornaleditalia.it: ilgiornaleditalia.it www.ilgiornaleditalia.it
 ilgiornaledivicenza.it: ilgiornaledivicenza.it www.ilgiornaledivicenza.it
 ilgiorno.it: ilgiorno.it m.ilgiorno.it mobile.ilgiorno.it www.ilgiorno.it
@@ -5624,7 +5582,6 @@ ilmattino.it: ilmattino.it m.ilmattino.it mobile.ilmattino.it www.ilmattino.it
 ilmessaggero.it: ilmessaggero.it m.ilmessaggero.it mobile.ilmessaggero.it news.ilmessaggero.it shop.ilmessaggero.it www.ilmessaggero.it
 iln.co.uk: iln.co.uk www.iln.co.uk
 ilna.ir: ilna.ir www.ilna.ir
-ilnapolista.it: ilnapolista.it www.ilnapolista.it
 ilpescara.it: ilpescara.it www.ilpescara.it
 ilpiccolo.it: ilpiccolo.it www.ilpiccolo.it
 ilpost.it: ilpost.it www.ilpost.it
@@ -5672,7 +5629,6 @@ ina.iq: ina.iq www.ina.iq
 inarilainen.fi: inarilainen.fi www.inarilainen.fi
 inbalashikha.ru: inbalashikha.ru www.inbalashikha.ru
 inbusiness.kz: inbusiness.kz www.inbusiness.kz
-inc42.com: inc42.com www.inc42.com
 incheonilbo.com: incheonilbo.com www.incheonilbo.com
 indaily.com.au: indaily.com.au www.indaily.com.au
 inddist.com: inddist.com www.inddist.com
@@ -5738,7 +5694,6 @@ inewsguyana.com: inewsguyana.com www.inewsguyana.com
 inewsweek.cn: www.inewsweek.cn
 inextlive.com: inextlive.com www.inextlive.com
 influencermagazine.uk: influencermagazine.uk www.influencermagazine.uk
-influencewatch.fireside.fm: influencewatch.fireside.fm www.influencewatch.fireside.fm
 influenth.com: influenth.com www.influenth.com
 info.arte.tv: info.arte.tv
 info.cz: info.cz www.info.cz
@@ -5817,10 +5772,8 @@ insajderi.com: insajderi.com www.insajderi.com
 inshortbd.com: inshortbd.com www.inshortbd.com
 inshorts.com: inshorts.com m.inshorts.com www.inshorts.com
 inside-paradeplatz.ch: inside-paradeplatz.ch www.inside-paradeplatz.ch
-inside.com.tw: inside.com.tw www.inside.com.tw
 insidebiz.com: insidebiz.com www.insidebiz.com
 insidecroydon.com: insidecroydon.com www.insidecroydon.com
-insidehoops.com: insidehoops.com www.insidehoops.com
 insideparadeplatz.ch: insideparadeplatz.ch www.insideparadeplatz.ch
 insidephilanthropy.com: insidephilanthropy.com www.insidephilanthropy.com
 insider.com: amp.insider.com feeds.insider.com insider.com mobile.insider.com www.insider.com
@@ -5932,7 +5885,6 @@ irontontribune.com: irontontribune.com www.irontontribune.com
 irozhlas.cz: irozhlas.cz www.irozhlas.cz
 irrawaddy.com: irrawaddy.com www.irrawaddy.com
 irstar.kz: irstar.kz www.irstar.kz
-irunfar.com: irunfar.com www.irunfar.com
 irvinesource.com: irvinesource.com www.irvinesource.com
 is.fi: is.fi www.is.fi
 isabadell.cat: isabadell.cat www.isabadell.cat
@@ -5980,7 +5932,6 @@ itemonline.com: itemonline.com www.itemonline.com
 ithaca.com: ithaca.com www.ithaca.com
 ithacajournal.com: ithacajournal.com www.ithacajournal.com
 ithacavoice.com: ithacavoice.com www.ithacavoice.com
-ithome.com.tw: ithome.com.tw www.ithome.com.tw
 itidal.de: itidal.de www.itidal.de
 itineraire.ca: itineraire.ca www.itineraire.ca
 itnijs.frl: itnijs.frl www.itnijs.frl
@@ -6131,7 +6082,6 @@ jiji.com: jen.jiji.com jiji.com m.jiji.com sp.m.jiji.com www.jiji.com
 jimmatimes.com: jimmatimes.com
 jinhaagency.com: jinhaagency.com
 jinrieluosi.cn: jinrieluosi.cn www.jinrieluosi.cn
-jinrmag.jinr.ru: jinrmag.jinr.ru
 jiskra-benesov.cz: jiskra-benesov.cz www.jiskra-benesov.cz
 jjan.kr: jjan.kr www.jjan.kr
 jjckb.cn: www.jjckb.cn
@@ -6177,7 +6127,7 @@ jornalgrandebahia.com.br: jornalgrandebahia.com.br www.jornalgrandebahia.com.br
 jornalmapa.pt: jornalmapa.pt www.jornalmapa.pt
 jornalmeio.com: jornalmeio.com www.jornalmeio.com
 jornalnd.com.br: jornalnd.com.br www.jornalnd.com.br
-jornalnoticias.co.mz: jornalnoticias.co.mz www.jornalnoticias.co.mz
+jornalnoticias.co.mz: www.jornalnoticias.co.mz
 jornalopcao.com.br: jornalopcao.com.br www.jornalopcao.com.br
 jornalsemanario.com.br: jornalsemanario.com.br www.jornalsemanario.com.br
 jornalvisao.com: jornalvisao.com www.jornalvisao.com
@@ -6280,7 +6230,6 @@ kado.net: kado.net www.kado.net
 kagavisti.com: kagavisti.com www.kagavisti.com
 kahawatungu.com: kahawatungu.com www.kahawatungu.com
 kahoku.news: kahoku.news
-kai-you.net: kai-you.net www.kai-you.net
 kaieteurnewsonline.com: kaieteurnewsonline.com www.kaieteurnewsonline.com
 kaipkada.lt: kaipkada.lt www.kaipkada.lt
 kairospresse.be: kairospresse.be www.kairospresse.be
@@ -6524,7 +6473,6 @@ klebuposten.no: klebuposten.no www.klebuposten.no
 kleck.by: kleck.by www.kleck.by
 kleinezeitung.at: kleinezeitung.at www.kleinezeitung.at
 klich.by: klich.by www.klich.by
-klikk.no: klikk.no www.klikk.no
 klix.ba: amp.klix.ba klix.ba m.klix.ba www.klix.ba
 kloop.kg: kloop.kg www.kloop.kg
 klops.ru: klops.ru www.klops.ru
@@ -6676,7 +6624,6 @@ ksta.de: ksta.de www.ksta.de
 kstatecollegian.com: kstatecollegian.com www.kstatecollegian.com
 kstnews.kz: kstnews.kz www.kstnews.kz
 kstp.com: amp.kstp.com feeds.kstp.com kstp.com m.kstp.com www.kstp.com
-kstyle.com: kstyle.com www.kstyle.com
 ksusentinel.com: ksusentinel.com www.ksusentinel.com
 kt-kuriren.se: kt-kuriren.se www.kt-kuriren.se
 ktabkbih.net: ktabkbih.net www.ktabkbih.net
@@ -6823,7 +6770,6 @@ ladiaria.com.uy: ladiaria.com.uy www.ladiaria.com.uy
 ladige.it: ladige.it www.ladige.it
 ladiscusion.cl: ladiscusion.cl www.ladiscusion.cl
 ladiscussione.com: ladiscussione.com www.ladiscussione.com
-ladn.eu: ladn.eu www.ladn.eu
 ladobe.com.mx: ladobe.com.mx www.ladobe.com.mx
 laestrella.com.pa: laestrella.com.pa m.laestrella.com.pa www.laestrella.com.pa
 laextra.mx: laextra.mx www.laextra.mx
@@ -6898,7 +6844,7 @@ lanacion.com.py: lanacion.com.py www.lanacion.com.py
 lanacionperu.com: lanacionperu.com www.lanacionperu.com
 lanacionweb.com: lanacionweb.com www.lanacionweb.com
 lanation.bj: lanation.bj www.lanation.bj
-lanation.dj: lanation.dj www.lanation.dj
+lanation.dj: www.lanation.dj
 lanazione.it: lanazione.it m.lanazione.it mobile.lanazione.it www.lanazione.it
 lancashiretelegraph.co.uk: lancashiretelegraph.co.uk www.lancashiretelegraph.co.uk
 lancasterfarming.com: lancasterfarming.com www.lancasterfarming.com
@@ -7212,7 +7158,6 @@ lejournaltoulousain.fr: lejournaltoulousain.fr www.lejournaltoulousain.fr
 lejpb.com: lejpb.com www.lejpb.com
 lejsl.com: lejsl.com www.lejsl.com
 lelchitsy.by: lelchitsy.by www.lelchitsy.by
-lelezard.com: lelezard.com www.lelezard.com
 lemainelibre.fr: lemainelibre.fr www.lemainelibre.fr
 lemanifest.com: lemanifest.com www.lemanifest.com
 lemarin.fr: lemarin.fr www.lemarin.fr
@@ -7572,7 +7517,7 @@ lucesdelsiglo.com: lucesdelsiglo.com www.lucesdelsiglo.com
 lucianne.com: lucianne.com www.lucianne.com
 ludingtondailynews.com: ludingtondailynews.com www.ludingtondailynews.com
 ludwigshafen24.de: ludwigshafen24.de www.ludwigshafen24.de
-ludzaszeme.lv: ludzaszeme.lv www.ludzaszeme.lv
+ludzaszeme.lv: ludzaszeme.lv
 lufkindailynews.com: lufkindailynews.com www.lufkindailynews.com
 lug-info.com: lug-info.com www.lug-info.com
 luhze.de: luhze.de www.luhze.de
@@ -7624,7 +7569,6 @@ maconch.com: maconch.com www.maconch.com
 macstories.net: macstories.net www.macstories.net
 madamasr.com: madamasr.com www.madamasr.com
 madanizhomga.ru: madanizhomga.ru www.madanizhomga.ru
-maddyness.com: maddyness.com www.maddyness.com
 madeinperpignan.com: madeinperpignan.com www.madeinperpignan.com
 madeinvilnius.lt: madeinvilnius.lt www.madeinvilnius.lt
 maderatribune.com: maderatribune.com www.maderatribune.com
@@ -7649,6 +7593,7 @@ maghrebemergent.net: maghrebemergent.net
 maghrebemergent.news: maghrebemergent.news www.maghrebemergent.news
 magicvalley.com: magicvalley.com www.magicvalley.com
 magill.ie: magill.ie www.magill.ie
+magmetall.ru: magmetall.ru www.magmetall.ru
 magnabureau.space: magnabureau.space www.magnabureau.space
 magozine.it: magozine.it www.magozine.it
 magyarhirlap.hu: magyarhirlap.hu www.magyarhirlap.hu
@@ -7755,7 +7700,6 @@ marionrecord.com: marionrecord.com www.marionrecord.com
 marionstar.com: marionstar.com www.marionstar.com
 marketbusinessnews.com: marketbusinessnews.com www.marketbusinessnews.com
 marketdaily.com.cn: marketdaily.com.cn www.marketdaily.com.cn
-marketingdirecto.com: marketingdirecto.com www.marketingdirecto.com
 marketplace.org: marketplace.org www.marketplace.org
 marketwatch.com: amp.marketwatch.com feeds.marketwatch.com marketwatch.com www.marketwatch.com
 marlindemocrat.com: marlindemocrat.com www.marlindemocrat.com
@@ -8123,7 +8067,6 @@ mkset.ru: mkset.ru www.mkset.ru
 mladina.si: mladina.si news.mladina.si www.mladina.si
 mlive.com: m.mlive.com mlive.com mobile.mlive.com rss.mlive.com www.mlive.com
 mlyn.by: mlyn.by www.mlyn.by
-mmafighting.com: mmafighting.com www.mmafighting.com
 mmegi.bw: mmegi.bw www.mmegi.bw
 mmnews.tv: mmnews.tv www.mmnews.tv
 mmsonline.com: mmsonline.com www.mmsonline.com
@@ -8266,7 +8209,6 @@ mskagency.ru: mskagency.ru www.mskagency.ru
 msmena.ru: msmena.ru www.msmena.ru
 msn.kg: msn.kg www.msn.kg
 msnbc.com: feeds.msnbc.com mobile.msnbc.com msnbc.com rss.msnbc.com www.msnbc.com
-mstar.com.my: mstar.com.my www.mstar.com.my
 msuexponent.com: msuexponent.com www.msuexponent.com
 mt.co.kr: m.mt.co.kr mosen.mt.co.kr mt.co.kr news.mt.co.kr osen.mt.co.kr rss.mt.co.kr www.mt.co.kr
 mt.de: mt.de www.mt.de
@@ -8284,7 +8226,6 @@ muehlacker-tagblatt.de: muehlacker-tagblatt.de www.muehlacker-tagblatt.de
 mujeresenred.net: mujeresenred.net www.mujeresenred.net
 muksun.fm: muksun.fm www.muksun.fm
 multi-housingnews.com: multi-housingnews.com www.multi-housingnews.com
-multihousingnews.com: multihousingnews.com www.multihousingnews.com
 mumbaimirror.com: mumbaimirror.com www.mumbaimirror.com
 mumbaimirror.indiatimes.com: mumbaimirror.indiatimes.com www.mumbaimirror.indiatimes.com
 mundiario.com: mundiario.com www.mundiario.com
@@ -8424,7 +8365,7 @@ narrominenewsonline.com.au: narrominenewsonline.com.au www.narrominenewsonline.c
 nasarijec.ba: nasarijec.ba www.nasarijec.ba
 nasepravda.cz: nasepravda.cz www.nasepravda.cz
 nashagazeta.ch: nashagazeta.ch www.nashagazeta.ch
-nashagazeta.com.ua: nashagazeta.com.ua
+nashagazeta.com.ua: nashagazeta.com.ua www.nashagazeta.com.ua
 nashaniva.com: nashaniva.com www.nashaniva.com
 nashastrana.net: nashastrana.net www.nashastrana.net
 nashazorya.ucoz.ua: nashazorya.ucoz.ua www.nashazorya.ucoz.ua
@@ -8464,7 +8405,6 @@ nationwideradiojm.com: nationwideradiojm.com www.nationwideradiojm.com
 nativenewsonline.net: nativenewsonline.net www.nativenewsonline.net
 naturalnews.com: mobile.naturalnews.com naturalnews.com news.naturalnews.com www.naturalnews.com
 nau.ch: nau.ch www.nau.ch
-naukatv.ru: naukatv.ru www.naukatv.ru
 navabharat.com: navabharat.com www.navabharat.com
 navajotimes.com: navajotimes.com www.navajotimes.com
 navarracapital.es: navarracapital.es www.navarracapital.es
@@ -8539,7 +8479,7 @@ nebraskaexaminer.com: nebraskaexaminer.com www.nebraskaexaminer.com
 necenzurirano.si: necenzurirano.si www.necenzurirano.si
 neckarstadtblog.de: neckarstadtblog.de www.neckarstadtblog.de
 necn.com: necn.com www.necn.com
-nedeljnik.rs: lmd.nedeljnik.rs nedeljnik.rs www.lmd.nedeljnik.rs www.nedeljnik.rs
+nedeljnik.rs: nedeljnik.rs www.nedeljnik.rs
 negitaku.org: negitaku.org www.negitaku.org
 nehandaradio.com: nehandaradio.com www.nehandaradio.com
 neinformer.net: neinformer.net www.neinformer.net
@@ -8856,7 +8796,6 @@ newsweek.com: feeds.newsweek.com newsweek.com www.newsweek.com
 newsweek.pl: newsweek.pl www.newsweek.pl
 newsweek.ro: newsweek.ro www.newsweek.ro
 newsweekjapan.jp: m.newsweekjapan.jp newsweekjapan.jp www.newsweekjapan.jp
-newswire.com: newswire.com www.newswire.com
 newswire.lk: newswire.lk www.newswire.lk
 newswire.net: newswire.net www.newswire.net
 newswirengr.com: newswirengr.com www.newswirengr.com
@@ -9065,6 +9004,7 @@ noscogiolanoche.com: noscogiolanoche.com www.noscogiolanoche.com
 nosdiario.gal: nosdiario.gal www.nosdiario.gal
 nosmulheresdaperiferia.com.br: nosmulheresdaperiferia.com.br www.nosmulheresdaperiferia.com.br
 nosop3.nl: nosop3.nl www.nosop3.nl
+nostresport.com: nostresport.com www.nostresport.com
 notabene.sk: notabene.sk www.notabene.sk
 notesfrompoland.com: notesfrompoland.com www.notesfrompoland.com
 noticel.com: m.noticel.com noticel.com www.noticel.com
@@ -9455,7 +9395,6 @@ opopular.com.br: opopular.com.br www.opopular.com.br
 opovo.com.br: m.opovo.com.br mobile.opovo.com.br opovo.com.br www.opovo.com.br
 opp.no: opp.no www.opp.no
 oppland-arbeiderblad.no: oppland-arbeiderblad.no www.oppland-arbeiderblad.no
-oprf.ru: oprf.ru www.oprf.ru
 opus.org.au: opus.org.au www.opus.org.au
 oradejudo.ro: oradejudo.ro www.oradejudo.ro
 oranews.tv: oranews.tv www.oranews.tv
@@ -9547,7 +9486,6 @@ ourmidland.com: ourmidland.com www.ourmidland.com
 ournews.bs: ournews.bs www.ournews.bs
 ourscom.fr: ourscom.fr www.ourscom.fr
 ourtimepress.com: ourtimepress.com www.ourtimepress.com
-out.com: out.com www.out.com
 outandaboutnewspaper.com: outandaboutnewspaper.com www.outandaboutnewspaper.com
 outfrontonline.com: outfrontonline.com www.outfrontonline.com
 outinperth.com: outinperth.com www.outinperth.com
@@ -9744,7 +9682,6 @@ peoplenews.tw: peoplenews.tw www.peoplenews.tw
 peoplerail.com: peoplerail.com www.peoplerail.com
 peoplesdaily.pdnews.cn: peoplesdaily.pdnews.cn
 peoplesworld.org: peoplesworld.org www.peoplesworld.org
-peopletalk.ru: peopletalk.ru www.peopletalk.ru
 peoriasource.com: peoriasource.com www.peoriasource.com
 peptideguides.org: peptideguides.org www.peptideguides.org
 peramoga.by: peramoga.by www.peramoga.by
@@ -9777,7 +9714,6 @@ pestisracok.hu: pestisracok.hu www.pestisracok.hu
 petaluma360.com: petaluma360.com www.petaluma360.com
 peterboroughtoday.co.uk: peterboroughtoday.co.uk www.peterboroughtoday.co.uk
 petitbleu.fr: petitbleu.fr www.petitbleu.fr
-petitesaffiches.fr: petitesaffiches.fr www.petitesaffiches.fr
 petrosolgas.com.br: petrosolgas.com.br www.petrosolgas.com.br
 peyamner.net: peyamner.net www.peyamner.net
 peykhane.com: peykhane.com www.peykhane.com
@@ -9788,7 +9724,6 @@ pharostribune.com: pharostribune.com www.pharostribune.com
 philadelphiabusinessjournal.com: philadelphiabusinessjournal.com www.philadelphiabusinessjournal.com
 philadelphiaindependent.net: philadelphiaindependent.net www.philadelphiaindependent.net
 philadelphiaweekly.com: philadelphiaweekly.com www.philadelphiaweekly.com
-philanthropy.com: philanthropy.com www.philanthropy.com
 phileleftherosgroup.com: phileleftherosgroup.com www.phileleftherosgroup.com
 philenews.com: en.philenews.com philenews.com www.philenews.com
 philly.com: m.philly.com philly.com www.philly.com
@@ -9843,12 +9778,11 @@ plaindealer-sun.com: plaindealer-sun.com www.plaindealer-sun.com
 plainlaw.me: plainlaw.me www.plainlaw.me
 plainsman.com: plainsman.com www.plainsman.com
 planetsmag.com: www.planetsmag.com
-plantbasednews.org: plantbasednews.org www.plantbasednews.org
 planv.com.ec: planv.com.ec www.planv.com.ec
 plataformamedia.com: plataformamedia.com www.plataformamedia.com
 platfor.ma: platfor.ma www.platfor.ma
 platform-investico.nl: platform-investico.nl www.platform-investico.nl
-playtech.ro: playtech.ro www.playtech.ro
+playtech.ro: feeds.playtech.ro playtech.ro www.playtech.ro
 plazajuarez.mx: plazajuarez.mx www.plazajuarez.mx
 plazapublica.com.gt: plazapublica.com.gt www.plazapublica.com.gt
 pleasantonweekly.com: pleasantonweekly.com www.pleasantonweekly.com
@@ -9906,6 +9840,7 @@ politi.co: politi.co
 politicalbetting.com: politicalbetting.com www.politicalbetting.com
 politicaldig.com: politicaldig.com www.politicaldig.com
 politicaobrera.com: politicaobrera.com www.politicaobrera.com
+politicare.it: politicare.it www.politicare.it
 politico.cd: politico.cd www.politico.cd
 politico.com: amp.politico.com politico.com rss.politico.com www.politico.com
 politico.eu: politico.eu www.politico.eu
@@ -10050,7 +9985,6 @@ pravda.ru: pravda.ru www.pravda.ru
 pravda.sk: pravda.sk www.pravda.sk
 pravdasevera.ru: pravdasevera.ru www.pravdasevera.ru
 prave-spektrum.sk: prave-spektrum.sk www.prave-spektrum.sk
-pravoslavie.ru: pravoslavie.ru www.pravoslavie.ru
 praza.gal: praza.gal www.praza.gal
 prdailysun.com: prdailysun.com www.prdailysun.com
 prealpina.it: prealpina.it www.prealpina.it
@@ -10064,8 +9998,6 @@ prensaobrera.com: prensaobrera.com www.prensaobrera.com
 president.jp: president.jp www.president.jp
 press-citizen.com: press-citizen.com www.press-citizen.com
 press.lv: press.lv www.press.lv
-press.lvcva.com: press.lvcva.com
-press.polytechnic.am: press.polytechnic.am www.press.polytechnic.am
 pressafrik.com: m.pressafrik.com pressafrik.com www.pressafrik.com
 pressandguide.com: pressandguide.com www.pressandguide.com
 pressandjournal.co.uk: pressandjournal.co.uk www.pressandjournal.co.uk
@@ -10255,7 +10187,6 @@ qstheory.cn: en.qstheory.cn m.qstheory.cn qstheory.cn www.qstheory.cn
 qt.com.au: qt.com.au www.qt.com.au
 quadrant.org.au: quadrant.org.au www.quadrant.org.au
 quadratin.com.mx: guerrero.quadratin.com.mx quadratin.com.mx www.quadratin.com.mx
-qualenergia.it: qualenergia.it www.qualenergia.it
 quamiekta.com: quamiekta.com www.quamiekta.com
 quatember.de: quatember.de www.quatember.de
 qub.ca: qub.ca www.qub.ca
@@ -10598,7 +10529,6 @@ riknews.com.cy: en.riknews.com.cy riknews.com.cy www.riknews.com.cy
 riks.se: riks.se www.riks.se
 ringblad.no: ringblad.no www.ringblad.no
 ringsaker-blad.no: ringsaker-blad.no www.ringsaker-blad.no
-rinnovabili.it: rinnovabili.it www.rinnovabili.it
 rio-panorama.ru: rio-panorama.ru www.rio-panorama.ru
 riodoce.mx: riodoce.mx www.riodoce.mx
 rionegro.com.ar: rionegro.com.ar www.rionegro.com.ar
@@ -10650,7 +10580,7 @@ rockwallheraldbanner.com: rockwallheraldbanner.com www.rockwallheraldbanner.com
 rockymounttelegram.com: rockymounttelegram.com www.rockymounttelegram.com
 rodiaki.gr: rodiaki.gr www.rodiaki.gr
 rodniva.by: rodniva.by www.rodniva.by
-rodong.rep.kp: rodong.rep.kp www.rodong.rep.kp
+rodong.rep.kp: www.rodong.rep.kp
 rojavainformationcenter.org: rojavainformationcenter.org www.rojavainformationcenter.org
 rokna.net: rokna.net www.rokna.net
 rokokoposten.dk: rokokoposten.dk www.rokokoposten.dk
@@ -10773,7 +10703,6 @@ russian-bazaar.com: russian-bazaar.com www.russian-bazaar.com
 russianexpress.net: russianexpress.net www.russianexpress.net
 russianlifearchive.org: russianlifearchive.org www.russianlifearchive.org
 russianprovince.ru: russianprovince.ru www.russianprovince.ru
-russkiymir.ru: russkiymir.ru www.russkiymir.ru
 rustavi2.ge: rustavi2.ge www.rustavi2.ge
 rustonleader.com: rustonleader.com www.rustonleader.com
 rusvesna.su: rusvesna.su www.rusvesna.su
@@ -10963,7 +10892,6 @@ schwerin-lokal.de: schwerin-lokal.de www.schwerin-lokal.de
 sciencereport.dk: sciencereport.dk www.sciencereport.dk
 scienzainrete.it: scienzainrete.it www.scienzainrete.it
 scmp.com: amp.scmp.com feeds.scmp.com m.scmp.com scmp.com www.scmp.com
-scmr.com: scmr.com www.scmr.com
 scnow.com: scnow.com www.scnow.com
 scol.com.cn: news.scol.com.cn rss.scol.com.cn scol.com.cn www.scol.com.cn
 scone.yourguide.com.au: scone.yourguide.com.au www.scone.yourguide.com.au
@@ -11044,7 +10972,7 @@ seoul.co.kr: amp.seoul.co.kr en.seoul.co.kr m.seoul.co.kr seoul.co.kr www.seoul.
 serbestiyet.com: serbestiyet.com www.serbestiyet.com
 serbske-nowiny.de: serbske-nowiny.de www.serbske-nowiny.de
 sermitsiaq.ag: m.sermitsiaq.ag news.sermitsiaq.ag sermitsiaq.ag www.sermitsiaq.ag
-serqqapisi.az: www.serqqapisi.az
+serqqapisi.az: serqqapisi.az www.serqqapisi.az
 servimedia.es: servimedia.es www.servimedia.es
 serxwebun.org: serxwebun.org www.serxwebun.org
 setesdolen.no: setesdolen.no www.setesdolen.no
@@ -11310,7 +11238,6 @@ solabladet.no: solabladet.no www.solabladet.no
 solarpanel.news: solarpanel.news www.solarpanel.news
 soledadbee.com: soledadbee.com www.soledadbee.com
 solidarnost.org: solidarnost.org www.solidarnost.org
-solidot.org: solidot.org www.solidot.org
 solinger-tageblatt.de: solinger-tageblatt.de www.solinger-tageblatt.de
 solomonstarnews.com: solomonstarnews.com www.solomonstarnews.com
 solopos.com: www.solopos.com
@@ -11416,6 +11343,9 @@ spokanejournal.com: spokanejournal.com www.spokanejournal.com
 spokanesource.com: spokanesource.com www.spokanesource.com
 spokesman.com: spokesman.com www.spokesman.com
 spooneradvocate.com: spooneradvocate.com www.spooneradvocate.com
+sportschosun.com: sportschosun.com www.sportschosun.com
+sportsjournalism.org: sportsjournalism.org www.sportsjournalism.org
+sporttelegram.com: sporttelegram.com www.sporttelegram.com
 spot.uz: spot.uz www.spot.uz
 spotlightnews.com: spotlightnews.com www.spotlightnews.com
 spotmedia.ro: spotmedia.ro www.spotmedia.ro
@@ -11445,7 +11375,6 @@ ss-times.com: ss-times.com www.ss-times.com
 ssnewstelegram.com: ssnewstelegram.com www.ssnewstelegram.com
 sspclub.cn: sspclub.cn www.sspclub.cn
 sss.fi: sss.fi www.sss.fi
-sst.dk: sst.dk www.sst.dk
 st.nu: st.nu www.st.nu
 sta.si: sta.si www.sta.si
 stabroeknews.com: stabroeknews.com www.stabroeknews.com
@@ -11614,7 +11543,6 @@ sudarshannews.in: sudarshannews.in www.sudarshannews.in
 sudbury.com: sudbury.com www.sudbury.com
 sudharmasanskritdaily.in: sudharmasanskritdaily.in www.sudharmasanskritdaily.in
 sudinfo.be: mobile.sudinfo.be sudinfo.be www.sudinfo.be
-sudoku-online.org: sudoku-online.org www.sudoku-online.org
 sudouest.fr: sudouest.fr www.sudouest.fr
 sudquotidien.sn: sudquotidien.sn www.sudquotidien.sn
 sudradio.fr: sudradio.fr www.sudradio.fr
@@ -12018,7 +11946,6 @@ the-sun.com: the-sun.com www.the-sun.com
 the-sun.on.cc: the-sun.on.cc
 the-tidings.com: the-tidings.com www.the-tidings.com
 the-underground.online: the-underground.online www.the-underground.online
-the-village.ru: the-village.ru www.the-village.ru
 the-world-now.com: the-world-now.com www.the-world-now.com
 the74million.org: the74million.org www.the74million.org
 the961.com: the961.com www.the961.com
@@ -12087,9 +12014,7 @@ theblacksheartimes.com: theblacksheartimes.com www.theblacksheartimes.com
 theblacksheeponline.com: theblacksheeponline.com www.theblacksheeponline.com
 theblaze.com: amp.theblaze.com theblaze.com www.theblaze.com
 thebluebanner.net: thebluebanner.net www.thebluebanner.net
-theblueprint.ru: theblueprint.ru www.theblueprint.ru
 theboar.org: theboar.org www.theboar.org
-thebody.com: thebody.com www.thebody.com
 theboltonnews.co.uk: theboltonnews.co.uk www.theboltonnews.co.uk
 theborneopost.com: theborneopost.com www.theborneopost.com
 thebostonpilot.com: thebostonpilot.com www.thebostonpilot.com
@@ -12286,7 +12211,6 @@ theguardian.com: amp.theguardian.com feeds.theguardian.com theguardian.com www.t
 theguidon.com: theguidon.com www.theguidon.com
 theguru.co.kr: theguru.co.kr www.theguru.co.kr
 thehansindia.com: thehansindia.com www.thehansindia.com
-thehardtimes.net: thehardtimes.net www.thehardtimes.net
 theharvardvoice.com: theharvardvoice.com www.theharvardvoice.com
 thehawaiihochi.com: thehawaiihochi.com www.thehawaiihochi.com
 thehawaiiindependent.com: thehawaiiindependent.com www.thehawaiiindependent.com
@@ -12577,7 +12501,6 @@ thescottishsun.co.uk: thescottishsun.co.uk www.thescottishsun.co.uk
 theseahawk.org: theseahawk.org www.theseahawk.org
 thesetonian.com: thesetonian.com www.thesetonian.com
 thesewardjournal.com: thesewardjournal.com www.thesewardjournal.com
-theshaderoom.com: theshaderoom.com www.theshaderoom.com
 thesheaf.com: thesheaf.com www.thesheaf.com
 theshiftnews.com: theshiftnews.com www.theshiftnews.com
 theshillongtimes.com: theshillongtimes.com www.theshillongtimes.com
@@ -13064,7 +12987,6 @@ turuntienoo.fi: turuntienoo.fi www.turuntienoo.fi
 tuscaloosanews.com: tuscaloosanews.com www.tuscaloosanews.com
 tusciaweb.it: tusciaweb.it www.tusciaweb.it
 tustimes.com: tustimes.com
-tuttobiciweb.it: tuttobiciweb.it www.tuttobiciweb.it
 tuttoitalia.ch: tuttoitalia.ch www.tuttoitalia.ch
 tuvapravda.ru: tuvapravda.ru www.tuvapravda.ru
 tv2000.co.il: tv2000.co.il www.tv2000.co.il
@@ -13109,7 +13031,6 @@ tw.news.yahoo.com: tw.news.yahoo.com
 tw.nextapple.com: tw.nextapple.com
 tweednews.com.au: tweednews.com.au www.tweednews.com.au
 twentyfournews.com: twentyfournews.com www.twentyfournews.com
-twice.com: twice.com www.twice.com
 twincities.com: m.twincities.com twincities.com www.twincities.com
 twitchy.com: twitchy.com www.twitchy.com
 twnewsdaily.com: twnewsdaily.com www.twnewsdaily.com
@@ -13564,7 +13485,7 @@ voixdelahautemarne.fr: voixdelahautemarne.fr www.voixdelahautemarne.fr
 voixdelain.fr: voixdelain.fr www.voixdelain.fr
 voixdujura.fr: voixdujura.fr www.voixdujura.fr
 voixdumidi.fr: voixdumidi.fr www.voixdumidi.fr
-vok.rep.kp: 
+vok.rep.kp: vok.rep.kp www.vok.rep.kp
 vol.at: m.vol.at mobile.vol.at news.vol.at rss.vol.at vol.at www.vol.at
 vol.no: vol.no www.vol.no
 volksblad.com: volksblad.com www.volksblad.com
@@ -13750,7 +13671,7 @@ wdsu.com: m.wdsu.com wdsu.com www.wdsu.com
 wdtimes.com: wdtimes.com www.wdtimes.com
 wealth.com.tw: wealth.com.tw www.wealth.com.tw
 weartv.com: m.weartv.com weartv.com www.weartv.com
-weatherforddemocrat.com: weatherforddemocrat.com www.weatherforddemocrat.com
+weatherforddemocrat.com: m.weatherforddemocrat.com weatherforddemocrat.com www.weatherforddemocrat.com
 webben7.se: webben7.se www.webben7.se
 webdo.tn: webdo.tn www.webdo.tn
 webmanagercenter.com: webmanagercenter.com www.webmanagercenter.com
@@ -13761,7 +13682,6 @@ webnoviny.sk: m.webnoviny.sk webnoviny.sk www.webnoviny.sk
 websterkirkwoodtimes.com: websterkirkwoodtimes.com www.websterkirkwoodtimes.com
 webstory.news: webstory.news
 websu.info: websu.info www.websu.info
-webtekno.com: webtekno.com www.webtekno.com
 webun.jp: webun.jp www.webun.jp
 wedel-schulauer-tageblatt.de: wedel-schulauer-tageblatt.de www.wedel-schulauer-tageblatt.de
 wedge.ismedia.jp: wedge.ismedia.jp www.wedge.ismedia.jp
@@ -13830,7 +13750,7 @@ westviewnews.org: westviewnews.org www.westviewnews.org
 westvirginiawatch.com: westvirginiawatch.com www.westvirginiawatch.com
 westword.com: westword.com www.westword.com
 westyellowstonenews.com: westyellowstonenews.com www.westyellowstonenews.com
-wetterauer-zeitung.de: wetterauer-zeitung.de www.wetterauer-zeitung.de
+wetterauer-zeitung.de: m.wetterauer-zeitung.de wetterauer-zeitung.de www.wetterauer-zeitung.de
 wfaa.com: wfaa.com www.wfaa.com
 wfae.org: m.wfae.org wfae.org www.wfae.org
 wfla.com: m.wfla.com wfla.com www.wfla.com
@@ -14015,7 +13935,7 @@ wsav.com: m.wsav.com wsav.com www.wsav.com
 wsbtv.com: lite.wsbtv.com m.wsbtv.com wsbtv.com www.wsbtv.com
 wschronicle.com: wschronicle.com www.wschronicle.com
 wsfa.com: m.wsfa.com mobile.wsfa.com wsfa.com www.wsfa.com
-wsj.com: amp.wsj.com cn.wsj.com europe.wsj.com jp.wsj.com m.wsj.com mobile.wsj.com uk.wsj.com wsj.com www.cn.wsj.com www.europe.wsj.com www.jp.wsj.com www.wsj.com
+wsj.com: amp.wsj.com europe.wsj.com m.wsj.com mobile.wsj.com uk.wsj.com wsj.com www.europe.wsj.com www.wsj.com
 wsls.com: wsls.com www.wsls.com
 wsm.ie: wsm.ie www.wsm.ie
 wsmv.com: amp.wsmv.com m.wsmv.com mobile.wsmv.com wsmv.com www.wsmv.com
@@ -14211,7 +14131,7 @@ yj2rx5vx3s.search.serialssolutions.com: www.yj2rx5vx3s.search.serialssolutions.c
 yjc.ir: www.yjc.ir yjc.ir
 ylakainuu.fi: www.ylakainuu.fi ylakainuu.fi
 ylakarjala.fi: www.ylakarjala.fi ylakarjala.fi
-yle.fi: areena.yle.fi feeds.yle.fi m.yle.fi svenska.yle.fi www.yle.fi yle.fi
+yle.fi: areena.yle.fi feeds.yle.fi m.yle.fi www.yle.fi yle.fi
 yna.co.kr: ar.yna.co.kr cn.yna.co.kr en.yna.co.kr fr.yna.co.kr jp.yna.co.kr m.yna.co.kr mobile.yna.co.kr news.yna.co.kr www.yna.co.kr yna.co.kr
 yndaily.com: www.yndaily.com
 yndaily.yunnan.cn: yndaily.yunnan.cn
@@ -14292,7 +14212,6 @@ zbnews.net: www.zbnews.net zbnews.net
 zbruc.eu: www.zbruc.eu zbruc.eu
 zdfheute.de: www.zdfheute.de zdfheute.de
 zdg.md: www.zdg.md zdg.md
-zdnet.co.kr: www.zdnet.co.kr zdnet.co.kr
 zeale.co: www.zeale.co zeale.co
 zee24ghanta.com: www.zee24ghanta.com zee24ghanta.com
 zee24taas.com: www.zee24taas.com zee24taas.com

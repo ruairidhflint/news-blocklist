@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: one domain per line; each entry also covers all its subdomains
-# Entries: 6,645
-# Last modified: 2026-11-23 12:34 UTC
+# Entries: 6,646
+# Last modified: 2026-11-23 12:43 UTC
 #
 021.rs
 0223.com.ar
@@ -5264,6 +5264,7 @@ spectrumnewsnecn.com
 spiegel.de
 spiked-online.com
 spokesman.com
+sportschosun.com
 spot.uz
 spotmedia.ro
 spravy.stvr.sk

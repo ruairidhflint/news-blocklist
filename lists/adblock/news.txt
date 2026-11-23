@@ -4,8 +4,8 @@
 ! Homepage: https://github.com/ruairidhflint/news-blocklist
 ! License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 ! Syntax: Adblock Plus / uBlock Origin / AdGuard (||domain^)
-! Entries: 14,162
-! Last modified: 2026-11-23 12:34 UTC
+! Entries: 14,167
+! Last modified: 2026-11-23 12:43 UTC
 ! Expires: 1 day
 !
 ||021.rs^
@@ -4232,7 +4232,6 @@
 ||femernbusiness.com^
 ||femina.ch^
 ||femina.fr^
-||feminetas.com^
 ||femmes-medecins.com^
 ||fena.ba^
 ||fenceviewer.com^
@@ -7512,6 +7511,7 @@
 ||maghrebemergent.news^
 ||magicvalley.com^
 ||magill.ie^
+||magmetall.ru^
 ||magnabureau.space^
 ||magozine.it^
 ||magyarhirlap.hu^
@@ -8912,6 +8912,7 @@
 ||nosdiario.gal^
 ||nosmulheresdaperiferia.com.br^
 ||nosop3.nl^
+||nostresport.com^
 ||notabene.sk^
 ||notesfrompoland.com^
 ||noticel.com^
@@ -9740,6 +9741,7 @@
 ||politicalbetting.com^
 ||politicaldig.com^
 ||politicaobrera.com^
+||politicare.it^
 ||politico.cd^
 ||politico.com^
 ||politico.eu^
@@ -11230,6 +11232,9 @@
 ||spokanesource.com^
 ||spokesman.com^
 ||spooneradvocate.com^
+||sportschosun.com^
+||sportsjournalism.org^
+||sporttelegram.com^
 ||spot.uz^
 ||spotlightnews.com^
 ||spotmedia.ro^

@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: dnsmasq (local=/domain/); each entry also covers all its subdomains
-# Entries: 6,645
-# Last modified: 2026-11-23 12:34 UTC
+# Entries: 6,646
+# Last modified: 2026-11-23 12:43 UTC
 #
 local=/021.rs/
 local=/0223.com.ar/
@@ -5264,6 +5264,7 @@ local=/spectrumnewsnecn.com/
 local=/spiegel.de/
 local=/spiked-online.com/
 local=/spokesman.com/
+local=/sportschosun.com/
 local=/spot.uz/
 local=/spotmedia.ro/
 local=/spravy.stvr.sk/

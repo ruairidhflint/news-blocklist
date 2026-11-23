@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: one hostname per line; exact names, subdomains listed separately
-# Entries: 15,909
-# Last modified: 2026-11-23 12:34 UTC
+# Entries: 15,908
+# Last modified: 2026-11-23 12:43 UTC
 #
 021.rs
 0223.com.ar
@@ -440,6 +440,7 @@ amp.diepresse.com
 amp.doisongphapluat.com.vn
 amp.donaukurier.de
 amp.dw.com
+amp.economiadigital.es
 amp.economist.com
 amp.eenadu.net
 amp.elcohetealaluna.com
@@ -1356,7 +1357,6 @@ cn.nytimes.com
 cn.reuters.com
 cn.rfi.fr
 cn.theaustralian.com.au
-cn.wsj.com
 cn.yna.co.kr
 cna.com.tw
 cnbc.com
@@ -2600,6 +2600,7 @@ feeds.nzherald.co.nz
 feeds.omroepbrabant.nl
 feeds.orlandosentinel.com
 feeds.paperjam.lu
+feeds.playtech.ro
 feeds.propublica.org
 feeds.publico.pt
 feeds.publimetro.cl
@@ -2829,7 +2830,6 @@ gainesvilletimes.com
 galesburg.com
 galwaybeo.ie
 galwaydaily.com
-game.donga.com
 gandul.ro
 gasteizhoy.com
 gastongazette.com
@@ -3590,7 +3590,6 @@ journaltimes.com
 jovempan.com.br
 jp.dk
 jp.reuters.com
-jp.wsj.com
 jp.xinhuanet.com
 jp.yna.co.kr
 jpnn.com
@@ -3737,7 +3736,6 @@ kirkuknow.com
 kiro7.com
 kisadalga.net
 kisalfold.hu
-kiskegyed.blikk.hu
 kiswahili.tuko.co.ke
 kitsapsun.com
 kiwiblog.co.nz
@@ -4193,7 +4191,6 @@ liverpoolworld.uk
 liveuamap.com
 livingstondaily.com
 ljworld.com
-lmd.nedeljnik.rs
 lmneuquen.com
 lmtonline.com
 lmtribune.com
@@ -4349,6 +4346,7 @@ m.baynews9.com
 m.bd.nl
 m.bdnews24.com
 m.belfasttelegraph.co.uk
+m.belta.by
 m.benzinga.com
 m.berlingske.dk
 m.bfm.ru
@@ -4584,6 +4582,7 @@ m.haberler.com
 m.haberturk.com
 m.hani.co.kr
 m.harianjogja.com
+m.hawaiinewsnow.com
 m.heol.hu
 m.heraldcorp.com
 m.heraldscotland.com
@@ -5181,8 +5180,10 @@ m.wcvb.com
 m.wdbj7.com
 m.wdsu.com
 m.weartv.com
+m.weatherforddemocrat.com
 m.webnoviny.sk
 m.wesh.com
+m.wetterauer-zeitung.de
 m.wfae.org
 m.wfla.com
 m.wfsb.com
@@ -5616,6 +5617,7 @@ mobile.gvm.com.tw
 mobile.haberler.com
 mobile.handelsblatt.com
 mobile.hani.co.kr
+mobile.hawaiinewsnow.com
 mobile.hket.com
 mobile.hln.be
 mobile.hmetro.com.my
@@ -7882,6 +7884,7 @@ spiegel.de
 spiked-online.com
 spokesman.com
 sportal.blic.rs
+sportschosun.com
 sportske.jutarnji.hr
 spot.uz
 spotmedia.ro
@@ -8019,7 +8022,6 @@ sussexexpress.co.uk
 sussexlive.co.uk
 svaboda.org
 svd.se
-svenska.yle.fi
 sverigesradio.se
 svet24.si
 svoboda.org
@@ -8816,7 +8818,6 @@ valor.globo.com
 valoraanalitik.com
 valorinternational.globo.com
 vancouversun.com
-vandal.elespanol.com
 vanguardia.com
 vanguardia.com.mx
 vanguardngr.com
@@ -10248,7 +10249,6 @@ www.clubz.bg
 www.cmjornal.pt
 www.cmmedia.com.tw
 www.cn.reuters.com
-www.cn.wsj.com
 www.cna.com.tw
 www.cnbc.com
 www.cnbcarabia.com
@@ -12036,7 +12036,6 @@ www.journalstar.com
 www.journaltimes.com
 www.jovempan.com.br
 www.jp.dk
-www.jp.wsj.com
 www.jpnn.com
 www.jpost.com
 www.jschina.com.cn
@@ -12174,7 +12173,6 @@ www.kirkuknow.com
 www.kiro7.com
 www.kisadalga.net
 www.kisalfold.hu
-www.kiskegyed.blikk.hu
 www.kitsapsun.com
 www.kiwiblog.co.nz
 www.kjrh.com
@@ -12588,7 +12586,6 @@ www.liverpoolworld.uk
 www.liveuamap.com
 www.livingstondaily.com
 www.ljworld.com
-www.lmd.nedeljnik.rs
 www.lmneuquen.com
 www.lmtonline.com
 www.lmtribune.com
@@ -14442,6 +14439,7 @@ www.spectrumnewsnecn.com
 www.spiegel.de
 www.spiked-online.com
 www.spokesman.com
+www.sportschosun.com
 www.spot.uz
 www.spotmedia.ro
 www.springfieldnewssun.com
@@ -15390,6 +15388,7 @@ www.voice-online.co.uk
 www.voice.fi
 www.voiceofsandiego.org
 www.voicepk.net
+www.vok.rep.kp
 www.vol.at
 www.vol.no
 www.volksblatt.li

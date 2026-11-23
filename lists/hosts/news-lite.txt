@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: hosts file (0.0.0.0 hostname); exact names, subdomains listed separately
-# Entries: 15,909
-# Last modified: 2026-11-23 12:34 UTC
+# Entries: 15,908
+# Last modified: 2026-11-23 12:43 UTC
 #
 0.0.0.0 021.rs
 0.0.0.0 0223.com.ar
@@ -440,6 +440,7 @@
 0.0.0.0 amp.doisongphapluat.com.vn
 0.0.0.0 amp.donaukurier.de
 0.0.0.0 amp.dw.com
+0.0.0.0 amp.economiadigital.es
 0.0.0.0 amp.economist.com
 0.0.0.0 amp.eenadu.net
 0.0.0.0 amp.elcohetealaluna.com
@@ -1356,7 +1357,6 @@
 0.0.0.0 cn.reuters.com
 0.0.0.0 cn.rfi.fr
 0.0.0.0 cn.theaustralian.com.au
-0.0.0.0 cn.wsj.com
 0.0.0.0 cn.yna.co.kr
 0.0.0.0 cna.com.tw
 0.0.0.0 cnbc.com
@@ -2600,6 +2600,7 @@
 0.0.0.0 feeds.omroepbrabant.nl
 0.0.0.0 feeds.orlandosentinel.com
 0.0.0.0 feeds.paperjam.lu
+0.0.0.0 feeds.playtech.ro
 0.0.0.0 feeds.propublica.org
 0.0.0.0 feeds.publico.pt
 0.0.0.0 feeds.publimetro.cl
@@ -2829,7 +2830,6 @@
 0.0.0.0 galesburg.com
 0.0.0.0 galwaybeo.ie
 0.0.0.0 galwaydaily.com
-0.0.0.0 game.donga.com
 0.0.0.0 gandul.ro
 0.0.0.0 gasteizhoy.com
 0.0.0.0 gastongazette.com
@@ -3590,7 +3590,6 @@
 0.0.0.0 jovempan.com.br
 0.0.0.0 jp.dk
 0.0.0.0 jp.reuters.com
-0.0.0.0 jp.wsj.com
 0.0.0.0 jp.xinhuanet.com
 0.0.0.0 jp.yna.co.kr
 0.0.0.0 jpnn.com
@@ -3737,7 +3736,6 @@
 0.0.0.0 kiro7.com
 0.0.0.0 kisadalga.net
 0.0.0.0 kisalfold.hu
-0.0.0.0 kiskegyed.blikk.hu
 0.0.0.0 kiswahili.tuko.co.ke
 0.0.0.0 kitsapsun.com
 0.0.0.0 kiwiblog.co.nz
@@ -4193,7 +4191,6 @@
 0.0.0.0 liveuamap.com
 0.0.0.0 livingstondaily.com
 0.0.0.0 ljworld.com
-0.0.0.0 lmd.nedeljnik.rs
 0.0.0.0 lmneuquen.com
 0.0.0.0 lmtonline.com
 0.0.0.0 lmtribune.com
@@ -4349,6 +4346,7 @@
 0.0.0.0 m.bd.nl
 0.0.0.0 m.bdnews24.com
 0.0.0.0 m.belfasttelegraph.co.uk
+0.0.0.0 m.belta.by
 0.0.0.0 m.benzinga.com
 0.0.0.0 m.berlingske.dk
 0.0.0.0 m.bfm.ru
@@ -4584,6 +4582,7 @@
 0.0.0.0 m.haberturk.com
 0.0.0.0 m.hani.co.kr
 0.0.0.0 m.harianjogja.com
+0.0.0.0 m.hawaiinewsnow.com
 0.0.0.0 m.heol.hu
 0.0.0.0 m.heraldcorp.com
 0.0.0.0 m.heraldscotland.com
@@ -5181,8 +5180,10 @@
 0.0.0.0 m.wdbj7.com
 0.0.0.0 m.wdsu.com
 0.0.0.0 m.weartv.com
+0.0.0.0 m.weatherforddemocrat.com
 0.0.0.0 m.webnoviny.sk
 0.0.0.0 m.wesh.com
+0.0.0.0 m.wetterauer-zeitung.de
 0.0.0.0 m.wfae.org
 0.0.0.0 m.wfla.com
 0.0.0.0 m.wfsb.com
@@ -5616,6 +5617,7 @@
 0.0.0.0 mobile.haberler.com
 0.0.0.0 mobile.handelsblatt.com
 0.0.0.0 mobile.hani.co.kr
+0.0.0.0 mobile.hawaiinewsnow.com
 0.0.0.0 mobile.hket.com
 0.0.0.0 mobile.hln.be
 0.0.0.0 mobile.hmetro.com.my
@@ -7882,6 +7884,7 @@
 0.0.0.0 spiked-online.com
 0.0.0.0 spokesman.com
 0.0.0.0 sportal.blic.rs
+0.0.0.0 sportschosun.com
 0.0.0.0 sportske.jutarnji.hr
 0.0.0.0 spot.uz
 0.0.0.0 spotmedia.ro
@@ -8019,7 +8022,6 @@
 0.0.0.0 sussexlive.co.uk
 0.0.0.0 svaboda.org
 0.0.0.0 svd.se
-0.0.0.0 svenska.yle.fi
 0.0.0.0 sverigesradio.se
 0.0.0.0 svet24.si
 0.0.0.0 svoboda.org
@@ -8816,7 +8818,6 @@
 0.0.0.0 valoraanalitik.com
 0.0.0.0 valorinternational.globo.com
 0.0.0.0 vancouversun.com
-0.0.0.0 vandal.elespanol.com
 0.0.0.0 vanguardia.com
 0.0.0.0 vanguardia.com.mx
 0.0.0.0 vanguardngr.com
@@ -10248,7 +10249,6 @@
 0.0.0.0 www.cmjornal.pt
 0.0.0.0 www.cmmedia.com.tw
 0.0.0.0 www.cn.reuters.com
-0.0.0.0 www.cn.wsj.com
 0.0.0.0 www.cna.com.tw
 0.0.0.0 www.cnbc.com
 0.0.0.0 www.cnbcarabia.com
@@ -12036,7 +12036,6 @@
 0.0.0.0 www.journaltimes.com
 0.0.0.0 www.jovempan.com.br
 0.0.0.0 www.jp.dk
-0.0.0.0 www.jp.wsj.com
 0.0.0.0 www.jpnn.com
 0.0.0.0 www.jpost.com
 0.0.0.0 www.jschina.com.cn
@@ -12174,7 +12173,6 @@
 0.0.0.0 www.kiro7.com
 0.0.0.0 www.kisadalga.net
 0.0.0.0 www.kisalfold.hu
-0.0.0.0 www.kiskegyed.blikk.hu
 0.0.0.0 www.kitsapsun.com
 0.0.0.0 www.kiwiblog.co.nz
 0.0.0.0 www.kjrh.com
@@ -12588,7 +12586,6 @@
 0.0.0.0 www.liveuamap.com
 0.0.0.0 www.livingstondaily.com
 0.0.0.0 www.ljworld.com
-0.0.0.0 www.lmd.nedeljnik.rs
 0.0.0.0 www.lmneuquen.com
 0.0.0.0 www.lmtonline.com
 0.0.0.0 www.lmtribune.com
@@ -14442,6 +14439,7 @@
 0.0.0.0 www.spiegel.de
 0.0.0.0 www.spiked-online.com
 0.0.0.0 www.spokesman.com
+0.0.0.0 www.sportschosun.com
 0.0.0.0 www.spot.uz
 0.0.0.0 www.spotmedia.ro
 0.0.0.0 www.springfieldnewssun.com
@@ -15390,6 +15388,7 @@
 0.0.0.0 www.voice.fi
 0.0.0.0 www.voiceofsandiego.org
 0.0.0.0 www.voicepk.net
+0.0.0.0 www.vok.rep.kp
 0.0.0.0 www.vol.at
 0.0.0.0 www.vol.no
 0.0.0.0 www.volksblatt.li

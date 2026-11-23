@@ -116,7 +116,6 @@ academia-de-talentos.com  # Q4671106
 academiacatavencu.info  # Q4671055
 acadienouvelle.com  # Q3201399
 access-journal.jp  # Q86741222
-accesswire.com  # Q99432330 rank 56327
 accionnewspaper.com  # Q4672636
 acento.com.do  # Q5656428 rank 137376
 acheconcursos.com.br  # Q142003449 rank 64451
@@ -154,7 +153,6 @@ advocate-news.com  # Q55665526
 advokatwatch.dk  # Q113496461
 adygvoice.ru  # Q4058036
 aera.gr  # Q141312395
-aerotechnews.com  # Q4688482
 affaritaliani.it  # Q3606156 rank 38753
 affiches.fr  # Q3230394
 afghanchristianwatch.org  # Q141803411
@@ -182,7 +180,6 @@ agefihebdo.fr  # Q3201581
 agenceqmi.ca  # Q2826563
 agenciaeconordeste.com.br  # Q136385479
 agenciapresentes.org  # Q111851392
-agenciasinc.es  # Q28501473 rank 58502
 agenda.ge  # Q131583996
 agenda.liternet.ro  # Q115796176
 agendamagasin.no  # Q141475920
@@ -213,7 +210,6 @@ aidas.us  # Q8079778
 aifua.com.ua  # Q130243456
 aikenstandard.com  # Q4696943
 aim.org  # Q4167245 rank 155345
-ain.ua  # Q116785970 rank 88268
 aina.org  # Q4810435 rank 197288
 aip.ci  # Q16525418
 air-cosmos.com  # Q2828249
@@ -392,7 +388,6 @@ alsahwa-yemen.net  # Q17069987
 alseyassah.com  # Q4703209
 altaicholmon.ru  # Q4062911
 altaleea.com  # Q12205251
-altalex.com  # Q53537012 rank 45046
 altaposten.no  # Q1758339
 altapress.ru  # Q4300846 rank 42750
 altaveu.com  # Q136398874 rank 175506
@@ -492,7 +487,6 @@ andhrapatrika.in  # Q12990998
 andoveradvertiser.co.uk  # Q109464887
 andovertownsman.com  # Q55667020
 andoyposten.no  # Q11958073
-androidplanet.nl  # Q19765965 rank 116636
 androidwedakarayo.com  # Q107015621
 anfarabic.com  # Q938126
 anfdeutsch.com  # Q938126
@@ -583,10 +577,7 @@ arbetsvarlden.se  # Q106608621
 arc-times.square.site  # Q139548962
 arcadianews.com  # Q55665424
 arcananews.com  # Q137208975
-archdaily.cl  # Q18712763 rank 115967
 archdaily.cn  # Q18712763
-archdaily.com.br  # Q18712763 rank 135804
-archives.yvelines.fr  # Q62740728 rank 186600
 archpaper.com  # Q7714192 rank 39088
 arcinfo.ch  # Q646229 rank 152585
 arctimes.com  # Q139548962
@@ -1031,10 +1022,8 @@ biharinaplo.ro  # Q1413093
 bihartimes.com  # Q4907081
 bihorinfo.ro  # Q139972680
 bijeljina.org  # Q124369090
-bikeportland.org  # Q131975040 rank 156036
 bilan.media  # Q127607494
 bildtsepost.nl  # Q13369445
-billboard.com.br  # Q1343828 rank 129255
 billingsgazette.com  # Q4911948 rank 39414
 billmoyers.com  # Q106145638 rank 73370
 birgun.net  # Q864960 rank 26673
@@ -1155,7 +1144,6 @@ boueinews.com  # Q11657075
 boulderweekly.com  # Q4949603
 boulevard-des-infos.com  # Q121338136
 bournemouthecho.co.uk  # Q4950276 rank 37799
-boursedirect.fr  # Q16533733 rank 46036
 boutique.assabah.tn  # Q2866932
 bowdoinorient.com  # Q7719539
 bowenislandundercurrent.com  # Q7883545
@@ -1370,7 +1358,6 @@ canadansanomat.com  # Q5029543
 canadian-courier.ca  # Q108936107
 canadianaffairs.news  # Q130428006
 canal7.com.ar  # Q141761315
-canalsur.es  # Q2743194 rank 41251
 cananewsonline.com  # Q5039407
 canarias7.es  # Q5031142 rank 26464
 canbyherald.com  # Q5031303
@@ -1485,7 +1472,6 @@ cecildaily.com  # Q5056353
 cedarstreettimes.com  # Q5056902
 ceh.com.cn  # Q108583468
 centernews.com.ua  # Q30957186
-centraldatoca.com.br  # Q132642858 rank 199187
 centralecho.com  # Q17052708
 centralmaine.com  # Q6389544 rank 48396
 centraloregonian.com  # Q5061564
@@ -1663,7 +1649,6 @@ classmag.ru  # Q4223087
 claxtonenterprise.com  # Q7723324
 claycountyprogress.com  # Q5129867
 clclt.com  # Q55623308
-cleanenergywire.org  # Q132852221 rank 57673
 clearcreekcourant.com  # Q60741001
 clearwaterprogress.com  # Q55666385
 clearwatertimes.com  # Q122801315
@@ -1674,7 +1659,6 @@ clevelandadvocate.com  # Q5132051
 clevelandnewsleader.com  # Q7723367
 clevelandpost.com  # Q5132209
 clicanoo.re  # Q3186848
-clickhole.com  # Q18148919 rank 161099
 clintonherald.com  # Q5134134
 clintonnewsrecord.ca  # Q5134194
 clmais.com.br  # Q10260819
@@ -1706,7 +1690,6 @@ codigocero.com  # Q61060081
 coffscoastadvocate.com.au  # Q7726617
 coinagemag.com  # Q5013308
 coinex-farsi.com  # Q109071315
-coinworld.com  # Q5141538 rank 155393
 coinworldonline.com  # Q5141538
 colimaaldia.com  # Q87116581
 colimanoticias.com  # Q87116582
@@ -1721,7 +1704,6 @@ coloradopolitics.com  # Q113143893 rank 95362
 coloradosun.com  # Q65117524 rank 34393
 coloradotimesrecorder.com  # Q116846098
 colpisa.com  # Q57577568
-colta.ru  # Q104834591 rank 80865
 columbiabasinherald.com  # Q5149617
 columbiacitypaper.com  # Q5149650
 columbiadailyherald.com  # Q5209266 rank 167752
@@ -1753,16 +1735,13 @@ como.fi  # Q11855477 rank 89594
 compact-online.de  # Q15803741
 compactmag.com  # Q111937653 rank 144471
 compassnewspaper.com.ng  # Q7032887
-computerworld.dk  # Q135984628 rank 121507
 con-telegraph.ie  # Q5161342
 concordiensis.com  # Q5159013
 concordmonitor.com  # Q5158825 rank 48446
 concrete-herald.com  # Q28126770
 concrete-online.co.uk  # Q5159035
 confedere.ch  # Q3221716
-confilegal.com  # Q136767318 rank 98111
 connachttribune.ie  # Q5161292 rank 63087
-connaissancedesenergies.org  # Q141181234 rank 122354
 connectionnewspapers.com  # Q130635195
 connectoregonwi.com  # Q56119160
 connexionfrance.com  # Q7727374 rank 51627
@@ -2153,7 +2132,6 @@ decaturdaily.com  # Q7729492 rank 141061
 deccan.com  # Q1975835
 deduktif.id  # Q126951383
 deebsmagazine.com  # Q131404410
-defense-update.com  # Q5251432 rank 170530
 defimedia.info  # Q30594760 rank 57024
 defrentebarinas.info  # Q63184744
 dehavenloods.nl  # Q2875294
@@ -2185,7 +2163,7 @@ democrate-aisne.fr  # Q3222537
 democratherald.com  # Q4709310 rank 145150
 democratv.digiproduct.co.il  # Q95963202
 democratv.org  # Q95963202
-demokraatti.fi  # Q10416908
+demokraatti.fi  # Q11855967
 demokrata.hu  # Q927372
 demopolistimes.com  # Q55665259
 dempa-digital.com  # Q11504965
@@ -2201,7 +2179,6 @@ dentonrc.com  # Q5259622 rank 114260
 denvergazette.com  # Q116814172 rank 54492
 depechedekabylie.com  # Q676608
 depers.nl  # Q696756
-depor.com  # Q123523525 rank 44061
 deposthoorn-denhaag.nl  # Q105776722
 der-bote.de  # Q114039718
 der-farang.com  # Q72585704 rank 127363
@@ -2361,7 +2338,7 @@ dinbedrift.no  # Q141501544
 dinesydd.cymru  # Q3402643
 dinheirovivo.pt  # Q28678830
 diplomaticourier.com  # Q7730238
-diplomatique.org.br  # Q858121 rank 187326
+diplomatique.org.br  # Q48855530 rank 187326
 diplomatmagazine.eu  # Q130139665
 directsoir.net  # Q3029381
 direkteaktion.org  # Q882590
@@ -2372,13 +2349,11 @@ distinction.ch  # Q3208309
 ditfjends.dk  # Q131763978
 ditzeitung.com  # Q53325488
 divaina.com  # Q5283802
-diverseeducation.com  # Q107292014 rank 112222
 divyabhaskar.co.in  # Q2760832 rank 60669
 diyarname.com  # Q6938622
 djcoregon.com  # Q5209287
 djournal.com  # Q17072108 rank 78129
 dl-online.com  # Q107087592
-dlib.si  # Q81095649 rank 74036
 dmcityview.com  # Q19867637
 dn.no  # Q780402 rank 30059
 dn.pt  # Q508252 rank 27463
@@ -2419,7 +2394,6 @@ donegalnews.com  # Q16257352
 donegalpost.com  # Q5295615
 donegaltimes.com  # Q5295625
 donkr.dn.ua  # Q12102026
-donpol.donntu.ru  # Q133883832 rank 144228
 dontimes.ru  # Q124758517
 doorcountyadvocate.com  # Q55671472
 dordognelibre.fr  # Q16629779
@@ -2683,7 +2657,6 @@ elfarodelacostachica.com.mx  # Q87116617
 elfolio.es  # Q141715387
 elgincourier.com  # Q16992375
 elginreview.com  # Q55667990
-elgrafico.com  # Q5822044 rank 171224
 elgrafico.mx  # Q87119315
 elheraldo.co  # Q3049972 rank 38841
 elheraldodechiapas.com.mx  # Q87116618
@@ -3106,7 +3079,6 @@ farrapo.com.br  # Q106847174
 fas.media  # Q48753327
 faso-actu.info  # Q125464316
 faso7.com  # Q124051144
-fatherly.com  # Q41498307 rank 42431
 fattail.com.au  # Q108279449
 faxenyt.dk  # Q104381619
 fayettevillesource.com  # Q142199179
@@ -3129,9 +3101,6 @@ felixonline.co.uk  # Q5442116
 femernbusiness.com  # Q131706399
 femina.ch  # Q2375136
 femina.fr  # Q3556174 rank 70110
-femina.hu  # Q108512779 rank 27734
-feminetas.com  # Q117337739
-femmeactuelle.fr  # Q3068228 rank 32176
 femmes-medecins.com  # Q110805630
 fena.ba  # Q59577526
 fenceviewer.com  # Q7731823
@@ -3178,7 +3147,6 @@ finsktidskrift.fi  # Q10495575
 firda.no  # Q1767694 rank 122784
 firdaposten.no  # Q1767426
 firenze.notizie.it  # Q139943217 rank 113594
-firstdraftnews.org  # Q60755146 rank 132332
 firstlook.media  # Q15730134
 firstnationsnews.com.au  # Q142031547
 firstnews.co.uk  # Q5453449
@@ -3477,14 +3445,12 @@ gd.se  # Q3100098 rank 124514
 gds.it  # Q1069383 rank 46711
 gds.ro  # Q18549550 rank 95171
 gedar.eus  # Q113231422
-geeky-gadgets.com  # Q115049336 rank 28586
 geelongadvertiser.com.au  # Q5529826 rank 98016
 geelongindy.com.au  # Q5529845
 gehoerlosenzeitung.de  # Q18333270
 gemercan.sk  # Q141007385
 geminigrafica.it  # Q122723579
 genderindetail.org.ua  # Q65202601
-geneticliteracyproject.org  # Q30314340 rank 77101
 genevasolutions.news  # Q105444609
 gentenaar.be  # Q2570019
 geopoliticalfutures.com  # Q112609725 rank 189261
@@ -3502,7 +3468,6 @@ getreading.co.uk  # Q7300538 rank 137578
 gettysburgtimes.com  # Q7736245
 gf24.pl  # Q11699468
 gfcnieuws.com  # Q56165591 rank 183702
-ggwash.org  # Q21283241 rank 154339
 ghanaiantimes.com.gh  # Q5555470
 ghanoondaily.ir  # Q16047872
 ghi.ch  # Q3100986
@@ -3609,7 +3574,6 @@ gov.cap.ru  # Q4315224 rank 27992
 gp.by  # Q17047290
 gp.se  # Q1559719 rank 27771
 gp24.pl  # Q9284195 rank 68699
-gpone.com  # Q141806803 rank 59519
 gradjanski.rs  # Q5598511
 gradpryluky.info  # Q12097379
 graffici.ca  # Q104162139
@@ -3643,10 +3607,8 @@ greenevillesun.com  # Q7738227
 greenfieldnews.com  # Q55665538
 greenfieldreporter.com  # Q5209355 rank 174757
 greenleft.org.au  # Q3116101 rank 96825
-greenme.it  # Q141120615 rank 40638
 greenocktelegraph.co.uk  # Q5604351 rank 124675
 greenprophet.com  # Q22908756 rank 179698
-greenreport.it  # Q3776373 rank 162964
 greensboro.com  # Q7019293 rank 51105
 greensborolatino.com  # Q118411929
 greensburgdailynews.com  # Q5604494
@@ -3685,7 +3647,6 @@ guardianmessenger.com.au  # Q5614066
 gubdaily.ru  # Q21640113 rank 153945
 gubernia.media  # Q19860281
 guddzje.de  # Q83365333
-gudok.ru  # Q4151629 rank 111508
 guelphmercury.com  # Q5614792
 guernseypress.com  # Q5614907 rank 179248
 guidatradingonline.net  # Q134570760
@@ -4008,7 +3969,6 @@ hpenews.com  # Q16995375
 hpherald.com  # Q11976288
 hpj.com  # Q5756138
 hpr1.com  # Q16995374
-hr.de  # Q23565 rank 97258
 hrot24.cz  # Q96387545
 hrvatskarijec.rs  # Q743551
 hsb.hspress.net  # Q10905617
@@ -4036,7 +3996,6 @@ humanevents.com  # Q1025062 rank 55209
 humberetc.ca  # Q127420094
 humberetc.com  # Q127420094
 humortimes.com  # Q5941131
-hungaricana.hu  # Q84507326 rank 39029
 huntingdondailynews.com  # Q56236915
 huntnewsnu.com  # Q7741110
 huntspost.co.uk  # Q138197876
@@ -4111,7 +4070,6 @@ ildubbio.news  # Q60039987
 ilevanger.no  # Q112275762
 ilfirenze.it  # Q3792687
 ilgiornaledellarchitettura.com  # Q3792748
-ilgiornaledellarte.com  # Q3792750 rank 68167
 ilgiornaleditalia.it  # Q15845619 rank 118264
 ilgiornaledivicenza.it  # Q738535 rank 58847
 ilkkapohjalainen.fi  # Q84073764 rank 72655
@@ -4122,7 +4080,6 @@ ilmajoki-lehti.fi  # Q11864595
 ilmanifesto.it  # Q642381 rank 31832
 iln.co.uk  # Q856192
 ilna.ir  # Q6067296 rank 42278
-ilnapolista.it  # Q139270313 rank 74639
 ilpescara.it  # Q119098329 rank 101112
 ilpiccolo.it  # Q1658246 rank 73252
 ilprimatonazionale.it  # Q97899407
@@ -4153,7 +4110,6 @@ in-korolev.ru  # Q108555600
 ina.iq  # Q12251168 rank 100981
 inarilainen.fi  # Q18680113
 inbalashikha.ru  # Q108276100
-inc42.com  # Q124396958 rank 33187
 incheonilbo.com  # Q116717288 rank 159298
 indaily.com.au  # Q7741824 rank 146357
 inddist.com  # Q6027589
@@ -4198,7 +4154,6 @@ inews24.com  # Q16167205 rank 55809
 inews365.com  # Q113655331
 inextlive.com  # Q3809113
 influencermagazine.uk  # Q116447443
-influencewatch.fireside.fm  # Q109507814 rank 44784
 influenth.com  # Q140630954
 info.fr  # Q138678830
 info.uz.ua  # Q16705870
@@ -4248,10 +4203,8 @@ inqnews.com  # Q133934611
 inquirer.com.ph  # Q1831242
 inquirer.org.uk  # Q123466566
 inshortbd.com  # Q138304258
-inside.com.tw  # Q65049758 rank 139981
 insidebiz.com  # Q16885097
 insidecroydon.com  # Q135493528
-insidehoops.com  # Q17056525 rank 132454
 insidephilanthropy.com  # Q22080447 rank 121158
 insidernj.com  # Q108280478 rank 136583
 insiderpa.com  # Q7742152
@@ -4324,7 +4277,6 @@ irleaks.com  # Q139567708
 irontontribune.com  # Q6073303
 irozhlas.cz  # Q76591659 rank 32960
 irstar.kz  # Q4189399
-irunfar.com  # Q42225178 rank 163915
 irvinesource.com  # Q141988258
 isabadell.cat  # Q55224034
 iskconnews.org  # Q136612442
@@ -4359,7 +4311,6 @@ itemlive.com  # Q7728665
 itemonline.com  # Q7741120
 ithaca.com  # Q55668315
 ithacavoice.com  # Q113691879
-ithome.com.tw  # Q123398745 rank 45119
 itidal.de  # Q142204618
 itineraire.ca  # Q3204369
 itnijs.frl  # Q20620878
@@ -4479,7 +4430,6 @@ jiji.co.jp  # Q1688974
 jimmatimes.com  # Q8052646
 jinhaagency.com  # Q132798911 rank 159650
 jinrieluosi.cn  # Q15294742
-jinrmag.jinr.ru  # Q136360012 rank 36268
 jiskra-benesov.cz  # Q11775064
 jjan.kr  # Q9406450 rank 151090
 jjckb.cn  # Q10473364 rank 97403
@@ -4593,7 +4543,6 @@ kabyle.com  # Q135266350
 kado.net  # Q12583013 rank 169876
 kagavisti.com  # Q12093472
 kahoku.news  # Q639774 rank 58349
-kai-you.net  # Q113432416 rank 52419
 kaieteurnewsonline.com  # Q6347637 rank 101133
 kaipkada.lt  # Q141479944 rank 85411
 kairospresse.be  # Q107382756
@@ -4760,7 +4709,6 @@ klassekampen.no  # Q1702232 rank 166206
 klebuposten.no  # Q11981211
 kleck.by  # Q111987142
 klich.by  # Q111986702
-klikk.no  # Q19377454 rank 67973
 klops.ru  # Q95994116 rank 45074
 kmib.co.kr  # Q10855572 rank 46179
 kmvlehti.fi  # Q138611674
@@ -4864,7 +4812,6 @@ ksml.fi  # Q3195563 rank 57278
 ksrmtzx.com  # Q106122460
 kstatecollegian.com  # Q6365065
 kstnews.kz  # Q4235246
-kstyle.com  # Q133888884 rank 65600
 ksusentinel.com  # Q7763318
 kt-kuriren.se  # Q111135932
 ktabkbih.net  # Q12634315
@@ -4971,7 +4918,6 @@ ladepechedubassin.fr  # Q3208484
 ladige.it  # Q3817874 rank 57050
 ladiscusion.cl  # Q5404722
 ladiscussione.com  # Q3208294
-ladn.eu  # Q139305569 rank 101364
 ladobe.com.mx  # Q65159376
 laextra.mx  # Q6462377
 lafayettestudentnews.com  # Q131410872
@@ -5277,7 +5223,6 @@ lejournaltoulousain.fr  # Q65159555
 lejpb.com  # Q3223772
 lejsl.com  # Q3223737 rank 37214
 lelchitsy.by  # Q18408968
-lelezard.com  # Q106840662 rank 196997
 lemainelibre.fr  # Q3224185
 lemanifest.com  # Q137944613
 lemarin.fr  # Q3224319
@@ -5468,7 +5413,7 @@ llaisogwan.com  # Q13129597
 llanellistar.co.uk  # Q6661288
 lloydslistdcn.com.au  # Q6662220
 lluban.by  # Q75535638
-lmd.no  # Q858121
+lmd.no  # Q12716467
 lmhnews.com  # Q141216690
 lmtonline.com  # Q6488896 rank 94766
 lmtribune.com  # Q18151658 rank 101809
@@ -5594,7 +5539,6 @@ maconch.com  # Q6724845
 macstories.net  # Q123308619 rank 40915
 madamasr.com  # Q16486302 rank 134221
 madanizhomga.ru  # Q20587457
-maddyness.com  # Q123505580 rank 65060
 madeinperpignan.com  # Q78336896
 maderatribune.com  # Q43401295
 madison-news.com  # Q55672254
@@ -5614,6 +5558,7 @@ magdalene.co  # Q135922626
 maghrebemergent.net  # Q131005216
 magicvalley.com  # Q7567521 rank 101384
 magill.ie  # Q3843205
+magmetall.ru  # Q4274099
 magnabureau.space  # Q141817186
 magozine.it  # Q131379178
 magyarhirlap.hu  # Q898393 rank 118164
@@ -5691,7 +5636,6 @@ marionrecord.com  # Q6765146
 marionstar.com  # Q7750327 rank 145109
 marketbusinessnews.com  # Q122700549 rank 82047
 marketdaily.com.cn  # Q104857168
-marketingdirecto.com  # Q139268075 rank 90405
 marlindemocrat.com  # Q23074316
 marmarismanset.com  # Q131462551
 maroelamedia.co.za  # Q19623442 rank 63625
@@ -5976,7 +5920,6 @@ mknews.de  # Q1062623
 mkpenza.ru  # Q1062623
 mkset.ru  # Q130331417 rank 189914
 mlyn.by  # Q21393921 rank 97890
-mmafighting.com  # Q55621575 rank 30325
 mmsonline.com  # Q6888756 rank 187119
 mmtimes.com  # Q3521950 rank 166393
 mndaily.com  # Q6868213 rank 128059
@@ -6085,7 +6028,6 @@ msconecta.com.br  # Q141538448
 mskagency.ru  # Q94952743 rank 59544
 msmena.ru  # Q15977494
 msn.kg  # Q63981498
-mstar.com.my  # Q12696354 rank 63964
 msuexponent.com  # Q7732859
 mt.de  # Q1294383 rank 106375
 mtairynews.com  # Q7752466
@@ -6099,7 +6041,6 @@ muehlacker-tagblatt.de  # Q1262542
 mujeresenred.net  # Q57694196
 muksun.fm  # Q130331368 rank 165322
 multi-housingnews.com  # Q18156718
-multihousingnews.com  # Q18156718 rank 121291
 mumbaimirror.com  # Q17073793 rank 182429
 mundiario.com  # Q106021085 rank 26649
 mundolatinomedia.com  # Q118411927
@@ -6218,7 +6159,6 @@ nationalreport.net  # Q17070828
 nationthailand.com  # Q2305581 rank 27670
 nativenewsonline.net  # Q107174578 rank 107280
 nau.ch  # Q50134852 rank 29930
-naukatv.ru  # Q55658633 rank 114997
 navabharat.com  # Q2106140
 navajotimes.com  # Q6981660
 navarracapital.es  # Q139035108
@@ -6422,7 +6362,6 @@ newsvostok.ru  # Q16271718
 newswatchdirect.com  # Q1983744
 newsweed.fr  # Q56312297
 newsweek.ro  # Q104787236 rank 61123
-newswire.com  # Q124976778 rank 26165
 newswire.net  # Q48004150
 newswirengr.com  # Q108841408
 newswiretoday.com  # Q111468421
@@ -6575,6 +6514,7 @@ noscogiolanoche.com  # Q141387507
 nosdiario.gal  # Q80701889
 nosmulheresdaperiferia.com.br  # Q118117389
 nosop3.nl  # Q14645212
+nostresport.com  # Q6045463
 notabene.sk  # Q38164
 noticia.do  # Q139254993
 noticiacla.com  # Q142241870
@@ -6833,7 +6773,6 @@ opmeerleeft.nl  # Q130474403
 opopular.com.br  # Q10308383 rank 75194
 opp.no  # Q11992996
 oppland-arbeiderblad.no  # Q1764834
-oprf.ru  # Q1518687 rank 69514
 opus.org.au  # Q7099096
 oradejudo.ro  # Q20431633
 orangejourney.com  # Q141988268
@@ -6907,7 +6846,6 @@ ourherald.com  # Q55670796
 ourmidland.com  # Q6842334 rank 38193
 ourscom.fr  # Q114552866
 ourtimepress.com  # Q24204438
-out.com  # Q951591 rank 35221
 outandaboutnewspaper.com  # Q7111418
 outfrontonline.com  # Q7111438
 outinperth.com  # Q18165906
@@ -7060,7 +6998,6 @@ peoplenews.tw  # Q20688689
 peoplerail.com  # Q10883604
 peoplesdaily.pdnews.cn  # Q54340 rank 142084
 peoplesworld.org  # Q2069661 rank 69346
-peopletalk.ru  # Q141735926 rank 84073
 peoriasource.com  # Q142199871
 peptideguides.org  # Q139553122
 peramoga.by  # Q49078664
@@ -7088,7 +7025,6 @@ pestisracok.hu  # Q20631464
 petaluma360.com  # Q55665642
 peterboroughtoday.co.uk  # Q7178002 rank 83086
 petitbleu.fr  # Q18750711 rank 71440
-petitesaffiches.fr  # Q141873945 rank 124043
 petrosolgas.com.br  # Q85132029
 peyamner.net  # Q7012445
 peykhane.com  # Q141986046
@@ -7098,7 +7034,6 @@ pharostribune.com  # Q7180847
 philadelphiabusinessjournal.com  # Q7182637
 philadelphiaindependent.net  # Q16955314
 philadelphiaweekly.com  # Q7182847 rank 194233
-philanthropy.com  # Q7722802 rank 40195
 phileleftherosgroup.com  # Q3378896
 phillyburbs.com  # Q48989329 rank 55974
 phillytrib.com  # Q7182836 rank 99822
@@ -7141,7 +7076,6 @@ plaindealer-sun.com  # Q55666742
 plainlaw.me  # Q131938259
 plainsman.com  # Q7200752
 planetsmag.com  # Q7201169
-plantbasednews.org  # Q96399544 rank 90247
 plataformamedia.com  # Q126617603
 platfor.ma  # Q16711709
 platform-investico.nl  # Q106159468
@@ -7183,6 +7117,7 @@ polit.ru  # Q4370035 rank 52156
 polites.news  # Q137874551
 politicaldig.com  # Q127355728
 politicaobrera.com  # Q67520227
+politicare.it  # Q142260717
 politics.be  # Q2013861
 politics.co.uk  # Q61710033 rank 82201
 politicshome.com  # Q131140119 rank 80914
@@ -7290,7 +7225,6 @@ pravda.lg.ua  # Q12118582
 pravda.rs  # Q4375813 rank 64228
 pravdasevera.ru  # Q4375828
 prave-spektrum.sk  # Q12046881
-pravoslavie.ru  # Q4376116 rank 30463
 praza.gal  # Q12398101
 prdailysun.com  # Q7258691
 prealpina.it  # Q3821075 rank 69016
@@ -7300,8 +7234,6 @@ prensa.com  # Q1799040 rank 59950
 prensalibre.com  # Q3402308 rank 32001
 prensaobrera.com  # Q6085235
 press-citizen.com  # Q6064309 rank 103031
-press.lvcva.com  # Q108074717 rank 96624
-press.polytechnic.am  # Q47492335
 pressandguide.com  # Q55667335
 pressandjournal.co.uk  # Q7758095 rank 43050
 pressball.by  # Q3919093 rank 62743
@@ -7437,7 +7369,6 @@ qns.com  # Q55668254 rank 82388
 qpdx.com  # Q7265509
 qrooultimasnoticias.com  # Q87116720
 qt.com.au  # Q7759033
-qualenergia.it  # Q137459361 rank 173038
 quamiekta.com  # Q7268811
 quatember.de  # Q18629998
 qudsn.net  # Q76537273
@@ -7687,7 +7618,6 @@ rijnmond.nl  # Q2215101 rank 41660
 riks.se  # Q105715164
 ringblad.no  # Q1760411 rank 122363
 ringsaker-blad.no  # Q19386628
-rinnovabili.it  # Q137535200 rank 176484
 rio-panorama.ru  # Q4386532
 riodoce.mx  # Q1982980
 rionegro.com.ar  # Q429592 rank 27939
@@ -7813,7 +7743,6 @@ russian-bazaar.com  # Q4400737
 russianexpress.net  # Q109302208
 russianlifearchive.org  # Q16271790
 russianprovince.ru  # Q19910666
-russkiymir.ru  # Q1584496 rank 99283
 rustonleader.com  # Q17078888
 rusvesna.su  # Q124758542 rank 53805
 rutgersmedium.com  # Q7750890
@@ -7977,7 +7906,6 @@ schweizamwochenende.ch  # Q65176327
 schwerin-lokal.de  # Q122382407
 sciencereport.dk  # Q130544046
 scienzainrete.it  # Q63525640
-scmr.com  # Q7644511 rank 143457
 scnow.com  # Q7752288 rank 155409
 scone.yourguide.com.au  # Q17028126
 scotcampus.com  # Q7435491
@@ -8237,7 +8165,6 @@ solabladet.no  # Q10984698
 solarpanel.news  # Q134980747
 soledadbee.com  # Q55665730
 solidarnost.org  # Q4427717
-solidot.org  # Q10852616 rank 189813
 solinger-tageblatt.de  # Q2298878 rank 195219
 solomonstarnews.com  # Q7558750
 solothurnerzeitung.ch  # Q96225864 rank 155903
@@ -8317,6 +8244,9 @@ splicetoday.com  # Q130322092
 spokanejournal.com  # Q22073403
 spokanesource.com  # Q142199878
 spooneradvocate.com  # Q55671467
+sportschosun.com  # Q16184321 rank 48152
+sportsjournalism.org  # Q6978650
+sporttelegram.com  # Q29981957
 spotlightnews.com  # Q7580075
 springfieldnewssun.com  # Q7581014 rank 89041
 sprword.com  # Q7580270
@@ -8332,7 +8262,6 @@ ss-times.com  # Q17082463
 ssnewstelegram.com  # Q56030723
 sspclub.cn  # Q97280358
 sss.fi  # Q7405681 rank 152883
-sst.dk  # Q88074750 rank 96719
 st.nu  # Q3503869 rank 60449
 sta.si  # Q7541831 rank 121851
 stabroeknews.com  # Q7595795 rank 77234
@@ -8460,7 +8389,6 @@ sudaca.pe  # Q113333803
 sudantribune.com  # Q11950458 rank 85268
 sudaroli.com  # Q7633433
 sudharmasanskritdaily.in  # Q3809207
-sudoku-online.org  # Q110344637 rank 88059
 sudquotidien.sn  # Q3502902
 sudrum.com  # Q136933905
 suedkurier.de  # Q19834243 rank 27113
@@ -8749,7 +8677,6 @@ the-star.co.ke  # Q16955760 rank 25710
 the-sun.on.cc  # Q7767313 rank 27147
 the-tidings.com  # Q7769226
 the-underground.online  # Q138340652
-the-village.ru  # Q106765711 rank 54585
 the-world-now.com  # Q141066209
 the74million.org  # Q24589959 rank 53178
 theaccradailymail.com  # Q4672819
@@ -8804,9 +8731,7 @@ thebhutanese.bt  # Q16841426
 theblacksheartimes.com  # Q7718512
 theblacksheeponline.com  # Q7719383
 thebluebanner.net  # Q118403956
-theblueprint.ru  # Q136682324 rank 111893
 theboar.org  # Q7718916
-thebody.com  # Q105700244 rank 90119
 theboltonnews.co.uk  # Q7719060 rank 41581
 theborneopost.com  # Q734581 rank 57115
 thebostonpilot.com  # Q7757141
@@ -8965,7 +8890,6 @@ theguadalajarareporter.net  # Q87116569
 theguidon.com  # Q7735573
 theguru.co.kr  # Q117193964
 thehansindia.com  # Q5170037 rank 31586
-thehardtimes.net  # Q60744916 rank 178714
 theharvardvoice.com  # Q7738956
 thehawaiihochi.com  # Q13447565
 thehawaiiindependent.com  # Q7739057
@@ -9210,7 +9134,6 @@ thescope.ca  # Q7762603
 theseahawk.org  # Q118403960
 thesetonian.com  # Q140967847
 thesewardjournal.com  # Q7763499
-theshaderoom.com  # Q28228221 rank 88651
 thesheaf.com  # Q7763730
 theshillongtimes.com  # Q3989252 rank 137122
 theshorthorn.com  # Q7763985
@@ -9578,7 +9501,6 @@ turuntienoo.fi  # Q18662485
 tuscaloosanews.com  # Q3989726 rank 59625
 tusciaweb.it  # Q131741908
 tustimes.com  # Q141250174
-tuttobiciweb.it  # Q97924601 rank 101708
 tuttoitalia.ch  # Q141724823
 tuvapravda.ru  # Q60851908
 tv2000.co.il  # Q118645839
@@ -9595,7 +9517,6 @@ tvr.by  # Q21393622 rank 134759
 tvrinfo.ro  # Q130600464 rank 62200
 tvsyd.dk  # Q131153260 rank 68703
 tweednews.com.au  # Q7857470
-twice.com  # Q7672542 rank 166494
 twitchy.com  # Q19881578 rank 38827
 twnewsdaily.com  # Q10915518
 tycoonsweekly.com  # Q141259409
@@ -10082,7 +10003,6 @@ webnewsobserver.com  # Q105593881
 websterkirkwoodtimes.com  # Q56236759
 webstory.news  # Q112406039
 websu.info  # Q12158703
-webtekno.com  # Q134277841 rank 55606
 webun.jp  # Q11401857
 wedel-schulauer-tageblatt.de  # Q15853785
 weekendavisen.dk  # Q176375 rank 176699
@@ -10393,7 +10313,6 @@ zavtra.ru  # Q4183309 rank 82026
 zbnews.net  # Q140868382
 zbruc.eu  # Q25444886
 zdg.md  # Q8071383 rank 79823
-zdnet.co.kr  # Q22972675 rank 28851
 zeale.co  # Q140935207
 zeitenspiegel.de  # Q8068607
 zenit.org  # Q2208198 rank 39030

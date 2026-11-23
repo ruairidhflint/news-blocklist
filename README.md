@@ -13,8 +13,8 @@ blocker that subscribes to a list by URL.
 <!-- stats:start -->
 | List | Sites | Hostnames (hosts format) |
 | --- | ---: | ---: |
-| `news` | 14,299 | 30,828 |
-| `news-lite` | 6,751 | 15,909 |
+| `news` | 14,304 | 30,835 |
+| `news-lite` | 6,752 | 15,908 |
 <!-- stats:end -->
 
 ## Choose a list

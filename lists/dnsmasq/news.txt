@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: dnsmasq (local=/domain/); each entry also covers all its subdomains
-# Entries: 14,162
-# Last modified: 2026-11-23 12:34 UTC
+# Entries: 14,167
+# Last modified: 2026-11-23 12:43 UTC
 #
 local=/021.rs/
 local=/021east.com/
@@ -4230,7 +4230,6 @@ local=/felixonline.co.uk/
 local=/femernbusiness.com/
 local=/femina.ch/
 local=/femina.fr/
-local=/feminetas.com/
 local=/femmes-medecins.com/
 local=/fena.ba/
 local=/fenceviewer.com/
@@ -7510,6 +7509,7 @@ local=/maghrebemergent.net/
 local=/maghrebemergent.news/
 local=/magicvalley.com/
 local=/magill.ie/
+local=/magmetall.ru/
 local=/magnabureau.space/
 local=/magozine.it/
 local=/magyarhirlap.hu/
@@ -8910,6 +8910,7 @@ local=/noscogiolanoche.com/
 local=/nosdiario.gal/
 local=/nosmulheresdaperiferia.com.br/
 local=/nosop3.nl/
+local=/nostresport.com/
 local=/notabene.sk/
 local=/notesfrompoland.com/
 local=/noticel.com/
@@ -9738,6 +9739,7 @@ local=/politi.co/
 local=/politicalbetting.com/
 local=/politicaldig.com/
 local=/politicaobrera.com/
+local=/politicare.it/
 local=/politico.cd/
 local=/politico.com/
 local=/politico.eu/
@@ -11228,6 +11230,9 @@ local=/spokanejournal.com/
 local=/spokanesource.com/
 local=/spokesman.com/
 local=/spooneradvocate.com/
+local=/sportschosun.com/
+local=/sportsjournalism.org/
+local=/sporttelegram.com/
 local=/spot.uz/
 local=/spotlightnews.com/
 local=/spotmedia.ro/
