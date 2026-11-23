@@ -1,0 +1,72 @@
+# News aggregators and web portals' news sections: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+allsides.com                 # AllSides
+apple.news                   # Apple News links
+au.finance.yahoo.com         # Yahoo Finance Australia; mixed: also blocks stock quotes and portfolios
+au.news.yahoo.com            # Yahoo News Australia
+au.yahoo.com                 # Yahoo Australia homepage; mixed: also blocks the rest of the Yahoo Australia homepage; Mail and Search still work
+bonginoreport.com            # Bongino Report
+boringreport.org             # Boring Report
+ca.finance.yahoo.com         # Yahoo Finance Canada; mixed: also blocks stock quotes and portfolios
+ca.news.yahoo.com            # Yahoo News Canada
+ca.yahoo.com                 # Yahoo Canada homepage; mixed: also blocks the rest of the Yahoo Canada homepage; Mail and Search still work
+de.nachrichten.yahoo.com     # Yahoo Nachrichten
+drudgereport.com             # Drudge Report
+es-us.noticias.yahoo.com     # Yahoo Noticias (US Spanish)
+finance.yahoo.com            # Yahoo Finance; mixed: also blocks stock quotes and portfolios
+flipboard.com                # Flipboard
+fr.news.yahoo.com            # Yahoo Actualités
+freedomsphoenix.com          # Freedom's Phoenix
+ground.news                  # Ground News
+hk.news.yahoo.com            # Yahoo News Hong Kong
+inkl.com                     # inkl
+join1440.com                 # 1440 Daily Digest
+lucianne.com                 # Lucianne.com
+malaysia.news.yahoo.com      # Yahoo News Malaysia
+memeorandum.com              # Memeorandum
+morningbrew.com              # Morning Brew
+news.google.ca               # Google News (Canada)
+news.google.co.nz            # Google News (New Zealand)
+news.google.co.uk            # Google News (UK)
+news.google.com              # Google News
+news.google.com.au           # Google News (Australia)
+news.google.ie               # Google News (Ireland)
+news.yahoo.com               # Yahoo News
+newsbreak.com                # NewsBreak
+newser.com                   # Newser
+newsminimalist.com           # News Minimalist
+newsnow.co.uk                # NewsNow
+newsnow.com                  # NewsNow (US)
+ntp.msn.com                  # Microsoft Edge new-tab news feed; mixed: also blocks Edge's new-tab page content
+nz.news.yahoo.com            # Yahoo News New Zealand
+operanewsapp.com             # Opera News
+particle.news                # Particle
+ph.news.yahoo.com            # Yahoo News Philippines
+pressreader.com              # PressReader (digital newspapers); mixed: also blocks its magazines
+realclearenergy.org          # RealClearEnergy
+realclearinvestigations.com  # RealClearInvestigations
+realclearmarkets.com         # RealClearMarkets
+realclearpolicy.com          # RealClearPolicy
+realclearpolitics.com        # RealClearPolitics
+realclearwire.com            # RealClearWire
+realclearworld.com           # RealClearWorld
+sg.news.yahoo.com            # Yahoo News Singapore
+sg.yahoo.com                 # Yahoo Singapore homepage; mixed: also blocks the rest of the Yahoo Singapore homepage; Mail and Search still work
+smartnews.com                # SmartNews
+theflipside.io               # The Flip Side
+thelibertydaily.com          # The Liberty Daily
+thepaperboy.com              # ThePaperboy (newspaper front pages)
+theskimm.com                 # theSkimm
+tw.news.yahoo.com            # Yahoo News Taiwan
+uk.finance.yahoo.com         # Yahoo Finance UK; mixed: also blocks stock quotes and portfolios
+uk.news.yahoo.com            # Yahoo News UK
+uk.yahoo.com                 # Yahoo UK homepage; mixed: also blocks the rest of the Yahoo UK homepage; Mail and Search still work
+upday.com                    # upday
+whatfinger.com               # Whatfinger News
+www.aol.co.uk                # AOL UK homepage
+www.aol.com                  # AOL homepage; mixed: also blocks AOL's homepage (Mail is unaffected)
+www.microsoftstart.com       # Microsoft Start
+www.msn.com                  # MSN; mixed: also blocks MSN Weather, Money and Sports pages
+www.yahoo.com                # Yahoo homepage; mixed: also blocks Yahoo's homepage (Mail and Search are unaffected)

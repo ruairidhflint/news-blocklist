@@ -1,0 +1,617 @@
+# United States: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+# === Puerto Rico ===
+newsismybusiness.com         # News is my Business
+notiuno.com                  # NotiUno
+periodismoinvestigativo.com  # Centro de Periodismo Investigativo
+telemundopr.com              # Telemundo Puerto Rico
+theweeklyjournal.com         # The Weekly Journal
+wkaq580.com                  # WKAQ 580
+
+# === United States ===
+10news.com                         # 10News San Diego (KGTV)
+10tv.com                           # 10TV (WBNS)
+11alive.com                        # 11Alive (WXIA)
+12news.com                         # 12News (KPNX)
+12onyourside.com                   # WWBT 12 On Your Side
+13abc.com                          # 13abc Toledo
+13newsnow.com                      # 13NewsNow (WVEC)
+13wmaz.com                         # 13WMAZ
+19thnews.org                       # The 19th
+3newsnow.com                       # KMTV 3 News Now
+4029tv.com                         # 4029 News (KHBS)
+6abc.com                           # 6abc Philadelphia (WPVI)
+8newsnow.com                       # 8 News Now (KLAS)
+9news.com                          # 9NEWS (KUSA)
+abc10.com                          # ABC10 Sacramento
+abc11.com                          # ABC11 Raleigh-Durham (WTVD)
+abc13.com                          # ABC13 Houston (KTRK)
+abc15.com                          # ABC15 Arizona
+abc30.com                          # ABC30 Fresno (KFSN)
+abc3340.com                        # ABC 33/40
+abc4.com                           # ABC4 Utah
+abc6.com                           # ABC6 Providence (now Coastal ABC)
+abc6onyourside.com                 # ABC6 Columbus
+abc7.com                           # ABC7 Los Angeles (KABC)
+abc7amarillo.com                   # ABC 7 Amarillo
+abc7chicago.com                    # ABC7 Chicago (WLS)
+abc7news.com                       # ABC7 San Francisco (KGO)
+abc7ny.com                         # ABC7 New York (WABC)
+abcactionnews.com                  # ABC Action News (WFTS)
+abcn.ws                            # ABC News (link shortener)
+abcnews.com                        # ABC News (redirect domain)
+abcnews.go.com                     # ABC News
+actionnews5.com                    # Action News 5
+actionnewsjax.com                  # Action News Jax
+adn.com                            # Anchorage Daily News
+advocate.com                       # The Advocate
+ajc.com                            # The Atlanta Journal-Constitution
+al-monitor.com                     # Al-Monitor
+al.com                             # AL.com
+alabamareflector.com               # Alabama Reflector
+alaskapublic.org                   # Alaska Public Media
+alhurra.com                        # Alhurra
+alternet.org                       # AlterNet
+americanthinker.com                # American Thinker
+apne.ws                            # AP News (link shortener)
+apnews.com                         # Associated Press
+app.com                            # Asbury Park Press
+arkansasadvocate.com               # Arkansas Advocate
+atlantanewsfirst.com               # Atlanta News First (WANF)
+axios.com                          # Axios
+azcentral.com                      # The Arizona Republic
+azfamily.com                       # Arizona's Family (KTVK/KPHO)
+baltimorebrew.com                  # Baltimore Brew
+baltimoresun.com                   # The Baltimore Sun
+bangordailynews.com                # Bangor Daily News
+barrons.com                        # Barron's
+baynews9.com                       # Bay News 9
+benzinga.com                       # Benzinga
+billypenn.com                      # Billy Penn
+bizjournals.com                    # American City Business Journals
+bizpacreview.com                   # BizPac Review
+bloom.bg                           # Bloomberg (link shortener)
+bloomberg.com                      # Bloomberg
+boston.com                         # Boston.com
+boston25news.com                   # Boston 25 News (WFXT)
+bostonglobe.com                    # The Boston Globe
+bostonherald.com                   # Boston Herald
+breitbart.com                      # Breitbart News
+buffalonews.com                    # The Buffalo News
+businessinsider.com                # Business Insider
+buzzfeednews.com                   # BuzzFeed News (archive)
+c-span.org                         # C-SPAN
+calmatters.org                     # CalMatters
+cardinalnews.org                   # Cardinal News
+cascadepbs.org                     # Cascade PBS; mixed: also blocks Cascade PBS TV programme pages
+catholicnewsagency.com             # Catholic News Agency
+cbs12.com                          # CBS12
+cbs42.com                          # CBS 42
+cbs6albany.com                     # CBS6 Albany
+cbsaustin.com                      # CBS Austin
+cbsn.ws                            # CBS News (link shortener)
+cbsnews.com                        # CBS News
+charlotteobserver.com              # The Charlotte Observer
+checkyourfact.com                  # Check Your Fact
+chicagotribune.com                 # Chicago Tribune
+christianpost.com                  # The Christian Post
+chron.com                          # Chron
+cincinnati.com                     # The Cincinnati Enquirer
+city-journal.org                   # City Journal
+cleveland.com                      # Cleveland.com (The Plain Dealer)
+cleveland19.com                    # Cleveland 19
+click2houston.com                  # KPRC 2
+clickondetroit.com                 # WDIV Local 4
+clickorlando.com                   # WKMG News 6
+cnbc.com                           # CNBC
+cnn.com                            # CNN
+edition.cnn.com                    # CNN International
+cnn.it                             # CNN (link shortener)
+cnsnews.com                        # CNS News
+cnycentral.com                     # CNY Central
+coastalabc.com                     # Coastal ABC (WLNE)
+commentary.org                     # Commentary
+commondreams.org                   # Common Dreams
+counton2.com                       # News 2 Charleston (WCBD)
+courant.com                        # Hartford Courant
+courier-journal.com                # The Courier-Journal
+courthousenews.com                 # Courthouse News Service
+cpr.org                            # Colorado Public Radio
+crooksandliars.com                 # Crooks and Liars
+csmonitor.com                      # The Christian Science Monitor
+currentaffairs.org                 # Current Affairs
+currenttime.tv                     # Current Time (RFE/RL)
+dailycaller.com                    # The Daily Caller
+dailyherald.com                    # Daily Herald
+dailykos.com                       # Daily Kos
+dailynews.com                      # Los Angeles Daily News
+dailysignal.com                    # The Daily Signal
+dailyvoice.com                     # Daily Voice
+dailywire.com                      # The Daily Wire
+dallasnews.com                     # The Dallas Morning News
+daytondailynews.com                # Dayton Daily News
+defensenews.com                    # Defense News
+defenseone.com                     # Defense One
+democracynow.org                   # Democracy Now!
+democratandchronicle.com           # Democrat and Chronicle
+denver7.com                        # Denver7 (KMGH)
+denverite.com                      # Denverite
+denverpost.com                     # The Denver Post
+deseret.com                        # Deseret News
+desmoinesregister.com              # The Des Moines Register
+detroitnews.com                    # The Detroit News
+dispatch.com                       # The Columbus Dispatch
+ecowatch.com                       # EcoWatch
+epochtimes.com                     # The Epoch Times (Chinese edition)
+factcheck.org                      # FactCheck.org
+fastcompany.com                    # Fast Company
+firstalert4.com                    # KMOV First Alert 4
+firstcoastnews.com                 # First Coast News
+fivethirtyeight.com                # FiveThirtyEight
+forbes.com                         # Forbes
+foreignaffairs.com                 # Foreign Affairs
+foreignpolicy.com                  # Foreign Policy
+fortune.com                        # Fortune
+forward.com                        # The Forward
+fox10phoenix.com                   # FOX 10 Phoenix
+fox10tv.com                        # FOX10 Mobile
+fox13news.com                      # FOX 13 Tampa Bay
+fox13now.com                       # FOX 13 Salt Lake City
+fox13seattle.com                   # FOX 13 Seattle
+fox17.com                          # FOX 17 Nashville
+fox26houston.com                   # FOX 26 Houston
+fox29.com                          # FOX 29 Philadelphia
+fox2detroit.com                    # FOX 2 Detroit
+fox2now.com                        # FOX 2 St. Louis
+fox32chicago.com                   # FOX 32 Chicago
+fox35orlando.com                   # FOX 35 Orlando
+fox40.com                          # FOX40 Sacramento
+fox43.com                          # FOX43
+fox4kc.com                         # FOX4 Kansas City
+fox4news.com                       # FOX 4 Dallas-Fort Worth
+fox59.com                          # FOX59
+fox5atlanta.com                    # FOX 5 Atlanta
+fox5dc.com                         # FOX 5 DC
+fox5ny.com                         # FOX 5 New York
+fox5sandiego.com                   # FOX 5 San Diego
+fox61.com                          # FOX61
+fox6now.com                        # FOX6 Milwaukee
+fox7austin.com                     # FOX 7 Austin
+fox8.com                           # FOX 8 Cleveland
+fox8live.com                       # FOX 8 New Orleans
+fox9.com                           # FOX 9 Minneapolis
+foxbaltimore.com                   # FOX45 Baltimore
+foxbusiness.com                    # Fox Business
+foxcarolina.com                    # FOX Carolina
+foxla.com                          # FOX 11 Los Angeles
+foxnews.com                        # Fox News
+freep.com                          # Detroit Free Press
+frontpagemag.com                   # FrontPage Magazine
+fxn.ws                             # Fox News (link shortener)
+gbhnews.org                        # GBH News
+gothamist.com                      # Gothamist
+grist.org                          # Grist
+gulfcoastnewsnow.com               # Gulf Coast News Now (WBBH)
+harpers.org                        # Harper's Magazine
+heathercoxrichardson.substack.com  # Letters from an American
+hotair.com                         # Hot Air
+houstonchronicle.com               # Houston Chronicle
+houstonpublicmedia.org             # Houston Public Media
+huffingtonpost.com                 # HuffPost (legacy domain)
+huffpost.com                       # HuffPost
+ibtimes.com                        # International Business Times
+ijr.com                            # Independent Journal Review
+indystar.com                       # The Indianapolis Star
+infowars.com                       # Infowars
+inquirer.com                       # The Philadelphia Inquirer
+inquisitr.com                      # The Inquisitr
+insider.com                        # Insider
+inthesetimes.com                   # In These Times
+investors.com                      # Investor's Business Daily
+ithacajournal.com                  # The Ithaca Journal
+jacksonville.com                   # The Florida Times-Union
+jacobin.com                        # Jacobin
+jewishchronicle.timesofisrael.com  # Pittsburgh Jewish Chronicle
+jewishstandard.timesofisrael.com   # Jewish Standard
+jsonline.com                       # Milwaukee Journal Sentinel
+jta.org                            # Jewish Telegraphic Agency
+kake.com                           # KAKE
+kansascity.com                     # The Kansas City Star
+kare11.com                         # KARE 11
+kark.com                           # KARK 4
+katu.com                           # KATU
+kcci.com                           # KCCI
+kcra.com                           # KCRA
+kcrg.com                           # KCRG-TV9
+kctv5.com                          # KCTV5
+kcur.org                           # KCUR
+kdvr.com                           # FOX31 Denver
+keloland.com                       # KELOLAND News
+kens5.com                          # KENS 5
+kentucky.com                       # Lexington Herald-Leader
+kentuckylantern.com                # Kentucky Lantern
+ketv.com                           # KETV
+kezi.com                           # KEZI 9
+kffhealthnews.org                  # KFF Health News
+kfor.com                           # KFOR 4
+kfsm.com                           # 5NEWS (KFSM)
+kgun9.com                          # KGUN 9
+kgw.com                            # KGW
+khon2.com                          # KHON2
+khou.com                           # KHOU 11
+king5.com                          # KING 5
+kiro7.com                          # KIRO 7
+kjrh.com                           # KJRH 2
+kjzz.org                           # KJZZ
+kmbc.com                           # KMBC
+kmov.com                           # KMOV 4
+kmph.com                           # KMPH FOX26 Fresno
+knoxnews.com                       # Knoxville News Sentinel
+koat.com                           # KOAT
+koco.com                           # KOCO
+koin.com                           # KOIN 6
+kold.com                           # KOLD 13
+kolotv.com                         # KOLO 8
+komonews.com                       # KOMO News
+kpbs.org                           # KPBS
+kpic.com                           # KPIC
+kptv.com                           # FOX 12 Oregon (KPTV)
+kqed.org                           # KQED; mixed: also blocks KQED's arts, science and TV pages
+krdo.com                           # KRDO
+krem.com                           # KREM 2
+kron4.com                          # KRON4
+krqe.com                           # KRQE
+ksat.com                           # KSAT 12
+ksdk.com                           # KSDK
+kshb.com                           # KSHB 41
+ksl.com                            # KSL; mixed: also blocks KSL Classifieds, Cars and Homes
+kstp.com                           # KSTP 5
+ktla.com                           # KTLA
+ktnv.com                           # KTNV 13
+ktvu.com                           # KTVU FOX 2 San Francisco
+kuow.org                           # KUOW
+kut.org                            # KUT
+kutv.com                           # KUTV
+kvoa.com                           # KVOA 4
+kvue.com                           # KVUE
+kwch.com                           # KWCH 12
+kwwl.com                           # KWWL
+kxan.com                           # KXAN
+kxly.com                           # KXLY
+laist.com                          # LAist
+lasvegassun.com                    # Las Vegas Sun
+latimes.com                        # Los Angeles Times
+laweekly.com                       # LA Weekly
+leadstories.com                    # Lead Stories
+live5news.com                      # Live 5 News
+local10.com                        # Local 10 (WPLG)
+local12.com                        # Local 12 Cincinnati
+localmemphis.com                   # Local 24 Memphis
+lpm.org                            # Louisville Public Media
+madison.com                        # Wisconsin State Journal
+mainemorningstar.com               # Maine Morning Star
+marketplace.org                    # Marketplace
+marketwatch.com                    # MarketWatch
+martinoticias.com                  # Radio y Televisión Martí
+masslive.com                       # MassLive
+mcall.com                          # The Morning Call
+mediaite.com                       # Mediaite
+mediamatters.org                   # Media Matters for America
+meidasnews.com                     # MeidasTouch News
+meidastouch.com                    # MeidasTouch News
+mercurynews.com                    # The Mercury News
+metro.pr                           # Metro Puerto Rico
+miamiherald.com                    # Miami Herald
+michiganpublic.org                 # Michigan Public
+militarytimes.com                  # Military Times
+mississippitoday.org               # Mississippi Today
+mlive.com                          # MLive
+motherjones.com                    # Mother Jones
+mprnews.org                        # MPR News
+ms.now                             # MS NOW (formerly MSNBC)
+msnbc.com                          # MSNBC (now MS NOW)
+myfox8.com                         # FOX8 WGHP
+mynews13.com                       # Spectrum News 13
+mypanhandle.com                    # WMBB
+mysanantonio.com                   # San Antonio Express-News
+n.pr                               # NPR (link shortener)
+natesilver.net                     # Silver Bulletin
+nationalinterest.org               # The National Interest
+nationaljournal.com                # National Journal
+nationalreview.com                 # National Review
+naturalnews.com                    # Natural News
+nbc-2.com                          # NBC2 News
+nbc12.com                          # NBC12
+nbc15.com                          # NBC15 Madison
+nbc4i.com                          # NBC4 Columbus
+nbcbayarea.com                     # NBC Bay Area (KNTV)
+nbcboston.com                      # NBC Boston (WBTS)
+nbcchicago.com                     # NBC Chicago (WMAQ)
+nbcconnecticut.com                 # NBC Connecticut (WVIT)
+nbcdfw.com                         # NBC DFW (KXAS)
+nbclosangeles.com                  # NBC Los Angeles (KNBC)
+nbcmiami.com                       # NBC 6 South Florida (WTVJ)
+nbcnews.com                        # NBC News
+nbcnews.to                         # NBC News (link shortener)
+nbcnewyork.com                     # NBC New York (WNBC)
+nbcphiladelphia.com                # NBC10 Philadelphia (WCAU)
+nbcsandiego.com                    # NBC 7 San Diego (KNSD)
+nbcwashington.com                  # NBC4 Washington (WRC)
+necn.com                           # NECN
+newrepublic.com                    # The New Republic
+news10.com                         # NEWS10 ABC
+news12.com                         # News 12
+news3lv.com                        # News 3 Las Vegas
+news4jax.com                       # News4JAX (WJXT)
+news4sanantonio.com                # News 4 San Antonio (WOAI)
+news5cleveland.com                 # News 5 Cleveland
+news9.com                          # News 9 (KWTV)
+newsbusters.org                    # NewsBusters
+newschannel5.com                   # NewsChannel 5 Nashville (WTVF)
+newsday.com                        # Newsday
+newsfromthestates.com              # News From The States
+newsmax.com                        # Newsmax
+newsnationnow.com                  # NewsNation
+newsobserver.com                   # The News & Observer
+newson6.com                        # News On 6 (KOTV)
+newsweek.com                       # Newsweek
+newyorker.com                      # The New Yorker
+newyorkupstate.com                 # NewYorkUpstate.com
+nhpr.org                           # New Hampshire Public Radio
+nj.com                             # NJ.com (The Star-Ledger)
+njjewishnews.timesofisrael.com     # New Jersey Jewish News
+njspotlightnews.org                # NJ Spotlight News
+nola.com                           # NOLA.com (The Times-Picayune)
+northjersey.com                    # NorthJersey.com (The Record)
+noticel.com                        # Noticel
+npr.org                            # NPR; mixed: also blocks NPR Music (Tiny Desk) and podcast pages
+ntd.com                            # NTD
+ny1.com                            # NY1
+nydailynews.com                    # New York Daily News
+nymag.com                          # New York magazine; mixed: also blocks The Cut, Grub Street and Curbed
+nyp.st                             # New York Post (link shortener)
+nypost.com                         # New York Post
+nysun.com                          # The New York Sun
+nyt.com                            # The New York Times (short domain)
+nyti.ms                            # The New York Times (link shortener)
+nytimes.com                        # The New York Times; mixed: also blocks NYT Games (Wordle, Connections), NYT Cooking and Wirecutter
+observer.com                       # Observer
+occupydemocrats.com                # Occupy Democrats
+ocregister.com                     # The Orange County Register
+oklahoman.com                      # The Oklahoman
+oklahomavoice.com                  # Oklahoma Voice
+opb.org                            # OPB
+oregonlive.com                     # The Oregonian
+orlandosentinel.com                # Orlando Sentinel
+palmbeachpost.com                  # The Palm Beach Post
+palmerreport.com                   # Palmer Report
+patch.com                          # Patch
+pennlive.com                       # PennLive
+philly.com                         # The Philadelphia Inquirer (legacy domain)
+phillyvoice.com                    # PhillyVoice
+pilotonline.com                    # The Virginian-Pilot
+pix11.com                          # PIX11
+politi.co                          # Politico (link shortener)
+politico.com                       # Politico
+politifact.com                     # PolitiFact
+post-gazette.com                   # Pittsburgh Post-Gazette
+postandcourier.com                 # The Post and Courier
+pressdemocrat.com                  # The Press Democrat
+pressherald.com                    # Portland Press Herald
+propublica.org                     # ProPublica
+prospect.org                       # The American Prospect
+puck.news                          # Puck
+qcnews.com                         # Queen City News (WJZY)
+qz.com                             # Quartz
+radiofarda.com                     # Radio Farda (RFE/RL)
+rawstory.com                       # Raw Story
+readtangle.com                     # Tangle
+realclearpolling.com               # RealClearPolling
+reason.com                         # Reason
+redstate.com                       # RedState
+reporterherald.com                 # Loveland Reporter-Herald
+reviewjournal.com                  # Las Vegas Review-Journal
+rfa.org                            # Radio Free Asia
+rhodeislandcurrent.com             # Rhode Island Current
+rollcall.com                       # Roll Call
+sacbee.com                         # The Sacramento Bee
+salon.com                          # Salon
+sandiegouniontribune.com           # The San Diego Union-Tribune
+scotusblog.com                     # SCOTUSblog
+scrippsnews.com                    # Scripps News
+seattlepi.com                      # Seattle Post-Intelligencer
+seattletimes.com                   # The Seattle Times
+seattletimes.nwsource.com          # The Seattle Times (legacy host)
+sfchronicle.com                    # San Francisco Chronicle
+sfgate.com                         # SFGATE
+signalcleveland.org                # Signal Cleveland
+slate.com                          # Slate
+slowboring.com                     # Slow Boring
+sltrib.com                         # The Salt Lake Tribune
+snopes.com                         # Snopes
+southdakotasearchlight.com         # South Dakota Searchlight
+spectator.org                      # The American Spectator
+spectrumnews1.com                  # Spectrum News 1
+spectrumnewsnecn.com               # Spectrum News NECN
+spokesman.com                      # The Spokesman-Review
+star-telegram.com                  # Fort Worth Star-Telegram
+startribune.com                    # Star Tribune
+statesman.com                      # Austin American-Statesman
+stlpr.org                          # St. Louis Public Radio
+stltoday.com                       # St. Louis Post-Dispatch
+stripes.com                        # Stars and Stripes
+sun-sentinel.com                   # South Florida Sun Sentinel
+suntimes.com                       # Chicago Sun-Times
+svoboda.org                        # Radio Svoboda (RFE/RL Russian Service)
+syracuse.com                       # Syracuse.com (The Post-Standard)
+talkingpointsmemo.com              # Talking Points Memo
+tampabay.com                       # Tampa Bay Times
+tampabay28.com                     # Tampa Bay 28 (WFTS)
+taskandpurpose.com                 # Task & Purpose
+telegram.com                       # Telegram & Gazette
+tennessean.com                     # The Tennessean
+texasmonthly.com                   # Texas Monthly
+texastribune.org                   # The Texas Tribune
+the-sun.com                        # The U.S. Sun
+theamericanconservative.com        # The American Conservative
+theappeal.org                      # The Appeal
+theatlantic.com                    # The Atlantic
+theatln.tc                         # The Atlantic (link shortener)
+theblaze.com                       # TheBlaze
+thebulwark.com                     # The Bulwark
+thecity.nyc                        # The City
+thecrimson.com                     # The Harvard Crimson
+thedailybeast.com                  # The Daily Beast
+theepochtimes.com                  # The Epoch Times
+thefederalist.com                  # The Federalist
+thegatewaypundit.com               # The Gateway Pundit
+thegrio.com                        # TheGrio
+thehill.com                        # The Hill
+theintercept.com                   # The Intercept
+thenation.com                      # The Nation
+theroot.com                        # The Root
+thestreet.com                      # TheStreet
+theworld.org                       # The World (PRX)
+thv11.com                          # THV11
+time.com                           # Time
+timesunion.com                     # Times Union
+tmj4.com                           # TMJ4
+townhall.com                       # Townhall
+triblive.com                       # TribLIVE (Pittsburgh Tribune-Review)
+truthout.org                       # Truthout
+tucson.com                         # Arizona Daily Star
+turnto10.com                       # NBC 10 WJAR
+twincities.com                     # St. Paul Pioneer Press
+tyt.com                            # The Young Turks
+upi.com                            # UPI
+usat.ly                            # USA Today (link shortener)
+usatoday.com                       # USA Today
+usnews.com                         # U.S. News & World Report; mixed: also blocks its college, hospital and travel rankings
+utahnewsdispatch.com               # Utah News Dispatch
+vice.com                           # Vice; mixed: also blocks Vice's culture, music and lifestyle content
+voanews.com                        # Voice of America
+vox.com                            # Vox
+wabe.org                           # WABE
+waff.com                           # WAFF 48
+wamu.org                           # WAMU
+wane.com                           # WANE 15
+wapo.st                            # The Washington Post (link shortener)
+wapt.com                           # WAPT 16
+washingtonexaminer.com             # Washington Examiner
+washingtonmonthly.com              # Washington Monthly
+washingtonpost.com                 # The Washington Post
+washingtonstatestandard.com        # Washington State Standard
+washingtontimes.com                # The Washington Times
+wate.com                           # WATE 6
+wave3.com                          # WAVE 3
+wavy.com                           # WAVY 10
+wbaltv.com                         # WBAL-TV
+wbez.org                           # WBEZ
+wbir.com                           # WBIR
+wbrc.com                           # WBRC FOX6
+wbtv.com                           # WBTV
+wbur.org                           # WBUR
+wcnc.com                           # WCNC
+wcpo.com                           # WCPO 9
+wctv.tv                            # WCTV
+wcvb.com                           # WCVB
+wdbj7.com                          # WDBJ7
+wdrbwave.com                       # WDRB+WAVE News
+wdsu.com                           # WDSU
+weartv.com                         # WEAR ABC 3
+wesa.fm                            # WESA
+wesanews.org                       # 90.5 WESA
+wesh.com                           # WESH
+westvirginiawatch.com              # West Virginia Watch
+wfaa.com                           # WFAA
+wfae.org                           # WFAE
+wfla.com                           # WFLA
+wfmynews2.com                      # WFMY News 2
+wfsb.com                           # WFSB Channel 3
+wftv.com                           # WFTV
+wfxl.com                           # FOX 31 Albany (WFXL)
+wfyi.org                           # WFYI
+wgal.com                           # WGAL
+wgntv.com                          # WGN-TV
+wgrz.com                           # WGRZ
+wgxa.tv                            # WGXA
+whas11.com                         # WHAS11
+whio.com                           # WHIO
+whnt.com                           # WHNT 19
+whotv.com                          # WHO 13
+whyy.org                           # WHYY; mixed: also blocks WHYY's TV and radio programme pages
+wibw.com                           # WIBW 13
+winknews.com                       # WINK News
+wishtv.com                         # WISH-TV 8
+wisn.com                           # WISN 12
+wistv.com                          # WIS
+wivb.com                           # WIVB 4
+wjbf.com                           # WJBF
+wjcl.com                           # WJCL
+wjla.com                           # WJLA 7News
+wjtv.com                           # WJTV 12
+wjxt.com                           # WJXT (check)
+wkbw.com                           # WKBW 7
+wkrg.com                           # WKRG News 5
+wkrn.com                           # WKRN
+wkyc.com                           # WKYC
+wlky.com                           # WLKY
+wlos.com                           # WLOS
+wlrn.org                           # WLRN
+wlwt.com                           # WLWT
+wmar2news.com                      # WMAR-2 News
+wmtv15news.com                     # WMTV 15 News
+wmur.com                           # WMUR
+wn.com                             # World News Network
+wncn.com                           # CBS 17 (WNCN)
+wnd.com                            # WND
+wndu.com                           # WNDU 16
+wnyc.org                           # WNYC; mixed: also blocks WNYC's culture shows and podcasts
+wnyt.com                           # WNYT NewsChannel 13
+woodtv.com                         # WOOD TV8
+worldjournal.com                   # World Journal
+wowt.com                           # WOWT 6
+wpbf.com                           # WPBF
+wpln.org                           # WPLN
+wpr.org                            # Wisconsin Public Radio
+wpri.com                           # WPRI 12
+wptv.com                           # WPTV 5
+wpxi.com                           # WPXI
+wqad.com                           # WQAD 8
+wral.com                           # WRAL
+wrdw.com                           # WRDW 12
+wreg.com                           # WREG 3
+wric.com                           # WRIC 8
+wrtv.com                           # WRTV 6
+wsav.com                           # WSAV 3
+wsbtv.com                          # WSB-TV
+wsfa.com                           # WSFA 12
+wsj.com                            # The Wall Street Journal
+wsls.com                           # WSLS 10
+wsmv.com                           # WSMV 4
+wsoctv.com                         # WSOC-TV
+wspa.com                           # WSPA 7
+wsvn.com                           # WSVN 7News
+wtae.com                           # WTAE
+wthr.com                           # WTHR
+wtkr.com                           # WTKR 3
+wtlv.com                           # First Coast News (WTLV)
+wtoc.com                           # WTOC 11
+wtol.com                           # WTOL 11
+wtop.com                           # WTOP
+wtsp.com                           # WTSP 10 Tampa Bay
+wtvm.com                           # WTVM 9
+wtvr.com                           # WTVR CBS 6
+wunc.org                           # WUNC
+wusa9.com                          # WUSA9
+wusf.org                           # WUSF
+wvlt.tv                            # WVLT 8
+wwltv.com                          # WWL-TV
+wxii12.com                         # WXII 12
+wxyz.com                           # WXYZ 7 Detroit
+wyff4.com                          # WYFF 4
+wypr.org                           # WYPR
+wzzm13.com                         # WZZM 13
+zerohedge.com                      # ZeroHedge

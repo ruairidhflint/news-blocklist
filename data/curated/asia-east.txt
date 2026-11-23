@@ -1,0 +1,414 @@
+# East and Southeast Asia: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+# === Brunei ===
+thebruneian.news  # The Bruneian
+
+# === Cambodia ===
+akp.gov.kh         # Agence Kampuchea Presse
+cambodianess.com   # Cambodianess
+cambojanews.com    # CamboJA News
+dap-news.com       # DAP News
+freshnewsasia.com  # Fresh News
+news.sabay.com.kh  # Sabay News
+thmeythmey.com     # Thmey Thmey
+
+# === China ===
+bjnews.com.cn        # The Beijing News
+caixin.com           # Caixin
+ce.cn                # China Economic Net (Economic Daily)
+cgtn.com             # CGTN
+china.com.cn         # China.com.cn (China Internet Information Center)
+china.org.cn         # China.org.cn (China Internet Information Center)
+chinadaily.com.cn    # China Daily
+chinanews.com        # China News Service
+chinanews.com.cn     # China News Service
+cls.cn               # Cailian Press
+cqnews.net           # Chongqing News
+cri.cn               # China Radio International
+cs.com.cn            # China Securities Journal
+cyol.com             # China Youth Daily
+dwnews.com           # Duowei News
+dzwww.com            # Dazhong Daily (Dazhong Net)
+eastday.com          # Eastday
+finance.sina.com.cn  # Sina Finance
+globaltimes.cn       # Global Times
+gmw.cn               # Guangming Daily
+guancha.cn           # Guancha
+huanqiu.com          # Huanqiu (Global Times Chinese)
+ifeng.com            # Phoenix New Media (ifeng)
+inewsweek.cn         # China Newsweek
+jiemian.com          # Jiemian
+jschina.com.cn       # Jiangsu Network (Jschina)
+new.qq.com           # Tencent News (articles)
+news.163.com         # NetEase News
+news.baidu.com       # Baidu News
+news.cctv.com        # CCTV News
+news.china.com       # China.com News
+news.cn              # Xinhua News Agency
+news.cnr.cn          # China National Radio News
+news.qq.com          # Tencent News
+news.sina.com.cn     # Sina News
+news.sohu.com        # Sohu News
+people.cn            # People's Daily
+people.com.cn        # People's Daily
+qstheory.cn          # Qiushi
+rednet.cn            # Hunan Rednet
+scol.com.cn          # Sichuan Online
+sixthtone.com        # Sixth Tone
+southcn.com          # Nanfang Daily / Southcn
+thepaper.cn          # The Paper
+toutiao.com          # Toutiao
+www.163.com          # NetEase portal homepage and articles; mixed: also blocks the NetEase portal front page (not 163 Mail)
+www.qq.com           # Tencent portal homepage; mixed: also blocks the qq.com portal front page (not QQ, WeChat or QQ Mail)
+www.sina.com         # Sina portal homepage (international); mixed: also blocks the Sina portal front page
+www.sina.com.cn      # Sina portal homepage; mixed: also blocks the Sina portal front page (not Weibo or Sina Mail)
+www.sohu.com         # Sohu portal homepage and articles; mixed: also blocks the Sohu portal front page
+xhby.net             # Xinhua Daily (Jiangsu)
+xinhuanet.com        # Xinhua News Agency
+ynet.com             # Beijing Youth Daily (Ynet)
+youth.cn             # China Youth Network
+zjol.com.cn          # Zhejiang Online (Zhejiang Daily)
+
+# === Hong Kong ===
+asiatimes.com     # Asia Times
+bastillepost.com  # Bastille Post
+coconuts.co       # Coconuts
+dotdotnews.com    # DotDotNews
+hk01.com          # HK01
+hkej.com          # Hong Kong Economic Journal
+hket.com          # Hong Kong Economic Times
+mingpao.com       # Ming Pao
+news.now.com      # Now News
+news.rthk.hk      # RTHK News
+news.tvb.com      # TVB News
+scmp.com          # South China Morning Post
+stheadline.com    # Sing Tao Headline
+tkww.hk           # Ta Kung Wen Wei
+
+# === Indonesia ===
+akurat.co           # Akurat
+antaranews.com      # Antara News Agency
+asumsi.co           # Asumsi
+balipost.com        # Bali Post
+beritasatu.com      # BeritaSatu
+cekfakta.com        # CekFakta
+cnbcindonesia.com   # CNBC Indonesia
+cnnindonesia.com    # CNN Indonesia
+detik.com           # detikcom
+fajar.co.id         # Fajar
+harianjogja.com     # Harian Jogja
+idntimes.com        # IDN Times
+idxchannel.com      # IDX Channel
+inews.id            # iNews
+inilah.com          # Inilah.com
+investor.id         # Investor Daily
+jpnn.com            # JPNN
+katadata.co.id      # Katadata
+kbr.id              # KBR
+kompas.com          # Kompas.com
+kompas.tv           # Kompas TV
+kontan.co.id        # Kontan
+kumparan.com        # Kumparan
+liputan6.com        # Liputan6
+metrotvnews.com     # Metro TV News
+narasi.tv           # Narasi
+pikiran-rakyat.com  # Pikiran Rakyat
+poskota.co.id       # Pos Kota
+sindonews.com       # Sindonews
+solopos.com         # Solopos
+suaramerdeka.com    # Suara Merdeka
+tempo.co            # Tempo
+thejakartapost.com  # The Jakarta Post
+tirto.id            # Tirto
+tribunnews.com      # Tribunnews (Tribun Network)
+turnbackhoax.id     # TurnBackHoax (Mafindo)
+tvonenews.com       # tvOne News
+viva.co.id          # VIVA
+voi.id              # VOI
+wartaekonomi.co.id  # Warta Ekonomi
+waspada.id          # Waspada
+
+# === Japan ===
+47news.jp                # 47NEWS (Kyodo)
+agora-web.jp             # Agora (commentary)
+asahi.com                # Asahi Shimbun
+bunshun.jp               # Bunshun Online
+chugoku-np.co.jp         # Chugoku Shimbun
+chunichi.co.jp           # Chunichi Shimbun
+cnn.co.jp                # CNN.co.jp
+courrier.jp              # Courrier Japon
+dailyshincho.jp          # Daily Shincho
+diamond.jp               # Diamond Online
+fnn.jp                   # FNN Prime Online (Fuji News Network)
+gendai.media             # Gendai Business (Kodansha)
+globe.asahi.com          # Asahi Shimbun GLOBE+
+gunosy.com               # Gunosy
+huffingtonpost.jp        # HuffPost Japan
+iza.ne.jp                # iZa (Sankei)
+j-cast.com               # J-CAST News
+japantimes.co.jp         # The Japan Times
+japantoday.com           # Japan Today
+jbpress.ismedia.jp       # JBpress
+jiji.com                 # Jiji Press
+kyodonews.net            # Kyodo News
+mainichi.jp              # Mainichi Shimbun
+news.biglobe.ne.jp       # BIGLOBE News
+news.goo.ne.jp           # goo News
+news.infoseek.co.jp      # Infoseek News (Rakuten)
+news.line.me             # LINE NEWS
+news.livedoor.com        # livedoor News
+news.mixi.jp             # mixi News
+news.nicovideo.jp        # Niconico News
+news.ntv.co.jp           # NTV News
+news.tv-asahi.co.jp      # TV Asahi News (ANN)
+news.web.nhk             # NHK News
+news.yahoo.co.jp         # Yahoo! News Japan
+newsdig.tbs.co.jp        # TBS News DIG
+newspicks.com            # NewsPicks
+newsweekjapan.jp         # Newsweek Japan
+nikkan-gendai.com        # Nikkan Gendai
+nikkei.com               # Nihon Keizai Shimbun (Nikkei, Nikkei Asia)
+nippon.com               # nippon.com
+nishinippon.co.jp        # Nishinippon Shimbun
+oita-press.co.jp         # Oita Godo Shimbun
+president.jp             # President Online
+sankei.com               # Sankei Shimbun
+times.abema.tv           # ABEMA TIMES
+tokyo-np.co.jp           # Tokyo Shimbun
+topics.smt.docomo.ne.jp  # dmenu News
+toyokeizai.net           # Toyo Keizai Online
+txbiz.tv-tokyo.co.jp     # TV Tokyo BIZ
+wedge.ismedia.jp         # Wedge Online
+www3.nhk.or.jp           # NHK News Web and NHK World-Japan; mixed: also blocks NHK World-Japan programme pages
+yomiuri.co.jp            # Yomiuri Shimbun
+
+# === Laos ===
+kpl.gov.la             # Khaosan Pathet Lao
+vientianetimes.org.la  # Vientiane Times
+
+# === Macau ===
+exmoo.com               # Exmoo News
+hojemacau.com.mo        # Hoje Macau
+jtm.com.mo              # Jornal Tribuna de Macau
+macaodaily.com          # Macao Daily News
+macaubusiness.com       # Macau Business
+macaudailytimes.com.mo  # Macau Daily Times
+
+# === Malaysia ===
+astroawani.com         # Astro Awani
+berita.rtm.gov.my      # RTM News
+bharian.com.my         # Berita Harian
+buletintv3.my          # Buletin TV3
+focusmalaysia.my       # Focus Malaysia
+freemalaysiatoday.com  # Free Malaysia Today
+hmetro.com.my          # Harian Metro
+kosmo.com.my           # Kosmo!
+malaymail.com          # Malay Mail
+malaysiagazette.com    # Malaysia Gazette
+malaysiakini.com       # Malaysiakini
+newswav.com            # Newswav
+nst.com.my             # New Straits Times
+sarawaktribune.com     # Sarawak Tribune
+seehua.com             # See Hua Daily News
+sinarharian.com.my     # Sinar Harian
+theedgemalaysia.com    # The Edge Malaysia
+thestar.com.my         # The Star
+thesun.my              # The Sun Malaysia
+thevibes.com           # The Vibes
+
+# === Myanmar ===
+bnionline.net        # BNI Multimedia Group
+dvb.no               # Democratic Voice of Burma
+elevenmyanmar.com    # Eleven Myanmar
+frontiermyanmar.net  # Frontier Myanmar
+irrawaddy.com        # The Irrawaddy
+
+# === North Korea ===
+vok.rep.kp  # Voice of Korea
+
+# === Philippines ===
+abs-cbn.com       # ABS-CBN News; mixed: also blocks ABS-CBN entertainment and programme pages
+bilyonaryo.com    # Bilyonaryo
+bomboradyo.com    # Bombo Radyo
+brigadanews.ph    # Brigada News
+dzrh.com.ph       # DZRH News
+gmanetwork.com    # GMA Network (GMA News Online); mixed: also blocks GMA entertainment pages
+inquirer.net      # Philippine Daily Inquirer
+journal.com.ph    # People's Journal
+manilatimes.net   # The Manila Times
+mb.com.ph         # Manila Bulletin
+news.abs-cbn.com  # ABS-CBN News
+news.tv5.com.ph   # News5 (TV5)
+news5.com.ph      # News5
+onenews.ph        # One News
+pcij.org          # PCIJ
+philstar.com      # The Philippine Star
+pna.gov.ph        # Philippine News Agency
+politiko.com.ph   # Politiko
+pressone.ph       # PressONE.PH
+rappler.com       # Rappler
+remate.ph         # Remate
+rmn.ph            # RMN Networks
+sunstar.com.ph    # SunStar
+tsek.ph           # Tsek.ph
+verafiles.org     # VERA Files
+
+# === Singapore ===
+8world.com            # 8world News (Mediacorp)
+asiaone.com           # AsiaOne
+businesstimes.com.sg  # The Business Times
+channelnewsasia.com   # CNA (Channel NewsAsia)
+mothership.sg         # Mothership
+mustsharenews.com     # MS News
+straitstimes.com      # The Straits Times
+theedgesingapore.com  # The Edge Singapore
+theindependent.sg     # The Independent Singapore
+theinitium.com        # Initium Media
+theonlinecitizen.com  # The Online Citizen
+zaobao.com.sg         # Lianhe Zaobao
+
+# === South Korea ===
+asiae.co.kr                   # The Asia Business Daily
+biz.sbs.co.kr                 # SBS Biz
+bizwatch.co.kr                # Business Watch
+chosun.com                    # The Chosun Ilbo
+dailian.co.kr                 # Dailian
+dailynk.com                   # Daily NK
+donga.com                     # The Dong-a Ilbo
+etoday.co.kr                  # eToday
+hani.co.kr                    # The Hankyoreh
+hankyung.com                  # Korea Economic Daily
+heraldcorp.com                # Herald Corporation (Herald Business)
+ichannela.com                 # Channel A News
+imnews.imbc.com               # MBC News
+joongang.co.kr                # JoongAng Ilbo
+joongdo.co.kr                 # Joongdo Ilbo
+khan.co.kr                    # Kyunghyang Shinmun
+koreaherald.com               # The Korea Herald
+koreajoongangdaily.joins.com  # Korea JoongAng Daily
+koreatimes.co.kr              # The Korea Times
+kukinews.com                  # Kuki News
+media.naver.com               # Naver News (publisher pages)
+mediapen.com                  # MediaPen
+mediatoday.co.kr              # Media Today
+mediaus.co.kr                 # Media Us
+mk.co.kr                      # Maeil Business Newspaper
+mt.co.kr                      # Money Today
+munhwa.com                    # Munhwa Ilbo
+n.news.naver.com              # Naver News article pages (explicit for hosts-format lists)
+newdaily.co.kr                # New Daily
+news.daum.net                 # Daum News
+news.einfomax.co.kr           # Yonhap Infomax
+news.jtbc.co.kr               # JTBC News
+news.kbs.co.kr                # KBS News
+news.nate.com                 # Nate News
+news.naver.com                # Naver News
+news.sbs.co.kr                # SBS News
+news.zum.com                  # ZUM News
+news1.kr                      # News1
+newsis.com                    # Newsis
+newstapa.org                  # Newstapa
+newsway.co.kr                 # NewsWay
+nongmin.com                   # Nongmin Shinmun
+ohmynews.com                  # OhmyNews
+pennmike.com                  # Pen&Mike
+pressian.com                  # Pressian
+sedaily.com                   # Seoul Economic Daily
+seoul.co.kr                   # Seoul Shinmun
+sisain.co.kr                  # Sisa IN
+thebell.co.kr                 # The Bell
+v.daum.net                    # Daum News (articles)
+yna.co.kr                     # Yonhap News Agency
+yonhapnewstv.co.kr            # Yonhap News TV
+ytn.co.kr                     # YTN
+
+# === Taiwan ===
+businessweekly.com.tw  # Business Weekly
+chinatimes.com         # China Times
+cmmedia.com.tw         # CM Media
+cna.com.tw             # Central News Agency
+cnyes.com              # Anue (cnyes) financial news
+ctee.com.tw            # Commercial Times
+ctinews.com            # CTi News
+ctwant.com             # CTWANT
+cw.com.tw              # CommonWealth Magazine
+ettoday.net            # ETtoday
+ftvnews.com.tw         # FTV News
+gvm.com.tw             # Global Views Monthly
+ltn.com.tw             # Liberty Times
+mirrormedia.mg         # Mirror Media
+mygopen.com            # MyGoPen
+news.cts.com.tw        # CTS News
+news.ebc.net.tw        # EBC News
+news.pchome.com.tw     # PChome News
+news.ttv.com.tw        # TTV News
+news.tvbs.com.tw       # TVBS News
+nownews.com            # NOWnews
+rti.org.tw             # Radio Taiwan International
+setn.com               # SET News
+storm.mg               # Storm Media
+taipeitimes.com        # Taipei Times
+taiwannews.com.tw      # Taiwan News
+tfc-taiwan.org.tw      # Taiwan FactCheck Center
+today.line.me          # LINE TODAY
+tw.nextapple.com       # Next Apple News
+twreporter.org         # The Reporter
+udn.com                # United Daily News; mixed: also blocks udn blog and udn reading
+upmedia.mg             # Up Media
+wealth.com.tw          # Wealth Magazine
+
+# === Thailand ===
+bangkokbiznews.com  # Bangkok Biz News
+bangkokpost.com     # Bangkok Post
+isranews.org        # Isra News
+khaosodenglish.com  # Khaosod English
+mcot.net            # MCOT
+mgronline.com       # Manager Online
+naewna.com          # Naewna
+news.sanook.com     # Sanook News
+pattayamail.com     # Pattaya Mail
+posttoday.com       # Post Today
+pptvhd36.com        # PPTV News; mixed: also blocks PPTV programme pages
+prachachat.net      # Prachachat Turakij
+thaipbs.or.th       # Thai PBS; mixed: also blocks Thai PBS programme pages
+thairath.co.th      # Thairath
+tnnthailand.com     # TNN
+workpointtoday.com  # Workpoint Today
+
+# === Timor-Leste ===
+tatoli.tl  # Tatoli
+
+# === Vietnam ===
+24h.com.vn              # 24h news portal
+baodautu.vn             # Báo Đầu tư
+baomoi.com              # Báo Mới
+baoquocte.vn            # Thế giới & Việt Nam
+baotintuc.vn            # Báo Tin tức (VNA)
+bnews.vn                # BNews (VNA)
+cafef.vn                # CafeF
+cand.com.vn             # Công an nhân dân
+congan.com.vn           # Công An TP.HCM
+dantri.com.vn           # Dân Trí
+danviet.vn              # Dân Việt
+doisongphapluat.com.vn  # Đời sống & Pháp luật
+giaoduc.net.vn          # Giáo dục Việt Nam
+hanoimoi.vn             # Hà Nội Mới
+kinhtedothi.vn          # Kinh tế & Đô thị
+laodong.vn              # Lao Động
+nhandan.vn              # Nhân Dân
+plo.vn                  # Pháp Luật TP.HCM
+qdnd.vn                 # Quân đội nhân dân
+soha.vn                 # Soha
+thanhnien.vn            # Thanh Niên
+tuoitre.vn              # Tuổi Trẻ
+vietnamnet.vn           # VietNamNet
+vietnamplus.vn          # VietnamPlus
+vir.com.vn              # Vietnam Investment Review
+vnanet.vn               # Vietnam News Agency
+vneconomy.vn            # VnEconomy
+vnexpress.net           # VnExpress
+vov.vn                  # Voice of Vietnam (VOV)
+zingnews.vn             # Zing News
+znews.vn                # Znews

@@ -1,0 +1,476 @@
+# Latin America and the Caribbean: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+# === Argentina ===
+0223.com.ar                # 0223
+ambito.com                 # Ámbito
+batimes.com.ar             # Buenos Aires Times
+buenosairesherald.com      # Buenos Aires Herald
+c5n.com                    # C5N
+cadena3.com                # Cadena 3
+canal26.com                # Canal 26
+chequeado.com              # Chequeado
+clarin.com                 # Clarín
+contextotucuman.com        # Contexto Tucumán
+cronista.com               # El Cronista
+diariochaco.com            # Diario Chaco
+diarioepoca.com            # Diario Época
+diariouno.com.ar           # Diario Uno
+elcohetealaluna.com        # El Cohete a la Luna
+eldestapeweb.com           # El Destape
+eldia.com                  # El Día (La Plata)
+eldoce.tv                  # El Doce
+elintransigente.com        # El Intransigente
+elonce.com                 # Elonce
+elsol.com.ar               # El Sol (Mendoza)
+eltribuno.com              # El Tribuno
+infobae.com                # Infobae
+infocielo.com              # InfoCielo
+iprofesional.com           # iProfesional
+lanacion.com.ar            # La Nación
+lanueva.com                # La Nueva
+lavoz.com.ar               # La Voz del Interior
+letrap.com.ar              # Letra P
+lmneuquen.com              # LM Neuquén
+losandes.com.ar            # Los Andes
+minutouno.com              # Minuto Uno
+pagina12.com.ar            # Página/12
+perfil.com                 # Perfil
+radiomitre.cienradios.com  # Radio Mitre
+rosario3.com               # Rosario3
+tn.com.ar                  # TN Todo Noticias
+todojujuy.com              # Todo Jujuy
+
+# === Aruba ===
+awemainta.com  # Awe Mainta
+bondia.com     # Bon Dia Aruba
+diario.aw      # Diario
+
+# === Bahamas ===
+ewnews.com            # Eyewitness News
+ournews.bs            # Our News
+thebahamasweekly.com  # The Bahamas Weekly
+
+# === Barbados ===
+barbadosadvocate.com  # Barbados Advocate
+barbadostoday.bb      # Barbados Today
+nationnews.com        # Nation News
+
+# === Belize ===
+7newsbelize.com     # 7 News Belize
+channel5belize.com  # Channel 5 Belize
+lovefm.com          # Love FM
+sanpedrosun.com     # The San Pedro Sun
+
+# === Bolivia ===
+boliviaverifica.bo   # Bolivia Verifica
+brujuladigital.net   # Brújula Digital
+correodelsur.com     # Correo del Sur
+eju.tv               # EJU
+elalteno.com.bo      # El Alteño
+eldeber.com.bo       # El Deber
+erbol.com.bo         # Erbol
+la-razon.com         # La Razón
+lapatriaenlinea.com  # La Patria
+lostiempos.com       # Los Tiempos
+reduno.com.bo        # Red Uno
+unitel.bo            # Unitel
+
+# === Brazil ===
+agenciabrasil.ebc.com.br             # Agência Brasil
+agoravale.com.br                     # Agora Vale
+aosfatos.org                         # Aos Fatos
+aredacao.com.br                      # A Redação
+band.uol.com.br                      # Band (old host, redirects to www.band.com.br)
+bandab.com.br                        # Banda B
+bemparana.com.br                     # Bem Paraná
+bnews.com.br                         # BNews
+brasil247.com                        # Brasil 247
+braziljournal.com                    # Brazil Journal
+campograndenews.com.br               # Campo Grande News
+cartacapital.com.br                  # CartaCapital
+cidadeverde.com                      # Cidade Verde
+clickpb.com.br                       # ClickPB
+cnnbrasil.com.br                     # CNN Brasil
+conexaopolitica.com.br               # Conexão Política
+congressoemfoco.com.br               # Congresso em Foco
+correio24horas.com.br                # Correio (Salvador)
+correiobraziliense.com.br            # Correio Braziliense
+crusoe.com.br                        # Crusoé
+diariodocentrodomundo.com.br         # Diário do Centro do Mundo
+diariodocomercio.com.br              # Diário do Comércio
+diariodonordeste.verdesmares.com.br  # Diário do Nordeste
+diariodopoder.com.br                 # Diário do Poder
+diarioonline.com.br                  # Diário Online (DOL)
+economia.uol.com.br                  # UOL Economia
+epocanegocios.globo.com              # Época Negócios
+estadao.com.br                       # O Estado de S. Paulo
+exame.com                            # Exame
+extra.globo.com                      # Extra
+folha.uol.com.br                     # Folha de S.Paulo
+www1.folha.uol.com.br                # Folha de S.Paulo (main site host)
+forbes.com.br                        # Forbes Brasil
+g1.globo.com                         # g1 (Globo news, Jornal Nacional, GloboNews)
+gauchazh.clicrbs.com.br              # GZH (Zero Hora)
+gazetadopovo.com.br                  # Gazeta do Povo
+gazetaweb.com                        # Gazeta de Alagoas
+gp1.com.br                           # GP1
+iclnoticias.com.br                   # ICL Notícias
+infomoney.com.br                     # InfoMoney
+investnews.com.br                    # InvestNews
+istoe.com.br                         # IstoÉ
+istoedinheiro.com.br                 # IstoÉ Dinheiro
+jcrs.uol.com.br                      # Jornal do Comércio (Porto Alegre, old host)
+jornaldebrasilia.com.br              # Jornal de Brasília
+jornaldocomercio.com                 # Jornal do Comércio (Porto Alegre)
+jornaldosudoeste.com.br              # Jornal do Sudoeste
+jota.info                            # JOTA
+jovempan.com.br                      # Jovem Pan (news, also sport and entertainment)
+lupa.uol.com.br                      # Agência Lupa
+metro1.com.br                        # Metro1
+metropoles.com                       # Metrópoles
+moneytimes.com.br                    # Money Times
+ndmais.com.br                        # ND Mais
+ne10.uol.com.br                      # NE10 / Jornal do Commercio (Recife)
+neofeed.com.br                       # NeoFeed
+noticias.bol.uol.com.br              # BOL Notícias
+noticias.r7.com                      # R7 Notícias (Record)
+noticias.uol.com.br                  # UOL Notícias
+nsctotal.com.br                      # NSC Total
+oantagonista.com.br                  # O Antagonista
+odia.ig.com.br                       # O Dia
+oglobo.globo.com                     # O Globo
+operamundi.uol.com.br                # Opera Mundi
+opovo.com.br                         # O Povo
+otempo.com.br                        # O Tempo
+plural.jor.br                        # Plural
+poder360.com.br                      # Poder360
+portalcorreio.com.br                 # Portal Correio
+projetocomprova.com.br               # Projeto Comprova
+revistaforum.com.br                  # Revista Fórum
+revistaoeste.com                     # Revista Oeste
+ricmais.com.br                       # RIC Mais
+sbtnews.sbt.com.br                   # SBT News
+seudinheiro.com                      # Seu Dinheiro
+tnh1.com.br                          # TNH1
+tribunapr.com.br                     # Tribuna do Paraná
+valor.globo.com                      # Valor Econômico
+valorinternational.globo.com         # Valor International
+veja.abril.com.br                    # Veja
+www.band.com.br                      # Band (Grupo Bandeirantes) portal; mixed: also carries entertainment and sport
+www.globo.com                        # Globo.com portal homepage; mixed: homepage also carries sport and entertainment
+www.r7.com                           # R7 portal homepage; mixed: homepage also carries entertainment and sport
+www.terra.com.br                     # Terra portal; mixed: homepage also carries sport, entertainment and lifestyle
+www.uol.com.br                       # UOL portal homepage; mixed: homepage also carries sport and entertainment
+
+# === Cayman Islands ===
+caymancompass.com      # Cayman Compass
+caymannewsservice.com  # Cayman News Service
+
+# === Chile ===
+24horas.cl           # 24 Horas
+adnradio.cl          # ADN Radio
+americaeconomia.com  # AméricaEconomía
+biobiochile.cl       # BioBioChile
+chvnoticias.cl       # CHV Noticias
+ciperchile.cl        # CIPER
+cnnchile.com         # CNN Chile
+cooperativa.cl       # Cooperativa
+diarioconcepcion.cl  # Diario Concepción
+elciudadano.com      # El Ciudadano
+eldinamo.cl          # El Dínamo
+elmercurio.com       # El Mercurio
+emol.com             # El Mercurio (Emol)
+ex-ante.cl           # Ex-Ante
+fastcheck.cl         # Fast Check
+lacuarta.com         # La Cuarta
+latercera.com        # La Tercera
+meganoticias.cl      # Meganoticias
+publimetro.cl        # Publimetro
+radioagricultura.cl  # Radio Agricultura
+soychile.cl          # SoyChile
+t13.cl               # T13
+
+# === Colombia ===
+bluradio.com                  # Blu Radio
+cambiocolombia.com            # Cambio
+canal1.com.co                 # Canal 1
+caracol.com.co                # Caracol Radio
+colombiacheck.com             # Colombiacheck
+cuestionpublica.com           # Cuestión Pública
+elcolombiano.com              # El Colombiano
+elespectador.com              # El Espectador
+elpilon.com.co                # El Pilón
+eltiempo.com                  # El Tiempo
+extra.com.co                  # Extra
+hoydiariodelmagdalena.com.co  # Hoy Diario del Magdalena
+kienyke.com                   # KienyKe
+lafm.com.co                   # La FM
+laopinion.com.co              # La Opinión (Cúcuta)
+las2orillas.co                # Las2orillas
+minuto30.com                  # Minuto30
+noticiasrcn.com               # Noticias RCN
+portafolio.co                 # Portafolio
+razonpublica.com              # Razón Pública
+semana.com                    # Semana
+telemedellin.tv               # Telemedellín
+valoraanalitik.com            # Valora Analitik
+wradio.com.co                 # W Radio
+
+# === Costa Rica ===
+ameliarueda.com           # AmeliaRueda
+columbia.co.cr            # Noticias Columbia
+crc891.com                # CRC 89.1
+diarioextra.com           # Diario Extra
+elguardian.cr             # El Guardián
+elmundo.cr                # El Mundo CR
+larepublica.net           # La República (Costa Rica)
+lateja.cr                 # La Teja
+monumental.co.cr          # Monumental
+observador.cr             # El Observador
+repretel.com              # Repretel
+semanariouniversidad.com  # Semanario Universidad
+teletica.com              # Teletica (Telenoticias); mixed: also TV programme pages
+
+# === Cuba ===
+adncuba.com        # ADN Cuba
+cubaencuentro.com  # Cubaencuentro
+cubahora.cu        # Cubahora
+cubanet.org        # CubaNet
+cubasi.cu          # CubaSí
+diariodecuba.com   # Diario de Cuba
+eltoque.com        # elTOQUE
+radiorebelde.cu    # Radio Rebelde
+
+# === Curaçao ===
+extra.cw  # Extra
+
+# === Dominica ===
+dominicanewsonline.com  # Dominica News Online
+
+# === Dominican Republic ===
+almomento.net         # Almomento
+cdn.com.do            # CDN
+diariodigital.com.do  # Diario Digital RD
+diariolibre.com       # Diario Libre
+elcaribe.com.do       # El Caribe
+eldinero.com.do       # elDinero
+elnacional.com.do     # El Nacional
+elnuevodiario.com.do  # El Nuevo Diario
+ensegundos.do         # En Segundos
+lainformacion.com.do  # La Información
+n.com.do              # N Digital
+noticiassin.com       # Noticias SIN
+z101digital.com       # Z101
+
+# === Ecuador ===
+ecuadorchequea.com   # Ecuador Chequea
+ecuavisa.com         # Ecuavisa
+elnorte.ec           # El Norte
+expreso.ec           # Expreso
+extra.ec             # Extra
+gk.city              # GK
+lahora.com.ec        # La Hora
+larepublica.ec       # La República (Ecuador)
+metroecuador.com.ec  # Metro Ecuador
+planv.com.ec         # Plan V
+teleamazonas.com     # Teleamazonas
+vistazo.com          # Vistazo
+
+# === El Salvador ===
+diariocolatino.com    # Diario Co Latino
+diarioelsalvador.com  # Diario El Salvador
+elfaro.net            # El Faro
+gatoencerrado.news    # Gato Encerrado
+lapagina.com.sv       # La Página
+revistafactum.com     # Factum
+
+# === French Guiana ===
+franceguyane.fr  # France-Guyane
+
+# === Grenada ===
+nowgrenada.com          # NOW Grenada
+thenewtodaygrenada.com  # The New Today
+
+# === Guadeloupe ===
+rci.fm  # RCI
+
+# === Guatemala ===
+agn.gt                 # AGN
+emisorasunidas.com     # Emisoras Unidas
+lahora.gt              # La Hora
+plazapublica.com.gt    # Plaza Pública
+prensacomunitaria.org  # Prensa Comunitaria
+publinews.gt           # Publinews
+republica.gt           # República
+
+# === Guyana ===
+demerarawaves.com     # Demerara Waves
+guyanachronicle.com   # Guyana Chronicle
+inewsguyana.com       # iNews Guyana
+newsroom.gy           # News Room Guyana
+newssourcegy.com      # News Source Guyana
+villagevoicenews.com  # Village Voice
+
+# === Haiti ===
+alterpresse.org              # AlterPresse
+ayibopost.com                # AyiboPost
+gazettehaiti.com             # Gazette Haïti
+haiti-observateur.ca         # Haïti-Observateur
+haitilibre.com               # HaitiLibre
+lenational.org               # Le National
+metropolehaiti.com           # Radio Métropole
+radiotelevisioncaraibes.com  # Radio Télévision Caraïbes
+rezonodwes.com               # Rezo Nòdwès
+
+# === Honduras ===
+contracorriente.red  # Contracorriente
+criterio.hn          # Criterio
+elheraldo.hn         # El Heraldo
+elpulso.hn           # El Pulso
+hch.tv               # HCH
+hondudiario.com      # Hondudiario
+proceso.hn           # Proceso Digital
+radioamerica.hn      # Radio América
+radiohrn.hn          # HRN
+tunota.com           # Tu Nota
+
+# === Jamaica ===
+nationwideradiojm.com       # Nationwide 90 FM
+radiojamaicanewsonline.com  # Radio Jamaica News
+
+# === Martinique ===
+franceantilles.fr  # France-Antilles (Martinique and Guadeloupe)
+
+# === Mexico ===
+24-horas.mx                # 24 Horas
+adn40.mx                   # ADN40
+animalpolitico.com         # Animal Político
+aztecanoticias.com.mx      # Azteca Noticias
+contrareplica.mx           # ContraRéplica
+diariodeyucatan.com        # Diario de Yucatán
+e-consulta.com             # e-consulta
+elceo.com                  # El CEO
+eldictamen.mx              # El Dictamen
+eleconomista.com.mx        # El Economista
+elfinanciero.com.mx        # El Financiero
+eluniversal.com.mx         # El Universal
+excelsior.com.mx           # Excélsior
+expansion.mx               # Expansión
+forbes.com.mx              # Forbes México
+imagenradio.com.mx         # Imagen Radio
+jornada.com.mx             # La Jornada
+lajornadadeoriente.com.mx  # La Jornada de Oriente
+lajornadamaya.mx           # La Jornada Maya
+larazondemexico.com        # La Razón
+lasillarota.com            # La Silla Rota
+milenio.com                # Milenio
+mural.com.mx               # Mural (Guadalajara)
+mx.reuters.com             # Reuters México
+nmas.com.mx                # N+ (Televisa)
+noroeste.com.mx            # Noroeste
+nvinoticias.com            # NVI Noticias
+plumasatomicas.com         # Plumas Atómicas
+politico.mx                # Político MX
+proceso.com.mx             # Proceso
+quadratin.com.mx           # Quadratín
+radioformula.com.mx        # Radio Fórmula
+unotv.com                  # Uno TV
+
+# === Nicaragua ===
+articulo66.com        # Artículo 66
+confidencial.digital  # Confidencial
+despacho505.com       # Despacho 505
+divergentes.com       # Divergentes
+el19digital.com       # El 19 Digital
+lajornadanet.com      # La Jornada (Nicaragua)
+vostv.com.ni          # VosTV
+
+# === Panama ===
+ecotvpanama.com       # Eco TV
+elsiglo.com.pa        # El Siglo
+ensegundos.com.pa     # En Segundos
+laestrella.com.pa     # La Estrella de Panamá
+metrolibre.com        # Metro Libre
+panamaamerica.com.pa  # Panamá América
+telemetro.com         # Telemetro
+tvn-2.com             # TVN Noticias
+
+# === Paraguay ===
+abc.com.py         # ABC Color
+elnacional.com.py  # El Nacional (Paraguay)
+elsurti.com        # El Surtidor
+hoy.com.py         # Hoy
+lanacion.com.py    # La Nación (Paraguay)
+npy.com.py         # NPY
+
+# === Peru ===
+andina.pe           # Andina
+canaln.pe           # Canal N
+caretas.pe          # Caretas
+convoca.pe          # Convoca
+elbuho.pe           # El Búho
+elcomercio.pe       # El Comercio
+exitosanoticias.pe  # Exitosa
+larepublica.pe      # La República
+ojo-publico.com     # Ojo Público
+panamericana.pe     # Panamericana
+rpp.pe              # RPP Noticias
+trome.com           # Trome
+
+# === Saint Kitts and Nevis ===
+sknvibes.com                 # SKNVibes
+thestkittsnevisobserver.com  # The Observer
+
+# === Saint Lucia ===
+stlucianewsonline.com  # St Lucia News Online
+stluciatimes.com       # St Lucia Times
+thevoiceslu.com        # The Voice
+
+# === Saint Vincent and the Grenadines ===
+iwnsvg.com  # iWitness News
+
+# === Suriname ===
+culturu.com     # Culturu
+srherald.com    # Suriname Herald
+starnieuws.com  # Starnieuws
+unitednews.sr   # United News
+
+# === Trinidad and Tobago ===
+cnc3.co.tt  # CNC3
+tv6tnt.com  # TV6
+
+# === Turks and Caicos Islands ===
+suntci.com        # Turks and Caicos Sun
+tcweeklynews.com  # Turks and Caicos Weekly News
+
+# === Uruguay ===
+180.com.uy            # 180
+brecha.com.uy         # Brecha
+carasycaretas.com.uy  # Caras y Caretas
+elpais.com.uy         # El País
+ladiaria.com.uy       # la diaria
+lr21.com.uy           # LR21
+mercopress.com        # MercoPress
+montevideo.com.uy     # Montevideo Portal
+subrayado.com.uy      # Subrayado
+
+# === Venezuela ===
+800noticias.com       # 800 Noticias
+armando.info          # Armando.info
+bancaynegocios.com    # Banca y Negocios
+caraotadigital.net    # Caraota Digital
+cronica.uno           # Crónica Uno
+descifrado.com        # Descifrado
+elcarabobeno.com      # El Carabobeño
+elcooperante.com      # El Cooperante
+eldiario.com          # El Diario
+elestimulo.com        # El Estímulo
+elnacional.com        # El Nacional
+elpitazo.net          # El Pitazo
+globovision.com       # Globovisión
+noticierodigital.com  # Noticiero Digital
+runrun.es             # Runrunes
+telesurtv.net         # teleSUR
+vpitv.com             # VPItv

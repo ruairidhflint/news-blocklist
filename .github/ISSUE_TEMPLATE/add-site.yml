@@ -1,0 +1,26 @@
+name: Add a news site
+description: A news or current-affairs site the list doesn't block yet
+title: "Add: "
+labels: ["add site"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Site
+      description: The address you see when you visit it.
+      placeholder: https://www.example-news.com
+    validations:
+      required: true
+  - type: input
+    id: outlet
+    attributes:
+      label: What it is
+      description: The outlet's name and country, and what kind of news it covers.
+      placeholder: Example News, a national daily in Ireland
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: Anything else on the same site?
+      description: Does the same address also host things that aren't news (email, streaming, shopping, logins)?

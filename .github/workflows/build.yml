@@ -1,0 +1,55 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/**"
+      - "README.md"
+      - ".github/workflows/build.yml"
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lists-${{ github.event_name == 'pull_request' && github.ref || 'main' }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate data
+        run: python -u scripts/build.py --check
+
+      - name: Check DNS for new curated entries
+        if: github.event_name != 'pull_request'
+        run: python -u scripts/refresh.py --curated-only --dns-rate 300
+
+      - name: Build lists
+        run: python -u scripts/build.py
+
+      - name: Test lists
+        run: python -u scripts/test_lists.py
+
+      - name: Commit updated lists
+        if: github.event_name != 'pull_request'
+        run: |
+          git add lists data/generated README.md
+          if git diff --cached --quiet; then
+            echo "Lists are up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Rebuild lists"
+          git push

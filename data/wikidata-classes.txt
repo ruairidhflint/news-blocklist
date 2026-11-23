@@ -1,0 +1,71 @@
+# Wikidata classes whose instances are news outlets. Read by scripts/refresh.py.
+#
+#   Q123          instances of this class
+#   Q123+         instances of this class or any of its subclasses
+#   -Q123         skip instances of this class or its subclasses, even when they also
+#                 belong to an included class (a sports daily is also a "newspaper")
+#   genre Q123    items whose genre (P136) is this
+#   -subject Q123 skip items whose genre (P136) or main subject (P921) is this
+
+Q11032+       # newspaper: daily, local, regional, national, online, tabloid …
+Q1153191+     # online newspaper
+Q17232649+    # news website
+Q25434592+    # news portal
+Q192283+      # news agency
+Q1684600+     # news magazine
+Q115477322+   # news channel
+Q3416935+     # all-news radio
+
+genre Q38926      # news
+genre Q1962634    # news broadcasting
+genre Q1684600    # news magazine
+genre Q141741440  # political magazine
+
+# Official journals and government publications
+-Q2065227     # government gazette
+-Q3186812     # gazette (official journal)
+-Q17541977    # Gesetzblatt
+-Q480422      # Amtsblatt
+-Q3276608     # French departmental government gazette
+-Q87527714    # collection of administrative acts of the prefectures
+-Q107236916   # government newspaper
+
+# Company, school and youth publications: their "website" is often the organisation's
+-Q832165      # house journal
+-Q20821444    # corporate newspaper
+-Q120068370   # newspaper chain (publisher's corporate site)
+-Q20850562    # school newspaper
+-Q4468966     # school newspaper
+-Q106661426   # high school newspaper
+-Q321745      # Abiturzeitung
+-Q27963520    # graduate student journal
+-Q6296062     # undergraduate research journal
+-Q2497638     # youth media
+
+# Not current affairs
+-Q11313190    # sports newspaper
+-Q7426758     # Saturday sports paper
+-Q106652786   # entertainment newspaper
+-Q62470341    # music newspaper
+-Q106651333   # art newspaper
+-Q106668420   # literary newspaper
+-Q107181454   # shopping guide
+-Q105004703   # news photo agency (stock photo libraries)
+-Q498267      # news aggregator software (feed readers); aggregators are curated by hand
+
+# Outlets whose genre (P136) or main subject (P921) is one of these are out of scope
+-subject Q349       # sport
+-subject Q2736      # association football
+-subject Q5372      # basketball
+-subject Q5375      # cricket
+-subject Q638       # music
+-subject Q11424     # film
+-subject Q15416     # television program
+-subject Q7889      # video game
+-subject Q11016     # technology
+-subject Q21198     # computer science
+-subject Q336       # science
+-subject Q173799    # entertainment
+-subject Q211236    # celebrity
+-subject Q12684     # fashion
+-subject Q1420      # car

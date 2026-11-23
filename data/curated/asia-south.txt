@@ -1,0 +1,299 @@
+# South Asia: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+# === Afghanistan ===
+8am.media          # Hasht-e Subh
+aamajnews24.com    # Aamaj News
+afintl.com         # Afghanistan International
+amu.tv             # Amu TV
+ariananews.af      # Ariana News
+etilaatroz.com     # Etilaatroz
+kabulnow.com       # KabulNow
+salamwatandar.com  # Salam Watandar
+shamshadnews.com   # Shamshad News
+swn.af             # Salam Watandar
+
+# === Bangladesh ===
+amadershomoy.com            # Amader Shomoy
+atnnewstv.com               # ATN News
+bangladeshpost.net          # Bangladesh Post
+bdnews24.com                # bdnews24.com
+channel24bd.tv              # Channel 24
+channelionline.com          # Channel i
+dbcnews.tv                  # DBC News
+deshrupantor.com            # Desh Rupantor
+ekattor.tv                  # Ekattor TV
+ittefaq.com.bd              # The Daily Ittefaq
+itvbd.com                   # Independent Television
+jaijaidinbd.com             # Jaijaidin
+jamuna.tv                   # Jamuna TV
+jugantor.com                # Jugantor
+netra.news                  # Netra News
+ntvbd.com                   # NTV
+observerbd.com              # The Daily Observer
+prothomalo.com              # Prothom Alo
+rtvonline.com               # RTV
+sarabangla.net              # Sarabangla
+somoynews.tv                # Somoy TV
+tbsnews.net                 # The Business Standard
+thedailystar.net            # The Daily Star
+thefinancialexpress.com.bd  # The Financial Express
+unb.com.bd                  # United News of Bangladesh
+
+# === Bhutan ===
+bbs.bt  # Bhutan Broadcasting Service
+
+# === India ===
+10tv.in                          # 10TV
+aajkaal.in                       # Aajkaal
+aajtak.in                        # Aaj Tak
+abplive.com                      # ABP Live
+abpnews.abplive.in               # ABP News
+amarujala.com                    # Amar Ujala
+anandabazar.com                  # Anandabazar Patrika
+andhrajyothy.com                 # Andhra Jyothy
+aninews.in                       # Asian News International
+article-14.com                   # Article 14
+asianetnews.com                  # Asianet News
+babushahi.com                    # Babushahi
+bangaloremirror.indiatimes.com   # Bangalore Mirror
+bharat24live.com                 # Bharat 24
+bharatexpress.com                # Bharat Express
+bhaskar.com                      # Dainik Bhaskar
+bhaskarhindi.com                 # Dainik Bhaskar Hindi
+boomlive.in                      # BOOM
+business-standard.com            # Business Standard
+businesstoday.in                 # Business Today
+cnbctv18.com                     # CNBC-TV18
+dailyhunt.in                     # Dailyhunt news aggregator
+dailythanthi.com                 # Daily Thanthi
+dainiktribuneonline.com          # Dainik Tribune
+deccanchronicle.com              # Deccan Chronicle
+deccanherald.com                 # Deccan Herald
+deepika.com                      # Deepika
+deshbandhu.co.in                 # Deshbandhu
+dinamalar.com                    # Dinamalar
+dinamani.com                     # Dinamani
+dnaindia.com                     # DNA India
+eastmojo.com                     # EastMojo
+economictimes.com                # The Economic Times
+economictimes.indiatimes.com     # The Economic Times
+eenadu.net                       # Eenadu
+esakal.com                       # Sakal
+etnownews.com                    # ET Now
+etvbharat.com                    # ETV Bharat
+factly.in                        # Factly
+financialexpress.com             # The Financial Express
+firstpost.com                    # Firstpost
+forbesindia.com                  # Forbes India
+fortuneindia.com                 # Fortune India
+freepressjournal.in              # The Free Press Journal
+greatandhra.com                  # Greatandhra
+gujaratsamachar.com              # Gujarat Samachar
+hindustantimes.com               # Hindustan Times
+hindutamil.in                    # Hindu Tamil Thisai
+iamgujarat.com                   # I am Gujarat
+ianslive.in                      # IANS
+ibc24.in                         # IBC24
+indianews.in                     # India News
+indianexpress.com                # The Indian Express
+indiatoday.in                    # India Today
+indiatv.in                       # India TV
+indiatvnews.com                  # India TV News
+inkhabar.com                     # InKhabar
+inquilab.com                     # Inquilab
+inshorts.com                     # Inshorts news aggregator
+jagran.com                       # Dainik Jagran
+janmabhumi.in                    # Janmabhumi
+jansatta.com                     # Jansatta
+kalaignarseithigal.com           # Kalaignar Seithigal
+kannadaprabha.com                # Kannada Prabha
+keralakaumudi.com                # Kerala Kaumudi
+khabar.ndtv.com                  # NDTV Khabar
+lalluram.com                     # Lalluram
+livehindustan.com                # Hindustan (Hindi)
+livemint.com                     # Mint
+lokmat.com                       # Lokmat
+lokmatnews.in                    # Lokmat News
+loksatta.com                     # Loksatta
+madhyamam.com                    # Madhyamam
+maharashtratimes.indiatimes.com  # Maharashtra Times
+manoramaonline.com               # Malayala Manorama
+mathrubhumi.com                  # Mathrubhumi
+mediaoneonline.com               # MediaOne Online
+mediaonetv.in                    # MediaOne
+mid-day.com                      # Mid-Day
+millenniumpost.in                # Millennium Post
+mirrornow.in                     # Mirror Now
+moneycontrol.com                 # Moneycontrol
+moneylife.in                     # Moneylife
+mpbreakingnews.in                # MP Breaking News
+mumbaimirror.indiatimes.com      # Mumbai Mirror
+naidunia.com                     # Naidunia
+navbharattimes.com               # Navbharat Times
+navbharattimes.indiatimes.com    # Navbharat Times
+navhindtimes.in                  # The Navhind Times
+navjivanindia.com                # Navjivan
+navodayatimes.in                 # Navodaya Times
+ndtv.com                         # NDTV
+ndtv.in                          # NDTV India (Hindi)
+ndtvprofit.com                   # NDTV Profit
+nenow.in                         # Northeast Now
+newindianexpress.com             # The New Indian Express
+news18.com                       # News18 (CNN-News18)
+news24online.com                 # News24
+news7tamil.live                  # News7 Tamil
+newsbytesapp.com                 # NewsBytes
+newschecker.in                   # Newschecker
+newsclick.in                     # NewsClick
+newsmeter.in                     # NewsMeter
+newsnationtv.com                 # News Nation
+newsx.com                        # NewsX
+ntnews.com                       # Namasthe Telangana
+ntvtelugu.com                    # NTV Telugu
+odishatv.in                      # OdishaTV
+oneindia.com                     # Oneindia
+onmanorama.com                   # Onmanorama
+openthemagazine.com              # Open
+outlookbusiness.com              # Outlook Business
+outlookindia.com                 # Outlook
+prabhatkhabar.com                # Prabhat Khabar
+prajavani.net                    # Prajavani
+pratidintime.com                 # Pratidin Time
+publictv.in                      # Public TV
+pudhari.news                     # Pudhari
+puthiyathalaimurai.com           # Puthiya Thalaimurai
+qaumiawaz.com                    # Qaumi Awaz
+reporterlive.com                 # Reporter TV
+republicworld.com                # Republic World
+rozanaspokesman.com              # Rozana Spokesman
+sabrangindia.in                  # SabrangIndia
+sakshi.com                       # Sakshi
+samakalikamalayalam.com          # Samakalika Malayalam
+sambad.in                        # Sambad
+sangbadpratidin.in               # Sangbad Pratidin
+scroll.in                        # Scroll
+sudarshannews.in                 # Sudarshan News
+suprabhaatham.com                # Suprabhaatham
+telegraphindia.com               # The Telegraph (India)
+thanthitv.com                    # Thanthi TV
+thecitizen.in                    # The Citizen
+thefederal.com                   # The Federal
+thehindu.com                     # The Hindu
+thehindubusinessline.com         # BusinessLine
+thelallantop.com                 # The Lallantop
+thelogicalindian.com             # The Logical Indian
+theprint.in                      # ThePrint
+thewall.in                       # The Wall
+theweek.in                       # The Week
+thewire.in                       # The Wire
+timesnowhindi.com                # Times Now Navbharat
+timesnownews.com                 # Times Now
+timesofindia.com                 # The Times of India
+timesofindia.indiatimes.com      # The Times of India
+tribuneindia.com                 # The Tribune
+tv5news.in                       # TV5 News
+tv9bangla.com                    # TV9 Bangla
+tv9gujarati.com                  # TV9 Gujarati
+tv9hindi.com                     # TV9 Bharatvarsh
+tv9kannada.com                   # TV9 Kannada
+tv9marathi.com                   # TV9 Marathi
+tv9telugu.com                    # TV9 Telugu
+twentyfournews.com               # Twenty Four News
+uniindia.com                     # United News of India
+v6velugu.com                     # V6 Velugu
+vijayavani.net                   # Vijayavani
+vijaykarnataka.com               # Vijay Karnataka
+vikatan.com                      # Vikatan
+vishvasnews.com                  # Vishvas News
+way2news.com                     # Way2News
+wionews.com                      # WION
+www.india.com                    # India.com news portal
+zee24ghanta.com                  # Zee 24 Ghanta
+zee24taas.com                    # Zee 24 Taas
+zeebiz.com                       # Zee Business
+zeenews.india.com                # Zee News
+
+# === Maldives ===
+atolltimes.mv            # Atoll Times
+dhiyares.com             # Dhiyares
+maldivesindependent.com  # Maldives Independent
+mihaaru.com              # Mihaaru
+psmnews.mv               # PSM News
+raajje.mv                # Raajje.mv
+sun.mv                   # Sun
+thepress.mv              # The Press
+vnews.mv                 # VNews
+
+# === Nepal ===
+arthasarokar.com                # Artha Sarokar
+baahrakhari.com                 # Baahrakhari
+bizshala.com                    # Bizshala
+dcnepal.com                     # DC Nepal
+deshsanchar.com                 # Desh Sanchar
+hamrakura.com                   # Hamra Kura
+himalkhabar.com                 # Himal Khabar
+imagekhabar.com                 # Image Khabar
+khabarhub.com                   # Khabarhub
+lokaantar.com                   # Lokaantar
+myrepublica.nagariknetwork.com  # My Republica
+nagariknews.nagariknetwork.com  # Nagarik News
+nepalkhabar.com                 # Nepal Khabar
+nepallive.com                   # Nepal Live
+nepalnews.com                   # Nepal News
+nepalpress.com                  # Nepal Press
+onlinekhabar.com                # Onlinekhabar
+ratopati.com                    # Ratopati
+risingnepaldaily.com            # The Rising Nepal
+setopati.com                    # Setopati
+ujyaaloonline.com               # Ujyaalo Online
+
+# === Pakistan ===
+24newshd.tv          # 24 News HD
+92newshd.tv          # 92 News
+aaj.tv               # Aaj News
+abbtakk.tv           # Abb Takk
+bolnews.com          # BOL News
+brecorder.com        # Business Recorder
+city42.tv            # City 42
+dailyausaf.com       # Daily Ausaf
+dawn.com             # Dawn
+dawnnews.tv          # Dawn News
+dunya.com.pk         # Roznama Dunya
+dunyanews.tv         # Dunya News
+express.pk           # Daily Express
+geo.tv               # Geo News
+gnnhd.tv             # GNN
+humnews.pk           # Hum News
+independenturdu.com  # Independent Urdu
+jang.com.pk          # Daily Jang
+khybernews.tv        # Khyber News
+minutemirror.com.pk  # Minute Mirror
+mmnews.tv            # MM News
+nayadaur.tv          # Naya Daur
+neonews.pk           # Neo News
+ptv.com.pk           # PTV News
+publicnews.com       # Public News
+thecurrent.pk        # The Current
+thefridaytimes.com   # The Friday Times
+thenews.com.pk       # The News International
+tribune.com.pk       # The Express Tribune
+urdunews.com         # Urdu News
+urdupoint.com        # UrduPoint
+voicepk.net          # Voicepk
+
+# === Sri Lanka ===
+adaderana.lk        # Ada Derana
+colombogazette.com  # Colombo Gazette
+divaina.lk          # Divaina
+economynext.com     # EconomyNext
+groundviews.org     # Groundviews
+hirunews.lk         # Hiru News
+newsfirst.lk        # Newsfirst
+newswire.lk         # Newswire
+srilankamirror.com  # Sri Lanka Mirror
+tamilguardian.com   # Tamil Guardian
+tamilnet.com        # TamilNet
+themorning.lk       # The Morning
+thinakkural.lk      # Thinakkural

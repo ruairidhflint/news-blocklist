@@ -1,0 +1,396 @@
+# Domains this list never blocks.
+#
+# - An entry here can never appear in the lists, and nothing under it is added
+#   automatically from Wikidata.
+# - A curated entry may still block a specific news subdomain under one of these
+#   (news.google.com under google.com, news.yahoo.com under yahoo.com).
+#
+# Add a domain here to fix a false positive, or after reviewing a popular site from
+# data/generated/review.txt and deciding it isn't primarily news.
+
+# Search engines and web portals (their news sections are curated as subdomains)
+aol.com
+baidu.com
+bing.com
+daum.net
+duckduckgo.com
+google.com
+naver.com
+qq.com
+sina.com.cn
+sohu.com
+yahoo.co.jp
+yahoo.com
+yandex.com
+yandex.ru
+
+# Social networks, messaging and video platforms
+facebook.com
+instagram.com
+linkedin.com
+ok.ru
+pinterest.com
+reddit.com
+t.me
+telegram.org
+threads.net
+tiktok.com
+twitter.com
+vk.com
+whatsapp.com
+x.com
+youtube.com
+
+# Publishing, hosting and newsletter platforms (a single site on them can still be listed)
+blogger.com
+blogspot.com
+calameo.com
+ghost.io
+issuu.com
+jimdo.com
+medium.com
+squarespace.com
+substack.com
+tumblr.com
+weebly.com
+wix.com
+wixsite.com
+wordpress.com
+wordpress.org
+yumpu.com
+
+# Podcasts, audio and video hosting
+anchor.fm
+buzzsprout.com
+libsyn.com
+podbean.com
+soundcloud.com
+spotify.com
+vimeo.com
+
+# Reference, archives and tools
+archive.org
+bit.ly
+github.com
+linktr.ee
+scribd.com
+tinyurl.com
+wikidata.org
+wikimedia.org
+wikipedia.org
+
+# Big tech and shopping
+amazon.co.uk
+amazon.com
+apple.com
+microsoft.com
+office.com
+outlook.com
+live.com
+
+# Reviewed: popular sites Wikidata lists as news that are out of scope or not news-led
+3cat.cat                                  # streaming-led broadcaster platform; news is only a path
+3dmgame.com                               # video games
+3dnews.ru                                 # technology
+404media.co                               # technology journalism (out of scope)
+4gamer.net                                # video games
+9to5google.com                            # technology
+9to5mac.com                               # technology
+advalvas.vu.nl                            # university magazine
+advance.lexis.com                         # legal research database
+advertiserdemocrat.com.com                # typo in Wikidata (com.com)
+ajakiri.ut.ee                             # University of Tartu magazine
+alfavita.gr                               # education-sector news
+ali213.net                                # gaming
+alphatv.gr                                # TV channel site; Wikidata URL is a programme page
+ama-assn.org                              # medical association
+androidauthority.com                      # technology
+animenewsnetwork.com                      # anime
+antena3.com                               # entertainment TV channel; news is only a path
+ap.org                                    # AP corporate site; news is on apnews.com
+appleinsider.com                          # technology
+archdaily.com                             # architecture
+areajugones.sport.es                      # gaming and entertainment
+arstechnica.com                           # technology
+ascii.jp                                  # tech news
+autonews.com                              # automotive trade press
+avclub.com                                # entertainment (out of scope)
+bankrate.com                              # personal finance tools
+bayern.de                                 # state government site
+bibpurl.oclc.org                          # library catalogue (OCLC)
+bitcoinmagazine.com                       # crypto
+bola.com                                  # sports
+bold.dk                                   # sports
+br.ign.com                                # video games
+bratyaslaviane.narod.ru                   # dead site
+brema.suub.uni-bremen.de                  # library digitisation archive
+bricolage.linternaute.com                 # DIY forum
+businessoffashion.com                     # fashion trade press
+buzzfeed.com                              # entertainment site; BuzzFeed News was closed in 2023
+cairn.info                                # academic journals
+capegazette.de.newsmemory.com             # e-edition platform host; the paper's own site is listed instead
+catalog.hathitrust.org                    # library catalogue
+catholicstandard.webs.com                 # no longer resolves
+cctv.cntv.cn                              # CNTV streaming host; news is only a path
+cdm15399.contentdm.oclc.org               # library catalogue (OCLC)
+ceskatelevize.cz                          # Czech TV programmes and streaming; news is on ct24.ceskatelevize.cz
+chess.com                                 # chess platform
+chronicle.com                             # higher-education trade press
+cleantechnica.com                         # clean technology
+coindesk.com                              # crypto trade news
+comicbook.com                             # entertainment (out of scope)
+cuisine.journaldesfemmes.fr               # cooking
+cursor.tue.nl                             # university magazine
+cyber.sports.ru                           # esports
+cybernews.com                             # cybersecurity/tech news
+daily.afisha.ru                           # culture and city lifestyle
+dailydot.com                              # internet culture (out of scope)
+de.ign.com                                # video games
+deadline.com                              # entertainment trade (out of scope)
+degruyter.com                             # academic publisher
+destructoid.com                           # video games (out of scope)
+dexerto.com                               # gaming and entertainment
+dialnet.unirioja.es                       # academic database
+digg.com                                  # social community platform
+digi.lib.helsinki.fi                      # library digitisation archive
+digi.ub.uni-heidelberg.de                 # library digitisation archive
+digitale.bnc.roma.sbn.it                  # library digitisation archive
+digitalmicrofilm.proquest.com             # research database (ProQuest)
+digitalmicrofilm1.proquest.com            # research database (ProQuest)
+digitalspy.com                            # entertainment
+dowjones.com                              # corporate site
+dtf.ru                                    # video games and film
+dub.uu.nl                                 # university campus magazine
+earther.gizmodo.com                       # science and environment
+ebscohost.com                             # research database (EBSCO)
+edweek.org                                # education trade press
+elitedaily.com                            # lifestyle (out of scope)
+elle.fr                                   # lifestyle and fashion
+en.wiktionary.org                         # dictionary
+endpoints.news                            # biotech trade press
+ent.sbs.co.kr                             # entertainment (news.sbs.co.kr is the news host)
+es.ign.com                                # gaming
+escapistmagazine.com                      # video games
+etnews.com                                # electronics/tech trade press
+euro-football.ru                          # football
+eurogamer.net                             # video games
+europe.autonews.com                       # automotive trade press
+everydayhealth.com                        # health information (out of scope)
+examiner.com                              # relaunched site unrelated to the San Francisco Examiner
+filgoal.com                               # sports-only
+flayrah-feed.dreamwidth.org               # furry fandom news feed (out of scope)
+flayrah.livejournal.com                   # furry fandom news blog (out of scope)
+flightglobal.com                          # aviation trade press
+fogaonet.com                              # football club fan site
+fr.animenewsnetwork.com                   # anime
+fr.ign.com                                # video games
+fr.wiktionary.org                         # dictionary
+france.tv                                 # France Télévisions streaming
+franceinter.fr                            # general radio station (redirects to radiofrance.fr)
+full-count.jp                             # sports (baseball)
+futurism.com                              # science and technology
+fxstreet.com                              # forex trading
+gale.cengage.com                          # research database (Gale)
+gallica.bnf.fr                            # national library archive
+gallicaintramuros.bnf.fr                  # national library archive
+gamedeveloper.com                         # video game trade press
+gamefaqs.gamespot.com                     # video games (out of scope)
+gameinformer.com                          # video games (out of scope)
+gamerant.com                              # video games
+gamesindustry.biz                         # games trade press
+gamespot.com                              # video games (out of scope)
+gamesradar.com                            # gaming
+gamestar.de                               # gaming
+gateway.proquest.com                      # research database (ProQuest)
+ge.globo.com                              # sport
+geekwire.com                              # technology
+genius.com                                # song lyrics site
+giantbomb.com                             # video games (out of scope)
+globoplay.globo.com                       # streaming service
+gsp.ro                                    # sports daily
+hackster.io                               # electronics
+hdl.handle.net                            # archive handle resolver
+hemerotecadigital.bne.es                  # library digitisation archive
+hltv.org                                  # esports
+hollywoodreporter.com                     # entertainment trade (out of scope)
+hoover.org                                # think tank
+hotpepper.jp                              # restaurant coupons
+hrcak.srce.hr                             # portal of Croatian academic journals
+ign.com                                   # video games (out of scope)
+irishracing.com                           # sport
+it.ign.com                                # gaming
+itmedia.co.jp                             # tech news (ITmedia)
+itv.com                                   # ITVX streaming; ITV News is only a path
+jeuxvideo.com                             # video games
+jornada.unam.mx                           # university host; La Jornada is at jornada.com.mx
+jornal.unesp.br                           # university news
+jornal.usp.br                             # university news
+journaldesfemmes.fr                       # women's lifestyle
+journaldunet.com                          # digital business and tech
+journals.ametsoc.org                      # academic journals
+jp.ign.com                                # gaming (IGN Japan)
+jsports.uol.com.br                        # sport
+jstor.org                                 # academic archive
+kanald.com.tr                             # TV channel site; Wikidata URL is a programme page
+kino.mail.ru                              # film and TV listings site (Mail.ru), not news
+klich.at.ua                               # dead: resolves to 127.0.0.1
+kosmopolis.lis.upatras.gr                 # university
+kotaku.com                                # video games (out of scope)
+kr.ign.com                                # video games
+krasnoeznamya.tomsk.ru                    # site not responding
+laestadlutheran-store.stores.yahoo.net    # online shop
+law.com                                   # legal trade press
+law360.com                                # legal trade press
+lefil.ulaval.ca                           # university news
+lejournal.cnrs.fr                         # science magazine of a research institute
+lexisnexis.com                            # legal research database
+link.gale.com                             # research database (Gale)
+link.springer.com                         # academic publisher
+linternaute.com                           # general-interest and lifestyle portal
+liverpool.idm.oclc.org                    # library catalogue (OCLC)
+lto.de                                    # legal trade press
+lwn.net                                   # technology
+magasin.kb.se                             # library archive
+magzter.com                               # digital magazine store, not a news outlet
+mako.co.il                                # Keshet portal mainly TV streaming and entertainment; news lives on n12.co.il
+marca.com                                 # sports daily
+marinecorpstimes.va.newsmemory.com        # e-edition platform host; the paper's own site is listed instead
+mashable.com                              # technology and entertainment
+me.ign.com                                # video games
+me.mashable.com                           # technology and entertainment
+mediasetplay.mediaset.it.mediaset.it      # malformed host (Mediaset streaming)
+megatv.com                                # TV channel site; Wikidata URL is a programme page
+meteored.cl                               # weather
+meteored.com.ar                           # weather
+meteored.mx                               # weather
+military.com                              # military benefits, careers and community portal
+minfin.com.ua                             # exchange rates and personal finance portal
+mises.org                                 # think tank
+mun.ca                                    # university
+nationalpost.8m.com                       # not the outlet (old free-hosting page)
+natlib-primo.hosted.exlibrisgroup.com     # library catalogue
+neogaf.com                                # gaming forum
+newfirstsearch.oclc.org                   # library catalogue (OCLC)
+news.artnet.com                           # art
+news.mynavi.jp                            # tech and lifestyle news (Mynavi)
+news.usni.org                             # naval and defence specialist press
+newscomwc.newspapers.com                  # newspaper archive
+nikkansports.com                          # sport and entertainment daily
+nintendolife.com                          # video games
+nl.ign.com                                # gaming
+nmgazette.narod.ru                        # medical trade newspaper on a free hosting service
+note.tokyo-sports.co.jp                   # sports and entertainment tabloid
+numerama.com                              # technology news
+nystreetnews.tripod.com                   # no longer resolves
+oem.com.mx                                # publisher portal; its newspapers are listed individually
+officielebekendmakingen.nl                # government gazette
+olympics.com                              # sport
+pbs.org                                   # mostly non-news programming; PBS NewsHour is a path on pbs.org
+pcgamer.com                               # video games (out of scope)
+pcgamesn.com                              # video games
+penzcentrum.hu                            # personal finance
+periodicos.ufmg.br                        # academic journals
+periodicos.ufpe.br                        # academic journals
+phoronix.com                              # technology
+pinkbike.com                              # sport
+piryatin-visti.at.ua                      # no longer resolves
+playground.ru                             # video games
+plus.rtl.de                               # RTL+ streaming
+pocket-lint.com                           # technology
+polskieradio.pl                           # radio podcasts and audio; news is on polskieradio24.pl
+polygon.com                               # video games
+programme-television.org                  # TV guide
+property24.com                            # property listings
+proquest.com                              # research database (ProQuest)
+prosport.ro                               # sports
+pushsquare.com                            # video games
+quill.org                                 # education nonprofit (Wikidata mismatch)
+radio.nrk.no                              # NRK radio streaming
+radiofrance.fr                            # radio portal (music and culture stations); franceinfo is listed separately
+rbth.com                                  # culture and lifestyle about Russia, not news
+readwrite.com                             # technology
+record.pt                                 # sports daily
+research.stlouisfed.org                   # Federal Reserve research
+resolver.library.ualberta.ca              # library link resolver
+resumodasnovelas.ig.com.br                # soap opera summaries
+revistas.usp.br                           # academic journals
+rockpapershotgun.com                      # video games
+scielo.br                                 # academic journals
+sciencedaily.com                          # science
+screenrant.com                            # entertainment
+scrip.pharmaintelligence.informa.com      # pharma trade press
+sdg.iisd.org                              # policy knowledge hub
+search.ebscohost.com                      # research database (EBSCO)
+search.proquest.com                       # research database (ProQuest)
+seer.ufrgs.br                             # academic journals
+serebii.net                               # video games
+seroundtable.com                          # search marketing
+shows.acast.com                           # podcast host
+showtv.com.tr                             # TV channel site; Wikidata URL is a programme page
+shu-primo.hosted.exlibrisgroup.com        # library catalogue
+socialmediatoday.com                      # marketing trade press
+sostav.ru                                 # advertising and marketing trade press
+space.com                                 # science (out of scope)
+spacenews.com                             # space industry trade press
+spice.eplus.jp                            # entertainment and ticketing
+sport.es                                  # sports daily
+sport.ro                                  # sports
+sportnieuws.nl                            # sports
+sportsmole.co.uk                          # sport
+springer.com                              # academic publisher
+startv.com.tr                             # TV channel site; Wikidata URL is a programme page
+statnews.com                              # health and biotech trade news
+stlow.iii.com                             # library catalogue
+sud.ua                                    # legal trade newspaper
+t-j.ru                                    # personal finance magazine (T-Journal)
+taimyr24.gosuslugi.ru                     # municipal site on a government services platform; content unverifiable
+tameteo.com                               # weather
+techcrunch.com                            # technology
+techradar.com                             # technology
+telephoneguide.com.com                    # phone directory
+telerama.fr                               # culture and TV guide
+tempo.pt                                  # weather
+tes.com                                   # education trade press
+tf1.fr                                    # TF1+ streaming and entertainment; news is on tf1info.fr
+theathletic.com                           # sports (out of scope)
+thegamer.com                              # video games
+theinformation.com                        # technology business news (out of scope)
+thenextweb.com                            # technology news
+therecord.media                           # cybersecurity trade press
+theverge.com                              # technology news (out of scope)
+tiempo.com                                # weather
+tiraspol.tripod.com                       # no longer resolves
+titan.uio.no                              # university science magazine
+today.com                                 # NBC Today show site: mostly lifestyle, food and parenting
+tokyo-sports.co.jp                        # sports and entertainment tabloid
+trashbox.ru                               # technology
+tronc-hartford-courant-prod.origin.arcpublishing.com  # CMS origin host, not a public site
+trustedreviews.com                        # product reviews
+tuttosport.com                            # sports daily
+tv.cctv.com                               # CCTV streaming host; news is only a path (news.cctv.com listed instead)
+ufrgs.br                                  # university
+uniforum.uio.no                           # university magazine
+universetoday.com                         # science
+us.marca.com                              # sports daily
+usccb.org                                 # bishops' conference; news is a path
+usp.br                                    # university
+utoronto.ca                               # university; news is a path
+vagendamag.blogspot.co.uk                 # defunct culture blog
+vatican.va                                # Holy See official site; L'Osservatore Romano is only a path
+vc.ru                                     # startup and marketing community platform
+ve3d.ign.com                              # video games (out of scope)
+venturebeat.com                           # technology
+vgtimes.ru                                # video games
+videogameschronicle.com                   # video games
+vie-publique.fr                           # government site
+vogue.fr                                  # fashion
+watch.impress.co.jp                       # tech news (Impress Watch)
+wccftech.com                              # technology
+web.ebscohost.com                         # research database (EBSCO)
+wired.co.uk                               # technology magazine (out of scope)
+wired.com                                 # technology magazine (out of scope)
+world.ign.com                             # video games (out of scope)
+worldtomorrow.wikileaks.org               # defunct talk show
+wwd.com                                   # fashion trade (out of scope)
+www12.senado.leg.br                       # Brazilian Senate (government)
+zdf.de                                    # ZDF Mediathek/streaming; news is on zdfheute.de

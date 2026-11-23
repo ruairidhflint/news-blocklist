@@ -1,0 +1,302 @@
+# Middle East and North Africa: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+# === Algeria ===
+algeriepatriotique.com  # Algérie Patriotique
+echoroukonline.com      # Echorouk
+elmoudjahid.dz          # El Moudjahid
+elwatan-dz.com          # El Watan
+elwatan.dz              # El Watan
+horizons.dz             # Horizons
+lexpressiondz.com       # L'Expression
+maghrebemergent.info    # Maghreb Emergent
+maghrebemergent.news    # Maghreb Emergent
+observalgerie.com       # Observ'Algérie
+tsa-algerie.com         # TSA Algérie
+
+# === Bahrain ===
+gdnonline.com      # Gulf Daily News
+newsofbahrain.com  # News of Bahrain
+
+# === Egypt ===
+ahram.org.eg         # Al-Ahram
+albawabhnews.com     # Al Bawaba News
+alborsanews.com      # Al Borsa News
+almasryalyoum.com    # Al-Masry Al-Youm
+alqaheranews.net     # Al Qahera News
+amwalalghad.com      # Amwal Al Ghad
+cairo24.com          # Cairo 24
+dotmsr.com           # Dot Msr
+egyptianstreets.com  # Egyptian Streets
+egypttoday.com       # Egypt Today
+elaosboa.com         # El Osboa
+elbalad.news         # Sada El Balad
+enterprise.press     # Enterprise
+enterpriseam.com     # EnterpriseAM
+gomhuriaonline.com   # Al Gomhuria
+masrawy.com          # Masrawy
+mobtada.com          # Mobtada
+parlmany.com         # Parlmany
+rosaelyoussef.com    # Rose al-Yūsuf
+shorouknews.com      # Al-Shorouk
+youm7.com            # Youm7
+
+# === Iran ===
+abna24.com              # ABNA
+akharinkhabar.ir        # Akharin Khabar news aggregator
+alalam.ir               # Al-Alam
+alef.ir                 # Alef
+armanmeli.ir            # Arman Melli
+asriran.com             # Asr Iran
+bultannews.com          # Bultan News
+defapress.ir            # Defa Press
+donya-e-eqtesad.com     # Donya-e-Eqtesad
+ecoiran.com             # EcoIran
+eghtesadnews.com        # Eghtesad News
+entekhab.ir             # Entekhab
+fararu.com              # Fararu
+farsnews.ir             # Fars News Agency
+hamshahrionline.ir      # Hamshahri
+hawzahnews.com          # Hawzah News
+independentpersian.com  # Independent Persian
+iranintl.com            # Iran International
+iranpress.com           # Iran Press
+iranpress.ir            # Iran Press
+iranwire.com            # IranWire
+irinn.ir                # IRINN
+irna.ir                 # Islamic Republic News Agency
+isna.ir                 # Iranian Students' News Agency
+javanonline.ir          # Javan
+khabarfoori.com         # Khabar Foori
+khabaronline.ir         # Khabaronline
+mardomsalari.ir         # Mardomsalari
+mehrnews.com            # Mehr News Agency
+pana.ir                 # Pana
+parstoday.ir            # Pars Today
+presstv.co.uk           # Press TV (mirror)
+presstv.ir              # Press TV
+radiozamaneh.com        # Radio Zamaneh
+rokna.net               # Rokna
+shafaqna.com            # Shafaqna
+tabnak.ir               # Tabnak
+tasnimnews.ir           # Tasnim News Agency
+tejaratnews.com         # Tejarat News
+yjc.ir                  # Young Journalists Club
+
+# === Iraq ===
+964media.com       # 964
+almaalomah.me      # Al Maalomah
+almadapaper.net    # Al Mada
+alsabaah.iq        # Al-Sabaah
+alsumaria.tv       # Alsumaria
+alsumarianews.com  # Alsumaria News
+baghdadtoday.news  # Baghdad Today
+drawmedia.net      # Draw Media
+imn.iq             # Iraqi Media Network
+kirkuknow.com      # Kirkuk Now
+kurdistan24.net    # Kurdistan24
+shafaq.com         # Shafaq News
+thenewregion.com   # The New Region
+utviraq.net        # UTV Iraq
+
+# === Israel ===
+13tv.co.il              # Reshet 13; mixed: also blocks Reshet 13's entertainment shows and catch-up
+bizportal.co.il         # Bizportal
+bokra.net               # Bokra
+c14.co.il               # Channel 14
+dtv.walla.co.il         # Democrat TV
+globes.co.il            # Globes
+haaretz.co.il           # Haaretz (Hebrew)
+haaretz.com             # Haaretz
+i24news.tv              # i24NEWS
+israelhayom.co.il       # Israel Hayom
+israelnationalnews.com  # Arutz Sheva
+jpost.com               # The Jerusalem Post
+kan.org.il              # Kan (Israeli Public Broadcasting); mixed: also blocks Kan's TV catch-up and radio streams
+maariv.co.il            # Maariv
+news.walla.co.il        # Walla! News
+now14.co.il             # Channel 14 Now
+themarker.com           # TheMarker
+themedialine.org        # The Media Line
+timesofisrael.com       # The Times of Israel
+www.walla.co.il         # Walla!; mixed: the Walla portal homepage (Walla Mail and shopping are on other hosts and stay up)
+ynet.co.il              # Ynet
+ynetnews.com            # Ynetnews
+
+# === Jordan ===
+almadenahnews.com  # Al Madenah News
+almamlakatv.com    # Al-Mamlaka
+alwakeelnews.com   # Alwakeel News
+assawsana.com      # Assawsana
+hala.jo            # Hala Akhbar
+jo24.net           # Jo24
+jordannews.jo      # Jordan News
+khaberni.com       # Khaberni
+royanews.tv        # Roya News
+
+# === Kuwait ===
+alanba.com.kw    # Al-Anba
+kuwaittimes.com  # Kuwait Times
+timeskuwait.com  # Times Kuwait
+
+# === Lebanon ===
+addiyar.com          # Ad-Diyar
+aljadeed.tv          # Al Jadeed
+almanar.com.lb       # Al-Manar
+almarkazia.com       # Al Markazia
+almayadeen.net       # Al Mayadeen
+almodon.com          # Al Modon
+asasmedia.com        # Asas Media
+elnashra.com         # Elnashra
+icibeyrouth.com      # Ici Beyrouth
+imlebanon.org        # IMLebanon
+janoubia.com         # Janoubia
+lbcgroup.tv          # LBCI
+lebanon24.com        # Lebanon24
+lebanondebate.com    # Lebanon Debate
+lebanonfiles.com     # Lebanon Files
+mtv.com.lb           # MTV Lebanon; mixed: also blocks MTV Lebanon's entertainment shows and live stream
+nbn.com.lb           # NBN
+nidaalwatan.com      # Nidaa al-Watan
+otv.com.lb           # OTV
+tayyar.org           # Tayyar
+the961.com           # The961
+thisisbeirut.com.lb  # This is Beirut
+
+# === Libya ===
+218tv.net          # 218 TV
+akhbarlibya24.net  # Akhbar Libya 24
+almarsad.co        # Al Marsad
+alwasat.ly         # Al Wasat
+eanlibya.com       # Ean Libya
+libyaalahrar.net   # Libya Al-Ahrar
+libyaherald.com    # Libya Herald
+libyaobserver.ly   # The Libya Observer
+
+# === Morocco ===
+akhbarona.com   # Akhbarona
+al3omk.com      # Al3omk
+alayam24.com    # Alayam24
+aljarida24.ma   # Aljarida24
+alyaoum24.com   # Alyaoum24
+febrayer.com    # Febrayer
+h24info.ma      # H24info
+hespress.com    # Hespress
+hibapress.com   # Hibapress
+le360.ma        # Le360
+ledesk.ma       # Le Desk
+leseco.ma       # L'Economiste/Les Eco
+lesiteinfo.com  # Le Site Info
+mapexpress.ma   # MAP Express
+mapnews.ma      # Maghreb Arabe Presse
+medias24.com    # Médias24
+rue20.com       # Rue20
+snrtnews.com    # SNRT News
+yabiladi.com    # Yabiladi
+
+# === Oman ===
+atheer.om     # Atheer
+omandaily.om  # Oman Daily
+shabiba.com   # Al Shabiba
+
+# === Palestine ===
+alwatanvoice.com  # Al-Watan Voice
+paltoday.ps       # Palestine Today
+pbc.ps            # Palestine Broadcasting Corporation
+qudsn.co          # Quds News Network
+samanews.ps       # Sama News
+
+# === Qatar ===
+ajnet.me           # Al Jazeera short links
+ajplus.net         # AJ+
+alaraby.com        # Al Araby TV
+aljazeera.com      # Al Jazeera English
+aljazeera.net      # Al Jazeera
+dohanews.co        # Doha News
+lusailnews.net     # Lusail News
+qatar-tribune.com  # Qatar Tribune
+
+# === Saudi Arabia ===
+aawsat.com             # Asharq Al-Awsat (London-based pan-Arab daily)
+alarabiya.net          # Al Arabiya
+alhadath.net           # Al Hadath
+almowaten.net          # Al Mowaten
+alweeam.com.sa         # Al Weeam
+arabnews.com           # Arab News
+arabnews.fr            # Arab News en français
+arabnews.jp            # Arab News Japan
+arabnews.pk            # Arab News Pakistan
+argaam.com             # Argaam
+asharq.com             # Asharq News
+asharqbusiness.com     # Asharq Business
+independentarabia.com  # Independent Arabia
+maaal.com              # Maaal
+mz-mz.net              # Al Marsd
+
+# === Sudan ===
+alnilin.com       # Al-Nilin
+alrakoba.net      # Al Rakoba
+alsudaninews.com  # Alsudani
+altaghyeer.info   # Altaghyeer
+dabangasudan.org  # Radio Dabanga
+sudanakhbar.com   # Sudan Akhbar
+sudanile.com      # Sudanile
+sudantribune.net  # Sudan Tribune (Arabic)
+suna-sd.net       # Sudan News Agency
+
+# === Syria ===
+aksalser.com        # Aks Alser
+eqtsad.net          # Eqtsad
+halabtodaytv.net    # Halab Today
+npasyria.com        # North Press Agency
+orient-news.net     # Orient News
+shaam.org           # Shaam Network
+snacksyrian.com     # Snack Syrian
+stepagency-sy.net   # Step News Agency
+syria.tv            # Syria TV
+syriadirect.org     # Syria Direct
+syriahr.com         # Syrian Observatory for Human Rights
+syrianobserver.com  # The Syrian Observer
+
+# === Tunisia ===
+assabahnews.tn        # Assabah News
+babnet.net            # Babnet
+businessnews.com.tn   # Business News
+espacemanager.com     # Espace Manager
+inkyfada.com          # Inkyfada
+jawharafm.net         # Jawhara FM
+kapitalis.com         # Kapitalis
+leaders.com.tn        # Leaders
+mosaiquefm.net        # Mosaïque FM
+nawaat.org            # Nawaat
+realites.com.tn       # Réalités
+webdo.tn              # Webdo
+webmanagercenter.com  # WMC
+
+# === United Arab Emirates ===
+24.ae                # 24.ae
+alittihad.ae         # Al Ittihad
+alroeya.com          # Al Roeya (redirects to CNN Business Arabic)
+arabianbusiness.com  # Arabian Business
+cnbcarabia.com       # CNBC Arabia
+emaratalyoum.com     # Emarat Al Youm
+gulfbusiness.com     # Gulf Business
+gulfnews.com         # Gulf News
+khaleejtimes.com     # Khaleej Times
+sharjah24.ae         # Sharjah24
+skynewsarabia.com    # Sky News Arabia
+thenationalnews.com  # The National
+zawya.com            # Zawya
+
+# === Yemen ===
+aden-tm.net         # Aden Time
+adengad.net         # Aden Al-Ghad
+adngad.net          # Aden Al-Ghad
+alayyam.info        # Al-Ayyam (Aden)
+almasdaronline.com  # Al-Masdar Online
+almasirah.net       # Al-Masirah
+belqees.net         # Belqees TV
+khabaragency.net    # Khabar Agency
+south24.net         # South24
+yemenmonitor.com    # Yemen Monitor

@@ -1,0 +1,148 @@
+# United Kingdom and Crown Dependencies: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+bailiwickexpress.com          # Bailiwick Express (Jersey and Guernsey)
+basingstokegazette.co.uk      # Basingstoke Gazette
+belfastlive.co.uk             # Belfast Live
+belfasttelegraph.co.uk        # Belfast Telegraph
+bellacaledonia.org.uk         # Bella Caledonia
+birminghammail.co.uk          # Birmingham Mail
+birminghamworld.uk            # BirminghamWorld
+bristolworld.com              # BristolWorld
+buckinghamshirelive.com       # Buckinghamshire Live
+camdennewjournal.co.uk        # Camden New Journal
+capx.co                       # CapX
+chad.co.uk                    # Chad (Mansfield)
+cheshire-live.co.uk           # Cheshire Live
+chroniclelive.co.uk           # Chronicle Live (Newcastle)
+cityam.com                    # City AM
+conservativehome.com          # ConservativeHome
+conservativewoman.co.uk       # The Conservative Woman
+countypress.co.uk             # Isle of Wight County Press
+dailymail.co.uk               # Daily Mail
+dailymail.com                 # Daily Mail (US domain)
+dailyrecord.co.uk             # Daily Record
+dailysceptic.org              # The Daily Sceptic
+dailystar.co.uk               # Daily Star
+declassifieduk.org            # Declassified UK
+devonlive.com                 # Devon Live
+eadt.co.uk                    # East Anglian Daily Times
+economist.com                 # The Economist
+edinburghlive.co.uk           # Edinburgh Live
+evolvepolitics.com            # Evolve Politics
+express.co.uk                 # Daily Express
+factcheckni.org               # FactCheckNI
+falkirkherald.co.uk           # Falkirk Herald
+feeds.bbci.co.uk              # BBC News RSS feeds
+ft.com                        # Financial Times
+fullfact.org                  # Full Fact
+gbnews.com                    # GB News
+getsurrey.co.uk               # Surrey Live (legacy)
+glasgowlive.co.uk             # Glasgow Live
+glasgowworld.com              # GlasgowWorld
+golwg.360.cymru               # Golwg360
+golwg360.cymru                # Golwg360
+grimsbytelegraph.co.uk        # Grimsby Telegraph
+guardian.co.uk                # The Guardian (old domain)
+hackneygazette.co.uk          # Hackney Gazette
+halifaxcourier.co.uk          # Halifax Courier
+hampshirelive.news            # Hampshire Live
+harrogateadvertiser.co.uk     # Harrogate Advertiser
+heraldscotland.com            # The Herald (Scotland)
+heraldseries.co.uk            # Herald Series (Oxfordshire)
+holyrood.com                  # Holyrood
+huffingtonpost.co.uk          # HuffPost UK
+ibtimes.co.uk                 # International Business Times UK
+ilfordrecorder.co.uk          # Ilford Recorder
+independent.co.uk             # The Independent
+inews.co.uk                   # The i Paper
+iomtoday.co.im                # Isle of Man Today
+ipswichstar.co.uk             # Ipswich Star
+irishnews.com                 # The Irish News
+jewishnews.timesofisrael.com  # Jewish News (UK)
+kentlive.news                 # Kent Live
+kentonline.co.uk              # KentOnline
+labourlist.org                # LabourList
+lancs.live                    # Lancs Live
+lbc.co.uk                     # LBC
+leamingtoncourier.co.uk       # Leamington Courier
+leeds-live.co.uk              # Leeds Live
+leftfootforward.org           # Left Foot Forward
+lincolnshireworld.com         # LincolnshireWorld
+liverpoolecho.co.uk           # Liverpool Echo
+liverpoolworld.uk             # LiverpoolWorld
+londonworld.com               # LondonWorld
+lutontoday.co.uk              # Luton News
+manchestereveningnews.co.uk   # Manchester Evening News
+manchesterworld.uk            # ManchesterWorld
+metro.co.uk                   # Metro
+middleeasteye.net             # Middle East Eye
+middleeastmonitor.com         # Middle East Monitor
+mirror.co.uk                  # Daily Mirror
+moneyweek.com                 # MoneyWeek
+mylondon.news                 # MyLondon
+nationalworld.com             # NationalWorld
+news.bbc.co.uk                # BBC News (legacy host)
+news.sky.com                  # Sky News
+news.stv.tv                   # STV News
+newsletter.co.uk              # News Letter (Belfast)
+newstatesman.com              # New Statesman
+northantslive.news            # Northants Live
+northernirelandworld.com      # NorthernIrelandWorld
+novaramedia.com               # Novara Media
+opendemocracy.net             # openDemocracy
+oxfordmail.co.uk              # Oxford Mail
+plymouthherald.co.uk          # Plymouth Herald
+politicalbetting.com          # PoliticalBetting
+portadowntimes.co.uk          # Portadown Times
+private-eye.co.uk             # Private Eye
+prospectmagazine.co.uk        # Prospect
+reaction.life                 # Reaction
+rugbyadvertiser.co.uk         # Rugby Advertiser
+scotsman.com                  # The Scotsman
+shieldsgazette.com            # Shields Gazette
+skwawkbox.org                 # Skwawkbox
+sluggerotoole.com             # Slugger O'Toole
+somersetlive.co.uk            # Somerset Live
+spectator.co.uk               # The Spectator
+spectator.com                 # The Spectator
+spiked-online.com             # Spiked
+standard.co.uk                # Evening Standard
+surreylive.news               # Surrey Live
+sussexlive.co.uk              # Sussex Live
+swindonadvertiser.co.uk       # Swindon Advertiser
+talk.tv                       # TalkTV
+telegraph.co.uk               # The Telegraph
+the-independent.com           # The Independent (international domain)
+thearticle.com                # TheArticle
+thebristolcable.org           # The Bristol Cable
+thebureauinvestigates.com     # The Bureau of Investigative Journalism
+thecritic.co.uk               # The Critic
+thedetail.tv                  # The Detail
+theferret.scot                # The Ferret
+theguardian.com               # The Guardian
+thelondoneconomic.com         # The London Economic
+thescottishsun.co.uk          # The Scottish Sun
+thesun.co.uk                  # The Sun
+thesundaytimes.co.uk          # The Sunday Times
+thetimes.co.uk                # The Times
+thetimes.com                  # The Times
+thisismoney.co.uk             # This is Money
+thurrockgazette.co.uk         # Thurrock Gazette
+times-series.co.uk            # Times Series (Barnet)
+times.radio                   # Times Radio
+tortoisemedia.com             # Tortoise
+voice-online.co.uk            # The Voice
+walesonline.co.uk             # WalesOnline
+warwickshireworld.com         # WarwickshireWorld
+wigantoday.net                # Wigan Today
+wiltshirelive.co.uk           # Wiltshire Live
+wingsoverscotland.com         # Wings Over Scotland
+witneygazette.co.uk           # Witney Gazette
+worksopguardian.co.uk         # Worksop Guardian
+worthingherald.co.uk          # Worthing Herald
+www.bbc.co.uk                 # BBC; mixed: also blocks iPlayer, BBC Sounds, Bitesize and Weather
+www.bbc.com                   # BBC (international site); mixed: also blocks BBC Travel, Culture and other non-news sections
+yorkshirelive.co.uk           # Yorkshire Live
+yourlocalguardian.co.uk       # Your Local Guardian (south London)

@@ -1,0 +1,888 @@
+# Central and Eastern Europe, the Balkans, Turkey, the Caucasus and Central Asia: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+# === Albania ===
+a2news.com             # A2 CNN
+abcnews.al             # ABC News Albania
+albaniandailynews.com  # Albanian Daily News
+ata.gov.al             # ATA (Albanian Telegraphic Agency)
+balkanweb.com          # BalkanWeb
+dosja.al               # Dosja
+euronews.al            # Euronews Albania
+exit.al                # Exit News
+faktoje.al             # Faktoje
+gazetadita.al          # Gazeta Dita
+lapsi.al               # Lapsi
+newsbomb.al            # Newsbomb.al
+oranews.tv             # Ora News
+politiko.al            # Politiko
+report-tv.al           # Report TV
+reporter.al            # Reporter.al
+shqiptarja.com         # Shqiptarja
+sot.com.al             # Gazeta SOT
+top-channel.tv         # Top Channel; mixed: also blocks Top Channel shows
+zeriamerikes.com       # Zëri i Amerikës (VOA Albanian)
+
+# === Armenia ===
+1lurer.am          # 1lurer (Public TV news)
+a1plus.am          # A1+
+ampop.am           # Ampop
+arka.am            # ARKA
+armeniasputnik.am  # Sputnik Armenia
+aysor.am           # Aysor
+blognews.am        # BlogNews
+civilnet.am        # CivilNet
+epress.am          # Epress
+factor.am          # Factor TV
+fip.am             # Fact Investigation Platform
+hraparak.am        # Hraparak
+infocom.am         # Infocom
+news.am            # News.am
+panarmenian.net    # PanARMENIAN (redirects to pan.am)
+panorama.am        # Panorama.am
+past.am            # Past
+shamshyan.com      # Shamshyan
+tert.am            # Tert.am
+yerkir.am          # Yerkir
+zham.am            # Zham
+
+# === Azerbaijan ===
+1news.az       # 1news.az
+ann.az         # ANN.az
+axar.az        # Axar
+baku.ws        # Baku.ws
+day.az         # Day.Az
+lent.az        # Lent.az
+milli.az       # Milli.Az
+minval.az      # Minval
+oxu.az         # Oxu.az
+publika.az     # Publika.az
+report.az      # Report.az
+sia.az         # SİA
+teleqraf.az    # Teleqraf
+teleqraf.com   # Teleqraf (redirects to teleqraf.az)
+turan.az       # Turan
+unikal.org     # Unikal
+vesti.az       # Vesti.az
+xalqqazeti.az  # Xalq qəzeti
+yeniavaz.com   # Yeni Avaz
+
+# === Belarus ===
+belsat.eu          # Belsat
+belta.by           # BelTA
+charter97.org      # Charter 97
+ctv.by             # CTV
+euroradio.fm       # Euroradio
+money.onliner.by   # Onliner money news
+motolko.help       # Motolko
+people.onliner.by  # Onliner news
+smartpress.by      # SmartPress
+zerkalo.io         # Zerkalo
+
+# === Bosnia and Herzegovina ===
+6yka.com           # 6yka
+atvbl.rs           # ATV
+avaz.ba            # Dnevni avaz
+bhrt.ba            # BHRT; mixed: also blocks BHRT programme pages and streams
+bljesak.info       # Bljesak
+capital.ba         # Capital.ba
+depo.ba            # Depo
+dnevni.ba          # Dnevni.ba
+faktor.ba          # Faktor
+federalna.ba       # Federalna TV; mixed: also blocks FTV programme pages and streams
+hercegovina.info   # Hercegovina.info
+istinomjer.ba      # Istinomjer
+istraga.ba         # Istraga
+klix.ba            # Klix.ba
+n1info.ba          # N1 BiH
+nezavisne.com      # Nezavisne novine
+novi.ba            # Novi.ba
+radiosarajevo.ba   # Radio Sarajevo
+raskrinkavanje.ba  # Raskrinkavanje
+rtrs.tv            # RTRS; mixed: also blocks RTRS programme pages and streams
+srpskainfo.com     # Srpskainfo
+zurnal.info        # Žurnal
+
+# === Bulgaria ===
+24chasa.bg      # 24 Chasa
+actualno.com    # Actualno
+banker.bg       # Banker
+bgonair.bg      # Bulgaria ON AIR
+bivol.bg        # Bivol
+blitz.bg        # Blitz
+bloombergtv.bg  # Bloomberg TV Bulgaria
+bnr.bg          # BNR (Bulgarian National Radio); mixed: also blocks BNR radio programme pages and streams
+bntnews.bg      # BNT News
+bta.bg          # BTA
+btvnovinite.bg  # bTV Novinite
+clubz.bg        # Club Z
+dnes.bg         # Dnes.bg
+dnes.dir.bg     # Dir.bg Dnes
+epicenter.bg    # Epicenter
+factcheck.bg    # Factcheck.bg
+fakti.bg        # Fakti
+flagman.bg      # Flagman
+frognews.bg     # Frog News
+investor.bg     # Investor.bg
+mediapool.bg    # Mediapool
+news.bg         # News.bg
+novini.bg       # Novini.bg
+novinite.com    # Novinite
+offnews.bg      # OFFNews
+pik.bg          # PIK
+sofiaglobe.com  # The Sofia Globe
+telegraph.bg    # Telegraph
+varna24.bg      # Varna24
+vesti.bg        # Vesti.bg
+
+# === Croatia ===
+24sata.hr             # 24sata
+bloombergadria.com    # Bloomberg Adria
+dalmacijadanas.hr     # Dalmacija Danas
+dalmatinskiportal.hr  # Dalmatinski portal
+direktno.hr           # Direktno
+dnevnik.hr            # Dnevnik.hr (Nova TV)
+faktograf.hr          # Faktograf
+glas-slavonije.hr     # Glas Slavonije
+h-alter.org           # H-Alter
+index.hr              # Index.hr
+istramet.hr           # Istramet
+jutarnji.hr           # Jutarnji list
+lider.media           # Lider (redirects to lidermedia.hr)
+lidermedia.hr         # Lider
+n1info.hr             # N1 Hrvatska
+nacional.hr           # Nacional
+narod.hr              # Narod.hr
+net.hr                # Net.hr
+osijek031.com         # Osijek031
+portalnovosti.com     # Novosti
+sibenik.in            # Šibenik.in
+slobodnadalmacija.hr  # Slobodna Dalmacija
+tportal.hr            # tportal
+vecernji.hr           # Večernji list
+vijesti.hrt.hr        # HRT Vijesti
+vijesti.rtl.hr        # RTL Vijesti
+
+# === Cyprus ===
+alphanews.live     # Alpha News
+haberkibris.com    # Haber Kıbrıs
+kibrisgenctv.com   # Kıbrıs Genç TV
+news.rik.cy        # RIK News
+omegalive.com.cy   # Omega Live
+philenews.com      # Phileleftheros
+reporter.com.cy    # Reporter
+riknews.com.cy     # RIK News (redirects to news.rik.cy)
+stockwatch.com.cy  # Stockwatch
+yeniduzen.com      # Yenidüzen
+
+# === Czech Republic ===
+aktualne.cz            # Aktuálně.cz
+blesk.cz               # Blesk
+cnn.iprima.cz          # CNN Prima News
+ct24.ceskatelevize.cz  # ČT24
+demagog.cz             # Demagog.cz
+denik.cz               # Deník
+ekonomickydenik.cz     # Ekonomický deník
+eurozpravy.cz          # EuroZprávy
+forum24.cz             # Forum24
+hlidacipes.org         # Hlídací pes
+idnes.cz               # iDNES.cz
+info.cz                # INFO.CZ
+manipulatori.cz        # Manipulátoři
+newstream.cz           # Newstream
+novinky.cz             # Novinky.cz
+parlamentnilisty.cz    # Parlamentní listy
+reflex.cz              # Reflex
+respekt.cz             # Respekt
+seznamzpravy.cz        # Seznam Zprávy
+tn.nova.cz             # TN.cz (TV Nova news)
+tyden.cz               # Týden
+
+# === Estonia ===
+delfi.ee       # Delfi Estonia
+news.err.ee    # ERR News
+pealinn.ee     # Pealinn
+postimees.ee   # Postimees
+propastop.org  # Propastop
+rus.err.ee     # ERR Novosti
+www.err.ee     # ERR (err.ee itself also hosts the Jupiter streaming service)
+
+# === Georgia ===
+1tv.ge              # 1TV (Georgian Public Broadcaster)
+ambebi.ge           # Ambebi
+bm.ge               # BM.ge
+commersant.ge       # Commersant.ge
+factcheck.ge        # FactCheck Georgia
+formulanews.ge      # Formula
+frontnews.ge        # Frontnews
+imedi.ge            # Imedi; mixed: also blocks Imedi TV shows and live stream
+imedinews.ge        # Imedi News (redirects to imedi.ge)
+interpressnews.ge   # InterPressNews
+jam-news.net        # JAMnews
+kvira.ge            # Kvira
+mtavari.tv          # Mtavari
+mythdetector.com    # Myth Detector
+mythdetector.ge     # Myth Detector
+netgazeti.ge        # Netgazeti
+newsgeorgia.ge      # News Georgia
+on.ge               # On.ge
+primetime.ge        # Primetime
+publika.ge          # Publika
+reginfo.ge          # Reginfo
+rustavi2.ge         # Rustavi 2; mixed: also blocks Rustavi 2 shows and live stream
+sputnik-georgia.ru  # Sputnik Georgia
+tabula.ge           # Tabula
+tvpirveli.ge        # TV Pirveli
+
+# === Greece ===
+ant1news.gr            # ANT1 News
+bankingnews.gr         # Bankingnews
+businessdaily.gr       # Business Daily
+capital.gr             # Capital.gr
+cnn.gr                 # CNN Greece
+cretalive.gr           # CretaLive
+dikaiologitika.gr      # Dikaiologitika (redirects to dnews.gr)
+dnews.gr               # Dnews (Dikaiologitika News)
+documentonews.gr       # Documento
+efsyn.gr               # Efimerida ton Syntakton
+ekathimerini.com       # eKathimerini
+ellinikahoaxes.gr      # Ellinika Hoaxes
+ertnews.gr             # ERT News
+euro2day.gr            # Euro2day
+greekreporter.com      # Greek Reporter
+hellasjournal.com      # Hellas Journal
+iefimerida.gr          # iefimerida
+in.gr                  # in.gr
+insider.gr             # Insider.gr
+kathimerini.gr         # Kathimerini
+keeptalkinggreece.com  # Keep Talking Greece
+liberal.gr             # Liberal
+lifo.gr                # LiFO
+makeleio.gr            # Makeleio
+militaire.gr           # Militaire
+mononews.gr            # Mononews
+naftemporiki.gr        # Naftemporiki
+newmoney.gr            # newmoney
+news.gr                # News.gr
+news247.gr             # News 24/7
+newsbeast.gr           # Newsbeast
+newsbomb.gr            # Newsbomb
+newsit.gr              # Newsit
+ot.gr                  # OT.gr
+pronews.gr             # Pronews
+protothema.gr          # Proto Thema
+skai.gr                # SKAI; mixed: also blocks SKAI TV programme pages
+star.gr                # Star; mixed: also blocks Star TV programme and lifestyle pages
+thestival.gr           # Thestival
+thetoc.gr              # The TOC
+tovima.gr              # To Vima
+voria.gr               # Voria
+zougla.gr              # Zougla
+
+# === Hungary ===
+24.hu            # 24.hu
+444.hu           # 444
+atv.hu           # ATV
+baon.hu          # Bács-Kiskun Online
+blikk.hu         # Blikk
+boon.hu          # Borsod Online
+direkt36.hu      # Direkt36
+duol.hu          # Dunaújváros Online
+feol.hu          # Fejér Online
+heol.hu          # Heves Online
+hirklikk.hu      # Hírklikk
+hirstart.hu      # Hírstart
+hirtv.hu         # Hír TV
+hvg.hu           # HVG
+index.hu         # Index.hu
+kemma.hu         # Komárom-Esztergom Online
+lakmusz.hu       # Lakmusz
+mandiner.hu      # Mandiner
+mfor.hu          # Menedzsment Fórum
+nool.hu          # Nógrád Online
+origo.hu         # Origo
+portfolio.hu     # Portfolio
+privatbankar.hu  # Privátbankár
+propeller.hu     # Propeller
+ripost.hu        # Ripost
+rtl.hu           # RTL Hungary; mixed: also blocks RTL show pages
+sonline.hu       # Somogy Online
+szabadeuropa.hu  # Szabad Európa (RFE/RL)
+szoljon.hu       # Szolnok Online
+szon.hu          # Szabolcs Online
+telex.hu         # Telex
+teol.hu          # Tolna Online
+vasarnap.hu      # Vasárnap.hu
+vg.hu            # Világgazdaság
+zaol.hu          # Zala Online
+
+# === Kazakhstan ===
+almaty.tv        # Almaty TV
+astanatimes.com  # The Astana Times
+bes.media        # Bes.media
+el.kz            # El.kz
+exclusive.kz     # Exclusive
+factcheck.kz     # Factcheck.kz
+forbes.kz        # Forbes Kazakhstan
+inbusiness.kz    # Inbusiness
+informburo.kz    # Informburo
+kapital.kz       # Kapital
+kaztag.kz        # KazTAG
+kursiv.media     # Kursiv
+liter.kz         # Liter
+lsm.kz           # LS
+nur.kz           # NUR.KZ
+orda.kz          # Orda
+ratel.kz         # Ratel
+sputnik.kz       # Sputnik Kazakhstan
+tengrinews.kz    # Tengrinews
+total.kz         # Total
+vlast.kz         # Vlast
+zakon.kz         # Zakon.kz
+
+# === Kosovo ===
+ballkani.info         # Ballkani
+botapress.info        # Bota Press
+dukagjini.com         # Dukagjini
+indeksonline.net      # Indeksonline
+insajderi.com         # Insajderi
+kallxo.com            # Kallxo
+klankosova.tv         # Klan Kosova; mixed: also blocks Klan Kosova TV and entertainment pages
+kosovapress.com       # Kosovapress
+kosovo-online.com     # Kosovo Online
+kossev.info           # KoSSev
+lajmi.net             # Lajmi.net
+periskopi.com         # Periskopi
+prishtinainsight.com  # Prishtina Insight
+reporteri.net         # Reporteri
+rtklive.com           # RTK
+rtv21.tv              # RTV21
+
+# === Kyrgyzstan ===
+24.kg         # 24.kg
+akipress.com  # AKIpress
+economist.kg  # Economist.kg
+kaktus.media  # Kaktus.media
+kloop.kg      # Kloop
+knews.kg      # Knews
+ktrk.kg       # KTRK news
+sputnik.kg    # Sputnik Kyrgyzstan
+tazabek.kg    # Tazabek
+vesti.kg      # Vesti.kg
+
+# === Latvia ===
+apollo.lv     # Apollo
+bb.lv         # Baltijas Balss
+chayka.lv     # Chayka
+delfi.lv      # Delfi Latvia
+eng.lsm.lv    # LSM English
+ir.lv         # IR
+jauns.lv      # Jauns.lv
+la.lv         # Latvijas Avīze
+mixnews.lv    # MixNews
+nra.lv        # Neatkarīgā Rīta Avīze
+press.lv      # Press.lv
+rebaltica.lv  # Re:Baltica
+rus.lsm.lv    # LSM Russian
+tvnet.lv      # TVNET
+www.lsm.lv    # LSM (lsm.lv itself also hosts REplay streaming)
+
+# === Lithuania ===
+15min.lt              # 15min
+alfa.lt               # Alfa.lt
+bernardinai.lt        # Bernardinai
+delfi.lt              # Delfi
+diena.lt              # Diena.lt
+lithuaniatribune.com  # The Lithuania Tribune
+lrt.lt                # LRT; mixed: also blocks LRT Mediateka streaming
+lrytas.lt             # Lietuvos rytas
+madeinvilnius.lt      # Made in Vilnius
+tv3.lt                # TV3.lt
+ziniuradijas.lt       # Žinių radijas
+
+# === Moldova ===
+agora.md           # Agora
+deschide.md        # Deschide.md
+europalibera.md    # Europa Liberă Moldova (RFE/RL)
+europalibera.org   # Europa Liberă (RFE/RL)
+ipn.md             # IPN
+jurnal.md          # Jurnal.md
+kp.md              # Komsomolskaya Pravda Moldova
+moldpres.md        # Moldpres
+newsmaker.md       # NewsMaker
+noi.md             # Noi.md
+nokta.md           # Nokta
+point.md           # Point.md
+protv.md           # PRO TV Chișinău
+realitatea.md      # Realitatea.md
+stiri.md           # Știri.md
+tv8.md             # TV8
+unimedia.info      # Unimedia
+ziarulnational.md  # Ziarul Național
+
+# === Mongolia ===
+eagle.mn    # Eagle News
+gogo.mn     # GoGo
+ikon.mn     # Ikon
+ugluu.mn    # Ugluu
+unuudur.mn  # Unuudur
+
+# === Montenegro ===
+aktuelno.me         # Aktuelno
+antenam.net         # Antena M
+borba.me            # Borba
+cdm.me              # CdM
+in4s.net            # IN4S
+portalanalitika.me  # Portal Analitika
+rtcg.me             # RTCG; mixed: also blocks RTCG programme pages and streams
+rtnk.me             # RTNK
+standard.co.me      # Standard
+vijesti.me          # Vijesti
+
+# === North Macedonia ===
+24.mk            # 24 Vesti
+360stepeni.mk    # 360 Stepeni
+alsat.mk         # Alsat
+civilmedia.mk    # CIVIL Media
+ekonomski.mk     # Ekonomski
+faktor.mk        # Faktor
+fokus.mk         # Fokus
+irl.mk           # IRL (Investigative Reporting Lab)
+kanal5.com.mk    # Kanal 5
+kurir.mk         # Kurir
+libertas.mk      # Libertas
+lokalno.mk       # Lokalno
+makfax.com.mk    # Makfax
+meta.mk          # Meta
+mia.mk           # MIA (Macedonian Information Agency)
+netpress.com.mk  # Netpress
+nezavisen.mk     # Nezavisen
+novatv.mk        # Nova TV
+okno.mk          # Okno
+plusinfo.mk      # Plusinfo
+republika.mk     # Republika
+sdk.mk           # SDK
+sitel.com.mk     # Sitel
+telma.com.mk     # Telma
+vistinomer.mk    # Vistinomer
+zurnal.mk        # Žurnal
+
+# === Poland ===
+bankier.pl              # Bankier.pl
+biznes.interia.pl       # Interia Biznes
+biznes.onet.pl          # Onet Biznes
+businessinsider.com.pl  # Business Insider Polska
+demagog.org.pl          # Demagog
+dorzeczy.pl             # Do Rzeczy
+dziennik.pl             # Dziennik.pl
+dziennikzachodni.pl     # Dziennik Zachodni
+echodnia.eu             # Echo Dnia
+expressilustrowany.pl   # Express Ilustrowany
+fakt.pl                 # Fakt
+forsal.pl               # Forsal
+gazetakrakowska.pl      # Gazeta Krakowska
+gazetalubuska.pl        # Gazeta Lubuska
+gazetaprawna.pl         # Dziennik Gazeta Prawna
+gazetawroclawska.pl     # Gazeta Wrocławska
+gloswielkopolski.pl     # Głos Wielkopolski
+kurierlubelski.pl       # Kurier Lubelski
+money.pl                # Money.pl
+naszemiasto.pl          # Nasze Miasto
+natemat.pl              # naTemat
+nczas.info              # Najwyższy Czas
+newsweek.pl             # Newsweek Polska
+next.gazeta.pl          # Gazeta.pl Next (business)
+niezalezna.pl           # Niezależna
+notesfrompoland.com     # Notes from Poland
+nowiny24.pl             # Nowiny
+nowosci.com.pl          # Nowości Dziennik Toruński
+nto.pl                  # Nowa Trybuna Opolska
+oko.press               # OKO.press
+panorama.tvp.pl         # TVP Panorama
+pap.pl                  # Polish Press Agency (PAP)
+parkiet.com             # Parkiet
+pch24.pl                # PCh24
+polsatnews.pl           # Polsat News
+pomorska.pl             # Gazeta Pomorska
+poranny.pl              # Kurier Poranny
+rmf24.pl                # RMF24
+rp.pl                   # Rzeczpospolita
+salon24.pl              # Salon24
+se.pl                   # Super Express
+tokfm.pl                # TOK FM
+tvn24.pl                # TVN24
+tvp.info                # TVP Info
+tvrepublika.pl          # Telewizja Republika
+wiadomosci.gazeta.pl    # Gazeta.pl Wiadomości
+wiadomosci.onet.pl      # Onet Wiadomości
+wiadomosci.radiozet.pl  # Radio ZET Wiadomości
+wiadomosci.wp.pl        # WP Wiadomości
+wnp.pl                  # WNP.pl
+wpolityce.pl            # wPolityce
+wpolsce24.tv            # wPolsce24
+wprost.pl               # Wprost
+wspolczesna.pl          # Gazeta Współczesna
+www.gazeta.pl           # Gazeta.pl; mixed: portal homepage (email on poczta.gazeta.pl is not blocked)
+www.interia.pl          # Interia; mixed: portal homepage (email on poczta.interia.pl is not blocked)
+www.onet.pl             # Onet; mixed: portal homepage (email on poczta.onet.pl is not blocked)
+www.wp.pl               # Wirtualna Polska; mixed: portal homepage (email on poczta.wp.pl is not blocked)
+wyborcza.biz            # Wyborcza.biz
+wyborcza.pl             # Gazeta Wyborcza
+wydarzenia.interia.pl   # Interia Wydarzenia
+
+# === Romania ===
+adevarul.ro          # Adevărul
+aktual24.ro          # Aktual24
+antena3.ro           # Antena 3 CNN
+b365.ro              # B365
+bursa.ro             # Bursa
+capital.ro           # Capital
+defapt.ro            # DeFapt
+digi24.ro            # Digi24
+economica.net        # Economica.net
+evz.ro               # Evenimentul Zilei
+factual.ro           # Factual
+g4media.ro           # G4 Media
+hotnews.ro           # HotNews
+jurnalul.ro          # Jurnalul
+libertatea.ro        # Libertatea
+mediafax.ro          # Mediafax
+monitorulcj.ro       # Monitorul de Cluj
+observatornews.ro    # Observator News
+opiniatimisoarei.ro  # Opinia Timișoarei
+pressone.ro          # PressOne
+profit.ro            # Profit.ro
+romaniatv.net        # România TV
+spotmedia.ro         # Spotmedia
+stirileprotv.ro      # Știrile ProTV
+stiripesurse.ro      # Știri pe surse
+tion.ro              # Tion
+zf.ro                # Ziarul Financiar
+ziare.com            # Ziare.com
+
+# === Russia ===
+116.ru                   # 116.ru (Kazan)
+14.ru                    # 14.ru (Yakutsk)
+161.ru                   # 161.ru (Rostov-on-Don)
+164.ru                   # 164.ru (Saratov)
+1tv.ru                   # Channel One; mixed: also blocks Channel One shows, series and live stream
+29.ru                    # 29.ru (Arkhangelsk)
+45.ru                    # 45.ru (Kurgan)
+48.ru                    # 48.ru (Lipetsk)
+5-tv.ru                  # Channel 5; mixed: also blocks Channel 5 shows and live stream
+51.ru                    # 51.ru (Murmansk)
+53.ru                    # 53.ru (Veliky Novgorod)
+56.ru                    # 56.ru (Orenburg)
+59.ru                    # 59.ru (Perm)
+60.ru                    # 60.ru (Pskov)
+62.ru                    # 62.ru (Ryazan; redirects to ya62.ru)
+63.ru                    # 63.ru (Samara)
+68.ru                    # 68.ru (Tambov)
+72.ru                    # 72.ru (Tyumen)
+74.ru                    # 74.ru (Chelyabinsk)
+76.ru                    # 76.ru (Yaroslavl)
+7x7-journal.ru           # 7x7 (redirects to semnasem.org)
+86.ru                    # 86.ru (Khanty-Mansiysk)
+89.ru                    # 89.ru (Salekhard)
+93.ru                    # 93.ru (Krasnodar)
+abnews.ru                # AB News
+aif.ru                   # Argumenty i Fakty
+anticorruption.ucoz.com  # Vzyatka (anti-corruption newspaper, Chuvashia)
+argumenti.ru             # Argumenty Nedeli
+bfm.ru                   # BFM
+bloknot.ru               # Bloknot
+business-gazeta.ru       # Business Online
+dailystorm.ru            # Daily Storm
+dzen.ru                  # Dzen; mixed: also blocks Dzen blogs and videos
+e1.ru                    # E1 (Yekaterinburg)
+eadaily.com              # EADaily
+expert.ru                # Expert
+finmarket.ru             # Finmarket
+fontanka.ru              # Fontanka
+forbes.ru                # Forbes Russia
+frankmedia.ru            # Frank Media
+gazeta.ru                # Gazeta.ru
+govoritmoskva.ru         # Govorit Moskva
+graniru.org              # Grani.ru
+inosmi.ru                # InoSMI
+interfax.ru              # Interfax
+ircity.ru                # IrCity (Irkutsk)
+iz.ru                    # Izvestia
+janar.ucoz.ru            # Yanarysh (Tatar-language newspaper)
+kaliningrad.ru           # Kaliningrad.ru (redirects to kgd.ru)
+kavkaz-uzel.eu           # Kavkazsky Uzel (Caucasian Knot)
+kavkazr.com              # Kavkaz.Realii (RFE/RL)
+kazanfirst.ru            # KazanFirst
+kgd.ru                   # Kaliningrad.ru
+kommersant.ru            # Kommersant
+kp.ru                    # Komsomolskaya Pravda
+lenta.ru                 # Lenta.ru
+life.ru                  # Life
+m24.ru                   # Moskva 24
+meduza.io                # Meduza (independent, based in Riga)
+mk.ru                    # Moskovsky Komsomolets
+nakanune.ru              # Nakanune
+newkaliningrad.ru        # Novy Kaliningrad
+news.mail.ru             # Mail.ru News
+news.rambler.ru          # Rambler News
+news.ru                  # News.ru
+newsru.com               # NEWSru
+newtimes.ru              # The New Times
+ng.ru                    # Nezavisimaya Gazeta
+ngs.ru                   # NGS (Novosibirsk)
+ngs24.ru                 # NGS24 (Krasnoyarsk)
+ngs42.ru                 # NGS42 (Kemerovo)
+ngs55.ru                 # NGS55 (Omsk)
+ngs70.ru                 # NGS70 (Tomsk)
+novayagazeta.ru          # Novaya Gazeta
+ntv.ru                   # NTV; mixed: also blocks NTV shows, series and live stream
+osnmedia.ru              # OSN
+ovd.info                 # OVD-Info
+paperpaper.io            # Bumaga
+pnp.ru                   # Parlamentskaya Gazeta
+politnavigator.net       # PolitNavigator
+pravda.ru                # Pravda.ru
+profile.ru               # Profil
+rbc.ru                   # RBC
+regnum.ru                # REGNUM
+ren.tv                   # REN TV; mixed: also blocks REN TV shows and live stream
+rg.ru                    # Rossiyskaya Gazeta
+ria.ru                   # RIA Novosti
+rosbalt.ru               # Rosbalt
+rt.com                   # RT
+rtvi.com                 # RTVI
+semnasem.org             # 7x7
+severreal.org            # Sever.Realii (RFE/RL)
+sibkray.ru               # Sibkray
+sibreal.org              # Sibir.Realii (RFE/RL)
+sochi1.ru                # Sochi1
+sota.vision              # SOTAvision
+sputnikglobe.com         # Sputnik
+sputniknews.ru           # Sputnik (near-abroad editions)
+tass.com                 # TASS (English)
+tass.ru                  # TASS
+tayga.info               # Tayga.info
+thebell.io               # The Bell
+topwar.ru                # Voennoe Obozrenie
+tsargrad.tv              # Tsargrad
+tsn24.ru                 # TSN24 (Tula)
+tvrain.tv                # TV Rain (Dozhd)
+tvzvezda.ru              # Zvezda; mixed: also blocks Zvezda shows and live stream
+ufa1.ru                  # Ufa1
+ura.news                 # URA.RU
+ura.ru                   # URA.RU (redirects to ura.news)
+v1.ru                    # V1.ru (Volgograd)
+vedomosti.ru             # Vedomosti
+vesti.ru                 # Vesti
+vz.ru                    # Vzglyad
+ya62.ru                  # Ya62 (Ryazan)
+
+# === Serbia ===
+021.rs            # 021.rs
+alo.rs            # Alo
+autonomija.info   # Autonomija
+b92.net           # B92
+bizlife.rs        # BizLife
+biznis.rs         # Biznis.rs
+blic.rs           # Blic
+cenzolovka.rs     # Cenzolovka
+danas.rs          # Danas
+espreso.co.rs     # Espreso
+euronews.rs       # Euronews Srbija
+informer.rs       # Informer
+insajder.net      # Insajder
+istinomer.rs      # Istinomer
+juznevesti.com    # Južne vesti
+krik.rs           # KRIK
+kurir.rs          # Kurir
+mondo.rs          # Mondo
+n1info.rs         # N1 Srbija
+nedeljnik.rs      # Nedeljnik
+nin.rs            # NIN
+nova.rs           # Nova
+novaekonomija.rs  # Nova ekonomija
+novosti.rs        # Večernje novosti
+objektiv.rs       # Objektiv
+pescanik.net      # Peščanik
+pink.rs           # Pink portal; mixed: also blocks TV Pink entertainment pages
+politika.rs       # Politika
+raskrikavanje.rs  # Raskrikavanje
+rts.rs            # RTS; mixed: also blocks RTS programme pages and live streams
+rtv.rs            # RTV (Radio-televizija Vojvodine); mixed: also blocks RTV programme pages and streams
+sd.rs             # Srbija Danas
+srbijadanas.com   # Srbija Danas (redirects to sd.rs)
+tanjug.rs         # Tanjug
+telegraf.rs       # Telegraf
+vesti-online.com  # Vesti
+vreme.com         # Vreme
+
+# === Slovakia ===
+aktuality.sk     # Aktuality.sk
+cas.sk           # Nový Čas
+dennikn.sk       # Denník N
+dnes24.sk        # Dnes24
+hlavnespravy.sk  # Hlavné správy
+hnonline.sk      # Hospodárske noviny
+noviny.sk        # Noviny.sk (JOJ)
+pluska.sk        # Plus JEDEN DEŇ (plus 7 dní)
+pravda.sk        # Pravda
+sme.sk           # SME
+spravy.stvr.sk   # STVR Správy
+standard.sk      # Štandard
+ta3.com          # TA3
+topky.sk         # Topky
+trend.sk         # Trend
+tvnoviny.sk      # TV Noviny (Markíza)
+webnoviny.sk     # Webnoviny (SITA)
+
+# === Slovenia ===
+24ur.com          # 24ur
+demokracija.si    # Demokracija
+dnevnik.si        # Dnevnik
+domovina.je       # Domovina
+mladina.si        # Mladina
+n1info.si         # N1 Slovenija
+necenzurirano.si  # Necenzurirano
+nova24tv.si       # Nova24TV
+reporter.si       # Reporter
+rtvslo.si         # RTV Slovenija; mixed: also blocks RTV 365 streaming and radio/TV programme pages
+svet24.si         # Svet24
+www.siol.net      # Siol.net (bare siol.net also hosts Telekom Slovenije email servers)
+zurnal24.si       # Žurnal24
+
+# === Tajikistan ===
+asiaplustj.info  # Asia-Plus (redirects to asiaplus.news)
+avesta.tj        # Avesta
+news.tj          # Asia-Plus (redirects to asiaplus.news)
+sputnik-tj.com   # Sputnik Tajikistan (redirects to sputnik.tj)
+sputnik.tj       # Sputnik Tajikistan
+
+# === Turkey ===
+aa.com.tr                # Anadolu Agency
+ahaber.com.tr            # A Haber
+anews.com.tr             # A News
+anlatilaninotesi.com.tr  # Sputnik Türkiye
+artigercek.com           # Artı Gerçek
+aydinlik.com.tr          # Aydınlık
+beyazgazete.com          # Beyaz Gazete
+bloomberght.com          # Bloomberg HT
+cnnturk.com              # CNN Türk
+cumhuriyet.com.tr        # Cumhuriyet
+dailysabah.com           # Daily Sabah
+dogruhaber.com.tr        # Doğru Haber
+dogrulukpayi.com         # Doğruluk Payı
+duvarenglish.com         # Duvar English
+ekonomim.com             # Ekonomim
+ekonomist.com.tr         # Ekonomist
+ensonhaber.com           # En Son Haber
+gazeteduvar.com.tr       # Gazete Duvar
+gzt.com                  # GZT
+haber7.com               # Haber7
+haberglobal.com          # Haber Global
+haberglobal.com.tr       # Haber Global
+haberler.com             # Haberler.com
+haberturk.com            # Habertürk
+halktv.com.tr            # Halk TV
+hurriyet.com.tr          # Hürriyet
+hurriyetdailynews.com    # Hürriyet Daily News
+indyturk.com             # Independent Türkçe
+internethaber.com        # İnternet Haber
+kisadalga.net            # Kısa Dalga
+milliyet.com.tr          # Milliyet
+mynet.com                # Mynet; mixed: also blocks Mynet games, video and horoscopes
+ntv.com.tr               # NTV
+odatv.com                # Odatv
+sabah.com.tr             # Sabah
+sendika.org              # Sendika.Org
+sondakika.com            # Son Dakika
+sozcu.com.tr             # Sözcü
+t24.com.tr               # T24
+tele1.com.tr             # Tele1
+teyit.org                # Teyit
+tgrthaber.com.tr         # TGRT Haber (redirects to tgrthaber.com)
+timeturk.com             # Timeturk
+trthaber.com             # TRT Haber
+trtworld.com             # TRT World
+turkishminute.com        # Turkish Minute
+ulusal.com.tr            # Ulusal Kanal
+yenisafak.com            # Yeni Şafak
+
+# === Turkmenistan ===
+hronikatm.com      # Chronicles of Turkmenistan
+orient.tm          # Orient
+turkmen.news       # Turkmen.news
+turkmenportal.com  # Turkmenportal
+
+# === Ukraine ===
+032.ua               # 032.ua (Lviv)
+048.ua               # 048.ua (Odesa)
+0532.ua              # 0532.ua (Poltava)
+056.ua               # 056.ua (Dnipro)
+057.ua               # 057.ua (Kharkiv)
+061.ua               # 061.ua (Zaporizhzhia)
+24tv.ua              # Channel 24
+5.ua                 # 5 Kanal
+babel.ua             # Babel
+bihus.info           # Bihus.Info
+censor.net           # Censor.net
+defence-ua.com       # Defense Express
+depo.ua              # Depo.ua
+dsnews.ua            # DSnews
+dumskaya.net         # Dumskaya
+epravda.com.ua       # Ekonomichna Pravda
+espreso.tv           # Espreso TV
+fakty.com.ua         # Fakty ICTV
+forbes.ua            # Forbes Ukraine
+glavcom.ua           # Glavcom
+holosameryky.com     # Holos Ameryky (VOA Ukrainian)
+hromadske.ua         # Hromadske
+inforesist.org       # InfoResist
+interfax.com.ua      # Interfax-Ukraine
+korrespondent.net    # Korrespondent
+kyivindependent.com  # The Kyiv Independent
+kyivpost.com         # Kyiv Post
+lb.ua                # LB.ua
+liga.net             # LIGA.net
+mil.in.ua            # Militarnyi (redirects to militarnyi.com)
+mind.ua              # Mind
+nv.ua                # NV (New Voice of Ukraine)
+obozrevatel.com      # Obozrevatel (OBOZ.UA)
+politeka.net         # Politeka
+pravda.com.ua        # Ukrainska Pravda
+rayon.in.ua          # Rayon.in.ua
+rbc.ua               # RBC-Ukraine
+segodnya.ua          # Segodnya
+slovoidilo.ua        # Slovo i Dilo
+stopfake.org         # StopFake
+strana.today         # Strana
+suspilne.media       # Suspilne
+texty.org.ua         # Texty
+tsn.ua               # TSN
+tyzhden.ua           # Tyzhden
+ukranews.com         # Ukrainian News
+unian.info           # UNIAN (English)
+unian.net            # UNIAN
+unian.ua             # UNIAN
+unn.ua               # UNN
+vgorode.ua           # VGorode
+voxukraine.org       # VoxUkraine
+zaxid.net            # Zaxid.net
+znaj.ua              # Znaj.ua
+
+# === Uzbekistan ===
+anhor.uz       # Anhor
+daryo.uz       # Daryo
+fergana.media  # Fergana
+fergana.news   # Fergana
+gazeta.uz      # Gazeta.uz
+kun.uz         # Kun.uz
+kursiv.uz      # Kursiv Uzbekistan
+podrobno.uz    # Podrobno
+qalampir.uz    # Qalampir
+repost.uz      # Repost
+spot.uz        # Spot
+upl.uz         # UPL
+uzdaily.uz     # UzDaily
+uzreport.news  # UzReport
+zamin.uz       # Zamin

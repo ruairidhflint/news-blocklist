@@ -1,0 +1,59 @@
+# Canada: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+985fm.ca               # 98.5 Montréal
+aptnnews.ca            # APTN News
+barrietoday.com        # BarrieToday
+baytoday.ca            # BayToday
+blacklocks.ca          # Blacklock's Reporter
+bnnbloomberg.ca        # BNN Bloomberg
+calgaryherald.com      # Calgary Herald
+canadaland.com         # Canadaland
+castanet.net           # Castanet
+cheknews.ca            # CHEK News
+citynews.ca            # CityNews
+cp24.com               # CP24
+cpac.ca                # CPAC
+ctvnews.ca             # CTV News
+dailyhive.com          # Daily Hive
+financialpost.com      # Financial Post
+globalnews.ca          # Global News
+guelphtoday.com        # GuelphToday
+halifaxherald.com      # Halifax Herald (formerly SaltWire)
+huffingtonpost.ca      # HuffPost Canada (redirects to HuffPost)
+ici.radio-canada.ca    # Radio-Canada (ICI Info); mixed: also blocks OHdio and Radio-Canada TV pages
+ipolitics.ca           # iPolitics
+journaldemontreal.com  # Le Journal de Montréal
+kelownacapnews.com     # Kelowna Capital News
+lactualite.com         # L'actualité
+lapresse.ca            # La Presse
+ledevoir.com           # Le Devoir
+lequotidien.com        # Le Quotidien
+lifesitenews.com       # LifeSiteNews
+macleans.ca            # Maclean's
+montrealgazette.com    # Montreal Gazette
+nationalpost.com       # National Post
+noovo.info             # Noovo Info
+ottawacitizen.com      # Ottawa Citizen
+qub.ca                 # QUB
+readtheline.ca         # The Line
+saltwire.com           # SaltWire
+sootoday.com           # SooToday
+sudbury.com            # Sudbury.com
+tbnewswatch.com        # TBNewsWatch (Thunder Bay)
+theglobeandmail.com    # The Globe and Mail
+thelogic.co            # The Logic
+thenarwhal.ca          # The Narwhal
+thestar.com            # Toronto Star
+thetelegram.com        # The Telegram (St. John's)
+thewalrus.ca           # The Walrus
+tj.news                # Telegraph-Journal (New Brunswick)
+tnc.news               # True North
+torontosun.com         # Toronto Sun
+torontotoday.ca        # TorontoToday
+tvanouvelles.ca        # TVA Nouvelles
+vancouversun.com       # Vancouver Sun
+westernstandard.news   # Western Standard
+winnipegfreepress.com  # Winnipeg Free Press
+www.cbc.ca             # CBC; mixed: also blocks CBC Radio, Kids and Arts pages on www.cbc.ca

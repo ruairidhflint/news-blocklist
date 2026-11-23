@@ -1,0 +1,335 @@
+# Sub-Saharan Africa: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+# === Angola ===
+angola24horas.com  # Angola 24 Horas
+angop.ao           # ANGOP
+club-k.net         # Club-K
+expansao.co.ao     # Expansão
+novojornal.co.ao   # Novo Jornal
+opais.ao           # O País (Angola)
+opais.co.ao        # O País (Angola)
+
+# === Benin ===
+beninwebtv.com  # Bénin Web TV
+
+# === Botswana ===
+mmegi.bw             # Mmegi
+sundaystandard.info  # Sunday Standard
+thegazette.news      # The Botswana Gazette
+weekendpost.co.bw    # Weekend Post
+
+# === Burkina Faso ===
+aib.media       # Agence d'Information du Burkina
+netafrique.net  # Netafrique
+
+# === Burundi ===
+iwacu-burundi.org  # Iwacu
+
+# === Cameroon ===
+actucameroun.com        # Actu Cameroun
+camer.be                # Camer.be
+cameroonnewsagency.com  # Cameroon News Agency
+crtv.cm                 # CRTV
+datacameroon.com        # Data Cameroon
+investiraucameroun.com  # Investir au Cameroun
+journalducameroun.com   # Journal du Cameroun
+lebledparle.com         # Le Bled Parle
+mimimefoinfos.com       # Mimi Mefo Info
+stopblablacam.com       # Stop Blabla Cam
+
+# === Cape Verde ===
+inforpress.cv  # Inforpress
+
+# === Central African Republic ===
+corbeaunews-centrafrique.org  # Corbeau News
+radiondekeluka.org            # Radio Ndeke Luka
+
+# === Chad ===
+journaldutchad.com  # Journal du Tchad
+tchadinfos.com      # Tchadinfos
+
+# === Democratic Republic of the Congo ===
+actu30.cd              # Actu30
+actualite.cd           # Actualite.cd
+beto.cd                # BETO (formerly Politico.cd)
+lepotentielonline.net  # Le Potentiel
+mediacongo.net         # MediaCongo; mixed: also hosts job and classified listings
+opinion-info.cd        # Opinion Info
+politico.cd            # Politico.cd
+radiookapi.net         # Radio Okapi
+zoom-eco.net           # Zoom Eco
+
+# === Eswatini ===
+times.co.sz  # Times of Eswatini
+
+# === Ethiopia ===
+addisfortune.news        # Addis Fortune
+addisstandard.com        # Addis Standard
+borkena.com              # Borkena
+ebc.et                   # EBC
+ethiopianreporter.com    # The Reporter (Amharic)
+ethiopiaobserver.com     # Ethiopia Observer
+fanabc.com               # Fana Broadcasting
+fanamc.com               # Fana Media Corporation
+thereporterethiopia.com  # The Reporter
+waltainfo.com            # Walta
+zehabesha.com            # Zehabesha
+
+# === Gabon ===
+gabonactu.com       # Gabonactu
+gabonmediatime.com  # Gabon Media Time
+gabonreview.com     # Gabonreview
+
+# === Gambia ===
+foroyaa.net    # Foroyaa
+kerrfatou.com  # Kerr Fatou
+standard.gm    # The Standard
+
+# === Ghana ===
+3news.com                 # 3News
+adomonline.com            # Adom Online
+citifmonline.com          # Citi FM Online
+gbcghanaonline.com        # GBC
+ghanabusinessnews.com     # Ghana Business News
+ghanaweb.com              # GhanaWeb
+mynewsgh.com              # MyNewsGh
+newsghana.com.gh          # News Ghana
+peacefmonline.com         # Peace FM Online
+starrfm.com.gh            # Starr FM
+thefourthestategh.com     # The Fourth Estate
+theghanareport.com        # The Ghana Report
+thehighstreetjournal.com  # The High Street Journal
+yen.com.gh                # Yen.com.gh
+
+# === Guinea ===
+mosaiqueguinee.com  # Mosaïque Guinée
+
+# === Guinea-Bissau ===
+odemocratagb.com  # O Democrata
+
+# === Ivory Coast ===
+7info.ci                  # 7info
+abidjan.net               # Abidjan.net; mixed: news-led portal that also hosts directories and classifieds
+connectionivoirienne.net  # Connectionivoirienne
+koaci.com                 # Koaci
+lebanco.net               # Lebanco
+rti.info                  # RTI Info
+
+# === Kenya ===
+citizen.digital       # Citizen Digital
+kahawatungu.com       # Kahawa Tungu
+kbc.co.ke             # KBC
+kenyans.co.ke         # Kenyans.co.ke
+kenyanwallstreet.com  # Kenyan Wall Street
+mwakilishi.com        # Mwakilishi
+nairobileo.co.ke      # Nairobi Leo
+nation.africa         # Nation Africa
+ntvkenya.co.ke        # NTV Kenya
+pd.co.ke              # People Daily
+peopledaily.digital   # People Daily
+standardmedia.co.ke   # The Standard
+theeastafrican.co.ke  # The EastAfrican
+theelephant.info      # The Elephant
+thekenyatimes.com     # The Kenya Times
+tuko.co.ke            # Tuko
+tv47.digital          # TV47
+
+# === Lesotho ===
+lestimes.com  # Lesotho Times
+
+# === Liberia ===
+analystliberiaonline.com  # The Analyst
+liberianobserver.com      # Liberian Observer
+thenewdawnliberia.com     # The New Dawn
+
+# === Madagascar ===
+2424.mg               # 2424.mg
+lexpress.mg           # L'Express de Madagascar
+midi-madagasikara.mg  # Midi Madagasikara
+moov.mg               # Moov
+newsmada.com          # NewsMada
+
+# === Malawi ===
+malawi24.com    # Malawi24
+mwnation.com    # The Nation (Malawi)
+nyasatimes.com  # Nyasa Times
+
+# === Mali ===
+bamada.net         # Bamada
+journaldumali.com  # Journal du Mali
+maliactu.net       # Maliactu
+studiotamani.org   # Studio Tamani
+
+# === Mauritius ===
+ionnews.mu     # ION News
+newsmoris.com  # News Moris
+
+# === Mozambique ===
+cartamz.com           # Carta de Moçambique
+clubofmozambique.com  # Club of Mozambique
+opais.co.mz           # O País
+zitamar.com           # Zitamar News
+
+# === Namibia ===
+informante.web.na  # Informanté
+namibiansun.com    # Namibian Sun
+neweralive.na      # New Era
+observer24.com.na  # Namibian Observer
+thebrief.com.na    # The Brief
+
+# === Niger ===
+actuniger.com      # ActuNiger
+aniamey.com        # aNiamey
+lesahel.org        # Le Sahel
+nigerdiaspora.net  # Niger Diaspora
+tamtaminfo.com     # Tamtaminfo
+
+# === Nigeria ===
+arise.tv               # Arise News
+businesspost.ng        # Business Post
+dailynigerian.com      # Daily Nigerian
+dubawa.org             # Dubawa
+fij.ng                 # Foundation for Investigative Journalism
+guardian.ng            # The Guardian (Nigeria)
+humanglemedia.com      # HumAngle
+icirnigeria.org        # ICIR
+legit.ng               # Legit.ng
+naijanews.com          # Naija News
+nairametrics.com       # Nairametrics
+nannews.ng             # News Agency of Nigeria
+newsdiaryonline.com    # News Diary Online
+nta.ng                 # NTA News
+premiumtimesng.com     # Premium Times
+prnigeria.com          # PRNigeria
+punchng.com            # The Punch
+theeagleonline.com.ng  # The Eagle Online
+thenationonlineng.net  # The Nation
+thenewsnigeria.com.ng  # The News
+thenigerianvoice.com   # The Nigerian Voice
+thewillnigeria.com     # The Will
+tvcnews.tv             # TVC News
+vanguardngr.com        # Vanguard
+
+# === Senegal ===
+dakaractu.com   # Dakaractu
+dakarmatin.com  # Dakarmatin
+emedia.sn       # eMedia
+igfm.sn         # iGFM
+leral.net       # Leral
+pressafrik.com  # PressAfrik
+rewmi.com       # Rewmi
+senego.com      # Senego
+senenews.com    # SeneNews
+seneplus.com    # SenePlus
+seneweb.com     # Seneweb
+xibaaru.sn      # Xibaaru
+
+# === Seychelles ===
+nation.sc  # Seychelles Nation
+
+# === Sierra Leone ===
+awokonewspapersl.com         # Awoko
+sierraloaded.sl              # Sierraloaded
+thecalabashnewspaper.com     # The Calabash
+thesierraleonetelegraph.com  # The Sierra Leone Telegraph
+
+# === Somalia ===
+caasimada.net           # Caasimada
+goobjoog.com            # Goobjoog
+hiiraan.com             # Hiiraan Online
+hornobserver.com        # Horn Observer
+horseedmedia.net        # Horseed Media
+mustaqbalmedia.net      # Mustaqbal Media
+puntlandpost.net        # Puntland Post
+sntv.so                 # SNTV
+somaliguardian.com      # Somali Guardian
+somalilandstandard.com  # Somaliland Standard
+
+# === South Africa ===
+africacheck.org      # Africa Check
+amabhungane.org      # amaBhungane
+briefly.co.za        # Briefly News
+businessday.co.za    # Business Day
+businesslive.co.za   # BusinessLIVE
+businesstech.co.za   # BusinessTech
+citizen.co.za        # The Citizen
+dailydispatch.co.za  # Daily Dispatch
+dailyfriend.co.za    # Daily Friend
+dailyinvestor.com    # Daily Investor
+dailymaverick.co.za  # Daily Maverick
+dailyvoice.co.za     # Daily Voice
+dispatchlive.co.za   # Daily Dispatch
+enca.com             # eNCA
+ewn.co.za            # Eyewitness News
+groundup.org.za      # GroundUp
+heraldlive.co.za     # The Herald
+iol.co.za            # IOL
+mg.co.za             # Mail & Guardian
+moneyweb.co.za       # Moneyweb
+news24.com           # News24
+newzroomafrika.tv    # Newzroom Afrika
+politicsweb.co.za    # Politicsweb
+polity.org.za        # Polity
+sabcnews.com         # SABC News
+scrolla.africa       # Scrolla
+son.co.za            # Son
+sundayworld.co.za    # Sunday World
+theherald.co.za      # The Herald
+thesouthafrican.com  # The South African
+timeslive.co.za      # TimesLIVE
+
+# === South Sudan ===
+eyeradio.org      # Eye Radio
+radiotamazuj.org  # Radio Tamazuj
+sudanspost.com    # Sudans Post
+
+# === Tanzania ===
+habarileo.co.tz  # HabariLeo
+ippmedia.com     # IPP Media
+millardayo.com   # Millard Ayo
+mwananchi.co.tz  # Mwananchi
+thechanzo.com    # The Chanzo
+
+# === Togo ===
+icilome.com            # iciLomé
+republicoftogo.com     # Republicoftogo
+togobreakingnews.info  # Togo Breaking News
+togofirst.com          # Togo First
+
+# === Uganda ===
+chimpreports.com        # ChimpReports
+kampalapost.com         # Kampala Post
+nbs.ug                  # NBS
+nilepost.co.ug          # Nile Post
+ntv.co.ug               # NTV Uganda
+pmldaily.com            # PML Daily
+softpower.ug            # SoftPower
+ugandaradionetwork.net  # Uganda Radio Network
+watchdoguganda.com      # Watchdog Uganda
+
+# === Zambia ===
+diggers.news         # News Diggers
+lusakatimes.com      # Lusaka Times
+mwebantu.com         # Mwebantu
+times.co.zm          # Times of Zambia
+zambiamonitor.com    # Zambia Monitor
+zambianobserver.com  # Zambian Observer
+znbc.co.zm           # ZNBC
+
+# === Zimbabwe ===
+263chat.com            # 263Chat
+bulawayo24.com         # Bulawayo24
+herald.co.zw           # The Herald
+hmetro.co.zw           # H-Metro
+nehandaradio.com       # Nehanda Radio
+newzimbabwe.com        # New Zimbabwe
+pindula.co.zw          # Pindula News
+sundaymail.co.zw       # Sunday Mail
+theindependent.co.zw   # Zimbabwe Independent
+thezimbabwemail.com    # The Zimbabwe Mail
+zbcnews.co.zw          # ZBC News
+zimbabwesituation.com  # Zimbabwe Situation
+zimeye.net             # ZimEye
+zimlive.com            # ZimLive

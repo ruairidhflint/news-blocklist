@@ -1,0 +1,17 @@
+# Ireland: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+donegaldaily.com   # Donegal Daily
+dublinlive.ie      # Dublin Live
+galwaybeo.ie       # Galway Beo
+galwaydaily.com    # Galway Daily
+gript.ie           # Gript
+independent.ie     # Irish Independent
+irishexaminer.com  # Irish Examiner
+irishtimes.com     # The Irish Times
+newstalk.com       # Newstalk
+ontheditch.com     # The Ditch
+thejournal.ie      # TheJournal.ie
+thesun.ie          # The Irish Sun
+www.rte.ie         # RTÉ; mixed: also blocks RTÉ Player and RTÉ Radio pages

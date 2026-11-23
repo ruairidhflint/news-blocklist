@@ -1,0 +1,38 @@
+# Multinational outlets: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+africa-confidential.com  # Africa Confidential
+africa24tv.com           # Africa24
+africanarguments.org     # African Arguments
+africanews.com           # Africanews
+afrik.com                # Afrik.com
+alkhaleejonline.net      # Al-Khaleej Online
+allafrica.com            # AllAfrica
+amwaj.media              # Amwaj.media
+arabi21.com              # Arabi21
+balkaninsight.com        # Balkan Insight (BIRN)
+bellingcat.com           # Bellingcat
+bloomberglinea.com       # Bloomberg Línea
+bloomberglinea.com.br    # Bloomberg Línea Brasil
+emerging-europe.com      # Emerging Europe
+euronews.com             # Euronews
+eurotopics.net           # eurotopics
+headtopics.com           # Head Topics (news aggregator)
+infomigrants.net         # InfoMigrants
+insightcrime.org         # InSight Crime
+latinamericareports.com  # Latin America Reports
+n1info.com               # N1
+noonpost.com             # Noon Post
+occrp.org                # OCCRP
+project-syndicate.org    # Project Syndicate
+reuters.com              # Reuters
+rferl.org                # Radio Free Europe/Radio Liberty
+semafor.com              # Semafor
+telesurenglish.net       # teleSUR English
+theafricareport.com      # The Africa Report
+theconversation.com      # The Conversation
+thediplomat.com          # The Diplomat
+theweek.com              # The Week
+ultrasawt.com            # Ultra Sawt
+wikinews.org             # Wikinews

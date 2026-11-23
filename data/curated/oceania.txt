@@ -1,0 +1,75 @@
+# Australia, New Zealand and the Pacific: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+# === Australia ===
+10news.com.au              # 10 News
+2gb.com                    # 2GB
+3aw.com.au                 # 3AW
+4bc.com.au                 # 4BC
+6pr.com.au                 # 6PR
+7news.com.au               # 7NEWS
+9news.com.au               # 9News
+adelaidenow.com.au         # The Advertiser (Adelaide)
+afr.com                    # The Australian Financial Review
+bendigoadvertiser.com.au   # Bendigo Advertiser
+brisbanetimes.com.au       # Brisbane Times
+businessnews.com.au        # Business News (WA)
+cairnspost.com.au          # The Cairns Post
+canberratimes.com.au       # The Canberra Times
+couriermail.com.au         # The Courier-Mail
+dailytelegraph.com.au      # The Daily Telegraph (Sydney)
+heraldsun.com.au           # Herald Sun
+independentaustralia.net   # Independent Australia
+johnmenadue.com            # Pearls and Irritations (old domain)
+michaelwest.com.au         # Michael West Media
+news.com.au                # news.com.au
+news24.com.au              # News24 (formerly Sky News Australia)
+pearlsandirritations.com   # Pearls and Irritations
+portnews.com.au            # Port Macquarie News
+quadrant.org.au            # Quadrant
+region.com.au              # Region (Canberra and regional NSW news)
+skynews.com.au             # Sky News Australia
+smh.com.au                 # The Sydney Morning Herald
+spectator.com.au           # The Spectator Australia
+the-riotact.com            # The RiotACT (Canberra)
+theage.com.au              # The Age
+theaustralian.com.au       # The Australian
+thedailyaus.com.au         # The Daily Aus
+themonthly.com.au          # The Monthly
+townsvillebulletin.com.au  # Townsville Bulletin
+www.abc.net.au             # ABC (Australia); mixed: also blocks ABC Kids, ABC Radio and program pages
+www.nine.com.au            # nine.com.au (9News); mixed: also blocks Nine's entertainment and lifestyle pages
+www.sbs.com.au             # SBS; mixed: also blocks SBS On Demand and SBS Audio
+
+# === New Zealand ===
+1news.co.nz           # 1News
+gisborneherald.co.nz  # Gisborne Herald
+goodoil.news          # The Good Oil (formerly The BFD)
+interest.co.nz        # interest.co.nz
+kiwiblog.co.nz        # Kiwiblog
+newstalkzb.co.nz      # Newstalk ZB
+nzherald.co.nz        # The New Zealand Herald
+rnz.co.nz             # RNZ
+stuff.co.nz           # Stuff
+teaonews.co.nz        # Te Ao Māori News
+thebfd.co.nz          # The BFD
+thedailyblog.co.nz    # The Daily Blog
+theplatform.kiwi      # The Platform
+thepost.co.nz         # The Post
+thespinoff.co.nz      # The Spinoff
+thestandard.org.nz    # The Standard (NZ)
+
+# === Pacific Islands ===
+cookislandsnews.com  # Cook Islands News
+dailypost.vu         # Vanuatu Daily Post
+emtv.com.pg          # EMTV (Papua New Guinea)
+fbcnews.com.fj       # FBC News (Fiji)
+fijivillage.com      # Fijivillage
+islandsbusiness.com  # Islands Business
+kanivatonga.co.nz    # Kaniva Tonga
+kuam.com             # KUAM News (Guam)
+pina.com.fj          # Pacific Islands News Association
+pncguam.com          # Pacific News Center (Guam)
+talamua.com          # Talamua (Samoa)
+thenational.com.pg   # The National (PNG)

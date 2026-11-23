@@ -1,0 +1,585 @@
+# Western and Northern Europe: curated news outlets.
+# One hostname per line. A `mixed:` comment says what else blocking that host breaks.
+# See CONTRIBUTING.md before editing.
+
+# === Andorra ===
+bondia.ad  # Bondia
+
+# === Austria ===
+apa.at            # APA – Austria Presse Agentur
+derstandard.at    # Der Standard
+derstandard.de    # Der Standard
+diepresse.com     # Die Presse
+dossier.at        # Dossier
+exxpress.at       # eXXpress
+heute.at          # Heute
+kleinezeitung.at  # Kleine Zeitung
+krone.at          # Kronen Zeitung
+kurier.at         # Kurier
+meinbezirk.at     # MeinBezirk.at
+moment.at         # Moment
+nachrichten.at    # Oberösterreichische Nachrichten
+news.at           # News
+news.joyn.at      # Joyn News (Puls 24)
+noen.at           # Niederösterreichische Nachrichten
+oe24.at           # oe24
+orf.at            # ORF.at; mixed: the wildcard/adblock formats also block ORF ON (on.orf.at) and ORF Sound
+puls24.at         # Puls 24
+salzburg24.at     # Salzburg24
+sn.at             # Salzburger Nachrichten
+trend.at          # trend
+unzensuriert.at   # Unzensuriert
+vienna.at         # Vienna Online
+vn.at             # Vorarlberger Nachrichten
+vol.at            # Vorarlberg Online
+zackzack.at       # ZackZack
+
+# === Belgium ===
+7sur7.be            # 7sur7
+belganewsagency.eu  # Belga News Agency
+brf.be              # BRF
+brusselstimes.com   # The Brussels Times
+bx1.be              # BX1
+demorgen.be         # De Morgen
+dewereldmorgen.be   # DeWereldMorgen
+dhnet.be            # La DH
+euobserver.com      # EUobserver
+euractiv.com        # Euractiv
+grenzecho.net       # GrenzEcho
+hln.be              # Het Laatste Nieuws
+knack.be            # Knack
+lalibre.be          # La Libre Belgique
+lesoir.be           # Le Soir
+levif.be            # Le Vif
+nieuwsblad.be       # Het Nieuwsblad
+politico.eu         # Politico Europe
+rapporteur.com      # Rapporteur (formerly Euractiv)
+rtl.be              # RTL Info
+standaard.be        # De Standaard
+sudinfo.be          # Sudinfo
+www.rtbf.be         # RTBF Actus (Auvio is on auvio.rtbf.be)
+www.vrt.be          # VRT NWS; mixed: also blocks VRT MAX and VRT's other pages
+
+# === Denmark ===
+berlingske.dk    # Berlingske
+bt.dk            # B.T.
+dinavis.dk       # Din Avis
+ekstrabladet.dk  # Ekstra Bladet
+jp.dk            # Jyllands-Posten
+k.dk             # Kristeligt Dagblad
+lokalavisen.dk   # Lokalavisen
+nordjyske.dk     # Nordjyske
+nyheder.tv2.dk   # TV 2 Nyheder
+politiken.dk     # Politiken
+ritzau.dk        # Ritzau
+tv2bornholm.dk   # TV 2 Bornholm
+www.dr.dk        # DR Nyheder; mixed: also blocks DRTV and DR Lyd
+
+# === Faroe Islands ===
+dimma.fo       # Dimma
+in.fo          # in.fo
+kvf.fo         # Kringvarp Føroya
+nordlysid.fo   # Norðlýsið
+sosialurin.fo  # Sosialurin
+
+# === Finland ===
+arvopaperi.fi     # Arvopaperi
+hs.fi             # Helsingin Sanomat
+iltalehti.fi      # Iltalehti
+is.fi             # Ilta-Sanomat
+kansanuutiset.fi  # Kansan Uutiset
+kauppalehti.fi    # Kauppalehti
+ku.fi             # Kansan Uutiset
+mtvuutiset.fi     # MTV Uutiset
+talouselama.fi    # Talouselämä
+uusisuomi.fi      # Uusi Suomi
+vasabladet.fi     # Vasabladet
+verkkouutiset.fi  # Verkkouutiset
+yle.fi            # Yle; mixed: the wildcard/adblock formats also block Yle Areena (areena.yle.fi)
+
+# === France ===
+20minutes.fr                  # 20 Minutes
+actu.fr                       # actu.fr
+actu.orange.fr                # Orange Actu
+actu17.fr                     # Actu17
+afp.com                       # Agence France-Presse
+bfmtv.com                     # BFM TV; mixed: also blocks RMC Sport and BFM's other channels' pages
+blast-info.fr                 # Blast
+bvoltaire.fr                  # Boulevard Voltaire
+capital.fr                    # Capital
+causeur.fr                    # Causeur
+challenges.fr                 # Challenges
+cnews.fr                      # CNews
+contrepoints.org              # Contrepoints
+corsenetinfos.corsica         # Corse Net Infos
+courrierinternational.com     # Courrier international
+estrepublicain.fr             # L'Est Républicain
+europe1.fr                    # Europe 1
+fdesouche.com                 # Fdesouche
+france24.com                  # France 24
+francebleu.fr                 # France Bleu (now ICI)
+franceinfo.fr                 # franceinfo
+francetvinfo.fr               # franceinfo (France Télévisions)
+frontpopulaire.fr             # Front populaire
+huffingtonpost.fr             # Le HuffPost
+humanite.fr                   # L'Humanité
+ici.fr                        # ICI (formerly France Bleu); mixed: also blocks the ICI local radio player
+info.arte.tv                  # ARTE Info
+information.tv5monde.com      # TV5Monde Info
+jeuneafrique.com              # Jeune Afrique
+la-croix.com                  # La Croix
+ladepeche.fr                  # La Dépêche du Midi
+lagazettedevilledieu.free.fr  # La Gazette de Villedieu
+lamontagne.fr                 # La Montagne
+lanouvellerepublique.fr       # La Nouvelle République
+lapasserelleplanoise.free.fr  # La Passerelle (Planoise local paper)
+laprovence.com                # La Provence
+larepubliquedespyrenees.fr    # La République des Pyrénées
+latribune.fr                  # La Tribune
+lavoixdunord.fr               # La Voix du Nord
+lci.fr                        # LCI
+lcp.fr                        # LCP
+lechorepublicain.fr           # L'Écho républicain
+ledauphine.com                # Le Dauphiné libéré
+lefigaro.fr                   # Le Figaro
+lejdd.fr                      # Le Journal du Dimanche
+lemediatv.fr                  # Le Média
+lemonde.fr                    # Le Monde
+leparisien.fr                 # Le Parisien
+lepoint.fr                    # Le Point
+leprogres.fr                  # Le Progrès
+lesechos.fr                   # Les Échos
+letelegramme.fr               # Le Télégramme
+lexpress.fr                   # L'Express
+liberation.fr                 # Libération
+lindependant.fr               # L'Indépendant
+linfo.re                      # Linfo.re (Réunion)
+lunion.fr                     # L'Union
+lyonne.fr                     # L'Yonne républicaine
+mediapart.fr                  # Mediapart
+midilibre.fr                  # Midi Libre
+nicematin.com                 # Nice-Matin
+nouvelobs.com                 # L'Obs
+ouest-france.fr               # Ouest-France
+paris-normandie.fr            # Paris-Normandie
+parismatch.com                # Paris Match
+publicsenat.fr                # Public Sénat
+rfi.fr                        # RFI
+rtl.fr                        # RTL
+slate.fr                      # Slate.fr
+sudouest.fr                   # Sud Ouest
+sudradio.fr                   # Sud Radio
+tf1info.fr                    # TF1 Info
+
+# === Germany ===
+abendblatt.de             # Hamburger Abendblatt
+abendzeitung-muenchen.de  # Abendzeitung
+achgut.com                # Die Achse des Guten
+apollo-news.net           # Apollo News
+augsburger-allgemeine.de  # Augsburger Allgemeine
+badische-zeitung.de       # Badische Zeitung
+berliner-kurier.de        # Berliner Kurier
+berliner-zeitung.de       # Berliner Zeitung
+bild.de                   # Bild
+br24.de                   # BR24
+businessinsider.de        # Business Insider Deutschland
+butenunbinnen.de          # buten un binnen (Radio Bremen)
+bz-berlin.de              # B.Z.
+capital.de                # Capital
+cicero.de                 # Cicero
+correctiv.org             # Correctiv
+derwesten.de              # DerWesten
+deutschlandfunk.de        # Deutschlandfunk
+donaukurier.de            # Donaukurier
+dw.com                    # Deutsche Welle
+esslinger-zeitung.de      # Esslinger Zeitung
+express.de                # Express
+faz.net                   # Frankfurter Allgemeine Zeitung
+fnp.de                    # Frankfurter Neue Presse
+focus.de                  # Focus Online
+fr.de                     # Frankfurter Rundschau
+frankenpost.de            # Frankenpost
+ga.de                     # General-Anzeiger Bonn
+gea.de                    # Reutlinger General-Anzeiger
+handelsblatt.com          # Handelsblatt
+hessenschau.de            # hessenschau
+heute.de                  # ZDF heute
+hna.de                    # HNA
+idowa.de                  # idowa
+infranken.de              # inFranken
+krautreporter.de          # Krautreporter
+kreiszeitung.de           # Kreiszeitung
+ksta.de                   # Kölner Stadt-Anzeiger
+main-echo.de              # Main-Echo
+mainpost.de               # Main-Post
+manager-magazin.de        # manager magazin
+mannheimer-morgen.de      # Mannheimer Morgen
+merkur.de                 # Münchner Merkur
+mimikama.org              # Mimikama
+mopo.de                   # Hamburger Morgenpost
+morgenpost.de             # Berliner Morgenpost
+moz.de                    # Märkische Oderzeitung
+mz.de                     # Mitteldeutsche Zeitung
+n-tv.de                   # n-tv
+nachdenkseiten.de         # NachDenkSeiten
+netzpolitik.org           # netzpolitik.org
+neuepresse.de             # Neue Presse Hannover
+nordbayern.de             # nordbayern.de
+nordkurier.de             # Nordkurier
+nwzonline.de              # Nordwest-Zeitung
+osthessen-news.de         # Osthessen News
+pi-news.net               # PI-News
+pnp.de                    # Passauer Neue Presse
+rbb24.de                  # rbb24
+reitschuster.de           # Reitschuster
+rnd.de                    # RedaktionsNetzwerk Deutschland
+rnz.de                    # Rhein-Neckar-Zeitung
+rp-online.de              # Rheinische Post
+ruhr24.de                 # RUHR24
+schwaebische.de           # Schwäbische Zeitung
+shz.de                    # shz.de
+sol.de                    # Saarland Online
+spiegel.de                # Der Spiegel
+stern.de                  # Stern
+stuttgarter-zeitung.de    # Stuttgarter Zeitung
+sueddeutsche.de           # Süddeutsche Zeitung
+svz.de                    # Schweriner Volkszeitung
+swp.de                    # Südwest Presse
+table.media               # Table.Media
+tag24.de                  # TAG24
+tagesschau.de             # tagesschau.de
+tagesspiegel.de           # Der Tagesspiegel
+taz.de                    # taz
+tlz.de                    # Thüringische Landeszeitung
+tz.de                     # tz
+volksstimme.de            # Volksstimme
+volksverpetzer.de         # Volksverpetzer
+wa.de                     # Westfälischer Anzeiger
+waz.de                    # WAZ
+welt.de                   # Die Welt
+westfalen-blatt.de        # Westfalen-Blatt
+wiwo.de                   # WirtschaftsWoche
+www.br.de                 # Bayerischer Rundfunk (BR24); mixed: also blocks BR's programme pages and radio player
+www.mdr.de                # MDR; mixed: also blocks MDR's programme pages
+www.ndr.de                # NDR; mixed: also blocks NDR's programme pages and radio player
+www.phoenix.de            # phoenix
+www.rtl.de                # RTL.de; mixed: also blocks RTL's entertainment pages (RTL+ is on plus.rtl.de)
+www.sr.de                 # Saarländischer Rundfunk; mixed: also blocks SR's programme pages
+www.swr.de                # SWR; mixed: also blocks SWR's programme pages
+www.t-online.de           # t-online (news portal; email on email.t-online.de is unaffected)
+www1.wdr.de               # WDR; mixed: also blocks WDR's programme pages
+zdfheute.de               # ZDFheute
+zeit.de                   # Die Zeit
+zvw.de                    # Zeitungsverlag Waiblingen
+
+# === Greenland ===
+sermitsiaq.ag  # Sermitsiaq
+
+# === Iceland ===
+icelandreview.com  # Iceland Review
+mbl.is             # Morgunblaðið
+nutiminn.is        # Nútíminn
+ruv.is             # RÚV
+vb.is              # Viðskiptablaðið
+visir.is           # Vísir
+
+# === Italy ===
+adnkronos.com               # Adnkronos
+agenzianova.com             # Agenzia Nova
+ansa.it                     # ANSA
+bolognatoday.it             # BolognaToday
+byoblu.com                  # Byoblu
+corriere.it                 # Corriere della Sera
+dagospia.com                # Dagospia
+dire.it                     # Agenzia Dire
+famigliacristiana.it        # Famiglia Cristiana
+fanpage.it                  # Fanpage.it
+firenzetoday.it             # FirenzeToday
+formiche.net                # Formiche
+gazzettadimodena.it         # Gazzetta di Modena
+gazzettadiparma.it          # Gazzetta di Parma
+gazzettadireggio.it         # Gazzetta di Reggio
+huffingtonpost.it           # HuffPost Italia
+ilfattoquotidiano.it        # Il Fatto Quotidiano
+ilfoglio.it                 # Il Foglio
+ilgazzettino.it             # Il Gazzettino
+ilgiornale.it               # il Giornale
+ilgiorno.it                 # Il Giorno
+ilmattino.it                # Il Mattino
+ilmessaggero.it             # Il Messaggero
+ilpost.it                   # Il Post
+ilrestodelcarlino.it        # il Resto del Carlino
+ilriformista.it             # Il Riformista
+ilsole24ore.com             # Il Sole 24 Ore
+ilsussidiario.net           # Il Sussidiario
+internazionale.it           # Internazionale
+ipsnews.net                 # Inter Press Service
+lanazione.it                # La Nazione
+lantidiplomatico.it         # L'AntiDiplomatico
+laprovinciadicomo.it        # La Provincia di Como
+lasicilia.it                # La Sicilia
+lastampa.it                 # La Stampa
+leggo.it                    # Leggo
+lespresso.it                # L'Espresso
+lettera43.it                # Lettera43
+liberoquotidiano.it         # Libero
+milanotoday.it              # MilanoToday
+nextquotidiano.it           # Next Quotidiano
+palermotoday.it             # PalermoToday
+panorama.it                 # Panorama
+radioradicale.it            # Radio Radicale
+rainews.it                  # RaiNews
+repubblica.it               # la Repubblica
+romatoday.it                # RomaToday
+secoloditalia.it            # Secolo d'Italia
+termometropolitico.it       # Termometro Politico
+tg.la7.it                   # TG La7
+tg24.sky.it                 # Sky TG24
+tg5.mediaset.it             # TG5
+tgcom24.mediaset.it         # Tgcom24
+torinotoday.it              # TorinoToday
+unionesarda.it              # L'Unione Sarda
+vaticaninsider.lastampa.it  # Vatican Insider (La Stampa)
+www.altoadige.it            # Alto Adige
+
+# === Liechtenstein ===
+volksblatt.li  # Liechtensteiner Volksblatt
+
+# === Luxembourg ===
+100komma7.lu  # Radio 100,7
+luxtimes.lu   # Luxembourg Times
+paperjam.lu   # Paperjam
+rtl.lu        # RTL Lëtzebuerg
+
+# === Malta ===
+independent.com.mt  # The Malta Independent
+lovinmalta.com      # Lovin Malta (news and lifestyle)
+maltatoday.com.mt   # MaltaToday
+netnews.com.mt      # NET News
+newsbook.com.mt     # Newsbook
+one.com.mt          # ONE News
+theshiftnews.com    # The Shift News
+timesofmalta.com    # Times of Malta
+tvmnews.mt          # TVM News
+
+# === Monaco ===
+monaco-tribune.com  # Monaco Tribune
+
+# === Netherlands ===
+ad.nl                   # Algemeen Dagblad
+at5.nl                  # AT5
+bd.nl                   # Brabants Dagblad
+bnr.nl                  # BNR Nieuwsradio
+dagelijksestandaard.nl  # De Dagelijkse Standaard
+destentor.nl            # De Stentor
+dutchnews.nl            # DutchNews.nl
+ed.nl                   # Eindhovens Dagblad
+eenvandaag.avrotros.nl  # EenVandaag
+ewmagazine.nl           # EW
+fd.nl                   # Het Financieele Dagblad
+geenstijl.nl            # GeenStijl
+gelderlander.nl         # De Gelderlander
+gld.nl                  # Omroep Gelderland
+groene.nl               # De Groene Amsterdammer
+hartvannederland.nl     # Hart van Nederland
+joop.bnnvara.nl         # Joop
+nhnieuws.nl             # NH Nieuws
+nieuws.nl               # Nieuws.nl
+nltimes.nl              # NL Times
+nos.nl                  # NOS
+nporadio1.nl            # NPO Radio 1
+nrc.nl                  # NRC
+nu.nl                   # NU.nl
+omroepbrabant.nl        # Omroep Brabant
+omroepflevoland.nl      # Omroep Flevoland
+omroepgelderland.nl     # Omroep Gelderland
+omroepwest.nl           # Omroep West
+omroepzeeland.nl        # Omroep Zeeland
+omropfryslan.nl         # Omrop Fryslân
+oost.nl                 # RTV Oost
+parool.nl               # Het Parool
+powned.tv               # PowNed
+rtvdrenthe.nl           # RTV Drenthe
+rtvnoord.nl             # RTV Noord
+rtvoost.nl              # RTV Oost
+rtvutrecht.nl           # RTV Utrecht
+telegraaf.nl            # De Telegraaf
+themoscowtimes.com      # The Moscow Times
+tpo.nl                  # TPO
+trouw.nl                # Trouw
+tubantia.nl             # Tubantia
+volkskrant.nl           # de Volkskrant
+wnl.tv                  # WNL
+
+# === Norway ===
+adressa.no        # Adresseavisen
+aftenposten.no    # Aftenposten
+dagbladet.no      # Dagbladet
+e24.no            # E24
+finansavisen.no   # Finansavisen
+ifinnmark.no      # iFinnmark
+minerva.no        # Minerva
+minervanett.no    # Minerva
+nettavisen.no     # Nettavisen
+newsinenglish.no  # newsinenglish.no
+ntb.no            # NTB
+rights.no         # Human Rights Service
+vg.no             # VG
+www.nrk.no        # NRK (NRK TV and NRK Radio are on tv.nrk.no and radio.nrk.no)
+www.tv2.no        # TV 2 (Norway); mixed: also blocks TV 2's sport and entertainment pages (TV 2 Play is on play.tv2.no)
+
+# === Portugal ===
+cmjornal.pt              # Correio da Manhã
+cnnportugal.iol.pt       # CNN Portugal
+diariodistrito.sapo.pt   # Diário do Distrito
+diariodominho.pt         # Diário do Minho
+eco.sapo.pt              # ECO
+economico.sapo.pt        # Diário Económico
+executivedigest.sapo.pt  # Executive Digest
+expresso.pt              # Expresso
+ionline.sapo.pt          # Jornal i
+jn.pt                    # Jornal de Notícias
+jornaleconomico.sapo.pt  # Jornal Económico
+noticias.sapo.pt         # SAPO Notícias
+noticiasaominuto.com     # Notícias ao Minuto
+observador.pt            # Observador
+omirante.pt              # O Mirante
+poligrafo.sapo.pt        # Polígrafo (fact-checker)
+postal.pt                # Postal do Algarve
+publico.pt               # Público
+regiaodeleiria.pt        # Região de Leiria
+rr.pt                    # Rádio Renascença
+sabado.pt                # Sábado
+sicnoticias.pt           # SIC Notícias
+sol.iol.pt               # Nascer do Sol
+sol.sapo.pt              # Nascer do Sol
+sulinformacao.pt         # Sul Informação
+tsf.pt                   # TSF
+visao.pt                 # Visão
+www.rtp.pt               # RTP; mixed: also blocks RTP Play
+zap.aeiou.pt             # ZAP
+
+# === San Marino ===
+sanmarinortv.sm  # San Marino RTV
+
+# === Spain ===
+20minutos.es                # 20minutos
+abc.es                      # ABC
+apuntmedia.es               # À Punt; mixed: also blocks À Punt's TV and radio player
+bolsamania.com              # Bolsamanía
+cadenaser.com               # Cadena SER
+cope.es                     # COPE
+crtvg.es                    # CRTVG (G24); mixed: also blocks CRTVG's TV and radio player
+deia.eus                    # Deia
+diario-red.com              # Diario Red
+diariodealmeria.es          # Diario de Almería
+diariodecadiz.es            # Diario de Cádiz
+diariodenavarra.es          # Diario de Navarra
+diariosur.es                # Diario Sur
+diariovasco.com             # El Diario Vasco
+efe.com                     # Agencia EFE
+elcomercio.es               # El Comercio
+elconfidencial.com          # El Confidencial
+elconfidencialdigital.com   # El Confidencial Digital
+elcorreo.com                # El Correo
+eldebate.com                # El Debate
+eldiario.es                 # elDiario.es
+eldiariomontanes.es         # El Diario Montañés
+eleconomista.es             # El Economista
+elespanol.com               # El Español
+elmundo.es                  # El Mundo
+elnacional.cat              # El Nacional
+elpais.com                  # El País
+elperiodico.com             # El Periódico
+elperiodicoextremadura.com  # El Periódico Extremadura
+elplural.com                # El Plural
+esdiario.com                # ESdiario
+europapress.es              # Europa Press
+euroweeklynews.com          # Euro Weekly News
+expansion.com               # Expansión
+farodevigo.es               # Faro de Vigo
+heraldo.es                  # Heraldo de Aragón
+huelvainformacion.es        # Huelva Información
+huffingtonpost.es           # El HuffPost
+informacion.es              # Información
+lagacetadesalamanca.es      # La Gaceta de Salamanca
+lamarea.com                 # La Marea
+lanuevacronica.com          # La Nueva Crónica
+laopiniondezamora.es        # La Opinión de Zamora
+larazon.es                  # La Razón
+lasexta.com                 # laSexta; mixed: also blocks laSexta's programme pages
+lasprovincias.es            # Las Provincias
+lavanguardia.com            # La Vanguardia
+lavozdealmeria.com          # La Voz de Almería
+lavozdegalicia.es           # La Voz de Galicia
+levante-emv.com             # Levante-EMV
+libertaddigital.com         # Libertad Digital
+lne.es                      # La Nueva España
+maldita.es                  # Maldita.es
+naiz.eus                    # Naiz (Gara)
+newtral.es                  # Newtral
+noticiasdegipuzkoa.eus      # Noticias de Gipuzkoa
+noticiasdenavarra.com       # Diario de Noticias de Navarra
+okdiario.com                # OKDiario
+ondacero.es                 # Onda Cero
+periodistadigital.com       # Periodista Digital
+publico.es                  # Público
+telemadrid.es               # Telemadrid; mixed: also blocks Telemadrid's programme pages and live stream
+theobjective.com            # The Objective
+theolivepress.es            # The Olive Press
+vilaweb.cat                 # VilaWeb
+vozpopuli.com               # Vozpópuli
+www.rtve.es                 # RTVE Noticias; mixed: also blocks RTVE Play
+
+# === Sweden ===
+affarsvarlden.se  # Affärsvärlden
+aftonbladet.se    # Aftonbladet
+allehanda.se      # Allehanda
+arbetet.se        # Arbetet
+dagensps.se       # Dagens PS
+di.se             # Dagens industri
+dn.se             # Dagens Nyheter
+dt.se             # Dalarnas Tidningar
+ekot.se           # Ekot
+expressen.se      # Expressen
+fokus.se          # Fokus
+hd.se             # Helsingborgs Dagblad
+kvartal.se        # Kvartal
+norran.se         # Norran
+nyheter24.se      # Nyheter24
+nyheteridag.se    # Nyheter Idag
+omni.se           # Omni
+svd.se            # Svenska Dagbladet
+sverigesradio.se  # Sveriges Radio (Ekot); mixed: also blocks Sveriges Radio's web player and podcasts
+thelocal.se       # The Local Sweden
+www.svt.se        # SVT Nyheter; mixed: also blocks SVT's programme pages (SVT Play is on svtplay.se)
+www.tv4.se        # TV4 Nyheterna
+
+# === Switzerland ===
+20min.ch               # 20 Minuten
+aargauerzeitung.ch     # Aargauer Zeitung
+blick.ch               # Blick
+inside-paradeplatz.ch  # Inside Paradeplatz
+insideparadeplatz.ch   # Inside Paradeplatz
+lematin.ch             # Le Matin
+letemps.ch             # Le Temps
+limmattalerzeitung.ch  # Limmattaler Zeitung
+luzernerzeitung.ch     # Luzerner Zeitung
+nebelspalter.ch        # Nebelspalter
+nzz.ch                 # Neue Zürcher Zeitung
+republik.ch            # Republik
+suedostschweiz.ch      # Südostschweiz
+swissinfo.ch           # SWI swissinfo.ch
+tagesanzeiger.ch       # Tages-Anzeiger
+thurgauerzeitung.ch    # Thurgauer Zeitung
+tio.ch                 # Ticinonline
+watson.ch              # watson
+www.rsi.ch             # RSI; mixed: also blocks RSI Play and RSI's programme pages
+www.rtr.ch             # RTR; mixed: also blocks RTR's Play and programme pages
+www.rts.ch             # RTS; mixed: also blocks RTS Play and RTS's programme pages
+www.srf.ch             # SRF News; mixed: also blocks Play SRF and SRF's programme pages
+zentralplus.ch         # zentralplus
+zsz.ch                 # Zürichsee-Zeitung
+
+# === Vatican City ===
+vaticannews.va  # Vatican News

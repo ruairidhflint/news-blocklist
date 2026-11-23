@@ -1,0 +1,30 @@
+name: Site blocked by mistake
+description: Something the list blocks that isn't news, or that breaks something it shouldn't
+title: "Unblock: "
+labels: ["false positive"]
+body:
+  - type: input
+    id: domain
+    attributes:
+      label: Blocked hostname
+      description: The exact name that's blocked (your blocker's log shows it).
+      placeholder: www.example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: list
+    attributes:
+      label: Which list
+      options:
+        - news
+        - news-lite
+        - not sure
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What it is and what broke
+      description: What the site is, and what stopped working because it's blocked.
+    validations:
+      required: true
