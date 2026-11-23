@@ -107,6 +107,8 @@ clickondetroit.com                 # WDIV Local 4
 clickorlando.com                   # WKMG News 6
 cnbc.com                           # CNBC
 cnn.com                            # CNN
+coyotechronicle.net                # Coyote Chronicle (CSU San Bernardino student newspaper)
+dailytoreador.com                  # The Daily Toreador (Texas Tech student newspaper)
 edition.cnn.com                    # CNN International
 cnn.it                             # CNN (link shortener)
 cnsnews.com                        # CNS News
@@ -195,6 +197,7 @@ gothamist.com                      # Gothamist
 grist.org                          # Grist
 gulfcoastnewsnow.com               # Gulf Coast News Now (WBBH)
 harpers.org                        # Harper's Magazine
+hawaiinewsnow.com                  # Hawaii News Now
 heathercoxrichardson.substack.com  # Letters from an American
 hotair.com                         # Hot Air
 houstonchronicle.com               # Houston Chronicle
@@ -473,6 +476,7 @@ theintercept.com                   # The Intercept
 thenation.com                      # The Nation
 theroot.com                        # The Root
 thestreet.com                      # TheStreet
+thestute.com                       # The Stute (Stevens Institute student newspaper)
 theworld.org                       # The World (PRX)
 thv11.com                          # THV11
 time.com                           # Time
@@ -521,6 +525,7 @@ wdbj7.com                          # WDBJ7
 wdrbwave.com                       # WDRB+WAVE News
 wdsu.com                           # WDSU
 weartv.com                         # WEAR ABC 3
+weatherforddemocrat.com            # Weatherford Democrat
 wesa.fm                            # WESA
 wesanews.org                       # 90.5 WESA
 wesh.com                           # WESH

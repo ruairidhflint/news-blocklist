@@ -3,9 +3,9 @@
 A DNS blocklist of news and current-affairs websites, for people who want a break from the news.
 
 It covers newspapers, broadcasters' news sites, news agencies, news magazines, political
-news and commentary, business news, local news and news aggregators, worldwide. The major
-outlets are reviewed by hand. The long tail of smaller news sites is pulled from Wikidata,
-checked against DNS, and refreshed every week.
+news and commentary, business news, local news and news aggregators, worldwide. Major and
+regional outlets are curated in this repository. The long tail of smaller news sites is
+pulled from Wikidata, filtered automatically, checked against DNS, and refreshed every week.
 
 Works with Pi-hole, AdGuard Home, uBlock Origin, AdGuard, dnsmasq, hosts files and any
 blocker that subscribes to a list by URL.
@@ -13,8 +13,8 @@ blocker that subscribes to a list by URL.
 <!-- stats:start -->
 | List | Sites | Hostnames (hosts format) |
 | --- | ---: | ---: |
-| `news` | 15,056 | 32,298 |
-| `news-lite` | 7,051 | 16,491 |
+| `news` | 14,383 | 30,992 |
+| `news-lite` | 6,835 | 16,073 |
 <!-- stats:end -->
 
 ## Choose a list
@@ -81,7 +81,10 @@ tabloids, fact-checkers, news aggregators and the news sections of web portals.
 publications, lifestyle magazines, trade press, academic journals, government sites, and
 TV or radio streaming services (unless they're the same site as the news).
 
-The line isn't always sharp. If you think a site is on the wrong side of it, open an issue.
+The curated lists follow this line. The part pulled from Wikidata is filtered to follow it,
+but the filters rely on Wikidata's own descriptions and miss some sites (see
+[Limitations](#limitations)). The line isn't always sharp either. If you think a site is on
+the wrong side of it, open an issue.
 
 ## Sites that do more than news
 
@@ -214,33 +217,50 @@ To keep one of these working, add an exception for it in your blocker.
   platform APIs. Pair this list with a social-media list if those are a problem.
 - **Browsers with DNS-over-HTTPS** bypass hosts files and local DNS blockers. Turn it
   off or point it at your blocker.
-- **The Wikidata part is broad.** It adds thousands of small sites automatically, and a few may be defunct or
-  off-topic. Popular domains are never added automatically: a person reviews them first.
-  If something's wrong, [report it](../../issues/new/choose).
+- **The Wikidata part is filtered, not reviewed.** It adds about 10,000 smaller sites
+  automatically. Outlets that Wikidata classes as gaming, sports or trade publications are
+  dropped, and anything whose description, genre or hostname suggests a specialist outlet
+  goes to a review queue instead of the list. Many Wikidata entries have no description, so
+  some specialist, defunct or off-topic sites still get through. Popular domains are never
+  added automatically. If something's wrong, [report it](../../issues/new/choose).
+- **The curated core was compiled with an AI model**, not by a person working site by site.
+  See [How it's built](#how-its-built). Expect some mistakes at this scale.
 
 ## How it's built
 
 ```
-data/curated/*.txt     hand-reviewed outlets, by region           ─┐
+data/curated/*.txt     curated outlets, by region                 ─┐
 data/generated/        news outlets from Wikidata, DNS results    ─┼─► scripts/build.py ─► lists/
 data/allow.txt         domains never blocked                      ─┘
 ```
 
-1. **Curated outlets** (`data/curated/`) are the reviewed core: major and regional news
-   sites in every region, plus aggregators. Entries are hostnames; a comment starting
-   `mixed:` documents what else blocking that host breaks.
+1. **Curated outlets** (`data/curated/`) are the core: major and regional news sites in
+   every region, plus aggregators. The first version was compiled with an AI model (Claude).
+   It went through the most popular domains that Wikidata lists as news outlets one by one,
+   then added outlets Wikidata was missing from its own knowledge. Every hostname resolves in
+   DNS (checked weekly), and most additions were checked against the site's live homepage.
+   Entries are hostnames; a comment starting `mixed:` documents what else blocking that host
+   breaks.
 2. **Wikidata** supplies the long tail. `scripts/refresh.py` asks for everything that is a
    newspaper, news website, news agency, news magazine or news channel (the classes are in
    `data/wikidata-classes.txt`) and still has an official website. It then drops:
    - defunct outlets and old website addresses;
-   - sports, entertainment, technology and similar outlets;
+   - outlets Wikidata also classes as something out of scope: video game, sports and trade
+     publications, academic journals, shops, databases and the like;
+   - outlets whose Wikidata genre or main subject is sport, music, film, technology,
+     science, fashion or similar;
    - government, military and education domains;
    - websites that are just a page on a shared host;
    - domains in `data/allow.txt`.
+
+   Sites whose Wikidata description, genre or hostname only *suggests* a specialist outlet
+   (gaming, tech, trade press, weather, crypto …) aren't added either. They go to
+   `data/generated/review.txt`, because the same words turn up in real newspapers too (the
+   Weatherford Democrat, the Daily Gamecock).
 3. **A popularity guard.** A site on a domain in the [Tranco](https://tranco-list.eu)
    top 25,000 is never added automatically, so a bad Wikidata edit can't block a major
-   site. Those go to `data/generated/review.txt` for a person to add to a curated file or
-   to `allow.txt`.
+   site. Those go to the review queue too. Each queued site waits for a person to add it to
+   a curated file or to `allow.txt`.
 4. **DNS checks** remove dead sites and find the subdomains each site uses, for the
    hosts-format lists.
 5. **Tests** check every build. A reference set of major news sites must be blocked in every list and

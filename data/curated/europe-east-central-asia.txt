@@ -53,6 +53,7 @@ ann.az         # ANN.az
 axar.az        # Axar
 baku.ws        # Baku.ws
 day.az         # Day.Az
+finfly.news    # FinFly.news (business and economy)
 lent.az        # Lent.az
 milli.az       # Milli.Az
 minval.az      # Minval
@@ -551,6 +552,7 @@ mediafax.ro          # Mediafax
 monitorulcj.ro       # Monitorul de Cluj
 observatornews.ro    # Observator News
 opiniatimisoarei.ro  # Opinia Timișoarei
+playtech.ro          # Playtech.ro (daily news)
 pressone.ro          # PressOne
 profit.ro            # Profit.ro
 romaniatv.net        # România TV
@@ -605,6 +607,7 @@ frankmedia.ru            # Frank Media
 gazeta.ru                # Gazeta.ru
 govoritmoskva.ru         # Govorit Moskva
 graniru.org              # Grani.ru
+hypar.ru                 # Khypar (Chuvashia)
 inosmi.ru                # InoSMI
 interfax.ru              # Interfax
 ircity.ru                # IrCity (Irkutsk)
@@ -638,6 +641,7 @@ ngs70.ru                 # NGS70 (Tomsk)
 novayagazeta.ru          # Novaya Gazeta
 ntv.ru                   # NTV; mixed: also blocks NTV shows, series and live stream
 osnmedia.ru              # OSN
+otechestvo.biz           # Otechestvo (Yaransk local newspaper)
 ovd.info                 # OVD-Info
 paperpaper.io            # Bumaga
 pnp.ru                   # Parlamentskaya Gazeta
@@ -778,6 +782,8 @@ ekonomist.com.tr         # Ekonomist
 ensonhaber.com           # En Son Haber
 gazeteduvar.com.tr       # Gazete Duvar
 gzt.com                  # GZT
+haber365.com             # Haber365
+haber365.com.tr          # Haber365 (old domain)
 haber7.com               # Haber7
 haberglobal.com          # Haber Global
 haberglobal.com.tr       # Haber Global

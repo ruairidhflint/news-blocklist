@@ -49,7 +49,8 @@ g1.globo.com www1.folha.uol.com.br www.estadao.com.br www.clarin.com www.lanacio
 www.eluniversal.com.mx www.milenio.com www.eltiempo.com www.emol.com
 """.split()
 
-# Sites that aren't news, including services that share a domain with a news site.
+# Sites that aren't news, including services that share a domain with a news site, and
+# specialist outlets Wikidata calls news sites (gaming, weather, trade press, crypto, motoring).
 MUST_NOT_BLOCK = """
 www.google.com mail.google.com www.youtube.com en.wikipedia.org www.wikipedia.org www.gov.uk www.nhs.uk
 www.amazon.co.uk www.apple.com www.microsoft.com outlook.live.com login.yahoo.com mail.yahoo.com
@@ -59,6 +60,9 @@ www.imdb.com www.netflix.com open.spotify.com www.itv.com www.channel4.com www.p
 www.france.tv www.tf1.fr www.marca.com www.lequipe.fr weather.com www.metoffice.gov.uk www.accuweather.com
 poczta.onet.pl email.t-online.de www.paypal.com www.ebay.co.uk www.booking.com
 www.cricbuzz.com www.goal.com www.premierleague.com www.nature.com www.sciencedirect.com
+www.eurogamer.es www.pcgames.de www.gamekult.com www.theweather.com www.yourweather.co.uk www.ilmeteo.net
+www.fiercepharma.com www.healthcaredive.com www.travelweekly.com www.bondbuyer.com www.techmeme.com
+cryptotimes.io www.spaziocrypto.com www.motorcyclenews.com onlinecasino.amsterdam www.autosport.com
 """.split()
 
 

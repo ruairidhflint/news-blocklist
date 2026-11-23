@@ -49,10 +49,11 @@ add an end date to an old "official website", or mark a defunct outlet as dissol
 
 ## Review queue
 
-[`data/generated/review.txt`](data/generated/review.txt) lists popular domains that
-Wikidata calls news outlets but that nobody has reviewed yet. Each needs a decision:
-add it to a curated file, or add it to `allow.txt`. Pull requests that clear part of the
-queue are very welcome.
+[`data/generated/review.txt`](data/generated/review.txt) lists sites that Wikidata calls
+news outlets but that aren't added automatically, because their domain is popular or they
+look like specialist outlets (gaming, tech, trade press, weather …). None of them is blocked
+until someone decides: add it to a curated file if it's general news, or to `allow.txt` if
+it isn't. Pull requests that clear part of the queue are very welcome.
 
 ## Running the scripts
 

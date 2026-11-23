@@ -151,6 +151,7 @@ leprogres.fr                  # Le Progrès
 lesechos.fr                   # Les Échos
 letelegramme.fr               # Le Télégramme
 lexpress.fr                   # L'Express
+lhebdo17.fr                   # L'Hebdo de Charente-Maritime
 liberation.fr                 # Libération
 lindependant.fr               # L'Indépendant
 linfo.re                      # Linfo.re (Réunion)
@@ -170,6 +171,7 @@ slate.fr                      # Slate.fr
 sudouest.fr                   # Sud Ouest
 sudradio.fr                   # Sud Radio
 tf1info.fr                    # TF1 Info
+vsd.fr                        # VSD (news and people magazine)
 
 # === Germany ===
 abendblatt.de             # Hamburger Abendblatt
@@ -187,6 +189,7 @@ butenunbinnen.de          # buten un binnen (Radio Bremen)
 bz-berlin.de              # B.Z.
 capital.de                # Capital
 cicero.de                 # Cicero
+contraste.org             # Contraste (monthly political newspaper)
 correctiv.org             # Correctiv
 derwesten.de              # DerWesten
 deutschlandfunk.de        # Deutschlandfunk
@@ -216,6 +219,7 @@ manager-magazin.de        # manager magazin
 mannheimer-morgen.de      # Mannheimer Morgen
 merkur.de                 # Münchner Merkur
 mimikama.org              # Mimikama
+moin.de                   # moin.de (Hamburg and northern Germany)
 mopo.de                   # Hamburger Morgenpost
 morgenpost.de             # Berliner Morgenpost
 moz.de                    # Märkische Oderzeitung
@@ -250,6 +254,7 @@ tag24.de                  # TAG24
 tagesschau.de             # tagesschau.de
 tagesspiegel.de           # Der Tagesspiegel
 taz.de                    # taz
+thueringen24.de           # Thüringen24
 tlz.de                    # Thüringische Landeszeitung
 tz.de                     # tz
 volksstimme.de            # Volksstimme
@@ -258,6 +263,7 @@ wa.de                     # Westfälischer Anzeiger
 waz.de                    # WAZ
 welt.de                   # Die Welt
 westfalen-blatt.de        # Westfalen-Blatt
+wetterauer-zeitung.de     # Wetterauer Zeitung
 wiwo.de                   # WirtschaftsWoche
 www.br.de                 # Bayerischer Rundfunk (BR24); mixed: also blocks BR's programme pages and radio player
 www.mdr.de                # MDR; mixed: also blocks MDR's programme pages
@@ -477,6 +483,7 @@ diariodecadiz.es            # Diario de Cádiz
 diariodenavarra.es          # Diario de Navarra
 diariosur.es                # Diario Sur
 diariovasco.com             # El Diario Vasco
+economiadigital.es          # Economía Digital
 efe.com                     # Agencia EFE
 elcomercio.es               # El Comercio
 elconfidencial.com          # El Confidencial

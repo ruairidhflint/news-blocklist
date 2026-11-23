@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: hosts file (0.0.0.0 hostname); exact names, subdomains listed separately
-# Entries: 16,491
-# Last modified: 2026-11-23 11:20 UTC
+# Entries: 16,073
+# Last modified: 2026-11-23 12:19 UTC
 #
 0.0.0.0 021.rs
 0.0.0.0 0223.com.ar
@@ -78,8 +78,6 @@
 0.0.0.0 47news.jp
 0.0.0.0 48.ru
 0.0.0.0 4bc.com.au
-0.0.0.0 4gamers.com.tw
-0.0.0.0 4p.de
 0.0.0.0 5-tv.ru
 0.0.0.0 5.ua
 0.0.0.0 51.ru
@@ -115,16 +113,13 @@
 0.0.0.0 92newshd.tv
 0.0.0.0 93.ru
 0.0.0.0 964media.com
-0.0.0.0 972mag.com
 0.0.0.0 985fm.ca
 0.0.0.0 9news.com
 0.0.0.0 9news.com.au
-0.0.0.0 9to5linux.com
 0.0.0.0 a1on.mk
 0.0.0.0 a1plus.am
 0.0.0.0 a24.com
 0.0.0.0 a2news.com
-0.0.0.0 a9vg.com
 0.0.0.0 aa.com.tr
 0.0.0.0 aachener-zeitung.de
 0.0.0.0 aaj.tv
@@ -212,7 +207,6 @@
 0.0.0.0 adnradio.cl
 0.0.0.0 adomonline.com
 0.0.0.0 adressa.no
-0.0.0.0 adventuregamers.com
 0.0.0.0 advocate.com
 0.0.0.0 affaritaliani.it
 0.0.0.0 affarsvarlden.se
@@ -230,7 +224,6 @@
 0.0.0.0 aftabnews.ir
 0.0.0.0 aftenbladet.no
 0.0.0.0 aftenposten.no
-0.0.0.0 aftermath.site
 0.0.0.0 aftonbladet.se
 0.0.0.0 agara.co.jp
 0.0.0.0 agazeta.com.br
@@ -257,7 +250,6 @@
 0.0.0.0 ain.ua
 0.0.0.0 aina.org
 0.0.0.0 airforcetimes.com
-0.0.0.0 airwaysmag.com
 0.0.0.0 aisnenouvelle.fr
 0.0.0.0 ajc.com
 0.0.0.0 ajel.sa
@@ -671,7 +663,6 @@
 0.0.0.0 apnews.com
 0.0.0.0 apollo-news.net
 0.0.0.0 apollo.lv
-0.0.0.0 aponet.de
 0.0.0.0 apostrophe.ua
 0.0.0.0 app.com
 0.0.0.0 app.com.pk
@@ -708,7 +699,6 @@
 0.0.0.0 argusleader.com
 0.0.0.0 arh.mk.ru
 0.0.0.0 ariananews.af
-0.0.0.0 ariase.com
 0.0.0.0 aripaev.ee
 0.0.0.0 arise.tv
 0.0.0.0 aristeguinoticias.com
@@ -724,8 +714,6 @@
 0.0.0.0 armtimes.com
 0.0.0.0 armyinform.com.ua
 0.0.0.0 armytimes.com
-0.0.0.0 arretsurimages.net
-0.0.0.0 arte.it
 0.0.0.0 arthasarokar.com
 0.0.0.0 article-14.com
 0.0.0.0 articulo14.es
@@ -785,17 +773,14 @@
 0.0.0.0 aurora-israel.co.il
 0.0.0.0 ausnews.de
 0.0.0.0 austinchronicle.com
-0.0.0.0 automaton-media.com
 0.0.0.0 autonomija.info
 0.0.0.0 avangard.cap.ru
 0.0.0.0 avaz.ba
 0.0.0.0 avesta.tj
 0.0.0.0 avgi.gr
 0.0.0.0 aviaport.ru
-0.0.0.0 avsim.com
 0.0.0.0 avvenire.it
 0.0.0.0 awemainta.com
-0.0.0.0 awfulannouncing.com
 0.0.0.0 awi.defensenews.com
 0.0.0.0 awokonewspapersl.com
 0.0.0.0 axar.az
@@ -880,7 +865,6 @@
 0.0.0.0 basingstokegazette.co.uk
 0.0.0.0 basta.media
 0.0.0.0 bastillepost.com
-0.0.0.0 batiactu.com
 0.0.0.0 batimes.com.ar
 0.0.0.0 battlecreekenquirer.com
 0.0.0.0 bayarea.com
@@ -936,12 +920,10 @@
 0.0.0.0 berria.eus
 0.0.0.0 bes.media
 0.0.0.0 besancon.fr
-0.0.0.0 betakit.com
 0.0.0.0 beto.cd
 0.0.0.0 beyazgazete.com
 0.0.0.0 bfm.ru
 0.0.0.0 bfmtv.com
-0.0.0.0 bg.mondediplo.com
 0.0.0.0 bgdailynews.com
 0.0.0.0 bgland24.de
 0.0.0.0 bgonair.bg
@@ -995,7 +977,6 @@
 0.0.0.0 blic.rs
 0.0.0.0 blick-aktuell.de
 0.0.0.0 blick.ch
-0.0.0.0 blick.de
 0.0.0.0 blikk.hu
 0.0.0.0 blitz.bg
 0.0.0.0 blitzquotidiano.it
@@ -1032,7 +1013,6 @@
 0.0.0.0 bntnews.bg
 0.0.0.0 boersen-zeitung.de
 0.0.0.0 bokra.net
-0.0.0.0 bolavip.com
 0.0.0.0 boliviaverifica.bo
 0.0.0.0 bolnews.com
 0.0.0.0 bologna.notizie.it
@@ -1040,7 +1020,6 @@
 0.0.0.0 bolsamania.com
 0.0.0.0 bombaysamachar.com
 0.0.0.0 bomboradyo.com
-0.0.0.0 bondbuyer.com
 0.0.0.0 bondia.ad
 0.0.0.0 bondia.com
 0.0.0.0 bonginoreport.com
@@ -1092,7 +1071,6 @@
 0.0.0.0 brisbanetimes.com.au
 0.0.0.0 bristolpost.co.uk
 0.0.0.0 bristolworld.com
-0.0.0.0 britishpathe.com
 0.0.0.0 brl.mk.ru
 0.0.0.0 brnensky.denik.cz
 0.0.0.0 bron.fontys.nl
@@ -1111,7 +1089,6 @@
 0.0.0.0 bt.se
 0.0.0.0 bt2ha9xt3y.search.serialssolutions.com
 0.0.0.0 bta.bg
-0.0.0.0 btc-echo.de
 0.0.0.0 btvnovinite.bg
 0.0.0.0 buckinghamshirelive.com
 0.0.0.0 bucksfreepress.co.uk
@@ -1183,7 +1160,6 @@
 0.0.0.0 caixin.com
 0.0.0.0 caixinglobal.com
 0.0.0.0 calcalist.co.il
-0.0.0.0 calcalistech.com
 0.0.0.0 caledonianrecord.com
 0.0.0.0 calgaryherald.com
 0.0.0.0 calgarysun.com
@@ -1295,7 +1271,6 @@
 0.0.0.0 charter97.org
 0.0.0.0 chatham.wickedlocal.com
 0.0.0.0 chayka.lv
-0.0.0.0 cheapassgamer.com
 0.0.0.0 cheb.mk.ru
 0.0.0.0 checkyourfact.com
 0.0.0.0 cheknews.ca
@@ -1347,7 +1322,6 @@
 0.0.0.0 cincodias.com
 0.0.0.0 ciociariaoggi.it
 0.0.0.0 ciperchile.cl
-0.0.0.0 circleid.com
 0.0.0.0 citifmonline.com
 0.0.0.0 citinewsroom.com
 0.0.0.0 citizen-times.com
@@ -1368,7 +1342,6 @@
 0.0.0.0 citypaper.com
 0.0.0.0 civil.ge
 0.0.0.0 civilbeat.org
-0.0.0.0 civileats.com
 0.0.0.0 civilmedia.mk
 0.0.0.0 civilnet.am
 0.0.0.0 cjonline.com
@@ -1393,7 +1366,6 @@
 0.0.0.0 cmmedia.com.tw
 0.0.0.0 cn.chinadaily.com.cn
 0.0.0.0 cn.kabar.kg
-0.0.0.0 cn.mondediplo.com
 0.0.0.0 cn.nikkei.com
 0.0.0.0 cn.nytimes.com
 0.0.0.0 cn.reuters.com
@@ -1425,7 +1397,6 @@
 0.0.0.0 cnyes.com
 0.0.0.0 coastalabc.com
 0.0.0.0 coconuts.co
-0.0.0.0 cogconnected.com
 0.0.0.0 coinworld.com
 0.0.0.0 colombiacheck.com
 0.0.0.0 colombiareports.com
@@ -1466,12 +1437,12 @@
 0.0.0.0 conservativereview.com
 0.0.0.0 conservativewoman.co.uk
 0.0.0.0 consortiumnews.com
-0.0.0.0 constructiondive.com
 0.0.0.0 contacto.lu
 0.0.0.0 contagionlive.com
 0.0.0.0 contextotucuman.com
 0.0.0.0 contracorriente.red
 0.0.0.0 contrareplica.mx
+0.0.0.0 contraste.org
 0.0.0.0 contrepoints.org
 0.0.0.0 convoca.pe
 0.0.0.0 conwaydailysun.com
@@ -1510,6 +1481,7 @@
 0.0.0.0 courthousenews.com
 0.0.0.0 coventrytelegraph.net
 0.0.0.0 cowboystatedaily.com
+0.0.0.0 coyotechronicle.net
 0.0.0.0 cp24.com
 0.0.0.0 cpac.ca
 0.0.0.0 cpc.people.com.cn
@@ -1522,14 +1494,12 @@
 0.0.0.0 crainsnewyork.com
 0.0.0.0 crc891.com
 0.0.0.0 creativeloafing.com
-0.0.0.0 creators.com
 0.0.0.0 cretalive.gr
 0.0.0.0 crhoy.com
 0.0.0.0 cri.cn
 0.0.0.0 crikey.com.au
 0.0.0.0 crimea.mk.ru
 0.0.0.0 crimeworld.com
-0.0.0.0 criptovaluta.it
 0.0.0.0 criterio.hn
 0.0.0.0 cronachemaceratesi.it
 0.0.0.0 cronica.com.ar
@@ -1542,7 +1512,6 @@
 0.0.0.0 crtvg.es
 0.0.0.0 crusoe.com.br
 0.0.0.0 cruxnow.com
-0.0.0.0 cryptotimes.io
 0.0.0.0 cs.com.cn
 0.0.0.0 csemag.com
 0.0.0.0 csmonitor.com
@@ -1574,7 +1543,6 @@
 0.0.0.0 currentaffairs.org
 0.0.0.0 currenttime.tv
 0.0.0.0 cw.com.tw
-0.0.0.0 cyberinsider.com
 0.0.0.0 cyol.com
 0.0.0.0 cyprus-mail.com
 0.0.0.0 da.online.pt
@@ -1638,7 +1606,6 @@
 0.0.0.0 dailynorthwestern.com
 0.0.0.0 dailyorange.com
 0.0.0.0 dailypakistan.com.pk
-0.0.0.0 dailypharm.com
 0.0.0.0 dailypioneer.com
 0.0.0.0 dailypost.co.uk
 0.0.0.0 dailypost.ng
@@ -1658,6 +1625,7 @@
 0.0.0.0 dailytelegraph.com.au
 0.0.0.0 dailythanthi.com
 0.0.0.0 dailytimes.com.pk
+0.0.0.0 dailytoreador.com
 0.0.0.0 dailytrojan.com
 0.0.0.0 dailytrust.com
 0.0.0.0 dailyuw.com
@@ -1679,7 +1647,6 @@
 0.0.0.0 danviet.vn
 0.0.0.0 dap-news.com
 0.0.0.0 daryo.uz
-0.0.0.0 daswetter.com
 0.0.0.0 datacameroon.com
 0.0.0.0 davisenterprise.com
 0.0.0.0 dawn.com
@@ -1693,16 +1660,13 @@
 0.0.0.0 dcnepal.com
 0.0.0.0 dcnews.ro
 0.0.0.0 dcourier.com
-0.0.0.0 dday.it
 0.0.0.0 de.herald.christianscience.com
 0.0.0.0 de.nachrichten.yahoo.com
-0.0.0.0 de.vgtimes.com
 0.0.0.0 debate.com.mx
 0.0.0.0 decaturdaily.com
 0.0.0.0 deccanchronicle.com
 0.0.0.0 deccanherald.com
 0.0.0.0 declassifieduk.org
-0.0.0.0 decorrespondent.nl
 0.0.0.0 deepika.com
 0.0.0.0 defapress.ir
 0.0.0.0 defapt.ro
@@ -1732,7 +1696,6 @@
 0.0.0.0 democratherald.com
 0.0.0.0 demokracija.si
 0.0.0.0 demorgen.be
-0.0.0.0 dengekionline.com
 0.0.0.0 denik.cz
 0.0.0.0 denikn.cz
 0.0.0.0 dennikn.sk
@@ -1845,13 +1808,10 @@
 0.0.0.0 diepresse.com
 0.0.0.0 digar.ee
 0.0.0.0 diggers.news
-0.0.0.0 digi.no
 0.0.0.0 digi24.ro
 0.0.0.0 digital.odt.co.nz
 0.0.0.0 digitaledition.corriere.it
-0.0.0.0 digitalna.nsk.hr
 0.0.0.0 digitalpaper.stdaily.com
-0.0.0.0 digitalspy.co.uk
 0.0.0.0 dikaiologitika.gr
 0.0.0.0 diken.com.tr
 0.0.0.0 dimma.fo
@@ -1871,7 +1831,6 @@
 0.0.0.0 divyabhaskar.co.in
 0.0.0.0 divyamarathi.bhaskar.com
 0.0.0.0 djournal.com
-0.0.0.0 dlh.net
 0.0.0.0 dlib.si
 0.0.0.0 dn.no
 0.0.0.0 dn.pt
@@ -1917,16 +1876,13 @@
 0.0.0.0 dpa.com
 0.0.0.0 dr.dk
 0.0.0.0 drawmedia.net
-0.0.0.0 drf.com
 0.0.0.0 driva.no
-0.0.0.0 droid-life.com
 0.0.0.0 dropsitenews.com
 0.0.0.0 drudgereport.com
 0.0.0.0 dsnews.ua
 0.0.0.0 dt.no
 0.0.0.0 dt.se
 0.0.0.0 dtv.walla.co.il
-0.0.0.0 dualshockers.com
 0.0.0.0 dubawa.org
 0.0.0.0 dublinlive.ie
 0.0.0.0 dukagjini.com
@@ -1988,7 +1944,6 @@
 0.0.0.0 echo24.cz
 0.0.0.0 echo24.de
 0.0.0.0 echodnia.eu
-0.0.0.0 echofm.online
 0.0.0.0 echolive.ie
 0.0.0.0 echoroukonline.com
 0.0.0.0 ecns.cn
@@ -2042,7 +1997,6 @@
 0.0.0.0 editorialedomani.it
 0.0.0.0 edmontonjournal.com
 0.0.0.0 edmontonsun.com
-0.0.0.0 edn.com
 0.0.0.0 edp24.co.uk
 0.0.0.0 edsource.org
 0.0.0.0 eenadu.net
@@ -2124,11 +2078,11 @@
 0.0.0.0 eleconomista.com.mx
 0.0.0.0 eleconomista.es
 0.0.0.0 electronicintifada.net
+0.0.0.0 elecuanime.com
 0.0.0.0 eleftherostypos.gr
 0.0.0.0 elespanol.com
 0.0.0.0 elespectador.com
 0.0.0.0 elestimulo.com
-0.0.0.0 eletric-vehicles.com
 0.0.0.0 elevenmyanmar.com
 0.0.0.0 elfagr.org
 0.0.0.0 elfaro.net
@@ -2214,7 +2168,6 @@
 0.0.0.0 em.com.br
 0.0.0.0 emaratalyoum.com
 0.0.0.0 emedia.sn
-0.0.0.0 emerce.nl
 0.0.0.0 emerging-europe.com
 0.0.0.0 emess.co.il
 0.0.0.0 emirates247.com
@@ -2376,7 +2329,6 @@
 0.0.0.0 enabbaladi.net
 0.0.0.0 enanyang.my
 0.0.0.0 enca.com
-0.0.0.0 endpts.com
 0.0.0.0 energybulletin.net
 0.0.0.0 eng.chinamil.com.cn
 0.0.0.0 eng.kavkaz-uzel.eu
@@ -2403,7 +2355,6 @@
 0.0.0.0 enterprise.press
 0.0.0.0 enterpriseam.com
 0.0.0.0 enterprisenews.com
-0.0.0.0 eo.mondediplo.com
 0.0.0.0 epaper.21jingji.com
 0.0.0.0 epaper.cenews.com.cn
 0.0.0.0 epaper.cpd.com.cn
@@ -2437,7 +2388,6 @@
 0.0.0.0 es-us.noticias.yahoo.com
 0.0.0.0 es.mercopress.com
 0.0.0.0 es.rfi.fr
-0.0.0.0 es.vgtimes.com
 0.0.0.0 esaimaa.fi
 0.0.0.0 esakal.com
 0.0.0.0 esdiario.com
@@ -2470,7 +2420,6 @@
 0.0.0.0 eurasianet.org
 0.0.0.0 euro.cz
 0.0.0.0 euro2day.gr
-0.0.0.0 eurogamer.pl
 0.0.0.0 eurointegration.com.ua
 0.0.0.0 euromaidanpress.com
 0.0.0.0 euronews.al
@@ -2492,7 +2441,6 @@
 0.0.0.0 eveningsun.com
 0.0.0.0 eveningtimes.co.uk
 0.0.0.0 eveningtribune.com
-0.0.0.0 everyeye.it
 0.0.0.0 evolvepolitics.com
 0.0.0.0 evrensel.net
 0.0.0.0 evz.ro
@@ -2558,7 +2506,6 @@
 0.0.0.0 famigliacristiana.it
 0.0.0.0 fanabc.com
 0.0.0.0 fanamc.com
-0.0.0.0 fandomwire.com
 0.0.0.0 fanpage.it
 0.0.0.0 fararu.com
 0.0.0.0 farmer.com.cn
@@ -2735,18 +2682,14 @@
 0.0.0.0 fergana.media
 0.0.0.0 fergana.news
 0.0.0.0 fides.org
-0.0.0.0 fiercehealthcare.com
-0.0.0.0 fiercepharma.com
 0.0.0.0 fij.ng
 0.0.0.0 fijisun.com.fj
 0.0.0.0 fijitimes.com
 0.0.0.0 fijivillage.com
-0.0.0.0 filmdaily.co
 0.0.0.0 fin24.com
 0.0.0.0 finance-commerce.com
 0.0.0.0 finance.si
 0.0.0.0 finance.sina.com.cn
-0.0.0.0 finance.ua
 0.0.0.0 finance.yahoo.com
 0.0.0.0 financialexpress.com
 0.0.0.0 financialnews.com.cn
@@ -2756,6 +2699,7 @@
 0.0.0.0 finansavisen.no
 0.0.0.0 finchannel.com
 0.0.0.0 finews.ch
+0.0.0.0 finfly.news
 0.0.0.0 finmarket.ru
 0.0.0.0 fip.am
 0.0.0.0 firda.no
@@ -2789,7 +2733,6 @@
 0.0.0.0 folhape.com.br
 0.0.0.0 folhavitoria.com.br
 0.0.0.0 folketidende.dk
-0.0.0.0 fomos.kr
 0.0.0.0 fontanka.ru
 0.0.0.0 forbes.com
 0.0.0.0 forbes.com.br
@@ -2852,7 +2795,6 @@
 0.0.0.0 fr.news.yahoo.com
 0.0.0.0 fr.reuters.com
 0.0.0.0 fr.timesofisrael.com
-0.0.0.0 fr.vgtimes.com
 0.0.0.0 fr.yna.co.kr
 0.0.0.0 fr.zenit.org
 0.0.0.0 fraenkischertag.de
@@ -2865,7 +2807,6 @@
 0.0.0.0 francesoir.fr
 0.0.0.0 francetvinfo.fr
 0.0.0.0 franchisetimes.com
-0.0.0.0 frandroid.com
 0.0.0.0 frankenpost.de
 0.0.0.0 frankmedia.ru
 0.0.0.0 fredericknewspost.com
@@ -2902,7 +2843,6 @@
 0.0.0.0 fukuishimbun.co.jp
 0.0.0.0 fuldaerzeitung.de
 0.0.0.0 fullfact.org
-0.0.0.0 futurity.org
 0.0.0.0 fuw.ch
 0.0.0.0 fvn.no
 0.0.0.0 fxn.ws
@@ -2920,30 +2860,6 @@
 0.0.0.0 galwaybeo.ie
 0.0.0.0 galwaydaily.com
 0.0.0.0 game.donga.com
-0.0.0.0 gameblog.fr
-0.0.0.0 gamegrin.com
-0.0.0.0 gameguru.ru
-0.0.0.0 gamekult.com
-0.0.0.0 gamemag.ru
-0.0.0.0 gamemeca.com
-0.0.0.0 gamepressure.com
-0.0.0.0 gamepro.de
-0.0.0.0 gameranx.com
-0.0.0.0 gamerbraves.com
-0.0.0.0 gamereactor.se
-0.0.0.0 gamerevolution.com
-0.0.0.0 gamergen.com
-0.0.0.0 gamers.de
-0.0.0.0 gamersglobal.de
-0.0.0.0 games.gg
-0.0.0.0 games.tiscali.cz
-0.0.0.0 gamesbeat.com
-0.0.0.0 gameskinny.com
-0.0.0.0 gamespark.jp
-0.0.0.0 gamespew.com
-0.0.0.0 gameswelt.de
-0.0.0.0 gamewatcher.com
-0.0.0.0 gamezebo.com
 0.0.0.0 gandul.ro
 0.0.0.0 gasteizhoy.com
 0.0.0.0 gastongazette.com
@@ -2988,7 +2904,6 @@
 0.0.0.0 gbcghanaonline.com
 0.0.0.0 gbhnews.org
 0.0.0.0 gbnews.com
-0.0.0.0 gcores.com
 0.0.0.0 gd.no
 0.0.0.0 gd.se
 0.0.0.0 gdnonline.com
@@ -2999,7 +2914,6 @@
 0.0.0.0 geelongadvertiser.com.au
 0.0.0.0 geenstijl.nl
 0.0.0.0 gelderlander.nl
-0.0.0.0 gematsu.com
 0.0.0.0 gendai.media
 0.0.0.0 geneticliteracyproject.org
 0.0.0.0 geo.tv
@@ -3012,7 +2926,6 @@
 0.0.0.0 getreading.co.uk
 0.0.0.0 getsurrey.co.uk
 0.0.0.0 gfcnieuws.com
-0.0.0.0 gfmag.com
 0.0.0.0 ggwash.org
 0.0.0.0 ghanabusinessnews.com
 0.0.0.0 ghanaweb.com
@@ -3056,12 +2969,9 @@
 0.0.0.0 gmw.cn
 0.0.0.0 gna.org.gh
 0.0.0.0 gnnhd.tv
-0.0.0.0 godisageek.com
 0.0.0.0 goerie.com
 0.0.0.0 goettinger-tageblatt.de
 0.0.0.0 gogo.mn
-0.0.0.0 goha.ru
-0.0.0.0 gol.caracoltv.com
 0.0.0.0 goldcoastbulletin.com.au
 0.0.0.0 golwg.360.cymru
 0.0.0.0 golwg360.cymru
@@ -3082,7 +2992,6 @@
 0.0.0.0 gp1.com.br
 0.0.0.0 gp24.pl
 0.0.0.0 gpone.com
-0.0.0.0 gram.pl
 0.0.0.0 granadahoy.com
 0.0.0.0 grandforksherald.com
 0.0.0.0 graniru.org
@@ -3112,7 +3021,6 @@
 0.0.0.0 groundup.org.za
 0.0.0.0 groundviews.org
 0.0.0.0 grupoanimal.mx
-0.0.0.0 gtaboom.com
 0.0.0.0 guampdn.com
 0.0.0.0 guancha.cn
 0.0.0.0 guardian-series.co.uk
@@ -3154,6 +3062,8 @@
 0.0.0.0 haarlemsdagblad.nl
 0.0.0.0 hab.mk.ru
 0.0.0.0 habarileo.co.tz
+0.0.0.0 haber365.com
+0.0.0.0 haber365.com.tr
 0.0.0.0 haber7.com
 0.0.0.0 haberglobal.com
 0.0.0.0 haberglobal.com.tr
@@ -3187,7 +3097,6 @@
 0.0.0.0 haon.hu
 0.0.0.0 haqqin.az
 0.0.0.0 harakahdaily.net
-0.0.0.0 hardcoregamer.com
 0.0.0.0 harianjogja.com
 0.0.0.0 haribhoomi.com
 0.0.0.0 harpers.org
@@ -3207,11 +3116,8 @@
 0.0.0.0 hbvl.be
 0.0.0.0 hch.tv
 0.0.0.0 hcn.org
-0.0.0.0 hcplive.com
 0.0.0.0 hd.se
 0.0.0.0 headtopics.com
-0.0.0.0 healthcaredive.com
-0.0.0.0 healthday.com
 0.0.0.0 heathercoxrichardson.substack.com
 0.0.0.0 hechingerreport.org
 0.0.0.0 heidelberg24.de
@@ -3283,7 +3189,6 @@
 0.0.0.0 hn.cz
 0.0.0.0 hna.de
 0.0.0.0 hnonline.sk
-0.0.0.0 hogapage.de
 0.0.0.0 hojeemdia.com.br
 0.0.0.0 hojemacau.com.mo
 0.0.0.0 hokkaido-np.co.jp
@@ -3343,8 +3248,8 @@
 0.0.0.0 hurriyetdailynews.com
 0.0.0.0 hutchnews.com
 0.0.0.0 hvg.hu
-0.0.0.0 hwupgrade.it
 0.0.0.0 hxnews.com
+0.0.0.0 hypar.ru
 0.0.0.0 hzdaily.hangzhou.com.cn
 0.0.0.0 i.pl
 0.0.0.0 i24news.tv
@@ -3402,7 +3307,6 @@
 0.0.0.0 ilmanifesto.it
 0.0.0.0 ilmattino.it
 0.0.0.0 ilmessaggero.it
-0.0.0.0 ilmeteo.net
 0.0.0.0 ilna.ir
 0.0.0.0 ilnapolista.it
 0.0.0.0 ilpescara.it
@@ -3502,7 +3406,6 @@
 0.0.0.0 infowars.com
 0.0.0.0 infranken.de
 0.0.0.0 infzm.com
-0.0.0.0 ing.dk
 0.0.0.0 inilah.com
 0.0.0.0 inkazan.ru
 0.0.0.0 inkhabar.com
@@ -3523,18 +3426,15 @@
 0.0.0.0 inshorts.com
 0.0.0.0 inside-paradeplatz.ch
 0.0.0.0 inside.com.tw
-0.0.0.0 insideedition.com
 0.0.0.0 insidehoops.com
 0.0.0.0 insideparadeplatz.ch
 0.0.0.0 insidephilanthropy.com
 0.0.0.0 insider.com
 0.0.0.0 insider.gr
-0.0.0.0 insideradio.com
 0.0.0.0 insidernj.com
 0.0.0.0 insidesources.com
 0.0.0.0 insight.co.kr
 0.0.0.0 insightcrime.org
-0.0.0.0 insurancetimes.co.uk
 0.0.0.0 intelligenceonline.com
 0.0.0.0 intellinews.com
 0.0.0.0 intercept.com.br
@@ -3564,7 +3464,6 @@
 0.0.0.0 ionnews.mu
 0.0.0.0 iowacapitaldispatch.com
 0.0.0.0 iowastatedaily.com
-0.0.0.0 ip-watch.org
 0.0.0.0 ipn.md
 0.0.0.0 ipolitics.ca
 0.0.0.0 ippmedia.com
@@ -3572,7 +3471,6 @@
 0.0.0.0 ipsnews.net
 0.0.0.0 ipswichstar.co.uk
 0.0.0.0 ir.lv
-0.0.0.0 ir.mondediplo.com
 0.0.0.0 iranian.com
 0.0.0.0 iranintl.com
 0.0.0.0 iranpress.com
@@ -3618,10 +3516,8 @@
 0.0.0.0 istramet.hr
 0.0.0.0 ita-savo.fi
 0.0.0.0 italiaoggi.it
-0.0.0.0 itavisen.no
 0.0.0.0 ithacajournal.com
 0.0.0.0 ithome.com.tw
-0.0.0.0 itnews.com.au
 0.0.0.0 itnonline.com
 0.0.0.0 itromso.no
 0.0.0.0 ittefaq.com.bd
@@ -3629,7 +3525,6 @@
 0.0.0.0 iwacu-burundi.org
 0.0.0.0 iwate-np.co.jp
 0.0.0.0 iwnsvg.com
-0.0.0.0 ixbt.games
 0.0.0.0 iz.ru
 0.0.0.0 iza.ne.jp
 0.0.0.0 izhevsk.mk.ru
@@ -3668,7 +3563,6 @@
 0.0.0.0 jawapos.com
 0.0.0.0 jawharafm.net
 0.0.0.0 jaxdailyrecord.com
-0.0.0.0 jayisgames.com
 0.0.0.0 jb.com.br
 0.0.0.0 jbl.no
 0.0.0.0 jbpress.ismedia.jp
@@ -3680,7 +3574,6 @@
 0.0.0.0 jen.jiji.com
 0.0.0.0 jerseyeveningpost.com
 0.0.0.0 jeuneafrique.com
-0.0.0.0 jeuxactu.com
 0.0.0.0 jewishchronicle.timesofisrael.com
 0.0.0.0 jewishinsider.com
 0.0.0.0 jewishjournal.com
@@ -3706,7 +3599,6 @@
 0.0.0.0 jnilbo.com
 0.0.0.0 jns.org
 0.0.0.0 jo24.net
-0.0.0.0 jobat.be
 0.0.0.0 johnmenadue.com
 0.0.0.0 join1440.com
 0.0.0.0 jomo-news.co.jp
@@ -3745,7 +3637,6 @@
 0.0.0.0 journaltimes.com
 0.0.0.0 jovempan.com.br
 0.0.0.0 jp.dk
-0.0.0.0 jp.mondediplo.com
 0.0.0.0 jp.reuters.com
 0.0.0.0 jp.wsj.com
 0.0.0.0 jp.xinhuanet.com
@@ -3800,9 +3691,7 @@
 0.0.0.0 kanal5.com.mk
 0.0.0.0 kanaloco.jp
 0.0.0.0 kanivatonga.co.nz
-0.0.0.0 kankokeizai.com
 0.0.0.0 kannadaprabha.com
-0.0.0.0 kanobu.ru
 0.0.0.0 kansanuutiset.fi
 0.0.0.0 kansas.com
 0.0.0.0 kansascity.com
@@ -3941,7 +3830,6 @@
 0.0.0.0 konkurent.ua
 0.0.0.0 kontan.co.id
 0.0.0.0 kookje.co.kr
-0.0.0.0 koraplus.com
 0.0.0.0 koreadaily.com
 0.0.0.0 koreaherald.com
 0.0.0.0 koreajoongangdaily.joins.com
@@ -3949,7 +3837,6 @@
 0.0.0.0 koreatimes.co.kr
 0.0.0.0 koreatimes.com
 0.0.0.0 korkusuz.com.tr
-0.0.0.0 kormedi.com
 0.0.0.0 korrespondent.net
 0.0.0.0 korzar.sme.sk
 0.0.0.0 kosmo.com.my
@@ -3957,7 +3844,6 @@
 0.0.0.0 kosovo-online.com
 0.0.0.0 kossev.info
 0.0.0.0 kostroma.mk.ru
-0.0.0.0 kotaku.com.au
 0.0.0.0 koutipandoras.gr
 0.0.0.0 kouvolansanomat.fi
 0.0.0.0 kp.md
@@ -4000,7 +3886,6 @@
 0.0.0.0 ktrk.kg
 0.0.0.0 ktvu.com
 0.0.0.0 ku.fi
-0.0.0.0 ku.mondediplo.com
 0.0.0.0 kuam.com
 0.0.0.0 kuban.mk.ru
 0.0.0.0 kubnews.ru
@@ -4117,7 +4002,6 @@
 0.0.0.0 laopiniondemurcia.es
 0.0.0.0 laopiniondezamora.es
 0.0.0.0 lapagina.com.sv
-0.0.0.0 lapaginamillonaria.com
 0.0.0.0 lapasserelleplanoise.free.fr
 0.0.0.0 lapatilla.com
 0.0.0.0 lapatriaenlinea.com
@@ -4148,7 +4032,6 @@
 0.0.0.0 larepublica.net
 0.0.0.0 larepublica.pe
 0.0.0.0 larepubliquedespyrenees.fr
-0.0.0.0 largus.fr
 0.0.0.0 larioja.com
 0.0.0.0 las2orillas.co
 0.0.0.0 lasegunda.com
@@ -4230,7 +4113,6 @@
 0.0.0.0 leftfootforward.org
 0.0.0.0 legaldaily.com.cn
 0.0.0.0 leggo.it
-0.0.0.0 legia.net
 0.0.0.0 legit.ng
 0.0.0.0 legnanonews.com
 0.0.0.0 lehighvalleylive.com
@@ -4269,7 +4151,6 @@
 0.0.0.0 lesahel.org
 0.0.0.0 lesechos.fr
 0.0.0.0 leseco.ma
-0.0.0.0 lesinrocks.com
 0.0.0.0 lesiteinfo.com
 0.0.0.0 lesoir.be
 0.0.0.0 lesoleil.com
@@ -4293,7 +4174,7 @@
 0.0.0.0 lexpress.mu
 0.0.0.0 lexpressiondz.com
 0.0.0.0 lfpress.com
-0.0.0.0 lgbtqnation.com
+0.0.0.0 lhebdo17.fr
 0.0.0.0 liberal.gr
 0.0.0.0 liberation.fr
 0.0.0.0 liberianobserver.com
@@ -4914,7 +4795,6 @@
 0.0.0.0 m.ledevoir.com
 0.0.0.0 m.lefigaro.fr
 0.0.0.0 m.leggo.it
-0.0.0.0 m.legia.net
 0.0.0.0 m.lejdd.fr
 0.0.0.0 m.lematin.ch
 0.0.0.0 m.lemonde.fr
@@ -5448,7 +5328,6 @@
 0.0.0.0 m.znaj.ua
 0.0.0.0 m.zurnal24.si
 0.0.0.0 m24.ru
-0.0.0.0 m3.idg.se
 0.0.0.0 ma.rfi.fr
 0.0.0.0 maaal.com
 0.0.0.0 maalaimalar.com
@@ -5509,6 +5388,8 @@
 0.0.0.0 manchestereveningnews.co.uk
 0.0.0.0 manchesterworld.uk
 0.0.0.0 mandiner.hu
+0.0.0.0 mangalam.com
+0.0.0.0 mangaloretoday.com
 0.0.0.0 manilastandard.net
 0.0.0.0 manilatimes.net
 0.0.0.0 manipulatori.cz
@@ -5520,7 +5401,6 @@
 0.0.0.0 manoramaonline.com
 0.0.0.0 mansfield.wickedlocal.com
 0.0.0.0 mansfieldnewsjournal.com
-0.0.0.0 manufacturing.net
 0.0.0.0 mapexpress.ma
 0.0.0.0 mapnews.ma
 0.0.0.0 marathi.thebetterindia.com
@@ -5555,12 +5435,10 @@
 0.0.0.0 mcall.com
 0.0.0.0 mcclatchydc.com
 0.0.0.0 mcot.net
-0.0.0.0 mcvuk.com
 0.0.0.0 mdedge.com
 0.0.0.0 mdjonline.com
 0.0.0.0 mdr.de
 0.0.0.0 mdzol.com
-0.0.0.0 meaww.com
 0.0.0.0 medcom.id
 0.0.0.0 media.naver.com
 0.0.0.0 mediacongo.net
@@ -5577,8 +5455,6 @@
 0.0.0.0 medias24.com
 0.0.0.0 mediatoday.co.kr
 0.0.0.0 mediaus.co.kr
-0.0.0.0 mediotiempo.com
-0.0.0.0 medischcontact.nl
 0.0.0.0 meduza.io
 0.0.0.0 medyabar.com
 0.0.0.0 medyascope.tv
@@ -5586,7 +5462,6 @@
 0.0.0.0 mehrnews.com
 0.0.0.0 meidasnews.com
 0.0.0.0 meidastouch.com
-0.0.0.0 mein-mmo.de
 0.0.0.0 meinbezirk.at
 0.0.0.0 memeorandum.com
 0.0.0.0 memphisflyer.com
@@ -5595,7 +5470,6 @@
 0.0.0.0 mercopress.com
 0.0.0.0 mercurynews.com
 0.0.0.0 merdeka.com
-0.0.0.0 meridiano.net
 0.0.0.0 merkur.de
 0.0.0.0 messaggeroveneto.it
 0.0.0.0 messenger-inquirer.com
@@ -5673,7 +5547,6 @@
 0.0.0.0 minutouno.com
 0.0.0.0 minval.az
 0.0.0.0 minyu-net.com
-0.0.0.0 mirf.ru
 0.0.0.0 mirror.co.uk
 0.0.0.0 mirrormedia.mg
 0.0.0.0 mirrornow.in
@@ -5700,7 +5573,6 @@
 0.0.0.0 mmafighting.com
 0.0.0.0 mmegi.bw
 0.0.0.0 mmnews.tv
-0.0.0.0 mmorpg.com
 0.0.0.0 mmsonline.com
 0.0.0.0 mmtimes.com
 0.0.0.0 mndaily.com
@@ -6009,12 +5881,11 @@
 0.0.0.0 modern.az
 0.0.0.0 modernghana.com
 0.0.0.0 moe-online.ru
+0.0.0.0 moin.de
 0.0.0.0 moldova.europalibera.org
 0.0.0.0 moldpres.md
 0.0.0.0 moment.at
 0.0.0.0 monaco-tribune.com
-0.0.0.0 monde-diplomatique.fr
-0.0.0.0 mondediplo.com
 0.0.0.0 mondo.rs
 0.0.0.0 mondoweiss.net
 0.0.0.0 money.it
@@ -6054,7 +5925,6 @@
 0.0.0.0 motherjones.com
 0.0.0.0 mothership.sg
 0.0.0.0 motolko.help
-0.0.0.0 motorcyclenews.com
 0.0.0.0 mountainx.com
 0.0.0.0 moustique.be
 0.0.0.0 moya-planeta.ru
@@ -6080,7 +5950,6 @@
 0.0.0.0 mtvuutiset.fi
 0.0.0.0 muksun.fm
 0.0.0.0 multihousingnews.com
-0.0.0.0 multiplayer.it
 0.0.0.0 mumbaimirror.com
 0.0.0.0 mumbaimirror.indiatimes.com
 0.0.0.0 mundiario.com
@@ -6159,7 +6028,6 @@
 0.0.0.0 nara-np.co.jp
 0.0.0.0 narasi.tv
 0.0.0.0 narod.hr
-0.0.0.0 nasaspaceflight.com
 0.0.0.0 nashaniva.com
 0.0.0.0 nashazorya.ucoz.ua
 0.0.0.0 nashgorod.ru
@@ -6183,7 +6051,6 @@
 0.0.0.0 nationalpost.com
 0.0.0.0 nationalreview.com
 0.0.0.0 nationalworld.com
-0.0.0.0 nationen.no
 0.0.0.0 nationnews.com
 0.0.0.0 nationthailand.com
 0.0.0.0 nationwideradiojm.com
@@ -6713,7 +6580,6 @@
 0.0.0.0 nexojornal.com.br
 0.0.0.0 nexos.com.mx
 0.0.0.0 next.gazeta.pl
-0.0.0.0 next.ink
 0.0.0.0 nextavenue.org
 0.0.0.0 nextquotidiano.it
 0.0.0.0 nezavisen.mk
@@ -6744,9 +6610,6 @@
 0.0.0.0 nilepost.co.ug
 0.0.0.0 nin.rs
 0.0.0.0 nine.com.au
-0.0.0.0 nintendoeverything.com
-0.0.0.0 nintendowire.com
-0.0.0.0 nintendoworldreport.com
 0.0.0.0 nippon.com
 0.0.0.0 nishinippon.co.jp
 0.0.0.0 nius.de
@@ -6767,9 +6630,7 @@
 0.0.0.0 nny360.com
 0.0.0.0 nocutnews.co.kr
 0.0.0.0 noen.at
-0.0.0.0 nofrag.com
 0.0.0.0 noi.md
-0.0.0.0 noisypixel.net
 0.0.0.0 nokta.md
 0.0.0.0 nola.com
 0.0.0.0 nongmin.com
@@ -6817,7 +6678,6 @@
 0.0.0.0 noticierodigital.com
 0.0.0.0 notiuno.com
 0.0.0.0 notizie.it
-0.0.0.0 notretemps.com
 0.0.0.0 nottinghampost.com
 0.0.0.0 notus.org
 0.0.0.0 nournews.ir
@@ -6956,7 +6816,6 @@
 0.0.0.0 oisehebdo.fr
 0.0.0.0 oita-press.co.jp
 0.0.0.0 ojo-publico.com
-0.0.0.0 ojogo.pt
 0.0.0.0 okaz.com.sa
 0.0.0.0 okdiario.com
 0.0.0.0 okezone.com
@@ -6966,7 +6825,6 @@
 0.0.0.0 okno.mk
 0.0.0.0 oko.press
 0.0.0.0 old.ltn.com.tw
-0.0.0.0 old.mirf.ru
 0.0.0.0 oleantimesherald.com
 0.0.0.0 oliberal.com
 0.0.0.0 olke.az
@@ -7052,7 +6910,7 @@
 0.0.0.0 ostsee-zeitung.de
 0.0.0.0 osvnews.com
 0.0.0.0 ot.gr
-0.0.0.0 otakukart.com
+0.0.0.0 otechestvo.biz
 0.0.0.0 otempo.com.br
 0.0.0.0 otomotifnet.gridoto.com
 0.0.0.0 ottawacitizen.com
@@ -7129,8 +6987,6 @@
 0.0.0.0 pb.pl
 0.0.0.0 pbc.ps
 0.0.0.0 pbn.com
-0.0.0.0 pcgames.de
-0.0.0.0 pcguru.hu
 0.0.0.0 pch24.pl
 0.0.0.0 pcij.org
 0.0.0.0 pd.co.ke
@@ -7190,13 +7046,8 @@
 0.0.0.0 pix11.com
 0.0.0.0 pjmedia.com
 0.0.0.0 pjstar.com
-0.0.0.0 planetcnc.gamespy.com
-0.0.0.0 planethalflife.gamespy.com
 0.0.0.0 plantbasednews.org
-0.0.0.0 plantengineering.com
 0.0.0.0 planv.com.ec
-0.0.0.0 platformer.news
-0.0.0.0 playfront.de
 0.0.0.0 playtech.ro
 0.0.0.0 plazapublica.com.gt
 0.0.0.0 pleno.news
@@ -7216,14 +7067,11 @@
 0.0.0.0 pnn.de
 0.0.0.0 pnp.de
 0.0.0.0 pnp.ru
-0.0.0.0 pockettactics.com
 0.0.0.0 poconorecord.com
 0.0.0.0 poder360.com.br
-0.0.0.0 podnews.net
 0.0.0.0 podrobno.uz
 0.0.0.0 poetsandquants.com
 0.0.0.0 point.md
-0.0.0.0 pointdevue.fr
 0.0.0.0 poligrafo.sapo.pt
 0.0.0.0 polit.ru
 0.0.0.0 politeka.net
@@ -7254,7 +7102,6 @@
 0.0.0.0 poranny.pl
 0.0.0.0 portadowntimes.co.uk
 0.0.0.0 portafolio.co
-0.0.0.0 portal-kultura.ru
 0.0.0.0 portal6.com.br
 0.0.0.0 portalanalitika.me
 0.0.0.0 portalcorreio.com.br
@@ -7362,12 +7209,9 @@
 0.0.0.0 protv.md
 0.0.0.0 providencejournal.com
 0.0.0.0 psmnews.mv
-0.0.0.0 psu.com
-0.0.0.0 pt.mondediplo.com
 0.0.0.0 pt.rfi.fr
 0.0.0.0 ptinews.com
 0.0.0.0 ptv.com.pk
-0.0.0.0 publicdomainreview.org
 0.0.0.0 publicnews.com
 0.0.0.0 publico.es
 0.0.0.0 publico.pt
@@ -7380,14 +7224,12 @@
 0.0.0.0 publimetro.cl
 0.0.0.0 publimetro.com.mx
 0.0.0.0 publinews.gt
-0.0.0.0 publishersmarketplace.com
 0.0.0.0 puck.news
 0.0.0.0 pudding.cool
 0.0.0.0 pudhari.news
 0.0.0.0 puls24.at
 0.0.0.0 pulse.com.gh
 0.0.0.0 pulse.ng
-0.0.0.0 pulsetoday.co.uk
 0.0.0.0 pulsoslp.com.mx
 0.0.0.0 pulzo.com
 0.0.0.0 punchbowl.news
@@ -7397,7 +7239,6 @@
 0.0.0.0 punjabkesari.in
 0.0.0.0 puntlandpost.net
 0.0.0.0 purdueexponent.org
-0.0.0.0 purexbox.com
 0.0.0.0 puthiyathalaimurai.com
 0.0.0.0 pz-news.de
 0.0.0.0 pzc.nl
@@ -7429,7 +7270,6 @@
 0.0.0.0 r.nikkei.com
 0.0.0.0 r7.com
 0.0.0.0 raajje.mv
-0.0.0.0 rabble.ca
 0.0.0.0 radioagricultura.cl
 0.0.0.0 radioamerica.hn
 0.0.0.0 radiofarda.com
@@ -7504,7 +7344,6 @@
 0.0.0.0 redandblack.com
 0.0.0.0 redbluffdailynews.com
 0.0.0.0 redding.com
-0.0.0.0 redgol.cl
 0.0.0.0 redlandsdailyfacts.com
 0.0.0.0 rednet.cn
 0.0.0.0 redstate.com
@@ -7546,6 +7385,7 @@
 0.0.0.0 republicain-lorrain.fr
 0.0.0.0 republicanherald.com
 0.0.0.0 republicoftogo.com
+0.0.0.0 republicpost.in
 0.0.0.0 republicworld.com
 0.0.0.0 republik.ch
 0.0.0.0 republika.co.id
@@ -7575,7 +7415,6 @@
 0.0.0.0 rhodeislandcurrent.com
 0.0.0.0 ria.ru
 0.0.0.0 riaupos.jawapos.com
-0.0.0.0 riazor.org
 0.0.0.0 richmond-news.com
 0.0.0.0 richmond.com
 0.0.0.0 ricmais.com.br
@@ -7627,7 +7466,6 @@
 0.0.0.0 rozanaspokesman.com
 0.0.0.0 rp-online.de
 0.0.0.0 rp.pl
-0.0.0.0 rpgamer.com
 0.0.0.0 rpp.pe
 0.0.0.0 rr.pt
 0.0.0.0 rri.co.id
@@ -7784,7 +7622,6 @@
 0.0.0.0 rtl.fr
 0.0.0.0 rtl.hu
 0.0.0.0 rtl.lu
-0.0.0.0 rtlnieuws.nl
 0.0.0.0 rtnk.me
 0.0.0.0 rtp.pt
 0.0.0.0 rtr.ch
@@ -7803,7 +7640,6 @@
 0.0.0.0 rtvslo.si
 0.0.0.0 rtvutrecht.nl
 0.0.0.0 ru.kabar.kg
-0.0.0.0 ru.mondediplo.com
 0.0.0.0 ru.netgazeti.ge
 0.0.0.0 ru.reuters.com
 0.0.0.0 ru.rfi.fr
@@ -7815,6 +7651,7 @@
 0.0.0.0 rugbyadvertiser.co.uk
 0.0.0.0 ruhr24.de
 0.0.0.0 ruhrnachrichten.de
+0.0.0.0 ruibao.news
 0.0.0.0 runrun.es
 0.0.0.0 rus.azattyk.org
 0.0.0.0 rus.azattyq.org
@@ -7848,7 +7685,6 @@
 0.0.0.0 saga-s.co.jp
 0.0.0.0 sahanjournal.com
 0.0.0.0 saharareporters.com
-0.0.0.0 saiganak.com
 0.0.0.0 sakigake.jp
 0.0.0.0 sakshi.com
 0.0.0.0 salamwatandar.com
@@ -7903,7 +7739,6 @@
 0.0.0.0 sbs.com.au
 0.0.0.0 sbsun.com
 0.0.0.0 sbtnews.sbt.com.br
-0.0.0.0 schoolschoolschool.com
 0.0.0.0 schwaebische.de
 0.0.0.0 schwarzwaelder-bote.de
 0.0.0.0 science.thewire.in
@@ -7924,13 +7759,11 @@
 0.0.0.0 sdpnoticias.com
 0.0.0.0 se.pl
 0.0.0.0 seacoastonline.com
-0.0.0.0 seattlemag.com
 0.0.0.0 seattlepi.com
 0.0.0.0 seattletimes.com
 0.0.0.0 seattletimes.nwsource.com
 0.0.0.0 seattleweekly.com
 0.0.0.0 secoloditalia.it
-0.0.0.0 sector.sk
 0.0.0.0 sedaily.com
 0.0.0.0 seehua.com
 0.0.0.0 segabg.com
@@ -7948,7 +7781,6 @@
 0.0.0.0 senenews.com
 0.0.0.0 seneplus.com
 0.0.0.0 seneweb.com
-0.0.0.0 sentientmedia.org
 0.0.0.0 sentinelandenterprise.com
 0.0.0.0 sentinelassam.com
 0.0.0.0 sentinelcolorado.com
@@ -7977,14 +7809,12 @@
 0.0.0.0 sgvtribune.com
 0.0.0.0 shaam.org
 0.0.0.0 shabiba.com
-0.0.0.0 shacknews.com
 0.0.0.0 shafaq.com
 0.0.0.0 shafaqna.com
 0.0.0.0 shamshadnews.com
 0.0.0.0 shamshyan.com
 0.0.0.0 sharghdaily.com
 0.0.0.0 sharjah24.ae
-0.0.0.0 shazoo.ru
 0.0.0.0 sheboyganpress.com
 0.0.0.0 shelbystar.com
 0.0.0.0 shieldsgazette.com
@@ -7992,7 +7822,6 @@
 0.0.0.0 shimotsuke.co.jp
 0.0.0.0 shinmai.co.jp
 0.0.0.0 shobserver.com
-0.0.0.0 shop.exacteditions.com
 0.0.0.0 shop.ilmessaggero.it
 0.0.0.0 shorouknews.com
 0.0.0.0 shqiptarja.com
@@ -8011,8 +7840,6 @@
 0.0.0.0 signalcleveland.org
 0.0.0.0 signalscv.com
 0.0.0.0 signonsandiego.com
-0.0.0.0 siliconcanals.com
-0.0.0.0 siliconera.com
 0.0.0.0 siliconvalley.com
 0.0.0.0 silive.com
 0.0.0.0 sina.com
@@ -8037,11 +7864,9 @@
 0.0.0.0 skwawkbox.org
 0.0.0.0 skynews.com.au
 0.0.0.0 skynewsarabia.com
-0.0.0.0 sl.vgtimes.com
 0.0.0.0 slate.com
 0.0.0.0 slate.fr
 0.0.0.0 slaynews.com
-0.0.0.0 slippedisc.com
 0.0.0.0 slobodenpecat.mk
 0.0.0.0 slobodna-bosna.ba
 0.0.0.0 slobodnadalmacija.hr
@@ -8065,7 +7890,6 @@
 0.0.0.0 snacksyrian.com
 0.0.0.0 snn.ir
 0.0.0.0 snopes.com
-0.0.0.0 snowbrains.com
 0.0.0.0 snrtnews.com
 0.0.0.0 sntv.so
 0.0.0.0 sochi.mk.ru
@@ -8116,7 +7940,6 @@
 0.0.0.0 spanish.china.org.cn
 0.0.0.0 spanish.news.cn
 0.0.0.0 spanish.people.com.cn
-0.0.0.0 spaziogames.it
 0.0.0.0 spb.mk.ru
 0.0.0.0 spbdnevnik.ru
 0.0.0.0 spbvedomosti.ru
@@ -8215,8 +8038,6 @@
 0.0.0.0 strana.news
 0.0.0.0 strana.today
 0.0.0.0 strategies.fr
-0.0.0.0 stratics.com
-0.0.0.0 stream.org
 0.0.0.0 streetpress.com
 0.0.0.0 stripes.com
 0.0.0.0 studiotamani.org
@@ -8265,7 +8086,6 @@
 0.0.0.0 supchina.com
 0.0.0.0 super.kg
 0.0.0.0 super.ru
-0.0.0.0 supercombo.gg
 0.0.0.0 suprabhaatham.com
 0.0.0.0 surreylive.news
 0.0.0.0 suspilne.media
@@ -8276,7 +8096,6 @@
 0.0.0.0 svenska.yle.fi
 0.0.0.0 sverigesradio.se
 0.0.0.0 svet24.si
-0.0.0.0 svg.com
 0.0.0.0 svoboda.org
 0.0.0.0 svpressa.ru
 0.0.0.0 svt.se
@@ -8365,7 +8184,6 @@
 0.0.0.0 tazabek.kg
 0.0.0.0 tb.no
 0.0.0.0 tbnewswatch.com
-0.0.0.0 tbreak.com
 0.0.0.0 tbsnews.net
 0.0.0.0 tchadinfos.com
 0.0.0.0 tchina.kyodonews.net
@@ -8374,16 +8192,10 @@
 0.0.0.0 tdg.ch
 0.0.0.0 tdn.com
 0.0.0.0 teaonews.co.nz
-0.0.0.0 techhq.com
-0.0.0.0 techmeme.com
-0.0.0.0 technopolis.susu.ru
-0.0.0.0 techraptor.net
 0.0.0.0 tednik.svet24.si
 0.0.0.0 tehelka.com
 0.0.0.0 tehrantimes.com
 0.0.0.0 tejaratnews.com
-0.0.0.0 tek.no
-0.0.0.0 tekniikkatalous.fi
 0.0.0.0 telanganatoday.com
 0.0.0.0 tele1.com.tr
 0.0.0.0 teleamazonas.com
@@ -8414,7 +8226,6 @@
 0.0.0.0 telquel.ma
 0.0.0.0 telugutimes.net
 0.0.0.0 tempo.co
-0.0.0.0 tempo.com
 0.0.0.0 tengrinews.kz
 0.0.0.0 tennessean.com
 0.0.0.0 tennesseelookout.com
@@ -8449,8 +8260,6 @@
 0.0.0.0 thansettakij.com
 0.0.0.0 thanthitv.com
 0.0.0.0 the-daily-record.com
-0.0.0.0 the-decoder.com
-0.0.0.0 the-decoder.de
 0.0.0.0 the-independent.com
 0.0.0.0 the-japan-news.com
 0.0.0.0 the-miyanichi.co.jp
@@ -8529,7 +8338,6 @@
 0.0.0.0 thedailyworld.com
 0.0.0.0 thedartmouth.com
 0.0.0.0 theday.com
-0.0.0.0 thedebrief.org
 0.0.0.0 thedesk.net
 0.0.0.0 thedetail.tv
 0.0.0.0 thediplomat.com
@@ -8545,7 +8353,6 @@
 0.0.0.0 theedinburghreporter.co.uk
 0.0.0.0 theelephant.info
 0.0.0.0 theepochtimes.com
-0.0.0.0 thefader.com
 0.0.0.0 thefederal.com
 0.0.0.0 thefederalist.com
 0.0.0.0 theferret.scot
@@ -8616,7 +8423,6 @@
 0.0.0.0 themercury.com.au
 0.0.0.0 themonthly.com.au
 0.0.0.0 themorning.lk
-0.0.0.0 themorningnews.org
 0.0.0.0 themorningsun.com
 0.0.0.0 themoscowtimes.com
 0.0.0.0 thenarwhal.ca
@@ -8685,7 +8491,6 @@
 0.0.0.0 theshiftnews.com
 0.0.0.0 theshillongtimes.com
 0.0.0.0 thesierraleonetelegraph.com
-0.0.0.0 thesixthaxis.com
 0.0.0.0 theskanner.com
 0.0.0.0 theskimm.com
 0.0.0.0 thesouthafrican.com
@@ -8693,7 +8498,6 @@
 0.0.0.0 thespec.com
 0.0.0.0 thespectrum.com
 0.0.0.0 thespinoff.co.nz
-0.0.0.0 thestage.co.uk
 0.0.0.0 thestandard.co
 0.0.0.0 thestandard.com.hk
 0.0.0.0 thestandard.org.nz
@@ -8708,6 +8512,7 @@
 0.0.0.0 thestkittsnevisobserver.com
 0.0.0.0 thestranger.com
 0.0.0.0 thestreet.com
+0.0.0.0 thestute.com
 0.0.0.0 thesudburystar.com
 0.0.0.0 thesun.co.uk
 0.0.0.0 thesun.ie
@@ -8736,11 +8541,11 @@
 0.0.0.0 thevoiceslu.com
 0.0.0.0 thewall.in
 0.0.0.0 thewalrus.ca
-0.0.0.0 theweather.com
 0.0.0.0 theweek.co.uk
 0.0.0.0 theweek.com
 0.0.0.0 theweek.in
 0.0.0.0 theweeklyjournal.com
+0.0.0.0 theweeklynews.in
 0.0.0.0 thewest.com.au
 0.0.0.0 thewestmorlandgazette.co.uk
 0.0.0.0 thewhig.com
@@ -8753,9 +8558,9 @@
 0.0.0.0 thinkbroadband.com
 0.0.0.0 thisdaylive.com
 0.0.0.0 thisisbeirut.com.lb
-0.0.0.0 thisisgame.com
 0.0.0.0 thisismoney.co.uk
 0.0.0.0 thmeythmey.com
+0.0.0.0 thueringen24.de
 0.0.0.0 thueringer-allgemeine.de
 0.0.0.0 thurgauerzeitung.ch
 0.0.0.0 thurrockgazette.co.uk
@@ -8769,7 +8574,6 @@
 0.0.0.0 tiff.mil.se
 0.0.0.0 tijd.be
 0.0.0.0 time.com
-0.0.0.0 timeextension.com
 0.0.0.0 times-herald.com
 0.0.0.0 times-news.com
 0.0.0.0 times-series.co.uk
@@ -8831,7 +8635,6 @@
 0.0.0.0 toledoblade.com
 0.0.0.0 tolonews.com
 0.0.0.0 tomdispatch.com
-0.0.0.0 tomshw.it
 0.0.0.0 tomsk.mk.ru
 0.0.0.0 toonippo.co.jp
 0.0.0.0 top-channel.tv
@@ -8842,11 +8645,9 @@
 0.0.0.0 torinotoday.it
 0.0.0.0 torontosun.com
 0.0.0.0 torontotoday.ca
-0.0.0.0 torquenews.com
 0.0.0.0 tortoisemedia.com
 0.0.0.0 total.kz
 0.0.0.0 totalcar.hu
-0.0.0.0 tourprom.ru
 0.0.0.0 toutiao.com
 0.0.0.0 tovima.gr
 0.0.0.0 townhall.com
@@ -8858,9 +8659,6 @@
 0.0.0.0 tportal.hr
 0.0.0.0 tr.kabar.kg
 0.0.0.0 trad.cn.rfi.fr
-0.0.0.0 tradewindsnews.com
-0.0.0.0 traveloffpath.com
-0.0.0.0 travelweekly.com
 0.0.0.0 trend.at
 0.0.0.0 trend.az
 0.0.0.0 trend.sk
@@ -8947,7 +8745,6 @@
 0.0.0.0 tvanouvelles.ca
 0.0.0.0 tvcnews.tv
 0.0.0.0 tver.mk.ru
-0.0.0.0 tvmaze.com
 0.0.0.0 tvmidtvest.dk
 0.0.0.0 tvmnews.mt
 0.0.0.0 tvn-2.com
@@ -8968,7 +8765,6 @@
 0.0.0.0 twentyfournews.com
 0.0.0.0 twice.com
 0.0.0.0 twincities.com
-0.0.0.0 twinfinite.net
 0.0.0.0 twitchy.com
 0.0.0.0 twreporter.org
 0.0.0.0 txbiz.tv-tokyo.co.jp
@@ -8987,7 +8783,6 @@
 0.0.0.0 ufa1.ru
 0.0.0.0 ugandaradionetwork.net
 0.0.0.0 ugluu.mn
-0.0.0.0 ugo.com
 0.0.0.0 ugra.mk.ru
 0.0.0.0 ujember.katolikus.hu
 0.0.0.0 ujyaaloonline.com
@@ -9013,7 +8808,6 @@
 0.0.0.0 uk.yahoo.com
 0.0.0.0 uk.zawya.com
 0.0.0.0 ukr.lb.ua
-0.0.0.0 ukr.vgtimes.com
 0.0.0.0 ukraina.ru
 0.0.0.0 ukranews.com
 0.0.0.0 ukrinform.de
@@ -9027,10 +8821,8 @@
 0.0.0.0 ultrasawt.com
 0.0.0.0 ulusal.com.tr
 0.0.0.0 ulysmedia.kz
-0.0.0.0 umanity.jp
 0.0.0.0 una-oic.org
 0.0.0.0 unb.com.bd
-0.0.0.0 undeadly.org
 0.0.0.0 unherd.com
 0.0.0.0 unian.info
 0.0.0.0 unian.net
@@ -9083,7 +8875,6 @@
 0.0.0.0 usat.ly
 0.0.0.0 usatoday.com
 0.0.0.0 usbeketrica.com
-0.0.0.0 usine-digitale.fr
 0.0.0.0 usnews.com
 0.0.0.0 utahnewsdispatch.com
 0.0.0.0 uticaod.com
@@ -9148,10 +8939,8 @@
 0.0.0.0 vf.se
 0.0.0.0 vg.hu
 0.0.0.0 vg.no
-0.0.0.0 vg247.com
 0.0.0.0 vgorode.ua
 0.0.0.0 vgoroden.ru
-0.0.0.0 vgtimes.com
 0.0.0.0 vi.rfi.fr
 0.0.0.0 vice.com
 0.0.0.0 victoriaadvocate.com
@@ -9230,6 +9019,7 @@
 0.0.0.0 vremyan.ru
 0.0.0.0 vrn.mk.ru
 0.0.0.0 vrt.be
+0.0.0.0 vsd.fr
 0.0.0.0 vtcnews.vn
 0.0.0.0 vtdigger.org
 0.0.0.0 vtv.vn
@@ -9255,7 +9045,6 @@
 0.0.0.0 wapo.st
 0.0.0.0 wapt.com
 0.0.0.0 war.telegraf.com.ua
-0.0.0.0 wargamer.com
 0.0.0.0 warontherocks.com
 0.0.0.0 warringtonguardian.co.uk
 0.0.0.0 wartaekonomi.co.id
@@ -9305,8 +9094,10 @@
 0.0.0.0 wdsu.com
 0.0.0.0 wealth.com.tw
 0.0.0.0 weartv.com
+0.0.0.0 weatherforddemocrat.com
 0.0.0.0 webdo.tn
 0.0.0.0 webmanagercenter.com
+0.0.0.0 webnews.lk
 0.0.0.0 webnoviny.sk
 0.0.0.0 webtekno.com
 0.0.0.0 wedge.ismedia.jp
@@ -9329,7 +9120,7 @@
 0.0.0.0 westhawaiitoday.com
 0.0.0.0 westvirginiawatch.com
 0.0.0.0 westword.com
-0.0.0.0 weszlo.com
+0.0.0.0 wetterauer-zeitung.de
 0.0.0.0 wfaa.com
 0.0.0.0 wfae.org
 0.0.0.0 wfla.com
@@ -9343,7 +9134,6 @@
 0.0.0.0 wgrz.com
 0.0.0.0 wgxa.tv
 0.0.0.0 whas11.com
-0.0.0.0 whatculture.com
 0.0.0.0 whatfinger.com
 0.0.0.0 whb.cn
 0.0.0.0 whio.com
@@ -9366,15 +9156,12 @@
 0.0.0.0 wiltshiretimes.co.uk
 0.0.0.0 winchester.wickedlocal.com
 0.0.0.0 winchesterstar.com
-0.0.0.0 windowsitpro.com
 0.0.0.0 windsorstar.com
 0.0.0.0 wingsoverscotland.com
 0.0.0.0 winknews.com
 0.0.0.0 winnipegfreepress.com
 0.0.0.0 winnipegsun.com
-0.0.0.0 winwin.com
 0.0.0.0 wionews.com
-0.0.0.0 wired.it
 0.0.0.0 wirralglobe.co.uk
 0.0.0.0 wisconsinexaminer.com
 0.0.0.0 wisconsinrapidstribune.com
@@ -9420,11 +9207,9 @@
 0.0.0.0 workpointtoday.com
 0.0.0.0 worksopguardian.co.uk
 0.0.0.0 worldjournal.com
-0.0.0.0 worldofreel.com
 0.0.0.0 wormser-zeitung.de
 0.0.0.0 wort.lu
 0.0.0.0 worthingherald.co.uk
-0.0.0.0 worthplaying.com
 0.0.0.0 wowt.com
 0.0.0.0 woz.ch
 0.0.0.0 wp.de
@@ -9546,8 +9331,6 @@
 0.0.0.0 www.47news.jp
 0.0.0.0 www.48.ru
 0.0.0.0 www.4bc.com.au
-0.0.0.0 www.4gamers.com.tw
-0.0.0.0 www.4p.de
 0.0.0.0 www.5-tv.ru
 0.0.0.0 www.5.ua
 0.0.0.0 www.51.ru
@@ -9583,16 +9366,13 @@
 0.0.0.0 www.92newshd.tv
 0.0.0.0 www.93.ru
 0.0.0.0 www.964media.com
-0.0.0.0 www.972mag.com
 0.0.0.0 www.985fm.ca
 0.0.0.0 www.9news.com
 0.0.0.0 www.9news.com.au
-0.0.0.0 www.9to5linux.com
 0.0.0.0 www.a1on.mk
 0.0.0.0 www.a1plus.am
 0.0.0.0 www.a24.com
 0.0.0.0 www.a2news.com
-0.0.0.0 www.a9vg.com
 0.0.0.0 www.aa.com.tr
 0.0.0.0 www.aachener-zeitung.de
 0.0.0.0 www.aaj.tv
@@ -9677,7 +9457,6 @@
 0.0.0.0 www.adnradio.cl
 0.0.0.0 www.adomonline.com
 0.0.0.0 www.adressa.no
-0.0.0.0 www.adventuregamers.com
 0.0.0.0 www.advocate.com
 0.0.0.0 www.affaritaliani.it
 0.0.0.0 www.affarsvarlden.se
@@ -9694,7 +9473,6 @@
 0.0.0.0 www.aftabnews.ir
 0.0.0.0 www.aftenbladet.no
 0.0.0.0 www.aftenposten.no
-0.0.0.0 www.aftermath.site
 0.0.0.0 www.aftonbladet.se
 0.0.0.0 www.agara.co.jp
 0.0.0.0 www.agazeta.com.br
@@ -9720,7 +9498,6 @@
 0.0.0.0 www.ain.ua
 0.0.0.0 www.aina.org
 0.0.0.0 www.airforcetimes.com
-0.0.0.0 www.airwaysmag.com
 0.0.0.0 www.aisnenouvelle.fr
 0.0.0.0 www.ajc.com
 0.0.0.0 www.ajel.sa
@@ -9908,7 +9685,6 @@
 0.0.0.0 www.apnews.com
 0.0.0.0 www.apollo-news.net
 0.0.0.0 www.apollo.lv
-0.0.0.0 www.aponet.de
 0.0.0.0 www.apostrophe.ua
 0.0.0.0 www.app.com
 0.0.0.0 www.app.com.pk
@@ -9938,7 +9714,6 @@
 0.0.0.0 www.argusleader.com
 0.0.0.0 www.arh.mk.ru
 0.0.0.0 www.ariananews.af
-0.0.0.0 www.ariase.com
 0.0.0.0 www.aripaev.ee
 0.0.0.0 www.arise.tv
 0.0.0.0 www.aristeguinoticias.com
@@ -9954,8 +9729,6 @@
 0.0.0.0 www.armtimes.com
 0.0.0.0 www.armyinform.com.ua
 0.0.0.0 www.armytimes.com
-0.0.0.0 www.arretsurimages.net
-0.0.0.0 www.arte.it
 0.0.0.0 www.arthasarokar.com
 0.0.0.0 www.article-14.com
 0.0.0.0 www.articulo14.es
@@ -10013,17 +9786,14 @@
 0.0.0.0 www.aurora-israel.co.il
 0.0.0.0 www.ausnews.de
 0.0.0.0 www.austinchronicle.com
-0.0.0.0 www.automaton-media.com
 0.0.0.0 www.autonomija.info
 0.0.0.0 www.avangard.cap.ru
 0.0.0.0 www.avaz.ba
 0.0.0.0 www.avesta.tj
 0.0.0.0 www.avgi.gr
 0.0.0.0 www.aviaport.ru
-0.0.0.0 www.avsim.com
 0.0.0.0 www.avvenire.it
 0.0.0.0 www.awemainta.com
-0.0.0.0 www.awfulannouncing.com
 0.0.0.0 www.awi.defensenews.com
 0.0.0.0 www.awokonewspapersl.com
 0.0.0.0 www.axar.az
@@ -10102,7 +9872,6 @@
 0.0.0.0 www.basingstokegazette.co.uk
 0.0.0.0 www.basta.media
 0.0.0.0 www.bastillepost.com
-0.0.0.0 www.batiactu.com
 0.0.0.0 www.batimes.com.ar
 0.0.0.0 www.battlecreekenquirer.com
 0.0.0.0 www.bayarea.com
@@ -10153,12 +9922,10 @@
 0.0.0.0 www.berria.eus
 0.0.0.0 www.bes.media
 0.0.0.0 www.besancon.fr
-0.0.0.0 www.betakit.com
 0.0.0.0 www.beto.cd
 0.0.0.0 www.beyazgazete.com
 0.0.0.0 www.bfm.ru
 0.0.0.0 www.bfmtv.com
-0.0.0.0 www.bg.mondediplo.com
 0.0.0.0 www.bgdailynews.com
 0.0.0.0 www.bgland24.de
 0.0.0.0 www.bgonair.bg
@@ -10210,7 +9977,6 @@
 0.0.0.0 www.blic.rs
 0.0.0.0 www.blick-aktuell.de
 0.0.0.0 www.blick.ch
-0.0.0.0 www.blick.de
 0.0.0.0 www.blikk.hu
 0.0.0.0 www.blitz.bg
 0.0.0.0 www.blitzquotidiano.it
@@ -10244,14 +10010,12 @@
 0.0.0.0 www.bntnews.bg
 0.0.0.0 www.boersen-zeitung.de
 0.0.0.0 www.bokra.net
-0.0.0.0 www.bolavip.com
 0.0.0.0 www.boliviaverifica.bo
 0.0.0.0 www.bolnews.com
 0.0.0.0 www.bolognatoday.it
 0.0.0.0 www.bolsamania.com
 0.0.0.0 www.bombaysamachar.com
 0.0.0.0 www.bomboradyo.com
-0.0.0.0 www.bondbuyer.com
 0.0.0.0 www.bondia.ad
 0.0.0.0 www.bondia.com
 0.0.0.0 www.bonginoreport.com
@@ -10301,7 +10065,6 @@
 0.0.0.0 www.brisbanetimes.com.au
 0.0.0.0 www.bristolpost.co.uk
 0.0.0.0 www.bristolworld.com
-0.0.0.0 www.britishpathe.com
 0.0.0.0 www.brl.mk.ru
 0.0.0.0 www.brooklyneagle.com
 0.0.0.0 www.brooklynpaper.com
@@ -10317,7 +10080,6 @@
 0.0.0.0 www.bt.se
 0.0.0.0 www.bt2ha9xt3y.search.serialssolutions.com
 0.0.0.0 www.bta.bg
-0.0.0.0 www.btc-echo.de
 0.0.0.0 www.btvnovinite.bg
 0.0.0.0 www.buckinghamshirelive.com
 0.0.0.0 www.bucksfreepress.co.uk
@@ -10387,7 +10149,6 @@
 0.0.0.0 www.caixin.com
 0.0.0.0 www.caixinglobal.com
 0.0.0.0 www.calcalist.co.il
-0.0.0.0 www.calcalistech.com
 0.0.0.0 www.caledonianrecord.com
 0.0.0.0 www.calgaryherald.com
 0.0.0.0 www.calgarysun.com
@@ -10495,7 +10256,6 @@
 0.0.0.0 www.charlotteobserver.com
 0.0.0.0 www.charter97.org
 0.0.0.0 www.chayka.lv
-0.0.0.0 www.cheapassgamer.com
 0.0.0.0 www.cheb.mk.ru
 0.0.0.0 www.checkyourfact.com
 0.0.0.0 www.cheknews.ca
@@ -10544,7 +10304,6 @@
 0.0.0.0 www.cincodias.com
 0.0.0.0 www.ciociariaoggi.it
 0.0.0.0 www.ciperchile.cl
-0.0.0.0 www.circleid.com
 0.0.0.0 www.citifmonline.com
 0.0.0.0 www.citinewsroom.com
 0.0.0.0 www.citizen-times.com
@@ -10564,7 +10323,6 @@
 0.0.0.0 www.citypaper.com
 0.0.0.0 www.civil.ge
 0.0.0.0 www.civilbeat.org
-0.0.0.0 www.civileats.com
 0.0.0.0 www.civilmedia.mk
 0.0.0.0 www.civilnet.am
 0.0.0.0 www.cjonline.com
@@ -10585,7 +10343,6 @@
 0.0.0.0 www.clubz.bg
 0.0.0.0 www.cmjornal.pt
 0.0.0.0 www.cmmedia.com.tw
-0.0.0.0 www.cn.mondediplo.com
 0.0.0.0 www.cn.reuters.com
 0.0.0.0 www.cn.wsj.com
 0.0.0.0 www.cna.com.tw
@@ -10611,7 +10368,6 @@
 0.0.0.0 www.cnyes.com
 0.0.0.0 www.coastalabc.com
 0.0.0.0 www.coconuts.co
-0.0.0.0 www.cogconnected.com
 0.0.0.0 www.coinworld.com
 0.0.0.0 www.colombiacheck.com
 0.0.0.0 www.colombiareports.com
@@ -10651,12 +10407,12 @@
 0.0.0.0 www.conservativereview.com
 0.0.0.0 www.conservativewoman.co.uk
 0.0.0.0 www.consortiumnews.com
-0.0.0.0 www.constructiondive.com
 0.0.0.0 www.contacto.lu
 0.0.0.0 www.contagionlive.com
 0.0.0.0 www.contextotucuman.com
 0.0.0.0 www.contracorriente.red
 0.0.0.0 www.contrareplica.mx
+0.0.0.0 www.contraste.org
 0.0.0.0 www.contrepoints.org
 0.0.0.0 www.convoca.pe
 0.0.0.0 www.conwaydailysun.com
@@ -10693,6 +10449,7 @@
 0.0.0.0 www.courthousenews.com
 0.0.0.0 www.coventrytelegraph.net
 0.0.0.0 www.cowboystatedaily.com
+0.0.0.0 www.coyotechronicle.net
 0.0.0.0 www.cp24.com
 0.0.0.0 www.cpac.ca
 0.0.0.0 www.cpc.people.com.cn
@@ -10705,14 +10462,12 @@
 0.0.0.0 www.crainsnewyork.com
 0.0.0.0 www.crc891.com
 0.0.0.0 www.creativeloafing.com
-0.0.0.0 www.creators.com
 0.0.0.0 www.cretalive.gr
 0.0.0.0 www.crhoy.com
 0.0.0.0 www.cri.cn
 0.0.0.0 www.crikey.com.au
 0.0.0.0 www.crimea.mk.ru
 0.0.0.0 www.crimeworld.com
-0.0.0.0 www.criptovaluta.it
 0.0.0.0 www.criterio.hn
 0.0.0.0 www.cronachemaceratesi.it
 0.0.0.0 www.cronica.com.ar
@@ -10725,7 +10480,6 @@
 0.0.0.0 www.crtvg.es
 0.0.0.0 www.crusoe.com.br
 0.0.0.0 www.cruxnow.com
-0.0.0.0 www.cryptotimes.io
 0.0.0.0 www.cs.com.cn
 0.0.0.0 www.csemag.com
 0.0.0.0 www.csmonitor.com
@@ -10755,7 +10509,6 @@
 0.0.0.0 www.currentaffairs.org
 0.0.0.0 www.currenttime.tv
 0.0.0.0 www.cw.com.tw
-0.0.0.0 www.cyberinsider.com
 0.0.0.0 www.cyol.com
 0.0.0.0 www.cyprus-mail.com
 0.0.0.0 www.da.online.pt
@@ -10818,7 +10571,6 @@
 0.0.0.0 www.dailynorthwestern.com
 0.0.0.0 www.dailyorange.com
 0.0.0.0 www.dailypakistan.com.pk
-0.0.0.0 www.dailypharm.com
 0.0.0.0 www.dailypioneer.com
 0.0.0.0 www.dailypost.co.uk
 0.0.0.0 www.dailypost.ng
@@ -10838,6 +10590,7 @@
 0.0.0.0 www.dailytelegraph.com.au
 0.0.0.0 www.dailythanthi.com
 0.0.0.0 www.dailytimes.com.pk
+0.0.0.0 www.dailytoreador.com
 0.0.0.0 www.dailytrojan.com
 0.0.0.0 www.dailytrust.com
 0.0.0.0 www.dailyuw.com
@@ -10858,7 +10611,6 @@
 0.0.0.0 www.danviet.vn
 0.0.0.0 www.dap-news.com
 0.0.0.0 www.daryo.uz
-0.0.0.0 www.daswetter.com
 0.0.0.0 www.datacameroon.com
 0.0.0.0 www.davisenterprise.com
 0.0.0.0 www.dawn.com
@@ -10871,13 +10623,11 @@
 0.0.0.0 www.dcnepal.com
 0.0.0.0 www.dcnews.ro
 0.0.0.0 www.dcourier.com
-0.0.0.0 www.dday.it
 0.0.0.0 www.debate.com.mx
 0.0.0.0 www.decaturdaily.com
 0.0.0.0 www.deccanchronicle.com
 0.0.0.0 www.deccanherald.com
 0.0.0.0 www.declassifieduk.org
-0.0.0.0 www.decorrespondent.nl
 0.0.0.0 www.deepika.com
 0.0.0.0 www.defapress.ir
 0.0.0.0 www.defapt.ro
@@ -10907,7 +10657,6 @@
 0.0.0.0 www.democratherald.com
 0.0.0.0 www.demokracija.si
 0.0.0.0 www.demorgen.be
-0.0.0.0 www.dengekionline.com
 0.0.0.0 www.denik.cz
 0.0.0.0 www.denikn.cz
 0.0.0.0 www.dennikn.sk
@@ -11019,9 +10768,7 @@
 0.0.0.0 www.diepresse.com
 0.0.0.0 www.digar.ee
 0.0.0.0 www.diggers.news
-0.0.0.0 www.digi.no
 0.0.0.0 www.digi24.ro
-0.0.0.0 www.digitalspy.co.uk
 0.0.0.0 www.dikaiologitika.gr
 0.0.0.0 www.diken.com.tr
 0.0.0.0 www.dimma.fo
@@ -11041,7 +10788,6 @@
 0.0.0.0 www.divyabhaskar.co.in
 0.0.0.0 www.divyamarathi.bhaskar.com
 0.0.0.0 www.djournal.com
-0.0.0.0 www.dlh.net
 0.0.0.0 www.dlib.si
 0.0.0.0 www.dn.no
 0.0.0.0 www.dn.pt
@@ -11087,15 +10833,12 @@
 0.0.0.0 www.dpa.com
 0.0.0.0 www.dr.dk
 0.0.0.0 www.drawmedia.net
-0.0.0.0 www.drf.com
 0.0.0.0 www.driva.no
-0.0.0.0 www.droid-life.com
 0.0.0.0 www.dropsitenews.com
 0.0.0.0 www.drudgereport.com
 0.0.0.0 www.dsnews.ua
 0.0.0.0 www.dt.no
 0.0.0.0 www.dt.se
-0.0.0.0 www.dualshockers.com
 0.0.0.0 www.dubawa.org
 0.0.0.0 www.dublinlive.ie
 0.0.0.0 www.dukagjini.com
@@ -11153,7 +10896,6 @@
 0.0.0.0 www.echo24.cz
 0.0.0.0 www.echo24.de
 0.0.0.0 www.echodnia.eu
-0.0.0.0 www.echofm.online
 0.0.0.0 www.echolive.ie
 0.0.0.0 www.echoroukonline.com
 0.0.0.0 www.ecns.cn
@@ -11183,7 +10925,6 @@
 0.0.0.0 www.editorialedomani.it
 0.0.0.0 www.edmontonjournal.com
 0.0.0.0 www.edmontonsun.com
-0.0.0.0 www.edn.com
 0.0.0.0 www.edp24.co.uk
 0.0.0.0 www.edsource.org
 0.0.0.0 www.eenadu.net
@@ -11262,11 +11003,11 @@
 0.0.0.0 www.eleconomista.com.mx
 0.0.0.0 www.eleconomista.es
 0.0.0.0 www.electronicintifada.net
+0.0.0.0 www.elecuanime.com
 0.0.0.0 www.eleftherostypos.gr
 0.0.0.0 www.elespanol.com
 0.0.0.0 www.elespectador.com
 0.0.0.0 www.elestimulo.com
-0.0.0.0 www.eletric-vehicles.com
 0.0.0.0 www.elevenmyanmar.com
 0.0.0.0 www.elfagr.org
 0.0.0.0 www.elfaro.net
@@ -11352,7 +11093,6 @@
 0.0.0.0 www.em.com.br
 0.0.0.0 www.emaratalyoum.com
 0.0.0.0 www.emedia.sn
-0.0.0.0 www.emerce.nl
 0.0.0.0 www.emerging-europe.com
 0.0.0.0 www.emess.co.il
 0.0.0.0 www.emirates247.com
@@ -11365,7 +11105,6 @@
 0.0.0.0 www.enabbaladi.net
 0.0.0.0 www.enanyang.my
 0.0.0.0 www.enca.com
-0.0.0.0 www.endpts.com
 0.0.0.0 www.energybulletin.net
 0.0.0.0 www.eng.kavkaz-uzel.eu
 0.0.0.0 www.english.nv.ua
@@ -11380,7 +11119,6 @@
 0.0.0.0 www.enterprise.press
 0.0.0.0 www.enterpriseam.com
 0.0.0.0 www.enterprisenews.com
-0.0.0.0 www.eo.mondediplo.com
 0.0.0.0 www.epe.es
 0.0.0.0 www.epicenter.bg
 0.0.0.0 www.epl.delfi.ee
@@ -11422,7 +11160,6 @@
 0.0.0.0 www.eurasianet.org
 0.0.0.0 www.euro.cz
 0.0.0.0 www.euro2day.gr
-0.0.0.0 www.eurogamer.pl
 0.0.0.0 www.eurointegration.com.ua
 0.0.0.0 www.euromaidanpress.com
 0.0.0.0 www.euronews.al
@@ -11444,7 +11181,6 @@
 0.0.0.0 www.eveningsun.com
 0.0.0.0 www.eveningtimes.co.uk
 0.0.0.0 www.eveningtribune.com
-0.0.0.0 www.everyeye.it
 0.0.0.0 www.evolvepolitics.com
 0.0.0.0 www.evrensel.net
 0.0.0.0 www.evz.ro
@@ -11507,7 +11243,6 @@
 0.0.0.0 www.famigliacristiana.it
 0.0.0.0 www.fanabc.com
 0.0.0.0 www.fanamc.com
-0.0.0.0 www.fandomwire.com
 0.0.0.0 www.fanpage.it
 0.0.0.0 www.fararu.com
 0.0.0.0 www.farmer.com.cn
@@ -11532,17 +11267,13 @@
 0.0.0.0 www.fergana.media
 0.0.0.0 www.fergana.news
 0.0.0.0 www.fides.org
-0.0.0.0 www.fiercehealthcare.com
-0.0.0.0 www.fiercepharma.com
 0.0.0.0 www.fij.ng
 0.0.0.0 www.fijisun.com.fj
 0.0.0.0 www.fijitimes.com
 0.0.0.0 www.fijivillage.com
-0.0.0.0 www.filmdaily.co
 0.0.0.0 www.fin24.com
 0.0.0.0 www.finance-commerce.com
 0.0.0.0 www.finance.si
-0.0.0.0 www.finance.ua
 0.0.0.0 www.finance.yahoo.com
 0.0.0.0 www.financialexpress.com
 0.0.0.0 www.financialnews.com.cn
@@ -11552,6 +11283,7 @@
 0.0.0.0 www.finansavisen.no
 0.0.0.0 www.finchannel.com
 0.0.0.0 www.finews.ch
+0.0.0.0 www.finfly.news
 0.0.0.0 www.finmarket.ru
 0.0.0.0 www.fip.am
 0.0.0.0 www.firda.no
@@ -11584,7 +11316,6 @@
 0.0.0.0 www.folhape.com.br
 0.0.0.0 www.folhavitoria.com.br
 0.0.0.0 www.folketidende.dk
-0.0.0.0 www.fomos.kr
 0.0.0.0 www.fontanka.ru
 0.0.0.0 www.forbes.com
 0.0.0.0 www.forbes.com.br
@@ -11653,7 +11384,6 @@
 0.0.0.0 www.francesoir.fr
 0.0.0.0 www.francetvinfo.fr
 0.0.0.0 www.franchisetimes.com
-0.0.0.0 www.frandroid.com
 0.0.0.0 www.frankenpost.de
 0.0.0.0 www.frankmedia.ru
 0.0.0.0 www.fredericknewspost.com
@@ -11687,7 +11417,6 @@
 0.0.0.0 www.fukuishimbun.co.jp
 0.0.0.0 www.fuldaerzeitung.de
 0.0.0.0 www.fullfact.org
-0.0.0.0 www.futurity.org
 0.0.0.0 www.fuw.ch
 0.0.0.0 www.fvn.no
 0.0.0.0 www.fxn.ws
@@ -11704,30 +11433,6 @@
 0.0.0.0 www.galesburg.com
 0.0.0.0 www.galwaybeo.ie
 0.0.0.0 www.galwaydaily.com
-0.0.0.0 www.gameblog.fr
-0.0.0.0 www.gamegrin.com
-0.0.0.0 www.gameguru.ru
-0.0.0.0 www.gamekult.com
-0.0.0.0 www.gamemag.ru
-0.0.0.0 www.gamemeca.com
-0.0.0.0 www.gamepressure.com
-0.0.0.0 www.gamepro.de
-0.0.0.0 www.gameranx.com
-0.0.0.0 www.gamerbraves.com
-0.0.0.0 www.gamereactor.se
-0.0.0.0 www.gamerevolution.com
-0.0.0.0 www.gamergen.com
-0.0.0.0 www.gamers.de
-0.0.0.0 www.gamersglobal.de
-0.0.0.0 www.games.gg
-0.0.0.0 www.games.tiscali.cz
-0.0.0.0 www.gamesbeat.com
-0.0.0.0 www.gameskinny.com
-0.0.0.0 www.gamespark.jp
-0.0.0.0 www.gamespew.com
-0.0.0.0 www.gameswelt.de
-0.0.0.0 www.gamewatcher.com
-0.0.0.0 www.gamezebo.com
 0.0.0.0 www.gandul.ro
 0.0.0.0 www.gasteizhoy.com
 0.0.0.0 www.gastongazette.com
@@ -11771,7 +11476,6 @@
 0.0.0.0 www.gbcghanaonline.com
 0.0.0.0 www.gbhnews.org
 0.0.0.0 www.gbnews.com
-0.0.0.0 www.gcores.com
 0.0.0.0 www.gd.no
 0.0.0.0 www.gd.se
 0.0.0.0 www.gdnonline.com
@@ -11782,7 +11486,6 @@
 0.0.0.0 www.geelongadvertiser.com.au
 0.0.0.0 www.geenstijl.nl
 0.0.0.0 www.gelderlander.nl
-0.0.0.0 www.gematsu.com
 0.0.0.0 www.geneticliteracyproject.org
 0.0.0.0 www.geo.tv
 0.0.0.0 www.geopoliticalfutures.com
@@ -11792,7 +11495,6 @@
 0.0.0.0 www.getreading.co.uk
 0.0.0.0 www.getsurrey.co.uk
 0.0.0.0 www.gfcnieuws.com
-0.0.0.0 www.gfmag.com
 0.0.0.0 www.ggwash.org
 0.0.0.0 www.ghanabusinessnews.com
 0.0.0.0 www.ghanaweb.com
@@ -11833,11 +11535,9 @@
 0.0.0.0 www.gmw.cn
 0.0.0.0 www.gna.org.gh
 0.0.0.0 www.gnnhd.tv
-0.0.0.0 www.godisageek.com
 0.0.0.0 www.goerie.com
 0.0.0.0 www.goettinger-tageblatt.de
 0.0.0.0 www.gogo.mn
-0.0.0.0 www.goha.ru
 0.0.0.0 www.goldcoastbulletin.com.au
 0.0.0.0 www.golwg.360.cymru
 0.0.0.0 www.golwg360.cymru
@@ -11858,7 +11558,6 @@
 0.0.0.0 www.gp1.com.br
 0.0.0.0 www.gp24.pl
 0.0.0.0 www.gpone.com
-0.0.0.0 www.gram.pl
 0.0.0.0 www.granadahoy.com
 0.0.0.0 www.grandforksherald.com
 0.0.0.0 www.graniru.org
@@ -11888,7 +11587,6 @@
 0.0.0.0 www.groundup.org.za
 0.0.0.0 www.groundviews.org
 0.0.0.0 www.grupoanimal.mx
-0.0.0.0 www.gtaboom.com
 0.0.0.0 www.guampdn.com
 0.0.0.0 www.guancha.cn
 0.0.0.0 www.guardian-series.co.uk
@@ -11924,6 +11622,8 @@
 0.0.0.0 www.haarlemsdagblad.nl
 0.0.0.0 www.hab.mk.ru
 0.0.0.0 www.habarileo.co.tz
+0.0.0.0 www.haber365.com
+0.0.0.0 www.haber365.com.tr
 0.0.0.0 www.haber7.com
 0.0.0.0 www.haberglobal.com
 0.0.0.0 www.haberglobal.com.tr
@@ -11956,7 +11656,6 @@
 0.0.0.0 www.haon.hu
 0.0.0.0 www.haqqin.az
 0.0.0.0 www.harakahdaily.net
-0.0.0.0 www.hardcoregamer.com
 0.0.0.0 www.harianjogja.com
 0.0.0.0 www.haribhoomi.com
 0.0.0.0 www.harpers.org
@@ -11974,11 +11673,8 @@
 0.0.0.0 www.hbvl.be
 0.0.0.0 www.hch.tv
 0.0.0.0 www.hcn.org
-0.0.0.0 www.hcplive.com
 0.0.0.0 www.hd.se
 0.0.0.0 www.headtopics.com
-0.0.0.0 www.healthcaredive.com
-0.0.0.0 www.healthday.com
 0.0.0.0 www.heathercoxrichardson.substack.com
 0.0.0.0 www.hechingerreport.org
 0.0.0.0 www.heidelberg24.de
@@ -12046,7 +11742,6 @@
 0.0.0.0 www.hn.cz
 0.0.0.0 www.hna.de
 0.0.0.0 www.hnonline.sk
-0.0.0.0 www.hogapage.de
 0.0.0.0 www.hojeemdia.com.br
 0.0.0.0 www.hojemacau.com.mo
 0.0.0.0 www.hokkaido-np.co.jp
@@ -12106,8 +11801,8 @@
 0.0.0.0 www.hurriyetdailynews.com
 0.0.0.0 www.hutchnews.com
 0.0.0.0 www.hvg.hu
-0.0.0.0 www.hwupgrade.it
 0.0.0.0 www.hxnews.com
+0.0.0.0 www.hypar.ru
 0.0.0.0 www.i.pl
 0.0.0.0 www.i24news.tv
 0.0.0.0 www.iamgujarat.com
@@ -12163,7 +11858,6 @@
 0.0.0.0 www.ilmanifesto.it
 0.0.0.0 www.ilmattino.it
 0.0.0.0 www.ilmessaggero.it
-0.0.0.0 www.ilmeteo.net
 0.0.0.0 www.ilna.ir
 0.0.0.0 www.ilnapolista.it
 0.0.0.0 www.ilpescara.it
@@ -12260,7 +11954,6 @@
 0.0.0.0 www.infowars.com
 0.0.0.0 www.infranken.de
 0.0.0.0 www.infzm.com
-0.0.0.0 www.ing.dk
 0.0.0.0 www.inilah.com
 0.0.0.0 www.inkazan.ru
 0.0.0.0 www.inkhabar.com
@@ -12281,18 +11974,15 @@
 0.0.0.0 www.inshorts.com
 0.0.0.0 www.inside-paradeplatz.ch
 0.0.0.0 www.inside.com.tw
-0.0.0.0 www.insideedition.com
 0.0.0.0 www.insidehoops.com
 0.0.0.0 www.insideparadeplatz.ch
 0.0.0.0 www.insidephilanthropy.com
 0.0.0.0 www.insider.com
 0.0.0.0 www.insider.gr
-0.0.0.0 www.insideradio.com
 0.0.0.0 www.insidernj.com
 0.0.0.0 www.insidesources.com
 0.0.0.0 www.insight.co.kr
 0.0.0.0 www.insightcrime.org
-0.0.0.0 www.insurancetimes.co.uk
 0.0.0.0 www.intelligenceonline.com
 0.0.0.0 www.intellinews.com
 0.0.0.0 www.intercept.com.br
@@ -12320,7 +12010,6 @@
 0.0.0.0 www.ionnews.mu
 0.0.0.0 www.iowacapitaldispatch.com
 0.0.0.0 www.iowastatedaily.com
-0.0.0.0 www.ip-watch.org
 0.0.0.0 www.ipn.md
 0.0.0.0 www.ipolitics.ca
 0.0.0.0 www.ippmedia.com
@@ -12328,7 +12017,6 @@
 0.0.0.0 www.ipsnews.net
 0.0.0.0 www.ipswichstar.co.uk
 0.0.0.0 www.ir.lv
-0.0.0.0 www.ir.mondediplo.com
 0.0.0.0 www.iranian.com
 0.0.0.0 www.iranintl.com
 0.0.0.0 www.iranpress.com
@@ -12373,10 +12061,8 @@
 0.0.0.0 www.istramet.hr
 0.0.0.0 www.ita-savo.fi
 0.0.0.0 www.italiaoggi.it
-0.0.0.0 www.itavisen.no
 0.0.0.0 www.ithacajournal.com
 0.0.0.0 www.ithome.com.tw
-0.0.0.0 www.itnews.com.au
 0.0.0.0 www.itnonline.com
 0.0.0.0 www.itromso.no
 0.0.0.0 www.ittefaq.com.bd
@@ -12384,7 +12070,6 @@
 0.0.0.0 www.iwacu-burundi.org
 0.0.0.0 www.iwate-np.co.jp
 0.0.0.0 www.iwnsvg.com
-0.0.0.0 www.ixbt.games
 0.0.0.0 www.iz.ru
 0.0.0.0 www.iza.ne.jp
 0.0.0.0 www.izhevsk.mk.ru
@@ -12416,7 +12101,6 @@
 0.0.0.0 www.jawapos.com
 0.0.0.0 www.jawharafm.net
 0.0.0.0 www.jaxdailyrecord.com
-0.0.0.0 www.jayisgames.com
 0.0.0.0 www.jb.com.br
 0.0.0.0 www.jbl.no
 0.0.0.0 www.jconline.com
@@ -12425,7 +12109,6 @@
 0.0.0.0 www.jdn.co.il
 0.0.0.0 www.jerseyeveningpost.com
 0.0.0.0 www.jeuneafrique.com
-0.0.0.0 www.jeuxactu.com
 0.0.0.0 www.jewishinsider.com
 0.0.0.0 www.jewishjournal.com
 0.0.0.0 www.jewishnews.co.uk
@@ -12445,7 +12128,6 @@
 0.0.0.0 www.jnilbo.com
 0.0.0.0 www.jns.org
 0.0.0.0 www.jo24.net
-0.0.0.0 www.jobat.be
 0.0.0.0 www.join1440.com
 0.0.0.0 www.jomo-news.co.jp
 0.0.0.0 www.joongang.co.kr
@@ -12482,7 +12164,6 @@
 0.0.0.0 www.journaltimes.com
 0.0.0.0 www.jovempan.com.br
 0.0.0.0 www.jp.dk
-0.0.0.0 www.jp.mondediplo.com
 0.0.0.0 www.jp.wsj.com
 0.0.0.0 www.jpnn.com
 0.0.0.0 www.jpost.com
@@ -12531,9 +12212,7 @@
 0.0.0.0 www.kanal5.com.mk
 0.0.0.0 www.kanaloco.jp
 0.0.0.0 www.kanivatonga.co.nz
-0.0.0.0 www.kankokeizai.com
 0.0.0.0 www.kannadaprabha.com
-0.0.0.0 www.kanobu.ru
 0.0.0.0 www.kansanuutiset.fi
 0.0.0.0 www.kansas.com
 0.0.0.0 www.kansascity.com
@@ -12665,13 +12344,11 @@
 0.0.0.0 www.konkurent.ua
 0.0.0.0 www.kontan.co.id
 0.0.0.0 www.kookje.co.kr
-0.0.0.0 www.koraplus.com
 0.0.0.0 www.koreadaily.com
 0.0.0.0 www.koreaherald.com
 0.0.0.0 www.koreatimes.co.kr
 0.0.0.0 www.koreatimes.com
 0.0.0.0 www.korkusuz.com.tr
-0.0.0.0 www.kormedi.com
 0.0.0.0 www.korrespondent.net
 0.0.0.0 www.korzar.sme.sk
 0.0.0.0 www.kosmo.com.my
@@ -12679,7 +12356,6 @@
 0.0.0.0 www.kosovo-online.com
 0.0.0.0 www.kossev.info
 0.0.0.0 www.kostroma.mk.ru
-0.0.0.0 www.kotaku.com.au
 0.0.0.0 www.koutipandoras.gr
 0.0.0.0 www.kouvolansanomat.fi
 0.0.0.0 www.kp.md
@@ -12719,7 +12395,6 @@
 0.0.0.0 www.ktrk.kg
 0.0.0.0 www.ktvu.com
 0.0.0.0 www.ku.fi
-0.0.0.0 www.ku.mondediplo.com
 0.0.0.0 www.kuam.com
 0.0.0.0 www.kuban.mk.ru
 0.0.0.0 www.kubnews.ru
@@ -12834,7 +12509,6 @@
 0.0.0.0 www.laopiniondemurcia.es
 0.0.0.0 www.laopiniondezamora.es
 0.0.0.0 www.lapagina.com.sv
-0.0.0.0 www.lapaginamillonaria.com
 0.0.0.0 www.lapatilla.com
 0.0.0.0 www.lapatriaenlinea.com
 0.0.0.0 www.lapinkansa.fi
@@ -12862,7 +12536,6 @@
 0.0.0.0 www.larepublica.net
 0.0.0.0 www.larepublica.pe
 0.0.0.0 www.larepubliquedespyrenees.fr
-0.0.0.0 www.largus.fr
 0.0.0.0 www.larioja.com
 0.0.0.0 www.las2orillas.co
 0.0.0.0 www.lasegunda.com
@@ -12944,7 +12617,6 @@
 0.0.0.0 www.leftfootforward.org
 0.0.0.0 www.legaldaily.com.cn
 0.0.0.0 www.leggo.it
-0.0.0.0 www.legia.net
 0.0.0.0 www.legit.ng
 0.0.0.0 www.legnanonews.com
 0.0.0.0 www.lehighvalleylive.com
@@ -12982,7 +12654,6 @@
 0.0.0.0 www.lesahel.org
 0.0.0.0 www.lesechos.fr
 0.0.0.0 www.leseco.ma
-0.0.0.0 www.lesinrocks.com
 0.0.0.0 www.lesiteinfo.com
 0.0.0.0 www.lesoir.be
 0.0.0.0 www.lesoleil.com
@@ -13005,7 +12676,7 @@
 0.0.0.0 www.lexpress.mu
 0.0.0.0 www.lexpressiondz.com
 0.0.0.0 www.lfpress.com
-0.0.0.0 www.lgbtqnation.com
+0.0.0.0 www.lhebdo17.fr
 0.0.0.0 www.liberal.gr
 0.0.0.0 www.liberation.fr
 0.0.0.0 www.liberianobserver.com
@@ -13107,7 +12778,6 @@
 0.0.0.0 www.lyonne.fr
 0.0.0.0 www.lz.de
 0.0.0.0 www.m24.ru
-0.0.0.0 www.m3.idg.se
 0.0.0.0 www.maaal.com
 0.0.0.0 www.maalaimalar.com
 0.0.0.0 www.maaleht.delfi.ee
@@ -13163,6 +12833,8 @@
 0.0.0.0 www.manchestereveningnews.co.uk
 0.0.0.0 www.manchesterworld.uk
 0.0.0.0 www.mandiner.hu
+0.0.0.0 www.mangalam.com
+0.0.0.0 www.mangaloretoday.com
 0.0.0.0 www.manilastandard.net
 0.0.0.0 www.manilatimes.net
 0.0.0.0 www.manipulatori.cz
@@ -13173,7 +12845,6 @@
 0.0.0.0 www.manoramanews.com
 0.0.0.0 www.manoramaonline.com
 0.0.0.0 www.mansfieldnewsjournal.com
-0.0.0.0 www.manufacturing.net
 0.0.0.0 www.mapexpress.ma
 0.0.0.0 www.mapnews.ma
 0.0.0.0 www.mardomsalari.ir
@@ -13205,12 +12876,10 @@
 0.0.0.0 www.mcall.com
 0.0.0.0 www.mcclatchydc.com
 0.0.0.0 www.mcot.net
-0.0.0.0 www.mcvuk.com
 0.0.0.0 www.mdedge.com
 0.0.0.0 www.mdjonline.com
 0.0.0.0 www.mdr.de
 0.0.0.0 www.mdzol.com
-0.0.0.0 www.meaww.com
 0.0.0.0 www.medcom.id
 0.0.0.0 www.mediacongo.net
 0.0.0.0 www.mediafax.ro
@@ -13226,8 +12895,6 @@
 0.0.0.0 www.medias24.com
 0.0.0.0 www.mediatoday.co.kr
 0.0.0.0 www.mediaus.co.kr
-0.0.0.0 www.mediotiempo.com
-0.0.0.0 www.medischcontact.nl
 0.0.0.0 www.meduza.io
 0.0.0.0 www.medyabar.com
 0.0.0.0 www.medyascope.tv
@@ -13235,7 +12902,6 @@
 0.0.0.0 www.mehrnews.com
 0.0.0.0 www.meidasnews.com
 0.0.0.0 www.meidastouch.com
-0.0.0.0 www.mein-mmo.de
 0.0.0.0 www.meinbezirk.at
 0.0.0.0 www.memeorandum.com
 0.0.0.0 www.memphisflyer.com
@@ -13244,7 +12910,6 @@
 0.0.0.0 www.mercopress.com
 0.0.0.0 www.mercurynews.com
 0.0.0.0 www.merdeka.com
-0.0.0.0 www.meridiano.net
 0.0.0.0 www.merkur.de
 0.0.0.0 www.messaggeroveneto.it
 0.0.0.0 www.messenger-inquirer.com
@@ -13321,7 +12986,6 @@
 0.0.0.0 www.minutouno.com
 0.0.0.0 www.minval.az
 0.0.0.0 www.minyu-net.com
-0.0.0.0 www.mirf.ru
 0.0.0.0 www.mirror.co.uk
 0.0.0.0 www.mirrormedia.mg
 0.0.0.0 www.mirrornow.in
@@ -13348,7 +13012,6 @@
 0.0.0.0 www.mmafighting.com
 0.0.0.0 www.mmegi.bw
 0.0.0.0 www.mmnews.tv
-0.0.0.0 www.mmorpg.com
 0.0.0.0 www.mmsonline.com
 0.0.0.0 www.mmtimes.com
 0.0.0.0 www.mndaily.com
@@ -13357,11 +13020,10 @@
 0.0.0.0 www.modern.az
 0.0.0.0 www.modernghana.com
 0.0.0.0 www.moe-online.ru
+0.0.0.0 www.moin.de
 0.0.0.0 www.moldpres.md
 0.0.0.0 www.moment.at
 0.0.0.0 www.monaco-tribune.com
-0.0.0.0 www.monde-diplomatique.fr
-0.0.0.0 www.mondediplo.com
 0.0.0.0 www.mondo.rs
 0.0.0.0 www.mondoweiss.net
 0.0.0.0 www.money.it
@@ -13399,7 +13061,6 @@
 0.0.0.0 www.motherjones.com
 0.0.0.0 www.mothership.sg
 0.0.0.0 www.motolko.help
-0.0.0.0 www.motorcyclenews.com
 0.0.0.0 www.mountainx.com
 0.0.0.0 www.moustique.be
 0.0.0.0 www.moya-planeta.ru
@@ -13424,7 +13085,6 @@
 0.0.0.0 www.mtvuutiset.fi
 0.0.0.0 www.muksun.fm
 0.0.0.0 www.multihousingnews.com
-0.0.0.0 www.multiplayer.it
 0.0.0.0 www.mumbaimirror.com
 0.0.0.0 www.mumbaimirror.indiatimes.com
 0.0.0.0 www.mundiario.com
@@ -13497,7 +13157,6 @@
 0.0.0.0 www.nara-np.co.jp
 0.0.0.0 www.narasi.tv
 0.0.0.0 www.narod.hr
-0.0.0.0 www.nasaspaceflight.com
 0.0.0.0 www.nashaniva.com
 0.0.0.0 www.nashazorya.ucoz.ua
 0.0.0.0 www.nashgorod.ru
@@ -13521,7 +13180,6 @@
 0.0.0.0 www.nationalpost.com
 0.0.0.0 www.nationalreview.com
 0.0.0.0 www.nationalworld.com
-0.0.0.0 www.nationen.no
 0.0.0.0 www.nationnews.com
 0.0.0.0 www.nationthailand.com
 0.0.0.0 www.nationwideradiojm.com
@@ -13761,7 +13419,6 @@
 0.0.0.0 www.nexojornal.com.br
 0.0.0.0 www.nexos.com.mx
 0.0.0.0 www.next.gazeta.pl
-0.0.0.0 www.next.ink
 0.0.0.0 www.nextavenue.org
 0.0.0.0 www.nextquotidiano.it
 0.0.0.0 www.nezavisen.mk
@@ -13792,9 +13449,6 @@
 0.0.0.0 www.nilepost.co.ug
 0.0.0.0 www.nin.rs
 0.0.0.0 www.nine.com.au
-0.0.0.0 www.nintendoeverything.com
-0.0.0.0 www.nintendowire.com
-0.0.0.0 www.nintendoworldreport.com
 0.0.0.0 www.nippon.com
 0.0.0.0 www.nishinippon.co.jp
 0.0.0.0 www.nius.de
@@ -13813,9 +13467,7 @@
 0.0.0.0 www.nny360.com
 0.0.0.0 www.nocutnews.co.kr
 0.0.0.0 www.noen.at
-0.0.0.0 www.nofrag.com
 0.0.0.0 www.noi.md
-0.0.0.0 www.noisypixel.net
 0.0.0.0 www.nokta.md
 0.0.0.0 www.nola.com
 0.0.0.0 www.nongmin.com
@@ -13862,7 +13514,6 @@
 0.0.0.0 www.noticierodigital.com
 0.0.0.0 www.notiuno.com
 0.0.0.0 www.notizie.it
-0.0.0.0 www.notretemps.com
 0.0.0.0 www.nottinghampost.com
 0.0.0.0 www.notus.org
 0.0.0.0 www.nournews.ir
@@ -13995,7 +13646,6 @@
 0.0.0.0 www.oisehebdo.fr
 0.0.0.0 www.oita-press.co.jp
 0.0.0.0 www.ojo-publico.com
-0.0.0.0 www.ojogo.pt
 0.0.0.0 www.okaz.com.sa
 0.0.0.0 www.okdiario.com
 0.0.0.0 www.okezone.com
@@ -14085,7 +13735,7 @@
 0.0.0.0 www.ostsee-zeitung.de
 0.0.0.0 www.osvnews.com
 0.0.0.0 www.ot.gr
-0.0.0.0 www.otakukart.com
+0.0.0.0 www.otechestvo.biz
 0.0.0.0 www.otempo.com.br
 0.0.0.0 www.ottawacitizen.com
 0.0.0.0 www.ottawasun.com
@@ -14157,8 +13807,6 @@
 0.0.0.0 www.pb.pl
 0.0.0.0 www.pbc.ps
 0.0.0.0 www.pbn.com
-0.0.0.0 www.pcgames.de
-0.0.0.0 www.pcguru.hu
 0.0.0.0 www.pch24.pl
 0.0.0.0 www.pcij.org
 0.0.0.0 www.pd.co.ke
@@ -14215,10 +13863,7 @@
 0.0.0.0 www.pjmedia.com
 0.0.0.0 www.pjstar.com
 0.0.0.0 www.plantbasednews.org
-0.0.0.0 www.plantengineering.com
 0.0.0.0 www.planv.com.ec
-0.0.0.0 www.platformer.news
-0.0.0.0 www.playfront.de
 0.0.0.0 www.playtech.ro
 0.0.0.0 www.plazapublica.com.gt
 0.0.0.0 www.pleno.news
@@ -14238,14 +13883,11 @@
 0.0.0.0 www.pnn.de
 0.0.0.0 www.pnp.de
 0.0.0.0 www.pnp.ru
-0.0.0.0 www.pockettactics.com
 0.0.0.0 www.poconorecord.com
 0.0.0.0 www.poder360.com.br
-0.0.0.0 www.podnews.net
 0.0.0.0 www.podrobno.uz
 0.0.0.0 www.poetsandquants.com
 0.0.0.0 www.point.md
-0.0.0.0 www.pointdevue.fr
 0.0.0.0 www.poligrafo.sapo.pt
 0.0.0.0 www.polit.ru
 0.0.0.0 www.politeka.net
@@ -14275,7 +13917,6 @@
 0.0.0.0 www.poranny.pl
 0.0.0.0 www.portadowntimes.co.uk
 0.0.0.0 www.portafolio.co
-0.0.0.0 www.portal-kultura.ru
 0.0.0.0 www.portal6.com.br
 0.0.0.0 www.portalanalitika.me
 0.0.0.0 www.portalcorreio.com.br
@@ -14379,10 +14020,8 @@
 0.0.0.0 www.protv.md
 0.0.0.0 www.providencejournal.com
 0.0.0.0 www.psmnews.mv
-0.0.0.0 www.psu.com
 0.0.0.0 www.ptinews.com
 0.0.0.0 www.ptv.com.pk
-0.0.0.0 www.publicdomainreview.org
 0.0.0.0 www.publicnews.com
 0.0.0.0 www.publico.es
 0.0.0.0 www.publico.pt
@@ -14394,14 +14033,12 @@
 0.0.0.0 www.publimetro.cl
 0.0.0.0 www.publimetro.com.mx
 0.0.0.0 www.publinews.gt
-0.0.0.0 www.publishersmarketplace.com
 0.0.0.0 www.puck.news
 0.0.0.0 www.pudding.cool
 0.0.0.0 www.pudhari.news
 0.0.0.0 www.puls24.at
 0.0.0.0 www.pulse.com.gh
 0.0.0.0 www.pulse.ng
-0.0.0.0 www.pulsetoday.co.uk
 0.0.0.0 www.pulsoslp.com.mx
 0.0.0.0 www.pulzo.com
 0.0.0.0 www.punchbowl.news
@@ -14411,7 +14048,6 @@
 0.0.0.0 www.punjabkesari.in
 0.0.0.0 www.puntlandpost.net
 0.0.0.0 www.purdueexponent.org
-0.0.0.0 www.purexbox.com
 0.0.0.0 www.puthiyathalaimurai.com
 0.0.0.0 www.pz-news.de
 0.0.0.0 www.pzc.nl
@@ -14440,7 +14076,6 @@
 0.0.0.0 www.quotidianodipuglia.it
 0.0.0.0 www.qz.com
 0.0.0.0 www.r7.com
-0.0.0.0 www.rabble.ca
 0.0.0.0 www.radioagricultura.cl
 0.0.0.0 www.radioamerica.hn
 0.0.0.0 www.radiofarda.com
@@ -14514,7 +14149,6 @@
 0.0.0.0 www.redandblack.com
 0.0.0.0 www.redbluffdailynews.com
 0.0.0.0 www.redding.com
-0.0.0.0 www.redgol.cl
 0.0.0.0 www.redlandsdailyfacts.com
 0.0.0.0 www.rednet.cn
 0.0.0.0 www.redstate.com
@@ -14556,6 +14190,7 @@
 0.0.0.0 www.republicain-lorrain.fr
 0.0.0.0 www.republicanherald.com
 0.0.0.0 www.republicoftogo.com
+0.0.0.0 www.republicpost.in
 0.0.0.0 www.republicworld.com
 0.0.0.0 www.republik.ch
 0.0.0.0 www.republika.co.id
@@ -14584,7 +14219,6 @@
 0.0.0.0 www.rheinpfalz.de
 0.0.0.0 www.rhodeislandcurrent.com
 0.0.0.0 www.ria.ru
-0.0.0.0 www.riazor.org
 0.0.0.0 www.richmond-news.com
 0.0.0.0 www.richmond.com
 0.0.0.0 www.ricmais.com.br
@@ -14635,7 +14269,6 @@
 0.0.0.0 www.rozanaspokesman.com
 0.0.0.0 www.rp-online.de
 0.0.0.0 www.rp.pl
-0.0.0.0 www.rpgamer.com
 0.0.0.0 www.rpp.pe
 0.0.0.0 www.rr.pt
 0.0.0.0 www.rri.co.id
@@ -14653,7 +14286,6 @@
 0.0.0.0 www.rtl.fr
 0.0.0.0 www.rtl.hu
 0.0.0.0 www.rtl.lu
-0.0.0.0 www.rtlnieuws.nl
 0.0.0.0 www.rtnk.me
 0.0.0.0 www.rtp.pt
 0.0.0.0 www.rtr.ch
@@ -14671,13 +14303,13 @@
 0.0.0.0 www.rtvoost.nl
 0.0.0.0 www.rtvslo.si
 0.0.0.0 www.rtvutrecht.nl
-0.0.0.0 www.ru.mondediplo.com
 0.0.0.0 www.rudaw.net
 0.0.0.0 www.rue20.com
 0.0.0.0 www.rue89.com
 0.0.0.0 www.rugbyadvertiser.co.uk
 0.0.0.0 www.ruhr24.de
 0.0.0.0 www.ruhrnachrichten.de
+0.0.0.0 www.ruibao.news
 0.0.0.0 www.runrun.es
 0.0.0.0 www.russ.ru
 0.0.0.0 www.russia-insider.com
@@ -14703,7 +14335,6 @@
 0.0.0.0 www.saga-s.co.jp
 0.0.0.0 www.sahanjournal.com
 0.0.0.0 www.saharareporters.com
-0.0.0.0 www.saiganak.com
 0.0.0.0 www.sakigake.jp
 0.0.0.0 www.sakshi.com
 0.0.0.0 www.salamwatandar.com
@@ -14755,7 +14386,6 @@
 0.0.0.0 www.sb.no
 0.0.0.0 www.sbs.com.au
 0.0.0.0 www.sbsun.com
-0.0.0.0 www.schoolschoolschool.com
 0.0.0.0 www.schwaebische.de
 0.0.0.0 www.schwarzwaelder-bote.de
 0.0.0.0 www.scmp.com
@@ -14775,13 +14405,11 @@
 0.0.0.0 www.sdpnoticias.com
 0.0.0.0 www.se.pl
 0.0.0.0 www.seacoastonline.com
-0.0.0.0 www.seattlemag.com
 0.0.0.0 www.seattlepi.com
 0.0.0.0 www.seattletimes.com
 0.0.0.0 www.seattletimes.nwsource.com
 0.0.0.0 www.seattleweekly.com
 0.0.0.0 www.secoloditalia.it
-0.0.0.0 www.sector.sk
 0.0.0.0 www.sedaily.com
 0.0.0.0 www.seehua.com
 0.0.0.0 www.segabg.com
@@ -14798,7 +14426,6 @@
 0.0.0.0 www.senenews.com
 0.0.0.0 www.seneplus.com
 0.0.0.0 www.seneweb.com
-0.0.0.0 www.sentientmedia.org
 0.0.0.0 www.sentinelandenterprise.com
 0.0.0.0 www.sentinelassam.com
 0.0.0.0 www.sentinelcolorado.com
@@ -14827,14 +14454,12 @@
 0.0.0.0 www.sgvtribune.com
 0.0.0.0 www.shaam.org
 0.0.0.0 www.shabiba.com
-0.0.0.0 www.shacknews.com
 0.0.0.0 www.shafaq.com
 0.0.0.0 www.shafaqna.com
 0.0.0.0 www.shamshadnews.com
 0.0.0.0 www.shamshyan.com
 0.0.0.0 www.sharghdaily.com
 0.0.0.0 www.sharjah24.ae
-0.0.0.0 www.shazoo.ru
 0.0.0.0 www.sheboyganpress.com
 0.0.0.0 www.shelbystar.com
 0.0.0.0 www.shieldsgazette.com
@@ -14859,8 +14484,6 @@
 0.0.0.0 www.signalcleveland.org
 0.0.0.0 www.signalscv.com
 0.0.0.0 www.signonsandiego.com
-0.0.0.0 www.siliconcanals.com
-0.0.0.0 www.siliconera.com
 0.0.0.0 www.siliconvalley.com
 0.0.0.0 www.silive.com
 0.0.0.0 www.sina.com
@@ -14889,7 +14512,6 @@
 0.0.0.0 www.slate.com
 0.0.0.0 www.slate.fr
 0.0.0.0 www.slaynews.com
-0.0.0.0 www.slippedisc.com
 0.0.0.0 www.slobodenpecat.mk
 0.0.0.0 www.slobodna-bosna.ba
 0.0.0.0 www.slobodnadalmacija.hr
@@ -14912,7 +14534,6 @@
 0.0.0.0 www.snacksyrian.com
 0.0.0.0 www.snn.ir
 0.0.0.0 www.snopes.com
-0.0.0.0 www.snowbrains.com
 0.0.0.0 www.snrtnews.com
 0.0.0.0 www.sntv.so
 0.0.0.0 www.sochi.mk.ru
@@ -14960,7 +14581,6 @@
 0.0.0.0 www.sozcu.com.tr
 0.0.0.0 www.spanish.news.cn
 0.0.0.0 www.spanish.people.com.cn
-0.0.0.0 www.spaziogames.it
 0.0.0.0 www.spb.mk.ru
 0.0.0.0 www.spbdnevnik.ru
 0.0.0.0 www.spbvedomosti.ru
@@ -15052,8 +14672,6 @@
 0.0.0.0 www.strana.news
 0.0.0.0 www.strana.today
 0.0.0.0 www.strategies.fr
-0.0.0.0 www.stratics.com
-0.0.0.0 www.stream.org
 0.0.0.0 www.streetpress.com
 0.0.0.0 www.stripes.com
 0.0.0.0 www.studiotamani.org
@@ -15102,7 +14720,6 @@
 0.0.0.0 www.supchina.com
 0.0.0.0 www.super.kg
 0.0.0.0 www.super.ru
-0.0.0.0 www.supercombo.gg
 0.0.0.0 www.suprabhaatham.com
 0.0.0.0 www.surreylive.news
 0.0.0.0 www.suspilne.media
@@ -15112,7 +14729,6 @@
 0.0.0.0 www.svd.se
 0.0.0.0 www.sverigesradio.se
 0.0.0.0 www.svet24.si
-0.0.0.0 www.svg.com
 0.0.0.0 www.svoboda.org
 0.0.0.0 www.svpressa.ru
 0.0.0.0 www.svt.se
@@ -15196,7 +14812,6 @@
 0.0.0.0 www.tazabek.kg
 0.0.0.0 www.tb.no
 0.0.0.0 www.tbnewswatch.com
-0.0.0.0 www.tbreak.com
 0.0.0.0 www.tbsnews.net
 0.0.0.0 www.tchadinfos.com
 0.0.0.0 www.tcpalm.com
@@ -15204,15 +14819,9 @@
 0.0.0.0 www.tdg.ch
 0.0.0.0 www.tdn.com
 0.0.0.0 www.teaonews.co.nz
-0.0.0.0 www.techhq.com
-0.0.0.0 www.techmeme.com
-0.0.0.0 www.technopolis.susu.ru
-0.0.0.0 www.techraptor.net
 0.0.0.0 www.tehelka.com
 0.0.0.0 www.tehrantimes.com
 0.0.0.0 www.tejaratnews.com
-0.0.0.0 www.tek.no
-0.0.0.0 www.tekniikkatalous.fi
 0.0.0.0 www.telanganatoday.com
 0.0.0.0 www.tele1.com.tr
 0.0.0.0 www.teleamazonas.com
@@ -15243,7 +14852,6 @@
 0.0.0.0 www.telquel.ma
 0.0.0.0 www.telugutimes.net
 0.0.0.0 www.tempo.co
-0.0.0.0 www.tempo.com
 0.0.0.0 www.tengrinews.kz
 0.0.0.0 www.tennessean.com
 0.0.0.0 www.tennesseelookout.com
@@ -15277,8 +14885,6 @@
 0.0.0.0 www.thansettakij.com
 0.0.0.0 www.thanthitv.com
 0.0.0.0 www.the-daily-record.com
-0.0.0.0 www.the-decoder.com
-0.0.0.0 www.the-decoder.de
 0.0.0.0 www.the-independent.com
 0.0.0.0 www.the-miyanichi.co.jp
 0.0.0.0 www.the-riotact.com
@@ -15369,7 +14975,6 @@
 0.0.0.0 www.theedinburghreporter.co.uk
 0.0.0.0 www.theelephant.info
 0.0.0.0 www.theepochtimes.com
-0.0.0.0 www.thefader.com
 0.0.0.0 www.thefederal.com
 0.0.0.0 www.thefederalist.com
 0.0.0.0 www.theferret.scot
@@ -15440,7 +15045,6 @@
 0.0.0.0 www.themercury.com.au
 0.0.0.0 www.themonthly.com.au
 0.0.0.0 www.themorning.lk
-0.0.0.0 www.themorningnews.org
 0.0.0.0 www.themorningsun.com
 0.0.0.0 www.themoscowtimes.com
 0.0.0.0 www.thenarwhal.ca
@@ -15508,7 +15112,6 @@
 0.0.0.0 www.theshiftnews.com
 0.0.0.0 www.theshillongtimes.com
 0.0.0.0 www.thesierraleonetelegraph.com
-0.0.0.0 www.thesixthaxis.com
 0.0.0.0 www.theskanner.com
 0.0.0.0 www.theskimm.com
 0.0.0.0 www.thesouthafrican.com
@@ -15516,7 +15119,6 @@
 0.0.0.0 www.thespec.com
 0.0.0.0 www.thespectrum.com
 0.0.0.0 www.thespinoff.co.nz
-0.0.0.0 www.thestage.co.uk
 0.0.0.0 www.thestandard.co
 0.0.0.0 www.thestandard.com.hk
 0.0.0.0 www.thestandard.org.nz
@@ -15531,6 +15133,7 @@
 0.0.0.0 www.thestkittsnevisobserver.com
 0.0.0.0 www.thestranger.com
 0.0.0.0 www.thestreet.com
+0.0.0.0 www.thestute.com
 0.0.0.0 www.thesudburystar.com
 0.0.0.0 www.thesun.co.uk
 0.0.0.0 www.thesun.ie
@@ -15559,11 +15162,11 @@
 0.0.0.0 www.thevoiceslu.com
 0.0.0.0 www.thewall.in
 0.0.0.0 www.thewalrus.ca
-0.0.0.0 www.theweather.com
 0.0.0.0 www.theweek.co.uk
 0.0.0.0 www.theweek.com
 0.0.0.0 www.theweek.in
 0.0.0.0 www.theweeklyjournal.com
+0.0.0.0 www.theweeklynews.in
 0.0.0.0 www.thewest.com.au
 0.0.0.0 www.thewestmorlandgazette.co.uk
 0.0.0.0 www.thewhig.com
@@ -15576,9 +15179,9 @@
 0.0.0.0 www.thinkbroadband.com
 0.0.0.0 www.thisdaylive.com
 0.0.0.0 www.thisisbeirut.com.lb
-0.0.0.0 www.thisisgame.com
 0.0.0.0 www.thisismoney.co.uk
 0.0.0.0 www.thmeythmey.com
+0.0.0.0 www.thueringen24.de
 0.0.0.0 www.thueringer-allgemeine.de
 0.0.0.0 www.thurgauerzeitung.ch
 0.0.0.0 www.thurrockgazette.co.uk
@@ -15591,7 +15194,6 @@
 0.0.0.0 www.tienphong.vn
 0.0.0.0 www.tijd.be
 0.0.0.0 www.time.com
-0.0.0.0 www.timeextension.com
 0.0.0.0 www.times-herald.com
 0.0.0.0 www.times-news.com
 0.0.0.0 www.times-series.co.uk
@@ -15649,7 +15251,6 @@
 0.0.0.0 www.toledoblade.com
 0.0.0.0 www.tolonews.com
 0.0.0.0 www.tomdispatch.com
-0.0.0.0 www.tomshw.it
 0.0.0.0 www.tomsk.mk.ru
 0.0.0.0 www.toonippo.co.jp
 0.0.0.0 www.top-channel.tv
@@ -15659,11 +15260,9 @@
 0.0.0.0 www.torinotoday.it
 0.0.0.0 www.torontosun.com
 0.0.0.0 www.torontotoday.ca
-0.0.0.0 www.torquenews.com
 0.0.0.0 www.tortoisemedia.com
 0.0.0.0 www.total.kz
 0.0.0.0 www.totalcar.hu
-0.0.0.0 www.tourprom.ru
 0.0.0.0 www.toutiao.com
 0.0.0.0 www.tovima.gr
 0.0.0.0 www.townhall.com
@@ -15673,9 +15272,6 @@
 0.0.0.0 www.tpi.it
 0.0.0.0 www.tpo.nl
 0.0.0.0 www.tportal.hr
-0.0.0.0 www.tradewindsnews.com
-0.0.0.0 www.traveloffpath.com
-0.0.0.0 www.travelweekly.com
 0.0.0.0 www.trend.at
 0.0.0.0 www.trend.az
 0.0.0.0 www.trend.sk
@@ -15759,7 +15355,6 @@
 0.0.0.0 www.tvanouvelles.ca
 0.0.0.0 www.tvcnews.tv
 0.0.0.0 www.tver.mk.ru
-0.0.0.0 www.tvmaze.com
 0.0.0.0 www.tvmidtvest.dk
 0.0.0.0 www.tvmnews.mt
 0.0.0.0 www.tvn-2.com
@@ -15778,7 +15373,6 @@
 0.0.0.0 www.twentyfournews.com
 0.0.0.0 www.twice.com
 0.0.0.0 www.twincities.com
-0.0.0.0 www.twinfinite.net
 0.0.0.0 www.twitchy.com
 0.0.0.0 www.twreporter.org
 0.0.0.0 www.tyden.cz
@@ -15795,7 +15389,6 @@
 0.0.0.0 www.ufa1.ru
 0.0.0.0 www.ugandaradionetwork.net
 0.0.0.0 www.ugluu.mn
-0.0.0.0 www.ugo.com
 0.0.0.0 www.ugra.mk.ru
 0.0.0.0 www.ujyaaloonline.com
 0.0.0.0 www.uk.news.yahoo.com
@@ -15813,10 +15406,8 @@
 0.0.0.0 www.ultrasawt.com
 0.0.0.0 www.ulusal.com.tr
 0.0.0.0 www.ulysmedia.kz
-0.0.0.0 www.umanity.jp
 0.0.0.0 www.una-oic.org
 0.0.0.0 www.unb.com.bd
-0.0.0.0 www.undeadly.org
 0.0.0.0 www.unherd.com
 0.0.0.0 www.unian.info
 0.0.0.0 www.unian.net
@@ -15850,7 +15441,6 @@
 0.0.0.0 www.usat.ly
 0.0.0.0 www.usatoday.com
 0.0.0.0 www.usbeketrica.com
-0.0.0.0 www.usine-digitale.fr
 0.0.0.0 www.usnews.com
 0.0.0.0 www.utahnewsdispatch.com
 0.0.0.0 www.uticaod.com
@@ -15909,10 +15499,8 @@
 0.0.0.0 www.vf.se
 0.0.0.0 www.vg.hu
 0.0.0.0 www.vg.no
-0.0.0.0 www.vg247.com
 0.0.0.0 www.vgorode.ua
 0.0.0.0 www.vgoroden.ru
-0.0.0.0 www.vgtimes.com
 0.0.0.0 www.vice.com
 0.0.0.0 www.victoriaadvocate.com
 0.0.0.0 www.vienna.at
@@ -15986,6 +15574,7 @@
 0.0.0.0 www.vremyan.ru
 0.0.0.0 www.vrn.mk.ru
 0.0.0.0 www.vrt.be
+0.0.0.0 www.vsd.fr
 0.0.0.0 www.vtcnews.vn
 0.0.0.0 www.vtdigger.org
 0.0.0.0 www.vtv.vn
@@ -16008,7 +15597,6 @@
 0.0.0.0 www.wamu.org
 0.0.0.0 www.wane.com
 0.0.0.0 www.wapt.com
-0.0.0.0 www.wargamer.com
 0.0.0.0 www.warontherocks.com
 0.0.0.0 www.warringtonguardian.co.uk
 0.0.0.0 www.wartaekonomi.co.id
@@ -16056,8 +15644,10 @@
 0.0.0.0 www.wdsu.com
 0.0.0.0 www.wealth.com.tw
 0.0.0.0 www.weartv.com
+0.0.0.0 www.weatherforddemocrat.com
 0.0.0.0 www.webdo.tn
 0.0.0.0 www.webmanagercenter.com
+0.0.0.0 www.webnews.lk
 0.0.0.0 www.webnoviny.sk
 0.0.0.0 www.webtekno.com
 0.0.0.0 www.wedge.ismedia.jp
@@ -16080,7 +15670,7 @@
 0.0.0.0 www.westhawaiitoday.com
 0.0.0.0 www.westvirginiawatch.com
 0.0.0.0 www.westword.com
-0.0.0.0 www.weszlo.com
+0.0.0.0 www.wetterauer-zeitung.de
 0.0.0.0 www.wfaa.com
 0.0.0.0 www.wfae.org
 0.0.0.0 www.wfla.com
@@ -16094,7 +15684,6 @@
 0.0.0.0 www.wgrz.com
 0.0.0.0 www.wgxa.tv
 0.0.0.0 www.whas11.com
-0.0.0.0 www.whatculture.com
 0.0.0.0 www.whatfinger.com
 0.0.0.0 www.whb.cn
 0.0.0.0 www.whio.com
@@ -16115,15 +15704,12 @@
 0.0.0.0 www.wiltshirelive.co.uk
 0.0.0.0 www.wiltshiretimes.co.uk
 0.0.0.0 www.winchesterstar.com
-0.0.0.0 www.windowsitpro.com
 0.0.0.0 www.windsorstar.com
 0.0.0.0 www.wingsoverscotland.com
 0.0.0.0 www.winknews.com
 0.0.0.0 www.winnipegfreepress.com
 0.0.0.0 www.winnipegsun.com
-0.0.0.0 www.winwin.com
 0.0.0.0 www.wionews.com
-0.0.0.0 www.wired.it
 0.0.0.0 www.wirralglobe.co.uk
 0.0.0.0 www.wisconsinexaminer.com
 0.0.0.0 www.wisconsinrapidstribune.com
@@ -16169,11 +15755,9 @@
 0.0.0.0 www.workpointtoday.com
 0.0.0.0 www.worksopguardian.co.uk
 0.0.0.0 www.worldjournal.com
-0.0.0.0 www.worldofreel.com
 0.0.0.0 www.wormser-zeitung.de
 0.0.0.0 www.wort.lu
 0.0.0.0 www.worthingherald.co.uk
-0.0.0.0 www.worthplaying.com
 0.0.0.0 www.wowt.com
 0.0.0.0 www.woz.ch
 0.0.0.0 www.wp.de
@@ -16236,10 +15820,8 @@
 0.0.0.0 www.wzzm13.com
 0.0.0.0 www.xalqqazeti.az
 0.0.0.0 www.xdkb.net
-0.0.0.0 www.xfire.com
 0.0.0.0 www.xfrb.com.cn
 0.0.0.0 www.xg9ax2jm9j.search.serialssolutions.com
-0.0.0.0 www.xgn.nl
 0.0.0.0 www.xhby.net
 0.0.0.0 www.xiancn.com
 0.0.0.0 www.xibaaru.sn
@@ -16340,6 +15922,7 @@
 0.0.0.0 www.zjol.com.cn
 0.0.0.0 www.zm3uh2fr3l.search.serialssolutions.com
 0.0.0.0 www.zman.co.il
+0.0.0.0 www.zmedia.com.tw
 0.0.0.0 www.zn.ua
 0.0.0.0 www.znaj.ua
 0.0.0.0 www.znak.com
@@ -16373,10 +15956,8 @@
 0.0.0.0 wzzm13.com
 0.0.0.0 xalqqazeti.az
 0.0.0.0 xdkb.net
-0.0.0.0 xfire.com
 0.0.0.0 xfrb.com.cn
 0.0.0.0 xg9ax2jm9j.search.serialssolutions.com
-0.0.0.0 xgn.nl
 0.0.0.0 xh.xhby.net
 0.0.0.0 xhby.net
 0.0.0.0 xiancn.com
@@ -16482,6 +16063,7 @@
 0.0.0.0 zjrb.zjol.com.cn
 0.0.0.0 zm3uh2fr3l.search.serialssolutions.com
 0.0.0.0 zman.co.il
+0.0.0.0 zmedia.com.tw
 0.0.0.0 zn.ua
 0.0.0.0 znaj.ua
 0.0.0.0 znak.com

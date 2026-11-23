@@ -4,8 +4,8 @@
 ! Homepage: https://github.com/ruairidhflint/news-blocklist
 ! License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 ! Syntax: Adblock Plus / uBlock Origin / AdGuard (||domain^)
-! Entries: 14,894
-! Last modified: 2026-11-23 11:20 UTC
+! Entries: 14,246
+! Last modified: 2026-11-23 12:19 UTC
 ! Expires: 1 day
 !
 ||021.rs^
@@ -18,7 +18,6 @@
 ||056.ua^
 ||057.ua^
 ||061.ua^
-||1001beers.bg^
 ||100komma7.lu^
 ||10news.com^
 ||10news.com.au^
@@ -55,7 +54,6 @@
 ||20min.ch^
 ||20minutes.fr^
 ||20minutos.es^
-||20wattsmagazine.com^
 ||218tv.net^
 ||21jingji.com^
 ||21news.be^
@@ -90,7 +88,6 @@
 ||26sep.net^
 ||27avril.com^
 ||29.ru^
-||2duerighe.com^
 ||2gb.com^
 ||2theadvocate.net^
 ||338canada.com^
@@ -110,9 +107,6 @@
 ||48hills.org^
 ||4bc.com.au^
 ||4bcaonline.com^
-||4gamers.co.th^
-||4gamers.com.tw^
-||4p.de^
 ||5-tv.ru^
 ||5.ua^
 ||51.ru^
@@ -171,11 +165,9 @@
 ||93.ru^
 ||964media.com^
 ||970universal.com^
-||972mag.com^
 ||985fm.ca^
 ||9news.com^
 ||9news.com.au^
-||9to5linux.com^
 ||a-pravda.ru^
 ||a-radio.net^
 ||a1on.mk^
@@ -184,7 +176,6 @@
 ||a2larm.cz^
 ||a2news.com^
 ||a2prl.fr^
-||a9vg.com^
 ||aa.com.tr^
 ||aachener-nachrichten.de^
 ||aachener-zeitung.de^
@@ -240,7 +231,6 @@
 ||abcnoticias.mx^
 ||abcnyheter.no^
 ||abctlx.com^
-||abendblatt-berlin.de^
 ||abendblatt.de^
 ||abendzeitung-muenchen.de^
 ||aberdeennews.com^
@@ -301,7 +291,6 @@
 ||adaderana.lk^
 ||adaicon.com^
 ||adalet.az^
-||adcf.org^
 ||addisadmassnews.com^
 ||addisfortune.news^
 ||addisonindependent.com^
@@ -325,13 +314,9 @@
 ||adnkronos.com^
 ||adnradio.cl^
 ||adomonline.com^
-||adoredtv.com^
 ||adressa.no^
-||adtechradar.com^
 ||advancemonticellonian.com^
 ||advantagenews.com^
-||adventure-treff.de^
-||adventuregamers.com^
 ||advertisergleam.com^
 ||advertisernews.biz^
 ||advocate-news.com^
@@ -339,7 +324,6 @@
 ||advokatwatch.dk^
 ||adygvoice.ru^
 ||aera.gr^
-||aerotechnews.com^
 ||affaritaliani.it^
 ||affarsvarlden.se^
 ||affiches.fr^
@@ -357,7 +341,6 @@
 ||africanarguments.org^
 ||africanclimatewire.org^
 ||africanews.com^
-||africanmirrorusa.com^
 ||africannewsagency.com^
 ||africapresse.com^
 ||afrik.com^
@@ -368,7 +351,6 @@
 ||aftabnews.ir^
 ||aftenbladet.no^
 ||aftenposten.no^
-||aftermath.site^
 ||afternoonvoice.com^
 ||aftonbladet.se^
 ||agara.co.jp^
@@ -387,13 +369,11 @@
 ||agendamagasin.no^
 ||agenparl.eu^
 ||agensir.it^
-||agentmodeai.com^
 ||agents.media^
 ||agenzianova.com^
 ||agerpres.ro^
 ||agi.it^
 ||agile-news.com^
-||aglanews.com^
 ||agn.gt^
 ||agniban.com^
 ||agon.gr^
@@ -417,7 +397,6 @@
 ||ahram.org.eg^
 ||ahwatukee.com^
 ||aib.media^
-||aibites.press^
 ||aidas.lt^
 ||aidas.us^
 ||aif.ru^
@@ -429,7 +408,6 @@
 ||aip.ci^
 ||air-cosmos.com^
 ||airforcetimes.com^
-||airwaysmag.com^
 ||aisnenouvelle.fr^
 ||aistockwire.com^
 ||ait-online.de^
@@ -542,7 +520,6 @@
 ||albawabhnews.com^
 ||albayan.ae^
 ||albayane.press.ma^
-||albconnection.com^
 ||albertleatribune.com^
 ||albiladpress.com^
 ||albionmonitor.com^
@@ -584,7 +561,6 @@
 ||alibi.com^
 ||aliceechonews.com^
 ||alicenow.com.au^
-||aliennews.co.il^
 ||alikonline.ir^
 ||alingsastidning.se^
 ||alithia.com.cy^
@@ -727,11 +703,9 @@
 ||ambebi.ge^
 ||ambito.com^
 ||amc215.com^
-||amednews.com^
 ||ameliarueda.com^
 ||amennews.com^
 ||amensagem.pt^
-||america-mag.com^
 ||americaeconomia.com^
 ||americanbanker.com^
 ||americancanyoneagle.com^
@@ -742,7 +716,6 @@
 ||americanomedia.com^
 ||americanpress.com^
 ||americanthinker.com^
-||americanwineryguide.com^
 ||americaoutloud.news^
 ||americustimesrecorder.com^
 ||amerika21.de^
@@ -881,7 +854,6 @@
 ||apnews.com^
 ||apollo-news.net^
 ||apollo.lv^
-||aponet.de^
 ||apostrophe.ua^
 ||app.com^
 ||app.com.pk^
@@ -925,14 +897,12 @@
 ||archdaily.cl^
 ||archdaily.cn^
 ||archdaily.com.br^
-||archiletras.com^
 ||archives.yvelines.fr^
 ||archpaper.com^
 ||arcinfo.ch^
 ||arctimes.com^
 ||ardmoreite.com^
 ||ardrossanherald.com^
-||areagames.de^
 ||areanewsgroup.com^
 ||aredacao.com.br^
 ||arenadodinheiro.com.br^
@@ -948,7 +918,6 @@
 ||argusobserver.com^
 ||arguspers.nl^
 ||ariananews.af^
-||ariase.com^
 ||aripaev.ee^
 ||arise.tv^
 ||aristeguinoticias.com^
@@ -972,10 +941,8 @@
 ||aroundosceola.com^
 ||aroundprague.cz^
 ||arranbanner.co.uk^
-||arretsurimages.net^
 ||arstadposten.no^
 ||arsvest.ru^
-||arte.it^
 ||arthasarokar.com^
 ||article-14.com^
 ||articulo14.es^
@@ -1037,7 +1004,6 @@
 ||assamtribune.com^
 ||assawsana.com^
 ||assayha.net^
-||assignmentx.com^
 ||association-rodina.ru^
 ||astaga.co^
 ||astanatimes.com^
@@ -1064,7 +1030,6 @@
 ||athensohiotoday.com^
 ||athensreview.com^
 ||athensvoice.gr^
-||athleticsindia.com^
 ||atholdailynews.com^
 ||atinitonews.com^
 ||atlantablackstar.com^
@@ -1109,9 +1074,7 @@
 ||austinchronicle.com^
 ||austindailyherald.com^
 ||austinmonitor.com^
-||australiangamer.com^
 ||authorityngr.com^
-||automaton-media.com^
 ||autonomija.info^
 ||av-avis.no^
 ||av.pl.ua^
@@ -1145,29 +1108,24 @@
 ||avozdetrasosmontes.pt^
 ||avozdevilalba.gal^
 ||avpress.com^
-||avsim.com^
 ||avtimes.net^
 ||avvenire.it^
 ||avvenirelavoratori.eu^
 ||avvir.no^
 ||awamiawaz.com^
-||awardswatch.com^
 ||awate.com^
 ||awedis.ormianie.pl^
 ||awemainta.com^
-||awfulannouncing.com^
 ||awokonewspapersl.com^
 ||awp.ch^
 ||awp.is^
 ||axar.az^
 ||axios.com^
 ||axynewsglobal.com^
-||axyo.de^
 ||aydinlik.com.tr^
 ||aydinlikgazete.com^
 ||ayibopost.com^
 ||aysor.am^
-||ayther.fr^
 ||az-landshut.de^
 ||az-online.de^
 ||az.com.na^
@@ -1212,7 +1170,6 @@
 ||babushahi.com^
 ||bacauexpress.ro^
 ||baccinoticias.com.br^
-||backily.com^
 ||badaladas.pt^
 ||badalnovas.com^
 ||baden24.de^
@@ -1265,7 +1222,6 @@
 ||bancaynegocios.com^
 ||bancroftthisweek.com^
 ||band.uol.com.br^
-||bandaancha.eu^
 ||bandab.com.br^
 ||bandao.cn^
 ||bandera.org^
@@ -1329,12 +1285,9 @@
 ||bastropenterprise.com^
 ||batesstudent.com^
 ||bathchronicle.co.uk^
-||batiactu.com^
 ||batimes.com.ar^
 ||batonrougesource.com^
 ||battlecreekenquirer.com^
-||bauernzeitung.ch^
-||bauernzeitung.de^
 ||bavisa.no^
 ||baxterbulletin.com^
 ||bayanealyaoume.press.ma^
@@ -1388,7 +1341,6 @@
 ||beedreporter.com^
 ||beeld.co.za^
 ||beenews.com^
-||behindwoods.com^
 ||beijingreview.com.cn^
 ||bel.ru^
 ||belaruspartisan.org^
@@ -1399,7 +1351,6 @@
 ||belganewsagency.eu^
 ||belgienu.be^
 ||belgrade-news.com^
-||belhalat.news^
 ||belizetimes.bz^
 ||bellacaledonia.org.uk^
 ||bellingcat.com^
@@ -1439,7 +1390,6 @@
 ||berkeleybarb.net^
 ||berkeleydailyplanet.com^
 ||berkeleyside.org^
-||berksconnect.com^
 ||berkshireeagle.com^
 ||berlin-live.de^
 ||berlin247.net^
@@ -1463,7 +1413,6 @@
 ||besheva.co.il^
 ||bestofneworleans.com^
 ||beta.rs^
-||betakit.com^
 ||bethanyclipper.com^
 ||beto.cd^
 ||betootaadvocate.com^
@@ -1473,7 +1422,6 @@
 ||beverlyweekly.com^
 ||bewusst.tv^
 ||beyazgazete.com^
-||beyondparadiseadventures.com^
 ||beznen.ru^
 ||bfm.ru^
 ||bfmtv.com^
@@ -1505,7 +1453,6 @@
 ||bielbienne.com^
 ||bielertagblatt.ch^
 ||bienpublic.com^
-||biernet.nl^
 ||big-rostov.ru^
 ||bigbeargrizzly.net^
 ||bigbearsource.com^
@@ -1541,8 +1488,6 @@
 ||bisnis.com^
 ||biss-magazin.de^
 ||bit.me^
-||bitcoinbasis.de^
-||bitcultures.com^
 ||bitterrootstar.com^
 ||bivol.bg^
 ||biz.sbs.co.kr^
@@ -1562,7 +1507,6 @@
 ||bjnews.com.cn^
 ||bjorklovet.com^
 ||bjreview.com^
-||bkmedia.cn^
 ||bkz.de^
 ||blackagendareport.com^
 ||blackchronicle.com^
@@ -1585,7 +1529,6 @@
 ||blic.rs^
 ||blick-aktuell.de^
 ||blick.ch^
-||blick.de^
 ||blikk.hu^
 ||blikopnieuws.nl^
 ||bliteoc.com^
@@ -1611,7 +1554,6 @@
 ||bluemountaineagle.com^
 ||blueprint.ng^
 ||blueridgenow.com^
-||bluesci.org^
 ||blufftonicon.com^
 ||blufftontoday.com^
 ||bluradio.com^
@@ -1632,7 +1574,6 @@
 ||bnps.co.uk^
 ||bnr.bg^
 ||bnr.nl^
-||bns-news.com^
 ||bns.ee^
 ||bns.lt^
 ||bns.lv^
@@ -1642,7 +1583,6 @@
 ||bobruisk.ru^
 ||bocabeacon.com^
 ||bocojo.com^
-||boerenbusiness.nl^
 ||boersen-kurier.at^
 ||boersen-zeitung.de^
 ||bohemian.com^
@@ -1652,7 +1592,6 @@
 ||bok365.no^
 ||bokra.net^
 ||boktugg.se^
-||bolavip.com^
 ||boliviaverifica.bo^
 ||bollettinosalesiano.it^
 ||bolnews.com^
@@ -1664,8 +1603,6 @@
 ||bomboradyo.com^
 ||bomlo-nytt.no^
 ||bon.tv^
-||bondbuyer.com^
-||bondebladet.no^
 ||bondia.ad^
 ||bondia.com^
 ||bonginoreport.com^
@@ -1678,7 +1615,6 @@
 ||boonesource.com^
 ||boonevilledemocrat.com^
 ||boonvilledailynews.com^
-||booska-p.com^
 ||borba.me^
 ||bordeaux7.com^
 ||borderlandbeat.com^
@@ -1772,7 +1708,6 @@
 ||bristolpost.co.uk^
 ||bristolpress.com^
 ||bristolworld.com^
-||britishpathe.com^
 ||brivalatvija.lv^
 ||brnow.org^
 ||broadsideonline.com^
@@ -1808,7 +1743,6 @@
 ||bt.se^
 ||bt2ha9xt3y.search.serialssolutions.com^
 ||bta.bg^
-||btc-echo.de^
 ||btvnovinite.bg^
 ||bucchake-housing.co.jp^
 ||buckinghamshirelive.com^
@@ -1828,7 +1762,6 @@
 ||buffalobeast.com^
 ||buffalonews.com^
 ||buglenewspapers.com^
-||buildersinfintech.ai^
 ||bukamatanews.id^
 ||bukedde.co.ug^
 ||bukhariantimes.org^
@@ -1952,14 +1885,12 @@
 ||caixinglobal.com^
 ||calaverasenterprise.com^
 ||calcalist.co.il^
-||calcalistech.com^
 ||calcuttagazette.com^
 ||caledonianrecord.com^
 ||calexicochronicle.com^
 ||calgarycitizen.com^
 ||calgaryherald.com^
 ||calgarysun.com^
-||calgarytechjournal.com^
 ||calhealthreport.org^
 ||caliber.az^
 ||californiademocrat.com^
@@ -2014,7 +1945,6 @@
 ||cancha.com^
 ||cand.com.vn^
 ||caninsesi.com.tr^
-||caniplaythat.com^
 ||cankaoxiaoxi.com^
 ||canmoreleader.com^
 ||cannarias.net^
@@ -2030,7 +1960,6 @@
 ||capecodtimes.com^
 ||capecoralsource.com^
 ||capegazette.com^
-||capeia.com^
 ||capemaytimes.com^
 ||capenews.net^
 ||capilanocourier.com^
@@ -2147,7 +2076,6 @@
 ||cdsb.com^
 ||cdt.ch^
 ||ce.cn^
-||cecam.org^
 ||cecildaily.com^
 ||cedarstreettimes.com^
 ||ceh.com.cn^
@@ -2163,7 +2091,6 @@
 ||centredaily.com^
 ||centrepresseaveyron.fr^
 ||cenzolovka.rs^
-||ceowire.co^
 ||cequilfautdetruire.org^
 ||cerescourier.com^
 ||ceskenoviny.cz^
@@ -2214,7 +2141,6 @@
 ||chattahoocheenews.com^
 ||chausynews.by^
 ||chayka.lv^
-||cheapassgamer.com^
 ||cheboygannews.com^
 ||checherskivestnik.by^
 ||checkyourfact.com^
@@ -2283,7 +2209,6 @@
 ||chosonsinbo.com^
 ||chosun.com^
 ||chouftv.ma^
-||christcenteredgamer.com^
 ||christianpost.com^
 ||christiantoday.co.jp^
 ||christiantoday.com^
@@ -2301,7 +2226,6 @@
 ||chronline.com^
 ||chronotype.com^
 ||chuala.me^
-||chuapp.com^
 ||chugoku-np.co.jp^
 ||chulavistasource.com^
 ||chungfadaily.com^
@@ -2315,15 +2239,12 @@
 ||cicero.de^
 ||cidadeverde.com^
 ||cimac.org.mx^
-||cin.ba^
 ||cincinnati.com^
 ||cincodias.com^
 ||cinecittanews.it^
-||cinescape.com^
 ||cink.hu^
 ||ciociariaoggi.it^
 ||ciperchile.cl^
-||circleid.com^
 ||circoloinvestitori.it^
 ||circuit.news^
 ||citibusinessnews.com^
@@ -2354,13 +2275,11 @@
 ||citypaper.com^
 ||citypress.co.za^
 ||citypress.gr^
-||cityvillagenews.com^
 ||cityweekly.net^
 ||ciudadccs.info^
 ||ciudadderosario.com^
 ||civil.ge^
 ||civilbeat.org^
-||civileats.com^
 ||civilmedia.mk^
 ||civilnet.am^
 ||cjn.org^
@@ -2381,7 +2300,6 @@
 ||clarkcountypublishing.com^
 ||clarkecountydemocrat.com^
 ||clarkecountytrib.com^
-||classicgameroom.com^
 ||classmag.ru^
 ||claxtonenterprise.com^
 ||claycountyprogress.com^
@@ -2460,7 +2378,6 @@
 ||coconuts.co^
 ||codigocero.com^
 ||coffscoastadvocate.com.au^
-||cogconnected.com^
 ||coinagemag.com^
 ||coinex-farsi.com^
 ||coinworld.com^
@@ -2497,9 +2414,7 @@
 ||columbustelegram.com^
 ||come-on.de^
 ||comercioyjusticia.info^
-||comhar.ie^
 ||comillarkagoj.com^
-||commentaire.fr^
 ||commentary.org^
 ||comments.ua^
 ||commercial-news.com^
@@ -2511,7 +2426,6 @@
 ||commonwealthtimes.org^
 ||commsupdate.com^
 ||communa.ru^
-||community.lambdageneration.com^
 ||communityadvocate.com^
 ||communityimpact.com^
 ||communityvoiceks.com^
@@ -2520,7 +2434,6 @@
 ||compactmag.com^
 ||compassnewspaper.com.ng^
 ||computerworld.dk^
-||computerworld.pl^
 ||con-telegraph.ie^
 ||concordiensis.com^
 ||concordmonitor.com^
@@ -2542,8 +2455,6 @@
 ||conservativereview.com^
 ||conservativewoman.co.uk^
 ||consortiumnews.com^
-||constructiondive.com^
-||constructionequipment.com^
 ||contacto.lu^
 ||contagionlive.com^
 ||context.ro^
@@ -2559,7 +2470,6 @@
 ||contraste.org^
 ||contre-attaque.net^
 ||contrepoints.org^
-||control-online.nl^
 ||controverses.fr^
 ||convertingmagazine.com^
 ||convoca.pe^
@@ -2575,7 +2485,6 @@
 ||coppercourier.com^
 ||corbeaunews-centrafrique.org^
 ||cordeledispatch.com^
-||coretechdaily.com^
 ||corkbeo.ie^
 ||corkindependent.com^
 ||corkman.ie^
@@ -2600,7 +2509,6 @@
 ||corriere.it^
 ||corriereadriatico.it^
 ||corrierearetino.it^
-||corrieredellascienza.it^
 ||corrieredelveneto.it^
 ||corrieredisiena.it^
 ||corriereempolese.it^
@@ -2666,7 +2574,6 @@
 ||cravenherald.co.uk^
 ||crc891.com^
 ||creativeloafing.com^
-||creators.com^
 ||crestedbuttenews.com^
 ||cretalive.gr^
 ||crewechronicle.co.uk^
@@ -2677,7 +2584,6 @@
 ||crimeapress.info^
 ||crimetimesusa.com^
 ||crimeworld.com^
-||criptovaluta.it^
 ||criterio.hn^
 ||criteriohidalgo.com^
 ||critica-online.de^
@@ -2705,9 +2611,7 @@
 ||crusoe.com.br^
 ||cruwsible.com.au^
 ||cruxnow.com^
-||cryptotimes.io^
 ||cs.com.cn^
-||cs3news.org^
 ||csbj.com^
 ||csemag.com^
 ||csmonitor.com^
@@ -2741,7 +2645,6 @@
 ||cuindependent.org^
 ||cullmantimes.com^
 ||cultmontreal.com^
-||culturefix.co.uk^
 ||culturu.com^
 ||culvercityobserver.com^
 ||cumberlandnewsnow.com^
@@ -2767,7 +2670,6 @@
 ||cvlpress.ro^
 ||cw.com.tw^
 ||cwherald.com^
-||cyberinsider.com^
 ||cyol.com^
 ||cyprus-mail.com^
 ||cyrustimes.com^
@@ -2792,9 +2694,7 @@
 ||dagensit.no^
 ||dagensjuridik.se^
 ||dagensmedia.se^
-||dagensmedicin.dk^
 ||dagensmedicin.se^
-||dagensmedisin.no^
 ||dagensopinion.se^
 ||dagensperspektiv.no^
 ||dagensps.se^
@@ -2845,7 +2745,6 @@
 ||dailydem.com^
 ||dailydemocrat.com^
 ||dailydesherkatha.com^
-||dailydetectivenews.com^
 ||dailydispatch.co.za^
 ||dailyecho.co.uk^
 ||dailyemerald.com^
@@ -2903,7 +2802,6 @@
 ||dailynewsegypt.com^
 ||dailynewstranscript.com^
 ||dailynewstribune.com^
-||dailynewsvoyage.com^
 ||dailynexus.com^
 ||dailynigerian.com^
 ||dailynk.com^
@@ -2911,7 +2809,6 @@
 ||dailyorange.com^
 ||dailypakistan.com.pk^
 ||dailypencil.com^
-||dailypharm.com^
 ||dailypilot.com^
 ||dailypioneer.com^
 ||dailypost.co.uk^
@@ -2947,7 +2844,6 @@
 ||dailysun.co.za^
 ||dailytargum.com^
 ||dailytarheel.com^
-||dailytelefrag.ru^
 ||dailytelegraph.com.au^
 ||dailytexanonline.com^
 ||dailythanthi.com^
@@ -3008,8 +2904,6 @@
 ||dantri.com.vn^
 ||danviet.vn^
 ||dap-news.com^
-||daraj.com^
-||daraj.media^
 ||darientimes.com^
 ||darlingtonandstocktontimes.co.uk^
 ||dartreview.com^
@@ -3017,8 +2911,6 @@
 ||das-parlament.de^
 ||dasecho.com^
 ||dasgelbeblatt.de^
-||dasklapptsonicht.de^
-||daswetter.com^
 ||datacameroon.com^
 ||datadista.com^
 ||datanoticias.com^
@@ -3048,7 +2940,6 @@
 ||dcnews.ro^
 ||dcourier.com^
 ||dcreport.org^
-||dday.it^
 ||dddkursk.ru^
 ||de.helvetica.today^
 ||de.herald.christianscience.com^
@@ -3059,7 +2950,6 @@
 ||deccanchronicle.com^
 ||deccanherald.com^
 ||declassifieduk.org^
-||decorrespondent.nl^
 ||deduktif.id^
 ||deebsmagazine.com^
 ||deepika.com^
@@ -3112,13 +3002,11 @@
 ||demokraatti.fi^
 ||demokracija.si^
 ||demokrata.hu^
-||demonews.de^
 ||demopolistimes.com^
 ||demorgen.be^
 ||dempa-digital.com^
 ||dempa-times.co.jp^
 ||den-svenske.com^
-||dengekionline.com^
 ||denik.cz^
 ||denikalarm.cz^
 ||denikn.cz^
@@ -3334,12 +3222,8 @@
 ||digar.ee^
 ||digboston.com^
 ||diggers.news^
-||digi.no^
 ||digi24.ro^
 ||digital.izu-np.co.jp^
-||digitallydownloaded.net^
-||digitalna.nsk.hr^
-||digitalspy.co.uk^
 ||dikaiologitika.gr^
 ||diken.com.tr^
 ||dillsburgbanner.net^
@@ -3359,7 +3243,6 @@
 ||direkt36.hu^
 ||direkteaktion.org^
 ||direktno.hr^
-||dishnation.com^
 ||dispatch.co.kr^
 ||dispatch.com^
 ||dispatchlive.co.za^
@@ -3377,7 +3260,6 @@
 ||djcoregon.com^
 ||djournal.com^
 ||dl-online.com^
-||dlh.net^
 ||dlib.si^
 ||dmcityview.com^
 ||dn.no^
@@ -3443,8 +3325,6 @@
 ||donya-e-eqtesad.com^
 ||doorcountyadvocate.com^
 ||dordognelibre.fr^
-||dorfheftli.ch^
-||dormogodomotor.hu^
 ||dorsetecho.co.uk^
 ||dorzeczy.pl^
 ||dosie102.te.ua^
@@ -3464,8 +3344,6 @@
 ||dowagiacnews.com^
 ||downtownexpress.com^
 ||downtownnews.com^
-||doxa.team^
-||doxajournal.ru^
 ||dp.ru^
 ||dpa-afx.de^
 ||dpa.com^
@@ -3477,7 +3355,6 @@
 ||drawmedia.net^
 ||draytonvalleywesternreview.com^
 ||dreptatea.ro^
-||drf.com^
 ||driffieldtoday.co.uk^
 ||driva.no^
 ||drm24.no^
@@ -3485,7 +3362,6 @@
 ||drogheda-independent.ie^
 ||droghedaleader.ie^
 ||drogobych.com^
-||droid-life.com^
 ||drome-hebdo.fr^
 ||drone.jp^
 ||dropsitenews.com^
@@ -3499,7 +3375,6 @@
 ||dt.ua^
 ||dts-nachrichtenagentur.de^
 ||dtv.walla.co.il^
-||dualshockers.com^
 ||dubai.news^
 ||dubawa.org^
 ||dublinlive.ie^
@@ -3594,10 +3469,8 @@
 ||eastmojo.com^
 ||eastoregonian.com^
 ||eastvalleytribune.com^
-||easyallies.com^
 ||easyreadernews.com^
 ||eatnews.net^
-||eb.live^
 ||ebar.com^
 ||ebc.et^
 ||ebela.in^
@@ -3616,7 +3489,6 @@
 ||echoancenis.fr^
 ||echodnia.eu^
 ||echoduberry.fr^
-||echofm.online^
 ||echolive.ie^
 ||echoofarunachal.in^
 ||echoroukonline.com^
@@ -3657,16 +3529,12 @@
 ||edebiyyatqazeti.az^
 ||edinburghlive.co.uk^
 ||edition.mv^
-||editionarabediplo.com^
 ||editorialedomani.it^
 ||edmondsbeacon.com^
 ||edmondsun.com^
 ||edmontonexaminer.com^
 ||edmontonjournal.com^
 ||edmontonsun.com^
-||edn.com^
-||ednmag.com^
-||ednnews-12.com^
 ||edp24.co.uk^
 ||edsonleader.com^
 ||edsource.org^
@@ -3677,7 +3545,6 @@
 ||eeo.com.cn^
 ||efe.com^
 ||efectococuyo.com^
-||effectstory.com^
 ||effinghamdailynews.com^
 ||efsyn.gr^
 ||eg-online.ru^
@@ -3686,7 +3553,6 @@
 ||egemen.kz^
 ||eghtesadnews.com^
 ||eghtesadonline.com^
-||egmnow.com^
 ||egyptianstreets.com^
 ||egyptindependent.com^
 ||egypttoday.com^
@@ -3697,8 +3563,6 @@
 ||eikerbladet.no^
 ||eilandennieuws.nl^
 ||einayim.com^
-||einfach-tasty.de^
-||einsiedleranzeiger.ch^
 ||eisamay.com^
 ||eitb.eus^
 ||eitb.tv^
@@ -3743,7 +3607,6 @@
 ||elbassair.dz^
 ||elbe-weser-kurier.de^
 ||elbilad.net^
-||elbocon.pe^
 ||elbogotano.com.co^
 ||elbuho.pe^
 ||elcajonsource.com^
@@ -3798,7 +3661,6 @@
 ||eldictamen.mx^
 ||eldinamo.cl^
 ||eldinero.com.do^
-||eldiplo.org^
 ||eldjoumhouria.dz^
 ||eldoce.tv^
 ||eldoradonews.com^
@@ -3808,6 +3670,7 @@
 ||eleconomista.es^
 ||electronicintifada.net^
 ||electronictradinghub.com^
+||elecuanime.com^
 ||eleditorplatense.com.ar^
 ||eleftherostypos.gr^
 ||elektra.elektroteknolog.se^
@@ -3817,7 +3680,6 @@
 ||elespectador.com^
 ||elestimulo.com^
 ||eletestudomany.hu^
-||eletric-vehicles.com^
 ||elevenmyanmar.com^
 ||elfagr.org^
 ||elfalconiano.com^
@@ -3910,7 +3772,6 @@
 ||elpais.com^
 ||elpais.com.co^
 ||elpais.com.uy^
-||elpaisfinanciero.com^
 ||elpasotimes.com^
 ||elpatagonico.net^
 ||elperiodico.cat^
@@ -4022,9 +3883,7 @@
 ||emarathwadaneta.com^
 ||embarcaderomediagroup.com^
 ||emedia.sn^
-||emerce.nl^
 ||emerging-europe.com^
-||emergingtravel.news^
 ||emess.co.il^
 ||emet73.ru^
 ||emirates247.com^
@@ -4048,8 +3907,6 @@
 ||enavabharat.com^
 ||enca.com^
 ||encyclopediasindhiana.org^
-||endpoints.studio^
-||endpts.com^
 ||energi24.no^
 ||energybulletin.net^
 ||energybulletin.org^
@@ -4062,7 +3919,6 @@
 ||enfoquenayarit.com^
 ||eng.chinamil.com.cn^
 ||eng.lsm.lv^
-||engevitynews.com^
 ||english.pnn.ps^
 ||enhorningen.net^
 ||enidnews.com^
@@ -4077,7 +3933,6 @@
 ||ensegundos.com.pa^
 ||ensegundos.do^
 ||ensonhaber.com^
-||entarabi.com^
 ||entekhab.ir^
 ||enterprise-journal.com^
 ||enterprise.press^
@@ -4086,7 +3941,6 @@
 ||enterprisepub.com^
 ||enterprisepublications.com^
 ||entomologytoday.org^
-||entreemagazine.nl^
 ||eons.fr^
 ||epa.eu^
 ||epaper.appenzeller-volksfreund.ch^
@@ -4110,7 +3964,6 @@
 ||epaper.tianjinwe.com^
 ||epaperhimalayadarpan.com^
 ||epd.de^
-||epdaily.tv^
 ||epe.es^
 ||epgn.com^
 ||epicenter.bg^
@@ -4118,7 +3971,6 @@
 ||epigram.org.uk^
 ||epiteszforum.hu^
 ||epl.ee^
-||epn.tv^
 ||epocanegocios.globo.com^
 ||epoch.org.il^
 ||epochtimes.co.il^
@@ -4189,7 +4041,6 @@
 ||etc.se^
 ||etela.com^
 ||etemadnewspaper.ir^
-||eternia.fr^
 ||ethiopia-insight.com^
 ||ethiopianreporter.com^
 ||ethiopiaobserver.com^
@@ -4206,16 +4057,12 @@
 ||eub.no^
 ||eugenedailynews.com^
 ||eugeneweekly.com^
-||eujacksonville.com^
 ||euobserver.com^
 ||euractiv.com^
 ||eurasianet.org^
 ||euro.cz^
 ||euro2day.gr^
-||eurogamer.es^
-||eurogamer.pl^
 ||eurointegration.com.ua^
-||euromag.ru^
 ||euromaidanpress.com^
 ||euronews.al^
 ||euronews.com^
@@ -4253,7 +4100,6 @@
 ||eveningtimes.co.uk^
 ||eveningtribune.com^
 ||eventsinfocus.org^
-||everyeye.it^
 ||everythinggp.com^
 ||everythreeweekly.com^
 ||eviathema.eu^
@@ -4281,14 +4127,12 @@
 ||excal.on.ca^
 ||excelsior.com.mx^
 ||exclusive.kz^
-||exclusivelygames.com^
 ||executivedigest.sapo.pt^
 ||exepose.com^
 ||exit.al^
 ||exitosanoticias.pe^
 ||exmoo.com^
 ||exmouthjournal.co.uk^
-||exp.de^
 ||expansao.co.ao^
 ||expansion.com^
 ||expansion.mx^
@@ -4330,7 +4174,6 @@
 ||eyeradio.org^
 ||eyesnews.cn^
 ||ezerzeme.lv^
-||ezredveg.hu^
 ||f-b.no^
 ||f1wm.pl^
 ||fabsmag.com^
@@ -4372,12 +4215,9 @@
 ||fanabc.com^
 ||fanamc.com^
 ||fanaposten.no^
-||fandomwire.com^
-||fandomwiremarketing.com^
 ||fanpage.it^
 ||fararu.com^
 ||farmer.com.cn^
-||farmpresstheme.com^
 ||farmvilleherald.com^
 ||farnhamherald.com^
 ||farodevigo.es^
@@ -4441,8 +4281,6 @@
 ||fidelio.hu^
 ||fides.org^
 ||fier-panda.fr^
-||fiercehealthcare.com^
-||fiercepharma.com^
 ||fifetoday.co.uk^
 ||fiftyfifty-galerie.de^
 ||figaroscope.fr^
@@ -4451,7 +4289,6 @@
 ||fijitimes.com^
 ||fijivillage.com^
 ||filipinoreporter.us^
-||filmdaily.co^
 ||filodimos.gr^
 ||filosofisksupplement.no^
 ||filternyheter.no^
@@ -4459,9 +4296,7 @@
 ||finance-commerce.com^
 ||finance.si^
 ||finance.sina.com.cn^
-||finance.ua^
 ||finance.yahoo.com^
-||financialadvsr.com^
 ||financialexpress.com^
 ||financialmirror.com^
 ||financialnews.com.cn^
@@ -4482,7 +4317,6 @@
 ||finnmarksposten.no^
 ||finnvalleyvoice.com^
 ||finsktidskrift.fi^
-||finwire.pl^
 ||fip.am^
 ||firda.no^
 ||firdaposten.no^
@@ -4512,14 +4346,11 @@
 ||flatheadbeacon.com^
 ||flatoday.com^
 ||flauntweekly.com^
-||flayrah.com^
 ||fleetwoodtoday.co.uk^
 ||flensborg-avis.de^
 ||flensburgjournal.de^
 ||flevopost.nl^
-||flightsim.com^
 ||flintas.lt^
-||flintside.com^
 ||flipboard.com^
 ||flippinonline.com^
 ||flkeysnews.com^
@@ -4543,7 +4374,6 @@
 ||focusnewspaper.com^
 ||focustaiwan.tw^
 ||focusvif.be^
-||fodevarewatch.dk^
 ||foinse.ie^
 ||fokus.media.pl^
 ||fokus.mk^
@@ -4557,21 +4387,17 @@
 ||folhapress.com.br^
 ||folhavitoria.com.br^
 ||folioweekly.com^
-||foljeton.dk^
 ||folk-rovere.org^
 ||folkbladet.nu^
 ||folkbladet.se^
-||folkculture.in^
 ||folkebladet.no^
 ||folketidende.dk^
 ||folsomtelegraph.com^
-||fomos.kr^
 ||fondukraine.com^
 ||fonikastorias.gr^
 ||fontanaheraldnews.com^
 ||fontanasource.com^
 ||fontanka.ru^
-||foochia.com^
 ||forbes.com^
 ||forbes.com.br^
 ||forbes.com.mx^
@@ -4596,7 +4422,6 @@
 ||fortbendstar.com^
 ||fortmacleodgazette.com^
 ||fortmorgantimes.com^
-||fortressofsolitude.co.za^
 ||fortsaskatchewanrecord.com^
 ||fortuna-gazeta.com.ua^
 ||fortune.com^
@@ -4667,7 +4492,6 @@
 ||francesoir.fr^
 ||francetvinfo.fr^
 ||franchisetimes.com^
-||frandroid.com^
 ||frankenpost.de^
 ||franklincountytimes.com^
 ||franklinsun.com^
@@ -4703,7 +4527,6 @@
 ||frettabladid.is^
 ||friatider.se^
 ||fridae.asia^
-||friday.com.ua^
 ||fridolin.ch^
 ||friends.politica.media^
 ||frieschdagblad.nl^
@@ -4758,7 +4581,6 @@
 ||furtherafrica.com^
 ||futuremedway.co.uk^
 ||futuresmag.com^
-||futurity.org^
 ||fuw.ch^
 ||fvcurrent.com^
 ||fvn.no^
@@ -4774,7 +4596,6 @@
 ||gabonmediatime.com^
 ||gabonreview.com^
 ||gaboteur.ca^
-||gadgeek.in^
 ||gadsdenmessenger.com^
 ||gadsdentimes.com^
 ||gaeta.it^
@@ -4797,55 +4618,6 @@
 ||galwaybeo.ie^
 ||galwaydaily.com^
 ||galychyna.if.ua^
-||gamaxx.de^
-||gamazine.de^
-||game-revolution.com^
-||gameblog.fr^
-||gamecaptain.de^
-||gamecrate.com^
-||gamedaily.biz^
-||gamegrin.com^
-||gameguru.ru^
-||gameign.com^
-||gameindustry.com^
-||gameishard.gg^
-||gamekult.com^
-||gamemag.ru^
-||gamemeca.com^
-||gameplanet.co.nz^
-||gameplanet.com.au^
-||gamepressure.com^
-||gamepro.de^
-||gamequarter.be^
-||gamer.no^
-||gameradio.de^
-||gameranx.com^
-||gamerbraves.com^
-||gamercafe.cl^
-||gamereactor.se^
-||gamerevolution.com^
-||gamergen.com^
-||gamers.de^
-||gamersglobal.de^
-||games.ch^
-||games.gg^
-||games.tiscali.cz^
-||gamesaktuell.de^
-||gamesbeat.com^
-||gamesfire.at^
-||gameskinny.com^
-||gamesmania.de^
-||gamespark.jp^
-||gamespew.com^
-||gamestm.co.uk^
-||gameswelt.at^
-||gameswelt.ch^
-||gameswelt.de^
-||gamewatcher.com^
-||gamezebo.com^
-||gamezombie.tv^
-||gamezoom.net^
-||gamigo.de^
 ||gammag.com^
 ||ganaadhikar.com^
 ||ganadabi.com^
@@ -4858,13 +4630,11 @@
 ||ganto.co^
 ||gants.by^
 ||garadvest.by^
-||garfieldmagazin.hu^
 ||garhwalpost.in^
 ||garnett-ks.com^
 ||garoweonline.com^
 ||gasteizhoy.com^
 ||gastongazette.com^
-||gastroendonews.com^
 ||gat.no^
 ||gatchina-news.ru^
 ||gateway.thedigitel.com^
@@ -4873,7 +4643,6 @@
 ||gauchazh.clicrbs.com.br^
 ||gauchebdo.ch^
 ||gaudie.co.uk^
-||gauteng.news^
 ||gaycitynews.com^
 ||gaynews.nl^
 ||gaynewsnetwork.com.au^
@@ -4954,7 +4723,6 @@
 ||gbnews.com^
 ||gcn.ie^
 ||gcnewsgazette.com^
-||gcores.com^
 ||gctelegram.com^
 ||gd.no^
 ||gd.se^
@@ -4969,16 +4737,13 @@
 ||geenstijl.nl^
 ||gehoerlosenzeitung.de^
 ||gelderlander.nl^
-||gematsu.com^
 ||gemercan.sk^
 ||geminigrafica.it^
 ||gendai.media^
 ||genderindetail.org.ua^
-||generation-nintendo.com^
 ||geneticliteracyproject.org^
 ||genevasolutions.news^
 ||gentenaar.be^
-||genztech.blog^
 ||geo.tv^
 ||geopoliticalfutures.com^
 ||georgetowner.com^
@@ -4989,14 +4754,12 @@
 ||georgiatoday.ge^
 ||geotimes.ge^
 ||gestion.pe^
-||getcarnews.com^
 ||getmagnet.com^
 ||getreading.co.uk^
 ||getsurrey.co.uk^
 ||gettysburgtimes.com^
 ||gf24.pl^
 ||gfcnieuws.com^
-||gfmag.com^
 ||ggwash.org^
 ||ghanabusinessnews.com^
 ||ghanaiantimes.com.gh^
@@ -5013,7 +4776,6 @@
 ||giessener-anzeiger.de^
 ||giftfocus.com^
 ||gifu-np.co.jp^
-||gilabola.com^
 ||gilbertsource.com^
 ||gildot.org^
 ||gillettenewsrecord.com^
@@ -5070,7 +4832,6 @@
 ||gloucestertimes.com^
 ||glueckspost.ch^
 ||gmanetwork.com^
-||gmrmagazine.com^
 ||gmtoday.com^
 ||gmw.cn^
 ||gna.org.gh^
@@ -5081,13 +4842,10 @@
 ||goaprism.com^
 ||god.tv^
 ||godanriver.com^
-||godisageek.com^
 ||godtv.com^
 ||goerie.com^
 ||goettinger-tageblatt.de^
 ||gogo.mn^
-||goha.ru^
-||gol.caracoltv.com^
 ||goldcoast.com.au^
 ||goldcoastbulletin.com.au^
 ||goldengatexpress.org^
@@ -5142,7 +4900,6 @@
 ||grahamstar.com^
 ||graiulsalajului.ro^
 ||grakantert.am^
-||gram.pl^
 ||granadahoy.com^
 ||granbydrummer.com^
 ||granbydrummer.org^
@@ -5167,7 +4924,6 @@
 ||greatyarmouthmercury.co.uk^
 ||greekherald.com.au^
 ||greekreporter.com^
-||greenanarchy.anarchyplanet.org^
 ||greenbaypressgazette.com^
 ||greenbeltnewsreview.com^
 ||greenevillesun.com^
@@ -5186,7 +4942,6 @@
 ||greenwichtime.com^
 ||greenwichwire.co.uk^
 ||gremionews.com.br^
-||grenchnerstadtanzeiger.ch^
 ||grenda.no^
 ||grenzecho.net^
 ||greystar.co.nz^
@@ -5213,7 +4968,6 @@
 ||gs.by^
 ||gsdmagazine.org^
 ||gsh.al^
-||gtaboom.com^
 ||gtn-pravda.ru^
 ||gtrnews.com^
 ||gtweekly.com^
@@ -5230,7 +4984,6 @@
 ||gubernia.media^
 ||guddzje.de^
 ||gudok.ru^
-||gudvibe.app^
 ||guelphmercury.com^
 ||guelphtoday.com^
 ||guernseypress.com^
@@ -5288,6 +5041,7 @@
 ||haarlemsdagblad.nl^
 ||habarileo.co.tz^
 ||haber.com^
+||haber365.com^
 ||haber365.com.tr^
 ||haber7.com^
 ||haberglobal.com^
@@ -5323,7 +5077,6 @@
 ||hallandsposten.se^
 ||hallingdolen.no^
 ||hallmarknews.com^
-||hallo-eltern.de^
 ||halloweendailynews.com^
 ||halsteadgazette.co.uk^
 ||haluansumatera.com^
@@ -5348,9 +5101,7 @@
 ||hannibal.net^
 ||hanoimoi.vn^
 ||hanslucas.com^
-||hanteonews.com^
 ||haon.hu^
-||happypuppy.com^
 ||haqqin.az^
 ||harakahdaily.net^
 ||haramsnytt.no^
@@ -5359,8 +5110,6 @@
 ||harborcountry-news.com^
 ||harburg-aktuell.de^
 ||hardanger-folkeblad.no^
-||hardballtimes.com^
-||hardcoregamer.com^
 ||harderwijksezaken.nl^
 ||hargitanepe.ro^
 ||harianjogja.com^
@@ -5418,14 +5167,10 @@
 ||hch.tv^
 ||hcn.org^
 ||hcnews.com^
-||hcplive.com^
 ||hd.se^
 ||hdnews.net^
 ||headlinne.com^
 ||headtopics.com^
-||healthcaredive.com^
-||healthday.com^
-||healthsignals.news^
 ||heaptalk.com^
 ||heathercoxrichardson.substack.com^
 ||hebdo-ardeche.fr^
@@ -5444,7 +5189,6 @@
 ||helsinginsanomat.fi^
 ||helsinginuutiset.fi^
 ||helsinkitimes.fi^
-||hemali.no^
 ||hemeltoday.co.uk^
 ||hemmetsvan.se^
 ||hendersondispatch.com^
@@ -5546,7 +5290,6 @@
 ||hindustanurdutimes.com^
 ||hindutamil.in^
 ||hintonparklander.com^
-||hiphopnewscs.jp^
 ||hirado.hu^
 ||hirklikk.hu^
 ||hirstart.hu^
@@ -5569,7 +5312,6 @@
 ||hlavnespravy.sk^
 ||hlidacipes.org^
 ||hln.be^
-||hlplanet.com^
 ||hlrecord.org^
 ||hm-news.co.il^
 ||hmbreview.com^
@@ -5584,10 +5326,8 @@
 ||hnnoticias.com.br^
 ||hnonline.sk^
 ||hntqb.com^
-||hntrbrk.com^
 ||hocipo.hu^
 ||hodotokushu.net^
-||hogapage.de^
 ||hojeemdia.com.br^
 ||hojemacau.com.mo^
 ||hokkaido-np.co.jp^
@@ -5707,10 +5447,8 @@
 ||hutchnews.com^
 ||hvg.hu^
 ||hwsw.hu^
-||hwupgrade.it^
 ||hxnews.com^
 ||hymn.se^
-||hynerd.it^
 ||hypar.ru^
 ||hypernewsletter.fr^
 ||i-bejar.com^
@@ -5750,7 +5488,6 @@
 ||ideal.es^
 ||ideamensch.com^
 ||idelreal.org^
-||idexxcurrents.com^
 ||idl-reporteros.pe^
 ||idler.co.uk^
 ||idn.com.tw^
@@ -5775,8 +5512,6 @@
 ||ifre.com^
 ||igfm.sn^
 ||igihe.com^
-||igli5.com^
-||ign.com.cn^
 ||iha.com.tr^
 ||ihalla.com^
 ||ihlashaberajansi.com.tr^
@@ -5799,7 +5534,6 @@
 ||ilcrotonese.it^
 ||ildenaro.it^
 ||ildubbio.news^
-||ilemonde.com^
 ||ilevanger.no^
 ||ilfattoquotidiano.it^
 ||ilfirenze.it^
@@ -5815,13 +5549,11 @@
 ||ilkkapohjalainen.fi^
 ||illawarramercury.com.au^
 ||illegaletrouw.nl^
-||illinoispress.org^
 ||illinoistimes.com^
 ||ilmajoki-lehti.fi^
 ||ilmanifesto.it^
 ||ilmattino.it^
 ||ilmessaggero.it^
-||ilmeteo.net^
 ||iln.co.uk^
 ||ilna.ir^
 ||ilnapolista.it^
@@ -5847,7 +5579,6 @@
 ||imagekhabar.com^
 ||imagenradio.com.mx^
 ||imatralainen.fi^
-||imbuzz.media^
 ||imedi.ge^
 ||imedia.news^
 ||imedinews.ge^
@@ -5859,7 +5590,6 @@
 ||imnews.imbc.com^
 ||impartialreporter.com^
 ||imprimerieprogres.com^
-||impulsegamer.com^
 ||imticker.ch^
 ||imtl.org^
 ||imvahonshya.co.rw^
@@ -5867,7 +5597,6 @@
 ||in-domodedovo.ru^
 ||in-istra.ru^
 ||in-korolev.ru^
-||in-training.org^
 ||in.fo^
 ||in.gr^
 ||in4s.net^
@@ -5904,7 +5633,6 @@
 ||indexjournal.com^
 ||indiaabroad.com^
 ||indiafirst.live^
-||indiaglitz.com^
 ||indianacapitalchronicle.com^
 ||indianagazette.com^
 ||indianapolisrecorder.com^
@@ -5921,18 +5649,12 @@
 ||indiavisiontv.com^
 ||indiawest.com^
 ||indicatoreweb.it^
-||indiegamewebsite.com^
-||indiemag.fr^
-||indiepost.co.kr^
 ||indigo.fr^
-||indoasiadefense.com^
 ||indopos.co.id^
-||indrastra.com^
 ||indre.no^
 ||indubnacity.ru^
 ||indus.news^
 ||indusage.com.au^
-||industrypulse.media^
 ||industryweek.com^
 ||indy100.com^
 ||indybay.org^
@@ -5978,8 +5700,6 @@
 ||informatia-zilei.ro^
 ||information.dk^
 ||information.tv5monde.com^
-||informatiquenews.fr^
-||informativostelecinco.com^
 ||informburo.kz^
 ||informe360.com^
 ||informer.rs^
@@ -5989,14 +5709,12 @@
 ||inforpress.publ.cv^
 ||inforum.com^
 ||infos-ouvrieres.fr^
-||infos229.groupecrytalnews.com^
 ||infosperber.ch^
 ||infostart.hu^
 ||infowakat.net^
 ||infowars.com^
 ||infranken.de^
 ||infzm.com^
-||ing.dk^
 ||inilah.com^
 ||initiativesnews.com^
 ||injusticewatch.org^
@@ -6017,11 +5735,8 @@
 ||innebandyavisen.no^
 ||innherred.no^
 ||innovando.news^
-||innovanews.ru^
 ||innsalzach24.de^
 ||inosmi.ru^
-||inputmag.dk^
-||inputmag.se^
 ||inqnews.com^
 ||inquilab.com^
 ||inquirer.com^
@@ -6037,14 +5752,11 @@
 ||inside.com.tw^
 ||insidebiz.com^
 ||insidecroydon.com^
-||insideedition.com^
 ||insidehoops.com^
-||insidemacgames.com^
 ||insideparadeplatz.ch^
 ||insidephilanthropy.com^
 ||insider.com^
 ||insider.gr^
-||insideradio.com^
 ||insidernj.com^
 ||insiderpa.com^
 ||insiderpaper.com^
@@ -6057,7 +5769,6 @@
 ||insight.co.kr^
 ||insightcrime.org^
 ||insightnews.com^
-||insurancetimes.co.uk^
 ||integrimi.com^
 ||intelligenceonline.com^
 ||intelligenceonline.fr^
@@ -6105,9 +5816,7 @@
 ||iowacapitaldispatch.com^
 ||iowastartingline.com^
 ||iowastatedaily.com^
-||ip-watch.org^
 ||ipfwcommunicator.org^
-||iphonedigital.es^
 ||ipn.md^
 ||ipolitics.ca^
 ||ippmedia.com^
@@ -6150,7 +5859,6 @@
 ||irl.mk^
 ||irleaks.com^
 ||irna.ir^
-||irodalmijelen.hu^
 ||irontontribune.com^
 ||irozhlas.cz^
 ||irrawaddy.com^
@@ -6198,7 +5906,6 @@
 ||italiaoggi.it^
 ||itasuomalainen.fi^
 ||itavayla.fi^
-||itavisen.no^
 ||itemlive.com^
 ||itemonline.com^
 ||ithaca.com^
@@ -6207,7 +5914,6 @@
 ||ithome.com.tw^
 ||itidal.de^
 ||itineraire.ca^
-||itnews.com.au^
 ||itnijs.frl^
 ||itnonline.com^
 ||itongadol.com.ar^
@@ -6231,10 +5937,8 @@
 ||iwcp.co.uk^
 ||iwgazette.co.uk^
 ||iwnsvg.com^
-||ixbt.games^
 ||iz.ru^
 ||iza.ne.jp^
-||izm.co.kr^
 ||izmacity.com^
 ||izmirgundem.com^
 ||izvmor.ru^
@@ -6300,7 +6004,6 @@
 ||jawapos.com^
 ||jawharafm.net^
 ||jaxdailyrecord.com^
-||jayisgames.com^
 ||jb.com.br^
 ||jbl.no^
 ||jbnews.com^
@@ -6323,9 +6026,6 @@
 ||jeune-independant.net^
 ||jeuneafrique.com^
 ||jeunessedalgerie.dz^
-||jeuxactu.com^
-||jeuxvideo-live.com^
-||jeuxvideo.fr^
 ||jeversches-wochenblatt.de^
 ||jewelry-korea.com^
 ||jewishaz.com^
@@ -6355,7 +6055,6 @@
 ||jiji.co.jp^
 ||jiji.com^
 ||jimmatimes.com^
-||jinacoin.ne.jp^
 ||jinhaagency.com^
 ||jinrieluosi.cn^
 ||jinrmag.jinr.ru^
@@ -6365,12 +6064,10 @@
 ||jkb.com.cn^
 ||jksb.com.cn^
 ||jm-madeira.pt^
-||jmd.co.jp^
 ||jn.pt^
 ||jnilbo.com^
 ||jns.org^
 ||jo24.net^
-||jobat.be^
 ||johnmenadue.com^
 ||join1440.com^
 ||jomhouria.com^
@@ -6421,7 +6118,6 @@
 ||journal.com.ph^
 ||journal.obcon.org^
 ||journalauto.com^
-||journaldemickey.com^
 ||journaldemontreal.com^
 ||journaldemorges.ch^
 ||journaldequebec.com^
@@ -6434,7 +6130,6 @@
 ||journalgazette.net^
 ||journalinquirer.com^
 ||journalista.dk^
-||journalisten.no^
 ||journallesoir.ca^
 ||journallive.co.uk^
 ||journalnow.com^
@@ -6480,7 +6175,6 @@
 ||jurnalkepri.com^
 ||jurnalul.ro^
 ||jurvansanomat.fi^
-||justadventure.com^
 ||justnewsbd.com^
 ||justout.com^
 ||justsecurity.org^
@@ -6544,13 +6238,10 @@
 ||kanaloco.jp^
 ||kanaren.news^
 ||kanashen.ru^
-||kanebridgenews.com^
 ||kanivatonga.co.nz^
-||kankokeizai.com^
 ||kannadaprabha.com^
 ||kannadatimes.com^
 ||kannapoliscitizen.com^
-||kanobu.ru^
 ||kanoner.com^
 ||kansan.com^
 ||kansanaani.net^
@@ -6573,7 +6264,6 @@
 ||karjalanheili.fi^
 ||karjalanmaa.fi^
 ||kark.com^
-||karmadio.ir^
 ||karmel.co.il^
 ||karmoynytt.no^
 ||karnatakamalla.com^
@@ -6693,7 +6383,6 @@
 ||khaskhabar.com^
 ||khbr.me^
 ||kherson-news.ru^
-||khgames.co.kr^
 ||khmertimeskh.com^
 ||khojsamachar.com^
 ||khon2.com^
@@ -6709,7 +6398,6 @@
 ||kidsguidemagazine.com^
 ||kidsweek.nl^
 ||kieler.news^
-||kielerexpress-online.de^
 ||kienyke.com^
 ||kigalitoday.com^
 ||kikar.co.il^
@@ -6722,7 +6410,6 @@
 ||kincardinenews.com^
 ||kineactu.com^
 ||king5.com^
-||kingfeatures.com^
 ||kingsbridge-today.co.uk^
 ||kingstonthisweek.com^
 ||kingstreenews.com^
@@ -6832,7 +6519,6 @@
 ||koran-sindo.com^
 ||koranperbatasan.com^
 ||koransatu.id^
-||koraplus.com^
 ||koreadaily.com^
 ||koreaexpose.com^
 ||koreaherald.com^
@@ -6842,7 +6528,6 @@
 ||koreatimes.com^
 ||koreatourismtimes.com^
 ||korkusuz.com.tr^
-||kormedi.com^
 ||korrespondent.net^
 ||korrieri.com^
 ||korsetsseier.no^
@@ -6854,7 +6539,6 @@
 ||kosovo-online.com^
 ||kossev.info^
 ||kostanaytany.kz^
-||kotaku.com.au^
 ||kotilappi.fi^
 ||kotimaa.fi^
 ||kotsu.co.jp^
@@ -6878,7 +6562,6 @@
 ||krarm-press.cap.ru^
 ||krassever.ru^
 ||krautreporter.de^
-||krawall.de^
 ||kray.ck.ua^
 ||krdo.com^
 ||kreiszeitung.de^
@@ -6938,7 +6621,6 @@
 ||kulingen.no^
 ||kultmagasin.se^
 ||kultura-info.by^
-||kulturagz.ru^
 ||kumanichi.com^
 ||kumparan.com^
 ||kun.uz^
@@ -6982,7 +6664,6 @@
 ||kvoa.com^
 ||kvue.com^
 ||kw.be^
-||kwachanews.com^
 ||kwangju.co.kr^
 ||kwch.com^
 ||kwnews.co.kr^
@@ -7013,7 +6694,6 @@
 ||l-iz.de^
 ||l1.nl^
 ||l1visible.com^
-||l4news.com^
 ||la-bas.org^
 ||la-croix.com^
 ||la-prensa.com.mx^
@@ -7145,10 +6825,8 @@
 ||lancasterfarming.com^
 ||lancasterguardian.co.uk^
 ||lancasteronline.com^
-||lancenet.com.br^
 ||lancs.live^
 ||land.lu^
-||landanzeiger.ch^
 ||landbote.ch^
 ||landeszeitung.de^
 ||landtiere.de^
@@ -7194,7 +6872,6 @@
 ||laoren.com^
 ||laotiantimes.com^
 ||lapagina.com.sv^
-||lapaginamillonaria.com^
 ||lapalabraisraelita.cl^
 ||lapasserelleplanoise.free.fr^
 ||lapatilla.com^
@@ -7245,7 +6922,6 @@
 ||larepublica.pe^
 ||larepublique77.fr^
 ||larepubliquedespyrenees.fr^
-||largus.fr^
 ||larioja.com^
 ||larnetimes.co.uk^
 ||larotonde.ca^
@@ -7340,8 +7016,6 @@
 ||lawgazette.co.uk^
 ||lawrencecountypress.com^
 ||lawrentian.com^
-||lawweekly.org^
-||lawweekonline.com^
 ||lb.ua^
 ||lbc.co.uk^
 ||lbcgroup.tv^
@@ -7425,10 +7099,8 @@
 ||lefinancier-dz.com^
 ||lefront.com^
 ||leftfootforward.org^
-||legacyvillagenews.com^
 ||legaldaily.com.cn^
 ||leggo.it^
-||legia.net^
 ||legislativegazette.com^
 ||legit.ng^
 ||legnanonews.com^
@@ -7461,7 +7133,6 @@
 ||lelchitsy.by^
 ||lelezard.com^
 ||lemainelibre.fr^
-||lemaitrepapetier.ca^
 ||lemanifest.com^
 ||lemarin.fr^
 ||lematin.ch^
@@ -7477,9 +7148,6 @@
 ||lemko.com^
 ||lemky.org.ua^
 ||lemonde.fr^
-||lemonde.uy^
-||lemondediplomatique.al^
-||lemondediplomatique.cl^
 ||lemondeinformatique.fr^
 ||lemoniteur.fr^
 ||lenational.org^
@@ -7491,11 +7159,9 @@
 ||lenouvelliste.ca^
 ||lenouvelliste.ch^
 ||lenouvelliste.com^
-||lenreactiv.ru^
 ||lensakalteng.com^
 ||lent.az^
 ||lenta.ru^
-||lentoposti.fi^
 ||leominsterchamp.com^
 ||leonoticias.com^
 ||leoweekly.com^
@@ -7507,7 +7173,6 @@
 ||lepaystchad.com^
 ||lepel-kraj.by^
 ||lepelerin.com^
-||lepetitjurassien.ch^
 ||lepetitquotidien.fr^
 ||lepeuplelotbiniere.ca^
 ||lephareonline.net^
@@ -7533,7 +7198,6 @@
 ||lerevelateur224.com^
 ||lerougeetleblanc.com^
 ||les-cahiers-bleus.com^
-||les-enovateurs.com^
 ||les4verites.com^
 ||lesafriques.com^
 ||lesahel.org^
@@ -7544,9 +7208,7 @@
 ||lesechos.fr^
 ||leseco.ma^
 ||lesgeniesdelascience.fr^
-||lesinrocks.com^
 ||lesiteinfo.com^
-||lesjoiesducode.fr^
 ||lesjours.fr^
 ||lesnouvellesdanjou.fr^
 ||lesoftonline.net^
@@ -7586,7 +7248,6 @@
 ||levenementprecis.com^
 ||levif.be^
 ||levoyageur.ca^
-||lewdgamer.com^
 ||lexobserver.org^
 ||lexplik.be^
 ||lexpress-net.com^
@@ -7597,7 +7258,6 @@
 ||lexpression.dz^
 ||lexpressiondz.com^
 ||lfpress.com^
-||lgbtqnation.com^
 ||lgbtqsd.news^
 ||lh-inc.ca^
 ||lhc.media^
@@ -7675,7 +7335,6 @@
 ||links-series.com^
 ||linsoumission.fr^
 ||lintelligentdabidjan.org^
-||linuxgames.com^
 ||linuxiac.com^
 ||lionsroar.com^
 ||lioznonews.by^
@@ -7691,7 +7350,6 @@
 ||litgazeta.com.ua^
 ||lithuaniatribune.com^
 ||litrossanat.com^
-||litrossia.ru^
 ||littleelm.com^
 ||littlefallstimes.com^
 ||littlerocksource.com^
@@ -7720,7 +7378,6 @@
 ||lloydslistdcn.com.au^
 ||lluban.by^
 ||lmd.no^
-||lmdturkce.com.tr^
 ||lmhnews.com^
 ||lmneuquen.com^
 ||lmtonline.com^
@@ -7834,7 +7491,6 @@
 ||ludwigshafen24.de^
 ||ludzaszeme.lv^
 ||lufkindailynews.com^
-||luftfahrtmagazin.de^
 ||lug-info.com^
 ||luhze.de^
 ||lun.com^
@@ -7867,8 +7523,6 @@
 ||lzinios.lt^
 ||m24.no^
 ||m24.ru^
-||m3.idg.se^
-||m3.se^
 ||maaal.com^
 ||maalaimalar.com^
 ||maannews.net^
@@ -7877,7 +7531,6 @@
 ||macaodaily.com^
 ||macaubusiness.com^
 ||macaudailytimes.com.mo^
-||macblox.com^
 ||maccaclub.com^
 ||macclesfield-express.co.uk^
 ||macleans.ca^
@@ -7915,7 +7568,6 @@
 ||magill.ie^
 ||magnabureau.space^
 ||magozine.it^
-||magyardiplo.hu^
 ||magyarhirlap.hu^
 ||magyarkurir.hu^
 ||magyarnarancs.hu^
@@ -7982,6 +7634,8 @@
 ||mancs.hu^
 ||mandegardaily.com^
 ||mandiner.hu^
+||mangalam.com^
+||mangaloretoday.com^
 ||mangfall24.de^
 ||manhattantimesnews.com^
 ||manifesto-21.com^
@@ -7999,8 +7653,6 @@
 ||mansfield.wickedlocal.com^
 ||mansfieldnewsjournal.com^
 ||mantecabulletin.com^
-||manualdousuario.net^
-||manufacturing.net^
 ||map.ma^
 ||mapexpress.ma^
 ||mapnews.ma^
@@ -8020,7 +7672,6 @@
 ||marketdaily.com.cn^
 ||marketingdirecto.com^
 ||marketplace.org^
-||marketpostcenter.com^
 ||marketwatch.com^
 ||marlindemocrat.com^
 ||marmarismanset.com^
@@ -8087,18 +7738,15 @@
 ||mcot.net^
 ||mcphersonsentinel.com^
 ||mcrecordonline.com^
-||mcvuk.com^
 ||mdedge.com^
 ||mdgazet.ru^
 ||mdilbo.com^
 ||mdjonline.com^
-||mdmag.com^
 ||mdnkids.com^
 ||mdzol.com^
 ||meadvilletribune.com^
 ||meantornionlaakso.fi^
 ||meathchronicle.ie^
-||meaww.com^
 ||mebaneenterprise.com^
 ||mechlocal.com^
 ||mecktimes.com^
@@ -8115,7 +7763,6 @@
 ||mediacongo.net^
 ||mediafax.ro^
 ||mediafiledc.com^
-||mediafilm.ca^
 ||mediaguinee.org^
 ||mediaguru.cz^
 ||mediaindonesia.com^
@@ -8137,17 +7784,12 @@
 ||mediatoday.co.kr^
 ||mediaus.co.kr^
 ||mediazona.ca^
-||medicinar.mef.hr^
 ||medicinehatnews.com^
-||mediotiempo.com^
-||medischcontact.nl^
-||mediuutiset.fi^
 ||meduza.io^
 ||medvestnik.by^
 ||medyabar.com^
 ||medyascope.tv^
 ||medyayenigun.net^
-||meegames.com^
 ||megafon.no^
 ||meganoticias.cl^
 ||megaphone.news^
@@ -8155,7 +7797,6 @@
 ||mehrnews.com^
 ||meidasnews.com^
 ||meidastouch.com^
-||mein-mmo.de^
 ||meinbezirk.at^
 ||meine-anzeigenzeitung.de^
 ||meinviertel.berlin^
@@ -8182,7 +7823,6 @@
 ||merdeka.com^
 ||meredithherald.com^
 ||meridianbooster.com^
-||meridiano.net^
 ||meridianstar.com^
 ||merikarvialehti.fi^
 ||merit-times.com^
@@ -8198,14 +7838,12 @@
 ||messengernewspapers.co.uk^
 ||messengersaintanthony.com^
 ||messengerwest.com.au^
-||mestemnakole.cz^
 ||meta.mk^
 ||metadata.cat^
 ||methodistrecorder.co.uk^
 ||methowvalleynews.com^
 ||metimes.com^
 ||metior.com.au^
-||metnews.com^
 ||metro.co.uk^
 ||metro.pr^
 ||metro.se^
@@ -8222,7 +7860,6 @@
 ||metropolehaiti.com^
 ||metropoles.com^
 ||metropolisweb.it^
-||metrorailnews.in^
 ||metrosantacruz.com^
 ||metrosiliconvalley.com^
 ||metrospirit.com^
@@ -8249,7 +7886,6 @@
 ||mia.mk^
 ||miamicelebrities.com^
 ||miamiherald.com^
-||miamiinnews.com^
 ||miaminewtimes.com^
 ||miamiok.com^
 ||miamistudent.net^
@@ -8333,7 +7969,6 @@
 ||minutouno.com^
 ||minval.az^
 ||minyu-net.com^
-||mirf.ru^
 ||mirrab.ru^
 ||mirror.co.uk^
 ||mirrormedia.mg^
@@ -8356,7 +7991,6 @@
 ||mittkongsvinger.no^
 ||mixanitouxronou.gr^
 ||mixnews.lv^
-||mixnmojo.com^
 ||mizanonline.ir^
 ||mizbala.com^
 ||mizzima.com^
@@ -8407,7 +8041,6 @@
 ||mmafighting.com^
 ||mmegi.bw^
 ||mmnews.tv^
-||mmorpg.com^
 ||mmsonline.com^
 ||mmtimes.com^
 ||mndaily.com^
@@ -8436,16 +8069,8 @@
 ||moment.at^
 ||monaco-tribune.com^
 ||monacomatin.mc^
-||monde-diplomatique.de^
-||monde-diplomatique.fr^
-||monde-diplomatique.gr^
-||monde-diplomatique.pl^
 ||monde-libertaire.fr^
 ||monde-libertaire.net^
-||mondediplo.com^
-||mondediplo.fi^
-||mondediplomatique.ro^
-||mondiplo.com^
 ||mondo.rs^
 ||mondoweiss.net^
 ||monewsguyane.com^
@@ -8509,7 +8134,6 @@
 ||morningsun.net^
 ||moroccomirror.com^
 ||moroccoworldnews.com^
-||morok.ink^
 ||morpethherald.co.uk^
 ||morungexpress.com^
 ||mosaiquefm.net^
@@ -8520,12 +8144,8 @@
 ||motherjones.com^
 ||mothership.sg^
 ||mothersnews.net^
-||motociclismo.pt^
 ||motolko.help^
 ||motorcitydirect.com^
-||motorcyclenews.com^
-||motorplus-online.com^
-||motorvarlden.se^
 ||moultonadvertiser.com^
 ||moultrieobserver.com^
 ||moundcitynews.com^
@@ -8573,16 +8193,13 @@
 ||mtsprout.nl^
 ||mtstandard.com^
 ||mtv.com.lb^
-||mtviggy.com^
 ||mtvuutiset.fi^
-||mudconnect.com^
 ||mudgeeguardian.com.au^
 ||muehlacker-tagblatt.de^
 ||mujeresenred.net^
 ||muksun.fm^
 ||multi-housingnews.com^
 ||multihousingnews.com^
-||multiplayer.it^
 ||mumbaimirror.com^
 ||mumbaimirror.indiatimes.com^
 ||mundiario.com^
@@ -8657,8 +8274,6 @@
 ||mz.de^
 ||mzamin.com^
 ||mzyfz.com^
-||n-mag.de^
-||n-mag.org^
 ||n-slovo.com.ua^
 ||n-tv.de^
 ||n.com.do^
@@ -8710,10 +8325,8 @@
 ||napavalleyregister.com^
 ||napiujsag.hu^
 ||naplesnews.com^
-||napnieuws.nl^
 ||napolitoday.it^
 ||napost.com^
-||napsugar.ro^
 ||nara-np.co.jp^
 ||narasi.tv^
 ||narod.hr^
@@ -8721,7 +8334,6 @@
 ||narovlya.by^
 ||narrominenewsonline.com.au^
 ||nasarijec.ba^
-||nasaspaceflight.com^
 ||nasepravda.cz^
 ||nashagazeta.ch^
 ||nashagazeta.com.ua^
@@ -8758,7 +8370,6 @@
 ||nationalreport.net^
 ||nationalreview.com^
 ||nationalworld.com^
-||nationen.no^
 ||nationnews.com^
 ||nationthailand.com^
 ||nationwideradiojm.com^
@@ -8768,7 +8379,6 @@
 ||naukatv.ru^
 ||navabharat.com^
 ||navajotimes.com^
-||naval-pages.com^
 ||navarracapital.es^
 ||navarraconfidencial.com^
 ||navatelangana.com^
@@ -8876,19 +8486,15 @@
 ||netwerk24.com^
 ||netzeitung.de^
 ||netzpolitik.org^
-||neu.muenzenwoche.de^
 ||neue-zeitung.hu^
 ||neuepresse.de^
-||neuesgera.de^
 ||neuewelt.at^
 ||neuewocheaustralien.com^
-||neuralgamer.com^
 ||nevadaappeal.com^
 ||nevadacurrent.com^
 ||nevadasagebrush.com^
 ||neviditelnypes.cz^
 ||nevnov.ru^
-||new.coinsweekly.com^
 ||new.finalcall.com^
 ||new.qq.com^
 ||new7.com.tw^
@@ -8938,7 +8544,6 @@
 ||news-bangla.com^
 ||news-banner.com^
 ||news-bulletin.com^
-||news-choice.com^
 ||news-eleven.com^
 ||news-front.su^
 ||news-gazette.com^
@@ -8982,7 +8587,6 @@
 ||news.google.com.au^
 ||news.google.ie^
 ||news.gr^
-||news.hamidun.com^
 ||news.infoseek.co.jp^
 ||news.joyn.at^
 ||news.jtbc.co.kr^
@@ -9117,7 +8721,6 @@
 ||newsoforange.com^
 ||newson6.com^
 ||newsone.com^
-||newspaper-daily.com^
 ||newspaper.fdn.ir^
 ||newspectives.com^
 ||newspicks.com^
@@ -9189,22 +8792,14 @@
 ||nexojornal.com.br^
 ||nexos.com.mx^
 ||next.gazeta.pl^
-||next.ink^
 ||nexta.tv^
 ||nextavenue.org^
-||nextg.tv^
 ||nextleftnotes.org^
-||nextpit.com^
-||nextpit.de^
-||nextpit.fr^
 ||nextquotidiano.it^
 ||nezavisen.mk^
 ||nezavisne.com^
-||nftmagazine.com^
-||ng-gamer.nl^
 ||ng.by^
 ||ng.ru^
-||ng4a.com^
 ||ngnews.ca^
 ||ngs.ru^
 ||ngs24.ru^
@@ -9224,7 +8819,6 @@
 ||niagaraindependent.ca^
 ||niasam.ru^
 ||nicematin.com^
-||nicolaytidsskrift.no^
 ||nidaalwatan.com^
 ||nidaros.no^
 ||nidoragir.com^
@@ -9249,11 +8843,6 @@
 ||ninanews.com^
 ||nineoclock.ro^
 ||ninertimes.com^
-||nintendo-connect.de^
-||nintendo-online.de^
-||nintendoeverything.com^
-||nintendowire.com^
-||nintendoworldreport.com^
 ||nippon-times.net^
 ||nippon.com^
 ||nique.net^
@@ -9300,11 +8889,8 @@
 ||noen.at^
 ||noev-kovcheg.ru^
 ||noevalleyvoice.com^
-||nofrag.com^
 ||nogalesinternational.com^
 ||noi.md^
-||noisypixel.net^
-||noklapja.nlcafe.hu^
 ||nokta.md^
 ||nola.com^
 ||nolalive.com^
@@ -9322,7 +8908,6 @@
 ||nordeclair.be^
 ||nordeclair.fr^
 ||nordhordland.no^
-||nordicdefencesector.com^
 ||nordjyske.dk^
 ||nordkurier.de^
 ||nordlittoral.fr^
@@ -9377,7 +8962,6 @@
 ||northshropshirechronicle.com^
 ||northumberlandgazette.co.uk^
 ||northumberlandnews.com^
-||norvasi.se^
 ||norwaypost.no^
 ||norwegianamerican.com^
 ||norwichbulletin.com^
@@ -9418,7 +9002,6 @@
 ||notiuno.com^
 ||notizie.it^
 ||notizieoggi24.it^
-||notretemps.com^
 ||notrevoie.com^
 ||nottinghampost.com^
 ||notundrishti.com^
@@ -9459,7 +9042,6 @@
 ||novostivolgograda.ru^
 ||novynarnia.com^
 ||now14.co.il^
-||nowgamer.com^
 ||nowgrenada.com^
 ||nowiny24.pl^
 ||nownews.com^
@@ -9614,7 +9196,6 @@
 ||observador.cr^
 ||observador.pt^
 ||observalgerie.com^
-||observantonline.nl^
 ||observatornews.ro^
 ||observatorul.md^
 ||observer-reporter.com^
@@ -9670,15 +9251,12 @@
 ||ohmynews.com^
 ||ohtuleht.ee^
 ||oilcapital.ru^
-||oilgasstoragenews.com^
 ||oimparcial.com.br^
 ||oisehebdo.fr^
 ||oita-press.co.jp^
-||oiusho.it^
 ||ojaivalleynews.com^
 ||ojo-publico.com^
 ||ojo.pe^
-||ojogo.pt^
 ||ojornal.com^
 ||okaz.com.sa^
 ||okcfriday.com^
@@ -9698,7 +9276,6 @@
 ||oldham-chronicle.co.uk^
 ||oldhamadvertiser.co.uk^
 ||oldhamera.com^
-||oldmanmurray.com^
 ||oldpostbooks.com^
 ||oleantimesherald.com^
 ||olfi.dk^
@@ -9737,18 +9314,14 @@
 ||oneman.gr^
 ||onemk.co.uk^
 ||onenews.ph^
-||ongamers.com^
 ||online.le.ee^
 ||onlineathens.com^
-||onlinecasino.amsterdam^
 ||onlinekhabar.com^
 ||onlinesentinel.com^
 ||onlinevologda.ru^
-||onlinewelten.com^
 ||onlymagazine.ca^
 ||onmanorama.com^
 ||onswestfriesland.nl^
-||ontariofarmer.com^
 ||ontheditch.com^
 ||ontnews.com^
 ||onwardstate.com^
@@ -9773,7 +9346,6 @@
 ||opera-online.com^
 ||operamundi.uol.com.br^
 ||operanewsapp.com^
-||operationrainfall.com^
 ||operativmm.az^
 ||opindia.com^
 ||opiniaogoias.com.br^
@@ -9852,7 +9424,6 @@
 ||oswegonian.com^
 ||ot.fi^
 ||ot.gr^
-||otakukart.com^
 ||oteatre.info^
 ||otechestvo.biz^
 ||otempo.com.br^
@@ -9882,7 +9453,6 @@
 ||ourtimepress.com^
 ||out.com^
 ||outandaboutnewspaper.com^
-||outbreaknewstoday.com^
 ||outfrontonline.com^
 ||outinperth.com^
 ||outlookafghanistan.net^
@@ -9908,7 +9478,6 @@
 ||oyposten.no^
 ||ozodi.org^
 ||ozodlik.org^
-||p-nintendo.com^
 ||pa-report.com^
 ||pa.azadiradio.com^
 ||pa.media^
@@ -9921,7 +9490,6 @@
 ||pacificsun.com^
 ||pacindex.com^
 ||packagingdigest.com^
-||padandpixel.com^
 ||padangkita.com^
 ||paducahsun.com^
 ||pagenewspaper.com^
@@ -9970,7 +9538,6 @@
 ||panamza.com^
 ||panarmenian.net^
 ||panchjanya.com^
-||panduanproperti.id^
 ||panet.co.il^
 ||panews.com^
 ||panora.tokyo^
@@ -9983,7 +9550,6 @@
 ||pantagraph.com^
 ||pap.pl^
 ||paper.cntheory.com^
-||paperdna.ai^
 ||paperjam.lu^
 ||paperpaper.io^
 ||papotin.site^
@@ -10037,9 +9603,6 @@
 ||pbcommercial.com^
 ||pbn.com^
 ||pbpost.com^
-||pc.gamerweb.com^
-||pcgames.de^
-||pcguru.hu^
 ||pch24.pl^
 ||pcherald.com^
 ||pcij.org^
@@ -10061,7 +9624,6 @@
 ||peepalsglobal.com^
 ||pegasusnews.com^
 ||pekintimes.com^
-||pelaaja.fi^
 ||pelhamexaminer.com^
 ||pelop.gr^
 ||pendletoday.co.uk^
@@ -10180,23 +9742,12 @@
 ||plaindealer-sun.com^
 ||plainlaw.me^
 ||plainsman.com^
-||planetcnc.gamespy.com^
-||planethalflife.gamespy.com^
 ||planetsmag.com^
-||planetxbox360.com^
 ||plantbasednews.org^
-||plantengineering.com^
 ||planv.com.ec^
-||plasticportal.cz^
-||plasticportal.de^
-||plasticportal.eu^
-||plasticportal.sk^
 ||plataformamedia.com^
 ||platfor.ma^
 ||platform-investico.nl^
-||platformer.news^
-||play.tm^
-||playfront.de^
 ||playtech.ro^
 ||plazajuarez.mx^
 ||plazapublica.com.gt^
@@ -10204,7 +9755,6 @@
 ||pleno.news^
 ||plo.vn^
 ||plovdiv24.bg^
-||pltv.fr^
 ||plumasatomicas.com^
 ||plumassun.org^
 ||plural.jor.br^
@@ -10231,10 +9781,8 @@
 ||poblanerias.com^
 ||pobleandorra.com^
 ||pocahontastimes.com^
-||pockettactics.com^
 ||poconorecord.com^
 ||poder360.com.br^
-||podnews.net^
 ||podrobno.uz^
 ||poetsandquants.com^
 ||pogostansanomat.fi^
@@ -10242,7 +9790,6 @@
 ||pohjankyro-lehti.fi^
 ||point.md^
 ||point24.lu^
-||pointdevue.fr^
 ||pointparkglobe.com^
 ||pointsdevente.fr^
 ||poknapham.in^
@@ -10310,7 +9857,6 @@
 ||portadowntimes.co.uk^
 ||portafolio.co^
 ||portagedailyregister.com^
-||portal-kultura.ru^
 ||portal6.com.br^
 ||portalanalitika.me^
 ||portalcorreio.com.br^
@@ -10363,7 +9909,6 @@
 ||pottsmerc.com^
 ||pottstownmercury.com^
 ||poughkeepsiejournal.com^
-||poupardinheiro.com.br^
 ||pov.international^
 ||povaha.org.ua^
 ||povoasemanario.pt^
@@ -10418,9 +9963,7 @@
 ||press-citizen.com^
 ||press.lv^
 ||press.lvcva.com^
-||press.polytechnic.am^
 ||pressafrik.com^
-||pressakey.com^
 ||pressandguide.com^
 ||pressandjournal.co.uk^
 ||pressball.by^
@@ -10438,7 +9981,6 @@
 ||pressone.ph^
 ||pressone.ro^
 ||pressonline.rs^
-||pressplay.at^
 ||pressplus.com^
 ||pressprogress.ca^
 ||presspublications.com^
@@ -10468,10 +10010,8 @@
 ||prishtinainsight.com^
 ||privatbankar.hu^
 ||private-eye.co.uk^
-||privatewealthdaily.com^
 ||privatka.info^
 ||privredni.hr^
-||priyalifescience.com^
 ||prmira.ru^
 ||prnigeria.com^
 ||proceso.com.mx^
@@ -10493,7 +10033,6 @@
 ||propastop.org^
 ||propeller.hu^
 ||properm.ru^
-||propertynotify.co.uk^
 ||propublica.org^
 ||proremodeler.com^
 ||proskurivplus.km.ua^
@@ -10515,20 +10054,15 @@
 ||pryordailytimes.com^
 ||psdispatch.com^
 ||psmnews.mv^
-||psmonline.com^
-||psu.com^
 ||psucollegian.com^
 ||psuvanguard.com^
 ||psv.org.ua^
-||psxnation.com^
-||psychedelichealth.co.uk^
 ||pszeitung.ch^
 ||ptinews.com^
 ||ptleader.com^
 ||ptreyeslight.com^
 ||ptv.com.pk^
 ||pubblicogiornale.it^
-||publicdomainreview.org^
 ||publicnews.com^
 ||publicnewshub.com^
 ||publico.es^
@@ -10542,7 +10076,6 @@
 ||publimetro.cl^
 ||publimetro.com.mx^
 ||publinews.gt^
-||publishersmarketplace.com^
 ||puck.news^
 ||pudding.cool^
 ||pudhari.com^
@@ -10551,7 +10084,6 @@
 ||puertademadrid.org^
 ||pukmedia.com^
 ||pulaskicitizen.com^
-||puls.no^
 ||puls24.at^
 ||pulse.com.gh^
 ||pulse.ng^
@@ -10561,7 +10093,6 @@
 ||pulsehknews.com^
 ||pulselive.co.ke^
 ||pulseniagara.com^
-||pulsetoday.co.uk^
 ||pulsoslp.com.mx^
 ||pulzo.com^
 ||punchbowl.news^
@@ -10577,8 +10108,6 @@
 ||purcellvillegazette.com^
 ||purchasing.com^
 ||purdueexponent.org^
-||purenintendo.com^
-||purexbox.com^
 ||puri.ee^
 ||puruvesi.net^
 ||pusula-app.com^
@@ -10654,8 +10183,6 @@
 ||r-word.org^
 ||raahenseutu.fi^
 ||raajje.mv^
-||rabble.ca^
-||raberalf.de^
 ||rablad.no^
 ||rabochy-put.ru^
 ||rabwah.net^
@@ -10684,10 +10211,8 @@
 ||rafnews.co.uk^
 ||rafu.com^
 ||raialyoum.com^
-||raiderking.com^
 ||rainews.it^
 ||rajanews.com^
-||ramenparados.com^
 ||ramonasentinel.com^
 ||ranablad.no^
 ||ranchiexpress.com^
@@ -10801,7 +10326,6 @@
 ||redeyechicago.com^
 ||redflag.by^
 ||redflag.org.au^
-||redgol.cl^
 ||redlandcitybulletin.com.au^
 ||redlandsdailyfacts.com^
 ||redmondmoments.com^
@@ -10852,7 +10376,6 @@
 ||reitschuster.de^
 ||reliable-news.com^
 ||religionnews.com^
-||relyonhorror.com^
 ||remate.ph^
 ||remindernews.com^
 ||remiremontvallees.com^
@@ -10922,7 +10445,6 @@
 ||revistasix.es^
 ||revolver.news^
 ||revue-pyreneenne.com^
-||revue21.fr^
 ||revue303.com^
 ||rewire.news^
 ||rewirenewsgroup.com^
@@ -10952,7 +10474,6 @@
 ||rhonddaleader.co.uk^
 ||ria-m.tv^
 ||ria.ru^
-||riazor.org^
 ||ricentral.com^
 ||richfieldreaper.com^
 ||richmond-dailynews.com^
@@ -10998,7 +10519,6 @@
 ||rizospastis.gr^
 ||rjionline.org^
 ||rk37.ru^
-||rllmukforum.com^
 ||rmf24.pl^
 ||rmn.ph^
 ||rmol.id^
@@ -11008,7 +10528,6 @@
 ||rnd.de^
 ||rnz.co.nz^
 ||rnz.de^
-||roadbook.travel^
 ||roadsbridges.com^
 ||roanoke-chowannewsherald.com^
 ||roanoke.com^
@@ -11028,7 +10547,6 @@
 ||rodiaki.gr^
 ||rodniva.by^
 ||rodong.rep.kp^
-||rogreviews.com^
 ||rojavainformationcenter.org^
 ||rokna.net^
 ||rokokoposten.dk^
@@ -11064,7 +10582,6 @@
 ||roteanneliese.ch^
 ||rotoruadailypost.co.nz^
 ||rotter.net^
-||roundballdaily.com^
 ||rowadweb.com^
 ||roxboro-courier.com^
 ||royalgazette.com^
@@ -11077,7 +10594,6 @@
 ||rp-online.de^
 ||rp.pl^
 ||rp10.com.br^
-||rpgamer.com^
 ||rpp.pe^
 ||rr.pt^
 ||rrdailyherald.com^
@@ -11095,7 +10611,6 @@
 ||rtl.fr^
 ||rtl.hu^
 ||rtl.lu^
-||rtlnieuws.nl^
 ||rtnk.me^
 ||rtrs.tv^
 ||rts.rs^
@@ -11110,7 +10625,6 @@
 ||rtvslo.si^
 ||rtvutrecht.nl^
 ||rudaw.net^
-||rudimathematici.com^
 ||rudnyi-altai.kz^
 ||rue20.com^
 ||rue89.com^
@@ -11192,7 +10706,6 @@
 ||sahanjournal.com^
 ||saharamedias.net^
 ||saharareporters.com^
-||saiganak.com^
 ||saipantribune.com^
 ||sajewishreport.co.za^
 ||sajr.co.za^
@@ -11212,7 +10725,6 @@
 ||salemreporter.com^
 ||salfordadvertiser.co.uk^
 ||salientpublications.com^
-||salimbasarda.net^
 ||salinecourier.com^
 ||salisburyjournal.co.uk^
 ||salisburypost.com^
@@ -11287,7 +10799,6 @@
 ||santacruzsentinel.com^
 ||santacruzweekly.com^
 ||santafenewmexican.com^
-||santageai.com^
 ||santamariahoy.com^
 ||santamariasun.com^
 ||santamariatimes.com^
@@ -11304,7 +10815,6 @@
 ||sarayanews.com^
 ||sarbasadharana.com^
 ||sarbc.ru^
-||sarcasticgamer.com^
 ||sardarabad.com.ar^
 ||saristorynetwork.com^
 ||satakunnankansa.fi^
@@ -11327,7 +10837,6 @@
 ||sbsun.com^
 ||sbtnews.sbt.com.br^
 ||scamtelegraph.com^
-||scandinaviantraveler.com^
 ||scarsdalenews.com^
 ||scbiznews.com^
 ||scdaily.cn^
@@ -11335,9 +10844,7 @@
 ||schaffhausen24.ch^
 ||schenefelder-tageblatt.de^
 ||schifferstadter-tagblatt.de^
-||schlager.de^
 ||schlesien-heute.de^
-||schoolschoolschool.com^
 ||schulenburgsticker.com^
 ||schwaebische.de^
 ||schwarzwaelder-bote.de^
@@ -11373,7 +10880,6 @@
 ||searchlight.vc^
 ||seattlechinesepost.com^
 ||seattleglobalist.com^
-||seattlemag.com^
 ||seattlemedium.com^
 ||seattlepi.com^
 ||seattlespectator.com^
@@ -11381,7 +10887,6 @@
 ||seattletimes.nwsource.com^
 ||seattleweekly.com^
 ||secoloditalia.it^
-||sector.sk^
 ||seculodiario.com.br^
 ||sedaily.com^
 ||sedaliademocrat.com^
@@ -11415,9 +10920,7 @@
 ||seneweb.com^
 ||sengpou.com^
 ||seniorsnews.net^
-||senken.co.jp^
 ||senno.by^
-||sentientmedia.org^
 ||sentimentmetrics.com^
 ||sentinel-standard.com^
 ||sentinelandenterprise.com^
@@ -11430,7 +10933,6 @@
 ||seoul.co.kr^
 ||serbestiyet.com^
 ||serbske-nowiny.de^
-||seriesphere.com^
 ||sermitsiaq.ag^
 ||serqqapisi.az^
 ||servimedia.es^
@@ -11440,7 +10942,6 @@
 ||setn.com^
 ||setopati.com^
 ||settimananews.it^
-||seucreditodigital.com.br^
 ||seudinheiro.com^
 ||seurakuntalainen.fi^
 ||seutumajakka.fi^
@@ -11471,7 +10972,6 @@
 ||sfvbj.com^
 ||sfweekly.com^
 ||sg.yahoo.com^
-||sgazeta.ru^
 ||sggp.org.vn^
 ||sgn.org^
 ||sgvibor.ru^
@@ -11480,7 +10980,6 @@
 ||shabaton1.co.il^
 ||shabestan.ir^
 ||shabiba.com^
-||shacknews.com^
 ||shafaq.com^
 ||shafaqna.com^
 ||shambalanews.com^
@@ -11492,7 +10991,6 @@
 ||sharjah24.ae^
 ||sharonherald.com^
 ||sharpdaily.com.tw^
-||shazoo.ru^
 ||sheboyganpress.com^
 ||sheffieldtribune.co.uk^
 ||shehab.ps^
@@ -11500,7 +10998,6 @@
 ||shekulli.com.al^
 ||shelbycountyreporter.com^
 ||shelbystar.com^
-||shelterforce.org^
 ||shepherdexpress.com^
 ||sheppnews.com.au^
 ||shepvisnyk.com.ua^
@@ -11512,14 +11009,11 @@
 ||shikoku-np.co.jp^
 ||shilapatra.com^
 ||shimotsuke.co.jp^
-||shinkenpress.co.jp^
 ||shinmai.co.jp^
 ||shinshunan.co.jp^
 ||shklovinfo.by^
 ||shn.ch^
 ||shobserver.com^
-||shop.exacteditions.com^
-||shorenewsnow.com^
 ||shorouknews.com^
 ||shoshonenewspress.com^
 ||showbusinessweekly.com^
@@ -11556,11 +11050,8 @@
 ||signalhfx.ca^
 ||signalscv.com^
 ||signonsandiego.com^
-||signpost.news^
 ||sikaajournal.tg^
 ||sikkimexpress.com^
-||siliconcanals.com^
-||siliconera.com^
 ||siliconprairienews.com^
 ||siliconvalley.com^
 ||silive.com^
@@ -11629,7 +11120,6 @@
 ||slaynews.com^
 ||sligochampion.ie^
 ||sligoweekender.com^
-||slippedisc.com^
 ||slk.kh.ua^
 ||slobodenpecat.mk^
 ||slobodna-bosna.ba^
@@ -11681,7 +11171,6 @@
 ||snn.sk^
 ||snoop.ro^
 ||snopes.com^
-||snowbrains.com^
 ||snowmasssun.com^
 ||snrtnews.com^
 ||sntv.com^
@@ -11740,7 +11229,6 @@
 ||sonpou.net^
 ||sooeveningnews.com^
 ||sootoday.com^
-||soperth.com.au^
 ||sora24.it^
 ||sosialnytt.com^
 ||sosialurin.fo^
@@ -11790,8 +11278,6 @@
 ||spanishrevolution.net^
 ||sparechangenews.net^
 ||sparknewspaper.co.uk^
-||spaziocrypto.com^
-||spaziogames.it^
 ||spbdnevnik.ru^
 ||spbvedomosti.ru^
 ||speaker.northernontario.ca^
@@ -11806,19 +11292,12 @@
 ||spectatorindex.com^
 ||spectrumnews1.com^
 ||spectrumnewsnecn.com^
-||spedtaculardailyliving.com^
-||speedmaniacs.com^
-||speedmaniacs.de^
 ||spektr.press^
-||spelinsikten.se^
 ||spencerdailyreporter.com^
 ||spiegel.de^
-||spieletester.com^
-||spieletipps.de^
 ||spiked-online.com^
 ||spiritofjefferson.com^
 ||spitsnieuws.nl^
-||splashgames.de^
 ||splicetoday.com^
 ||spokanejournal.com^
 ||spokanesource.com^
@@ -11848,7 +11327,6 @@
 ||srilankanz.co.nz^
 ||srna.rs^
 ||srpskainfo.com^
-||srsly.ru^
 ||srugim.co.il^
 ||ss-times.com^
 ||ssnewstelegram.com^
@@ -11912,14 +11390,12 @@
 ||statesmanjournal.com^
 ||statesville.com^
 ||statetimes.in^
-||status.news^
 ||staugustine.com^
 ||stayinspirednews.com^
 ||stcatharinesstandard.ca^
 ||stcn.com^
 ||stdaily.com^
 ||steamboatpilot.com^
-||steamdeckhq.com^
 ||stears.co^
 ||stedum.com^
 ||steenwijkercourant.nl^
@@ -11938,7 +11414,6 @@
 ||stiften.dk^
 ||stimme.de^
 ||stiri.md^
-||stirileimobiliare.ro^
 ||stirileprotv.ro^
 ||stiriletransilvaniei.ro^
 ||stiripesurse.ro^
@@ -11967,7 +11442,6 @@
 ||stornowaygazette.co.uk^
 ||storyblick.de^
 ||storyful.com^
-||storynetwork.in^
 ||stowmarketmercury.co.uk^
 ||stoxos.gr^
 ||stp-press.st^
@@ -11981,8 +11455,6 @@
 ||stratford-herald.com^
 ||stratfordbeaconherald.com^
 ||strathclydetelegraph.com^
-||stratics.com^
-||stream.org^
 ||streamclues.com^
 ||streamingworldtv.it^
 ||streetpress.com^
@@ -11994,7 +11466,6 @@
 ||strilen.no^
 ||stripes.com^
 ||stromstadstidning.se^
-||strongmanarchives.com^
 ||stroubly.com^
 ||stt.fi^
 ||sttidningen.se^
@@ -12086,13 +11557,11 @@
 ||suomenkuvalehti.fi^
 ||suomenmaa.fi^
 ||suomenselansanomat.net^
-||suomenuutiset.fi^
 ||suomenuutisviikko.se^
 ||supchina.com^
 ||super.kg^
 ||super.ru^
 ||superando.it^
-||supercombo.gg^
 ||supermedia.hk^
 ||supernowosci24.pl^
 ||suprabhaatham.com^
@@ -12124,7 +11593,6 @@
 ||svenskhistoria.se^
 ||sverigesradio.se^
 ||svet24.si^
-||svg.com^
 ||svherald.com^
 ||svinews.com^
 ||svoboda-news.com^
@@ -12292,7 +11760,6 @@
 ||tb.no^
 ||tbnewswatch.com^
 ||tbnweekly.com^
-||tbreak.com^
 ||tbrnews.com^
 ||tbsnews.net^
 ||tchadinfos.com^
@@ -12305,33 +11772,13 @@
 ||tdtnews.com^
 ||teaonews.co.nz^
 ||teatral.cat^
-||techaeris.com^
-||techamerica.ai^
-||techcapital.com^
-||techdgst.ru^
-||techgage.com^
-||techgarage.blog^
-||techhq.com^
-||techmaniacs.gr^
-||techmeme.com^
 ||technicianonline.com^
-||technikart.com^
-||technopolis.susu.ru^
-||techraptor.net^
-||techstrong.it^
-||techsutram.com^
-||techturco.com^
-||techverma.com^
-||techwhoknows.com^
-||tecnologiageek.com^
 ||teesdalemercury.co.uk^
 ||tehachapinews.com^
 ||tehelka.com^
 ||tehrantimes.com^
 ||tejaratnews.com^
 ||tejuka-lehti.fi^
-||tek.no^
-||tekniikkatalous.fi^
 ||telanganatoday.com^
 ||telanganatribune.com^
 ||telanon.info^
@@ -12359,7 +11806,6 @@
 ||telepolis.de^
 ||teleqraf.az^
 ||teleqraf.com^
-||teleshkronjapost.com^
 ||telestar.fr^
 ||telesurenglish.net^
 ||telesurtv.net^
@@ -12377,7 +11823,6 @@
 ||temoignagechretien.fr^
 ||temoignages.re^
 ||tempo.co^
-||tempo.com^
 ||teneriffa-news.com^
 ||tenews.org.ua^
 ||tengrinews.kz^
@@ -12422,7 +11867,6 @@
 ||tgcom24.mediaset.it^
 ||tghat.com^
 ||tgmax.it^
-||tgn.no^
 ||tgrthaber.com^
 ||tgrthaber.com.tr^
 ||tha.com.tr^
@@ -12438,12 +11882,9 @@
 ||tharrosnews.gr^
 ||thawra.sy^
 ||the-daily-record.com^
-||the-decoder.com^
-||the-decoder.de^
 ||the-dispatch.com^
 ||the-downballot.com^
 ||the-fed.net^
-||the-flow.ru^
 ||the-independent.com^
 ||the-japan-news.com^
 ||the-journal.com^
@@ -12462,7 +11903,6 @@
 ||the-underground.online^
 ||the-village.ru^
 ||the-world-now.com^
-||the5krunner.com^
 ||the74million.org^
 ||the961.com^
 ||theaccradailymail.com^
@@ -12598,7 +12038,6 @@
 ||thecolumbiastar.com^
 ||thecomet.net^
 ||thecomfortnews.com^
-||thecomicstoday.com^
 ||thecommonreview.org^
 ||thecommunityvoice.com^
 ||theconcordian.com^
@@ -12618,10 +12057,8 @@
 ||thecrimson.com^
 ||thecritic.co.uk^
 ||thecriticalreview.org^
-||thecultsbay.com^
 ||thecurbsidechronicle.org^
 ||thecurrency.news^
-||thecurrencyanalytics.com^
 ||thecurrent-online.com^
 ||thecurrent.pk^
 ||thecurrentla.com^
@@ -12648,13 +12085,11 @@
 ||thedaonline.com^
 ||thedartmouth.com^
 ||theday.com^
-||thedebrief.org^
 ||thedenmarknews.com^
 ||thederrick.com^
 ||thedesertreview.com^
 ||thedesk.net^
 ||thedetail.tv^
-||thedigitalweekly.com^
 ||thediplomat.com^
 ||thediplomatindia.com^
 ||thedispatch.com^
@@ -12687,7 +12122,6 @@
 ||theeyeopener.com^
 ||thef1formula.com^
 ||thefacts.com^
-||thefader.com^
 ||thefederal.com^
 ||thefederalist.com^
 ||theferndaleenterprise.com^
@@ -12734,7 +12168,6 @@
 ||theguardian.com^
 ||theguidon.com^
 ||theguru.co.kr^
-||thegww.com^
 ||thehansindia.com^
 ||thehardtimes.net^
 ||theharvardvoice.com^
@@ -12844,7 +12277,6 @@
 ||themadisonrecord.com^
 ||themagnoliapotpourri.com^
 ||themaineedge.com^
-||themakoreactor.com^
 ||themalaysianinsight.com^
 ||themalaysianreserve.com^
 ||themalaysiapost.com^
@@ -12854,7 +12286,6 @@
 ||themarkup.org^
 ||themarshallproject.org^
 ||themedialine.org^
-||themedicalstudent.co.uk^
 ||themedium.ca^
 ||themeghalayan.com^
 ||themelrosemessenger.org^
@@ -12872,7 +12303,6 @@
 ||themontclarion.org^
 ||themonthly.com.au^
 ||themorning.lk^
-||themorningnews.org^
 ||themorningsun.com^
 ||themoscowtimes.com^
 ||themountaineagle.com^
@@ -12964,7 +12394,6 @@
 ||thepeoplemagazine.co.kr^
 ||thepeoplesvoice.tv^
 ||thepeterboroughexaminer.com^
-||thephenomenonmag.com^
 ||thephiladelphiabulletin.com^
 ||thephiladelphiacitizen.org^
 ||thephoenix.ie^
@@ -13040,7 +12469,6 @@
 ||thesignpostwsu.com^
 ||thesimpsonian.com^
 ||thesiuslawnews.com^
-||thesixthaxis.com^
 ||theskanner.com^
 ||theskimm.com^
 ||thesmokymountaintimes.com^
@@ -13053,7 +12481,6 @@
 ||thespec.com^
 ||thespectrum.com^
 ||thespinoff.co.nz^
-||thestage.co.uk^
 ||thestandard.co^
 ||thestandard.com.hk^
 ||thestandard.com.ph^
@@ -13068,7 +12495,6 @@
 ||thestarpress.com^
 ||thestate.com^
 ||thestatesman.com^
-||thestatesmanindia.com^
 ||thestatesmanonline.com^
 ||thestival.gr^
 ||thestkittsnevisobserver.com^
@@ -13102,7 +12528,6 @@
 ||thetartan.org^
 ||thetartpaper.com^
 ||thetd.com^
-||thetechlantis.com^
 ||thetelegram.com^
 ||thetelegraph.com^
 ||thetelegraph.com.au^
@@ -13151,7 +12576,6 @@
 ||thewandererpress.com^
 ||thewashingtondailynews.com^
 ||thewashingtonsun.com^
-||theweather.com^
 ||theweek.co.uk^
 ||theweek.com^
 ||theweek.in^
@@ -13198,13 +12622,11 @@
 ||thisisafricaonline.com^
 ||thisisbeirut.com.lb^
 ||thisisexeter.co.uk^
-||thisisgame.com^
 ||thisismoney.co.uk^
 ||thisiswiltshire.co.uk^
 ||thisweekmedia.com^
 ||thmeythmey.com^
 ||thonline.com^
-||thr.com^
 ||threeriversnews.com^
 ||thueringen24.de^
 ||thueringer-allgemeine.de^
@@ -13236,7 +12658,6 @@
 ||timashevsk-zt.ru^
 ||time.com^
 ||time.kz^
-||timeextension.com^
 ||times-advocate.com^
 ||times-age.co.nz^
 ||times-gazette.com^
@@ -13348,11 +12769,9 @@
 ||tomanifesto.gr^
 ||tombstoneepitaph.com^
 ||tomdispatch.com^
-||tomshw.it^
 ||tonganoxiemirror.com^
 ||tooeleonline.com^
 ||toonippo.co.jp^
-||toornews.com^
 ||top-channel.tv^
 ||topic.ie^
 ||topics.or.jp^
@@ -13360,13 +12779,11 @@
 ||topky.sk^
 ||toppresa.bg^
 ||topwar.ru^
-||torgranate.de^
 ||torilehti.fi^
 ||torinotoday.it^
 ||torontostandard.com^
 ||torontosun.com^
 ||torontotoday.ca^
-||torquenews.com^
 ||torresette.news^
 ||torringtontelegram.com^
 ||tortoisemedia.com^
@@ -13374,8 +12791,6 @@
 ||totalcar.hu^
 ||totcerdanyola.cat^
 ||totenidag.no^
-||tottusinpari.it^
-||tourprom.ru^
 ||toute-la-franchise.com^
 ||toutiao.com^
 ||toutmontpellier.fr^
@@ -13394,7 +12809,6 @@
 ||trabajadores.cu^
 ||tracypress.com^
 ||tracysource.com^
-||tradewindsnews.com^
 ||tradingonline.com^
 ||traerstarclipper.com^
 ||traildailytimes.ca^
@@ -13406,10 +12820,6 @@
 ||transtelex.ro^
 ||transylvaniatimes.com^
 ||trashitaliano.it^
-||travelextra.ie^
-||traveloffpath.com^
-||travelpearls.ch^
-||travelweekly.com^
 ||traversesource.com^
 ||trbn.com.br^
 ||trelleborgsallehanda.se^
@@ -13495,10 +12905,8 @@
 ||tt.com^
 ||tt.se^
 ||ttela.se^
-||ttgdigital.com^
 ||tuairisc.ie^
 ||tuamherald.ie^
-||tuapppara.com^
 ||tubantia.nl^
 ||tucollegian.org^
 ||tucson.com^
@@ -13558,10 +12966,8 @@
 ||tvanouvelles.ca^
 ||tvcnews.tv^
 ||tvedestrandsposten.no^
-||tvfreaks.gr^
 ||tvilletimes.com^
 ||tvmag.com^
-||tvmaze.com^
 ||tvmidtvest.dk^
 ||tvmnews.mt^
 ||tvn-2.com^
@@ -13582,7 +12988,6 @@
 ||twentyfournews.com^
 ||twice.com^
 ||twincities.com^
-||twinfinite.net^
 ||twitchy.com^
 ||twnewsdaily.com^
 ||twreporter.org^
@@ -13615,7 +13020,6 @@
 ||ubyssey.ca^
 ||uc.kr.ua^
 ||ucanews.com^
-||ucg.cn^
 ||uchalinka.ru^
 ||ucsdguardian.org^
 ||udayavani.com^
@@ -13629,7 +13033,6 @@
 ||ugandaradionetwork.net^
 ||ugenserhverv.dk^
 ||ugluu.mn^
-||ugo.com^
 ||ugra-news.ru^
 ||uhia.revealdigital.org^
 ||ujember.hu^
@@ -13661,7 +13064,6 @@
 ||ulysmedia.kz^
 ||umaleht.ee^
 ||umanitanova.org^
-||umanity.jp^
 ||umdmedia.com^
 ||umdmitzpeh.com^
 ||umlauf.de^
@@ -13673,7 +13075,6 @@
 ||unbiasable.com^
 ||unbnews.org^
 ||uncmirror.com^
-||undeadly.org^
 ||underdusken.no^
 ||unfallgiganten.de^
 ||unfspinnaker.com^
@@ -13705,7 +13106,6 @@
 ||unomasuno.com.mx^
 ||unotv.com^
 ||unseen-japan.com^
-||unseen64.net^
 ||unsere-zeit.de^
 ||unt.se^
 ||unter-emmentaler.ch^
@@ -13721,9 +13121,7 @@
 ||upl.uz^
 ||uplift.com^
 ||upmedia.mg^
-||upozit.com^
 ||upressonline.com^
-||upsidetelevision.com^
 ||ur6sa6pd6b.search.serialssolutions.com^
 ||ura.news^
 ||ura.ru^
@@ -13745,7 +13143,6 @@
 ||usatoday.com^
 ||usbeketrica.com^
 ||usforacle.com^
-||usine-digitale.fr^
 ||usmfreepress.org^
 ||usnews.com^
 ||usustatesman.com^
@@ -13759,7 +13156,6 @@
 ||utrinski.com.mk^
 ||utrop.no^
 ||utsandiego.com^
-||utsvertigo.com^
 ||utusan.com.my^
 ||utusantv.com^
 ||utviraq.net^
@@ -13783,7 +13179,6 @@
 ||v-chelny.ru^
 ||v.daum.net^
 ||v1.ru^
-||v2.fi^
 ||v6velugu.com^
 ||vaasainsider.fi^
 ||vaasalehti.fi^
@@ -13797,7 +13192,6 @@
 ||valaszonline.hu^
 ||valdostadailytimes.com^
 ||valdostasource.com^
-||valenciafruits.com^
 ||valeursactuelles.com^
 ||valigiablu.it^
 ||valleycenter.com^
@@ -13820,7 +13214,6 @@
 ||vanguardia.com.mx^
 ||vanguardngr.com^
 ||vantaansanomat.fi^
-||vantechjournal.com^
 ||vanvoice.com^
 ||vaol.hu^
 ||varden.no^
@@ -13839,7 +13232,6 @@
 ||vasarnap.hu^
 ||vasilkov.info^
 ||vasluiexpres.ro^
-||vastgoedinsider.nl^
 ||vastgotabladet.se^
 ||vastranyland.fi^
 ||vatanemrooz.ir^
@@ -13868,7 +13260,6 @@
 ||vechufa.ru^
 ||vectorwire.ai^
 ||vedomosti.ru^
-||veintitres.com.ar^
 ||veja.abril.com.br^
 ||velskie-vesti.ru^
 ||venneslatidende.no^
@@ -13887,7 +13278,6 @@
 ||verler-leben.de^
 ||vermontdailychronicle.com^
 ||vermontwoman.com^
-||version2.dk^
 ||versionfinal.com.ve^
 ||verstka.media^
 ||vert.eco^
@@ -13922,20 +13312,15 @@
 ||vg-gazeta.by^
 ||vg.hu^
 ||vg.no^
-||vg247.com^
 ||vgorode.ua^
 ||vgoroden.ru^
 ||vgr.by^
-||vgtime.com^
-||vgtimes.com^
 ||viaempresa.cat^
 ||viborg-folkeblad.dk^
 ||vice.com^
-||victechjournal.com^
 ||victoriaadvocate.com^
 ||vidaenelvalle.com^
 ||videoageinternational.com^
-||videospiele.com^
 ||vien-dong.com^
 ||viendongonline.com^
 ||vienna.at^
@@ -13996,7 +13381,6 @@
 ||visionguinee.info^
 ||visionthai.net^
 ||visir.is^
-||visla.kr^
 ||visnik-press.com.ua^
 ||visnyk-irpin.com.ua^
 ||visnyk.lutsk.ua^
@@ -14099,8 +13483,6 @@
 ||vreme.com^
 ||vremya.ru^
 ||vremyan.ru^
-||vrgamecritic.com^
-||vrgames.by^
 ||vrtnws.be^
 ||vsd.fr^
 ||vsiknygy.net.ua^
@@ -14160,7 +13542,6 @@
 ||waou.com.mo^
 ||wapo.st^
 ||wapt.com^
-||wargamer.com^
 ||warminsterjournal.co.uk^
 ||warnerrobinspatriot.com^
 ||warontherocks.com^
@@ -14254,7 +13635,6 @@
 ||webun.jp^
 ||wedel-schulauer-tageblatt.de^
 ||wedge.ismedia.jp^
-||wedistribute.org^
 ||weekendavisen.dk^
 ||weekendpost.co.bw^
 ||weeklyblitz.net^
@@ -14289,7 +13669,6 @@
 ||westernadvocate.com.au^
 ||westerncarolinian.com^
 ||westerndailypress.co.uk^
-||westerndigs.org^
 ||westerneye.net^
 ||westerngazette.ca^
 ||westernherald.com^
@@ -14321,7 +13700,6 @@
 ||westvirginiawatch.com^
 ||westword.com^
 ||westyellowstonenews.com^
-||weszlo.com^
 ||wetterauer-zeitung.de^
 ||wfaa.com^
 ||wfae.org^
@@ -14338,9 +13716,7 @@
 ||wgxa.tv^
 ||whakatanebeacon.co.nz^
 ||whas11.com^
-||whatculture.com^
 ||whatfinger.com^
-||whatsnewinpublishing.com^
 ||whatsupkansascity.net^
 ||whatsuppub.com^
 ||whb.cn^
@@ -14371,12 +13747,9 @@
 ||wienerzeitung.at^
 ||wiesn.bayern^
 ||wigantoday.net^
-||wiig.de^
-||wiiinsider.de^
 ||wijchensnieuws.nl^
 ||wijzijndestad.com^
 ||wikinews.org^
-||wikinewsie.toolforge.org^
 ||wikitree.co.kr^
 ||wiler-nachrichten.ch^
 ||wilerzeitung.ch^
@@ -14395,7 +13768,6 @@
 ||winchester.wickedlocal.com^
 ||winchesternewsgazette.com^
 ||winchesterstar.com^
-||windowsitpro.com^
 ||windsorexpress.co.uk^
 ||windsorstar.com^
 ||windspeaker.com^
@@ -14408,10 +13780,8 @@
 ||winstedcitizen.org^
 ||wintersexpress.com^
 ||winterthurer-zeitung.ch^
-||winwin.com^
 ||wionews.com^
 ||wire.im^
-||wired.it^
 ||wireread.com^
 ||wirralglobe.co.uk^
 ||wirtschaftskurier.de^
@@ -14481,18 +13851,13 @@
 ||workingjournalistpress.com^
 ||workpointtoday.com^
 ||worksopguardian.co.uk^
-||worldboxingnews.com^
-||worldboxingnews.net^
-||worldcoffeeportal.com^
 ||worldjournal.com^
 ||worldnews.net.ph^
-||worldofreel.com^
 ||worldtimes.co.jp^
 ||wormser-zeitung.de^
 ||woroni.com.au^
 ||wort.lu^
 ||worthingherald.co.uk^
-||worthplaying.com^
 ||wowt.com^
 ||woxx.lu^
 ||woz.ch^
@@ -14627,18 +13992,14 @@
 ||xalqqazeti.az^
 ||xalqqazeti.com^
 ||xasb168.com^
-||xb1.co.uk^
 ||xdkb.net^
 ||xebat.net^
 ||xeniagazette.com^
-||xfire.com^
 ||xfrb.com.cn^
 ||xg9ax2jm9j.search.serialssolutions.com^
-||xgn.nl^
 ||xhby.net^
 ||xhnet.com^
 ||xiancn.com^
-||xiaomitoday.it^
 ||xibaaru.sn^
 ||xinhuanet.com^
 ||xinhuanet.ltd^
@@ -14655,7 +14016,6 @@
 ||xn--80aaajllkisg9bu3m.xn--p1ai^
 ||xn--a-1fa.no^
 ||xn--b1agapfwapgcl.xn--p1ai^
-||xn--b1akda1aagn5c3eg.xn--p1ai^
 ||xn--c1acbl2abdlkab1og.xn--p1ai^
 ||xn--h1aebnog.xn--p1ai^
 ||xn--lamaanaonline-lkb.com.ar^
@@ -14711,7 +14071,6 @@
 ||yerkramas.org^
 ||yesilgazete.org^
 ||yesweekly.com^
-||yfarmx.com^
 ||yhbtv.com^
 ||yicai.com^
 ||yicaiglobal.com^
@@ -14746,10 +14105,8 @@
 ||yourbasin.com^
 ||yourdailyglobe.com^
 ||yourgv.com^
-||yourkorea.life^
 ||yourlocalguardian.co.uk^
 ||yourottawaregion.com^
-||yourweather.co.uk^
 ||yourwestvalley.com^
 ||youth.cn^
 ||youth.rep.kp^
@@ -14768,17 +14125,14 @@
 ||yukonreview.net^
 ||yuldash-sputnik.ru^
 ||yumasun.com^
-||yurinavi.com^
 ||yurtgazetesi.com.tr^
 ||yuvaportal.com^
-||yystv.cn^
 ||z-krant.nl^
 ||z101digital.com^
 ||zabrab75.ru^
 ||zackzack.at^
 ||zadarskilist.hr^
 ||zahracleaning.com^
-||zaim.com^
 ||zak.tv^
 ||zakon.kz^
 ||zamana.info^
@@ -14885,7 +14239,6 @@
 ||zrpress.ru^
 ||zsz.ch^
 ||ztanews.ir^
-||ztgd.com^
 ||ztgzt.kz^
 ||zueriost.ch^
 ||zugerwoche.ch^
@@ -14894,7 +14247,6 @@
 ||zuqiubao.info^
 ||zurnal.info^
 ||zurnal.mk^
-||zurnal.rs^
 ||zurnal24.si^
 ||zuzeu.eus^
 ||zvezdaaltaya.ru^

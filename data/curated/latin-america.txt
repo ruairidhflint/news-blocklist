@@ -354,6 +354,7 @@ e-consulta.com             # e-consulta
 elceo.com                  # El CEO
 eldictamen.mx              # El Dictamen
 eleconomista.com.mx        # El Economista
+elecuanime.com             # El Ecuánime (Ciudad Valles and San Luis Potosí)
 elfinanciero.com.mx        # El Financiero
 eluniversal.com.mx         # El Universal
 excelsior.com.mx           # Excélsior

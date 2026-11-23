@@ -6,8 +6,10 @@
 2. Drops sites that the curated lists already cover, that data/allow.txt protects,
    that sit on government or education domains, or whose website is only a page
    on a shared host (`example.com/news`).
-3. Never adds a site on a popular domain (Tranco top N) automatically: those go to
-   data/generated/review.txt for a person to decide.
+3. Never adds a site automatically if its domain is popular (Tranco top N) or it
+   looks like a specialist outlet (gaming, tech, trade press, weather …) from its
+   Wikidata description, genre or hostname: those go to data/generated/review.txt
+   for a person to decide.
 4. Keeps only sites that still resolve in DNS.
 5. Probes common subdomains (www, m, amp, edition, …) of every entry so the
    hosts-format lists, which can only block exact names, cover the names people use.
@@ -73,11 +75,40 @@ INSTITUTIONAL_LABELS = {
 SITE_ROOT_PATH = re.compile(
     r"^/?(index\.(html?|php|aspx?|jsp)|default\.aspx?|home|[a-z]{2}([-_][a-z]{2,4})?/?)?$", re.I)
 
-# Hostnames containing these words are sports, music, film or games outlets: out of scope.
-# Only applied to sites added automatically from Wikidata.
-OFF_TOPIC_WORDS = re.compile(
-    r"sport|soccer|football|futbol|fussball|cricket|rugby|golf|tennis|baseball|basketball|hockey|"
-    r"racing|motorsport|music|metal|movie|cinema|kino|anime|manga|gaming|videogame")
+# Signs that a Wikidata "news website" or "newspaper" is a specialist outlet, which is out of
+# scope. These are hints, not proof (a "Tech" student paper, the Weatherford Democrat), so a
+# match sends the site to the review queue instead of adding it.
+SPECIALIST_TEXT = re.compile("|".join([
+    r"video ?games?|\bgam(e|es|ing|er|ers)\b|esports?",
+    r"weather|meteorolog|forecast",
+    r"crypto|bitcoin|blockchain|web3|\bnfts?\b",
+    r"casino|gambling|betting|poker|lotter|kansspel",
+    r"pharma|healthcare|health care|medical|medicine|\bhealth news",
+    r"trade (publication|magazine|journal|newspaper|press|paper)|business-to-business|\bb2b\b|\bindustry\b",
+    r"technolog|\btech\b|software|programming|computer|gadget|smartphone|internet culture|\bit news",
+    r"motorcycl|automotive|\bcars?\b|motoring|aviation|airline|aircraft|railway|maritime|shipping",
+    r"\btravel|tourism",
+    r"\bbeers?\b|\bwines?\b|winer(y|ies)|brewing|\bfood\b|cooking|recipes?|culinary",
+    r"agricultur|\bfarming\b|\bfarmers?\b",
+    r"fashion|beauty|lifestyle|celebrit|gossip|showbiz|entertainment (news|website|magazine|portal|media)",
+    r"\bfilms?\b|\bmovies?\b|cinema|television series|\bmusic|anime|manga|comics?\b",
+    r"\bsports? (news|website|newspaper|magazine|portal|daily|media)|football|soccer|cricket|basketball|"
+    r"baseball|golf|tennis|hockey|rugby|racing|motorsport|athletics",
+    r"\bscience\b|scientific|astronom|spaceflight",
+    r"real estate|\bproperty\b",
+    r"employment|recruitment|\bjobs?\b",
+    r"wikimedia|wikipedia|toolforge",
+    r"forex|personal finance",
+]), re.I)
+SPECIALIST_HOST = re.compile(
+    r"gam(e|er|ing)|esport|weather|meteo|wetter|crypto|bitcoin|blockchain|casino|poker|betting|beer|wine|"
+    r"motor|pharma|travel|recipe|fashion|anime|manga|music|movie|cinema|kino|sport|soccer|football|futbol|"
+    r"fussball|cricket|rugby|golf|tennis|hockey|basketball|baseball|racing|tech|^shop\.|^store\.")
+# A description like "newspaper in Hattiesburg" outweighs a keyword in the hostname.
+GENERAL_NEWS = re.compile(
+    r"politic|current affairs|general news|breaking news|local news|national news|world news|regional news|"
+    r"news agency|(news)?paper (in|of|for|from|published|based|serving|covering)|student (news|newspaper|paper)|"
+    r"daily newspaper|weekly newspaper|community newspaper|news and information", re.I)
 
 PROBE_PREFIXES = ["www", "m", "mobile", "amp", "edition", "news", "lite", "en", "uk", "us", "feeds", "rss"]
 
@@ -185,15 +216,47 @@ def fetch_items(values: list[str], prop: str) -> list[tuple[str, str, int]]:
     return rows
 
 
-def excluded_items(classes: set[str], subjects: set[str]) -> set[str]:
-    """Items with a website that are instances of `classes` or whose genre or main subject is in `subjects`."""
+def excluded_items(items: set[str], classes: set[str], subjects: set[str]) -> set[str]:
+    """The `items` that are instances of `classes`, or whose genre or main subject is in `subjects`."""
     found: set[str] = set()
-    for values, path in ((sorted(classes), "wdt:P31"), (sorted(subjects), "wdt:P136|wdt:P921")):
-        for i in range(0, len(values), 60):
-            chunk = " ".join(f"wd:{q}" for q in values[i:i + 60])
-            rows = sparql(f"SELECT DISTINCT ?item WHERE {{ VALUES ?x {{ {chunk} }} ?item {path} ?x ; wdt:P856 [] . }}")
-            found |= {qid(r, "item") for r in rows}
+    ordered = sorted(items, key=lambda q: int(q[1:]))
+    for i in range(0, len(ordered), 400):
+        values = " ".join(f"wd:{q}" for q in ordered[i:i + 400])
+        rows = sparql(f"SELECT ?item ?p ?v WHERE {{ VALUES ?item {{ {values} }} "
+                      f"VALUES ?p {{ wdt:P31 wdt:P136 wdt:P921 }} ?item ?p ?v . }}")
+        for r in rows:
+            v = qid(r, "v")
+            if (v in classes) if r["p"]["value"].endswith("P31") else (v in subjects):
+                found.add(qid(r, "item"))
     return found
+
+
+def describe(items: list[str]) -> dict[str, dict[str, str]]:
+    """English label, description and genre/main-subject labels for each item."""
+    result: dict[str, dict[str, str]] = {}
+    for i in range(0, len(items), 400):
+        values = " ".join(f"wd:{q}" for q in items[i:i + 400])
+        rows = sparql(f"""SELECT ?item ?label ?desc (GROUP_CONCAT(DISTINCT ?sl; separator=" | ") AS ?subjects) WHERE {{
+          VALUES ?item {{ {values} }}
+          OPTIONAL {{ ?item rdfs:label ?label FILTER(lang(?label) = "en") }}
+          OPTIONAL {{ ?item schema:description ?desc FILTER(lang(?desc) = "en") }}
+          OPTIONAL {{ ?item wdt:P136|wdt:P921 ?s . ?s rdfs:label ?sl FILTER(lang(?sl) = "en") }}
+        }} GROUP BY ?item ?label ?desc""")
+        for r in rows:
+            result[qid(r, "item")] = {k: r[k]["value"] for k in ("label", "desc", "subjects") if r.get(k, {}).get("value")}
+    return result
+
+
+def specialist_reason(host: str, info: dict[str, str]) -> str | None:
+    """Why a site looks like a specialist outlet rather than general news, if it does."""
+    for field, name in (("desc", "description"), ("subjects", "genre/subject")):
+        hit = SPECIALIST_TEXT.search(info.get(field, ""))
+        if hit:
+            return f"{name} mentions “{hit.group(0).lower()}”"
+    hit = SPECIALIST_HOST.search(host)
+    if hit and not GENERAL_NEWS.search(info.get("desc", "")):
+        return f"hostname contains “{hit.group(0).lower()}”"
+    return None
 
 
 def labels(items: list[str]) -> dict[str, str]:
@@ -385,7 +448,7 @@ def main() -> int:
     classes = (subclasses(include_tree) | include) - excluded_classes
     print(f"  {len(classes)} classes, {len(excluded_classes)} excluded, {len(genres)} genres")
     rows = fetch_items(sorted(classes), "P31") + fetch_items(sorted(genres), "P136")
-    skip_items = excluded_items(excluded_classes, subjects)
+    skip_items = excluded_items({item for item, _, _ in rows}, excluded_classes, subjects)
     print(f"  {len(rows)} website claims; {len(skip_items)} items skipped by class or subject")
 
     by_host: dict[str, dict] = {}
@@ -403,6 +466,7 @@ def main() -> int:
 
     auto: dict[str, str] = {}
     review: dict[str, tuple[int, str, str]] = {}
+    candidates: dict[str, tuple[str, int | None, str]] = {}
     # Names Wikidata knows under curated entries (cn.nytimes.com under nytimes.com): the
     # hosts-format lists can only block exact names, so these extend the curated entry.
     known_under: dict[str, set[str]] = {}
@@ -424,10 +488,21 @@ def main() -> int:
         if rank is not None and rank <= GUARD_RANK:
             # Popular domain: a person decides, whether the URL is the whole site or one section.
             review[host] = (rank, first_item, info["url"])
-        elif info["own"] and len(info["items"]) < SHARED_HOST_ITEMS and not OFF_TOPIC_WORDS.search(host):
+        elif info["own"] and len(info["items"]) < SHARED_HOST_ITEMS:
             # The URL is the site's root, and few items claim the host: it's the outlet's own site.
             # (On shared platforms such as x.blogspot.com that is still just this one site.)
-            auto[host] = f"{first_item} rank {rank}" if rank else first_item
+            candidates[host] = (first_item, rank, info["url"])
+
+    print(f"Reading descriptions of {len(candidates)} candidate sites")
+    described = describe(sorted({item for item, _, _ in candidates.values()}, key=lambda q: int(q[1:])))
+    specialist: dict[str, tuple[str, str, str]] = {}
+    for host, (item, rank, url) in candidates.items():
+        why = specialist_reason(host, described.get(item, {}))
+        if why:
+            specialist[host] = (why, item, url)
+        else:
+            auto[host] = f"{item} rank {rank}" if rank else item
+    print(f"  {len(specialist)} look like specialist outlets and go to the review queue")
 
     print(f"Probing subdomains of {len(curated_hosts)} curated entries")
     names = probe(sorted(curated_hosts), resolver)
@@ -437,8 +512,11 @@ def main() -> int:
               "so nothing was written", file=sys.stderr)
         return 3
 
-    print(f"Checking DNS for {len(auto)} sites")
-    alive = resolver.many(set(auto) | {www_twin(h) for h in auto} | set().union(*known_under.values()))
+    print(f"Checking DNS for {len(auto) + len(specialist)} sites")
+    checked = set(auto) | set(specialist)
+    alive = resolver.many(checked | {www_twin(h) for h in checked} | set().union(*known_under.values()))
+    # Dead specialist sites aren't worth a person's time: drop them from the review queue.
+    specialist = {h: v for h, v in specialist.items() if alive.get(h) or alive.get(www_twin(h))}
     previous = read_wikidata_file()
     kept: dict[str, str] = {}
     for host, item in auto.items():
@@ -469,16 +547,23 @@ def main() -> int:
     if dead:
         print(f"  {len(dead)} curated entries don't resolve: {' '.join(dead)}")
 
-    print(f"Writing review queue ({len(review)} popular sites)")
+    print(f"Writing review queue ({len(review)} popular sites, {len(specialist)} possible specialists)")
     named = labels(sorted({item for _, item, _ in review.values()}))
     lines = [
-        "# Generated by scripts/refresh.py. Popular sites that Wikidata lists as news outlets,",
-        "# not yet in data/curated/ or data/allow.txt. Add each to a curated file (block it) or to",
-        "# allow.txt (don't). rank = Tranco rank of the registrable domain.",
+        "# Generated by scripts/refresh.py. Sites Wikidata lists as news outlets that need a person",
+        "# to decide, because they're popular or look like specialist outlets. None of them is",
+        "# blocked yet. Add each to a curated file (block it) or to data/allow.txt (don't).",
         f"# Updated: {today}",
+        "",
+        "# Popular sites (rank = Tranco rank of the registrable domain)",
     ]
     for host, (rank, item, url) in sorted(review.items(), key=lambda kv: kv[1][0]):
         lines.append(f"{host}  # rank {rank} · {named.get(item, item)} ({item}) · {url}")
+    lines += ["", "# Possible specialist outlets (gaming, tech, trade press, weather …): in scope only if general news"]
+    for host, (why, item, url) in sorted(specialist.items()):
+        info = described.get(item, {})
+        desc = info.get("desc", "no description")
+        lines.append(f"{host}  # {why} · {info.get('label', item)} ({item}) · {desc} · {url}")
     REVIEW_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return 0
 

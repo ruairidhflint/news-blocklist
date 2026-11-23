@@ -52,6 +52,75 @@ genre Q141741440  # political magazine
 -Q107181454   # shopping guide
 -Q105004703   # news photo agency (stock photo libraries)
 -Q498267      # news aggregator software (feed readers); aggregators are curated by hand
+-Q72398691    # video game news website (a subclass of news website)
+-Q107667728   # esports news website
+-Q111038019   # sports news website
+-Q69662460    # video game magazine
+-Q685935      # trade magazine
+-Q106635283   # industry newspaper
+-Q106668535   # medical newspaper
+-Q106668332   # legal newspaper
+-Q106651073   # agricultural newspaper
+-Q106635276   # maritime newspaper
+-Q1824338     # music magazine
+-Q15253354    # art magazine
+-Q1368848     # literary magazine
+-Q1791899     # cultural magazine
+-Q3399338     # science fiction magazine
+-Q1911105     # popular science magazine
+-Q6545508     # lifestyle magazine
+-Q1059863     # women's magazine
+-Q1029418     # children's magazine
+-Q1416251     # gossip magazine
+-Q568765      # sports magazine
+-Q2784039     # inflight magazine
+-Q614289      # Pennysaver (free advertising papers)
+-Q5633421     # scientific journal
+-Q737498      # academic journal
+-Q1327300     # electronic journal
+
+# Things Wikidata also calls a news site or newspaper that aren't news outlets
+-Q55341040    # video game database
+-Q1137109     # video game publisher
+-Q867242      # comics anthology
+-Q14406742    # comic book series
+-Q24897257    # webcomic website
+-Q11074464    # pornography website
+-Q4382945     # online shop
+-Q587992      # comparison shopping website
+-Q39827535    # online chess playing site
+-Q580148      # employment website
+-Q125265855   # classified advertising website
+-Q1276157     # travel website
+-Q105543920   # health portal
+-Q29043181    # sports database
+-Q86470233    # anime and manga database
+-Q84863712    # television series database
+-Q130735522   # online film database
+-Q1340449     # review site
+-Q3491832     # review aggregator
+-Q107355827   # Wikimedia tool hosted on Toolforge
+-Q128693001   # Wikimedia semi-automated tool
+-Q51139628    # Wikidata front end
+-Q24579448    # podcast directory
+-Q897682      # business directory
+-Q327349      # web directory
+-Q102336293   # live streaming service
+-Q59152282    # video streaming service
+-Q2462003     # instant messaging client
+-Q105611      # hedge fund
+-Q285759      # insurance broker
+-Q1416431     # financial intermediary
+-Q90285334    # chemical company
+-Q120691997   # market research institute
+-Q7315155     # research center
+-Q2178147     # trade association
+-Q5398426     # television series
+-Q526877      # web series
+-Q1107679     # animation studio
+-Q1762059     # film production company
+-Q368290      # film distributor
+-Q16002093    # video aggregator
 
 # Outlets whose genre (P136) or main subject (P921) is one of these are out of scope
 -subject Q349       # sport

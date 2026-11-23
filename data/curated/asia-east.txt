@@ -262,6 +262,7 @@ businesstimes.com.sg  # The Business Times
 channelnewsasia.com   # CNA (Channel NewsAsia)
 mothership.sg         # Mothership
 mustsharenews.com     # MS News
+ruibao.news           # SharpPost (Ruibao)
 straitstimes.com      # The Straits Times
 theedgesingapore.com  # The Edge Singapore
 theindependent.sg     # The Independent Singapore
@@ -358,6 +359,7 @@ twreporter.org         # The Reporter
 udn.com                # United Daily News; mixed: also blocks udn blog and udn reading
 upmedia.mg             # Up Media
 wealth.com.tw          # Wealth Magazine
+zmedia.com.tw          # Z.Media (political news)
 
 # === Thailand ===
 bangkokbiznews.com  # Bangkok Biz News

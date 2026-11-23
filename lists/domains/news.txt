@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: one hostname per line; exact names, subdomains listed separately
-# Entries: 32,298
-# Last modified: 2026-11-23 11:20 UTC
+# Entries: 30,992
+# Last modified: 2026-11-23 12:19 UTC
 #
 021.rs
 021east.com
@@ -16,7 +16,6 @@
 056.ua
 057.ua
 061.ua
-1001beers.bg
 100komma7.lu
 10news.com
 10news.com.au
@@ -54,7 +53,6 @@
 20min.ch
 20minutes.fr
 20minutos.es
-20wattsmagazine.com
 218tv.net
 21jingji.com
 21news.be
@@ -89,7 +87,6 @@
 26sep.net
 27avril.com
 29.ru
-2duerighe.com
 2gb.com
 2theadvocate.net
 338canada.com
@@ -109,9 +106,6 @@
 48hills.org
 4bc.com.au
 4bcaonline.com
-4gamers.co.th
-4gamers.com.tw
-4p.de
 5-tv.ru
 5.ua
 51.ru
@@ -171,11 +165,9 @@
 93.ru
 964media.com
 970universal.com
-972mag.com
 985fm.ca
 9news.com
 9news.com.au
-9to5linux.com
 a-pravda.ru
 a-radio.net
 a1on.mk
@@ -184,7 +176,6 @@ a24.com
 a2larm.cz
 a2news.com
 a2prl.fr
-a9vg.com
 aa.com.tr
 aachener-nachrichten.de
 aachener-zeitung.de
@@ -242,7 +233,6 @@ abcnoticias.com
 abcnoticias.mx
 abcnyheter.no
 abctlx.com
-abendblatt-berlin.de
 abendblatt.de
 abendzeitung-muenchen.de
 aberdeennews.com
@@ -304,7 +294,6 @@ ad.nl
 adaderana.lk
 adaicon.com
 adalet.az
-adcf.org
 addisadmassnews.com
 addisfortune.news
 addisonindependent.com
@@ -328,13 +317,9 @@ adngad.net
 adnkronos.com
 adnradio.cl
 adomonline.com
-adoredtv.com
 adressa.no
-adtechradar.com
 advancemonticellonian.com
 advantagenews.com
-adventure-treff.de
-adventuregamers.com
 advertisergleam.com
 advertisernews.biz
 advocate-news.com
@@ -342,7 +327,6 @@ advocate.com
 advokatwatch.dk
 adygvoice.ru
 aera.gr
-aerotechnews.com
 affaritaliani.it
 affarsvarlden.se
 affiches.fr
@@ -360,7 +344,6 @@ africaguinee.com
 africanarguments.org
 africanclimatewire.org
 africanews.com
-africanmirrorusa.com
 africannewsagency.com
 africapresse.com
 afrik.com
@@ -371,7 +354,6 @@ aftabeyazd.ir
 aftabnews.ir
 aftenbladet.no
 aftenposten.no
-aftermath.site
 afternoonvoice.com
 aftonbladet.se
 agara.co.jp
@@ -392,13 +374,11 @@ agendamagasin.no
 agendapublica.elpais.com
 agenparl.eu
 agensir.it
-agentmodeai.com
 agents.media
 agenzianova.com
 agerpres.ro
 agi.it
 agile-news.com
-aglanews.com
 agn.gt
 agniban.com
 agon.gr
@@ -422,7 +402,6 @@ ahotsa.info
 ahram.org.eg
 ahwatukee.com
 aib.media
-aibites.press
 aidas.lt
 aidas.us
 aif.ru
@@ -434,7 +413,6 @@ aina.org
 aip.ci
 air-cosmos.com
 airforcetimes.com
-airwaysmag.com
 aisnenouvelle.fr
 aistockwire.com
 ait-online.de
@@ -547,7 +525,6 @@ albanyherald.com
 albawabhnews.com
 albayan.ae
 albayane.press.ma
-albconnection.com
 albertleatribune.com
 albiladpress.com
 albionmonitor.com
@@ -590,7 +567,6 @@ alhurra.com
 alibi.com
 aliceechonews.com
 alicenow.com.au
-aliennews.co.il
 alikonline.ir
 alingsastidning.se
 alithia.com.cy
@@ -735,11 +711,9 @@ amazoniareal.com.br
 ambebi.ge
 ambito.com
 amc215.com
-amednews.com
 ameliarueda.com
 amennews.com
 amensagem.pt
-america-mag.com
 americaeconomia.com
 americanbanker.com
 americancanyoneagle.com
@@ -750,7 +724,6 @@ americanisraelite.com
 americanomedia.com
 americanpress.com
 americanthinker.com
-americanwineryguide.com
 americaoutloud.news
 americustimesrecorder.com
 amerika21.de
@@ -1113,7 +1086,6 @@ apne.ws
 apnews.com
 apollo-news.net
 apollo.lv
-aponet.de
 apostrophe.ua
 app.com
 app.com.pk
@@ -1162,14 +1134,12 @@ arcananews.com
 archdaily.cl
 archdaily.cn
 archdaily.com.br
-archiletras.com
 archives.yvelines.fr
 archpaper.com
 arcinfo.ch
 arctimes.com
 ardmoreite.com
 ardrossanherald.com
-areagames.de
 areanewsgroup.com
 aredacao.com.br
 areena.yle.fi
@@ -1187,7 +1157,6 @@ argusobserver.com
 arguspers.nl
 arh.mk.ru
 ariananews.af
-ariase.com
 aripaev.ee
 arise.tv
 aristeguinoticias.com
@@ -1211,10 +1180,8 @@ arogyadaily.com
 aroundosceola.com
 aroundprague.cz
 arranbanner.co.uk
-arretsurimages.net
 arstadposten.no
 arsvest.ru
-arte.it
 arthasarokar.com
 article-14.com
 articulo14.es
@@ -1277,7 +1244,6 @@ assamiyakhabor.com
 assamtribune.com
 assawsana.com
 assayha.net
-assignmentx.com
 association-rodina.ru
 ast.mk.ru
 astaga.co
@@ -1305,7 +1271,6 @@ athensnews.com
 athensohiotoday.com
 athensreview.com
 athensvoice.gr
-athleticsindia.com
 atholdailynews.com
 atinitonews.com
 atlantablackstar.com
@@ -1352,9 +1317,7 @@ austagderblad.no
 austinchronicle.com
 austindailyherald.com
 austinmonitor.com
-australiangamer.com
 authorityngr.com
-automaton-media.com
 autonomija.info
 av-avis.no
 av.pl.ua
@@ -1388,17 +1351,14 @@ avoyellestoday.com
 avozdetrasosmontes.pt
 avozdevilalba.gal
 avpress.com
-avsim.com
 avtimes.net
 avvenire.it
 avvenirelavoratori.eu
 avvir.no
 awamiawaz.com
-awardswatch.com
 awate.com
 awedis.ormianie.pl
 awemainta.com
-awfulannouncing.com
 awi.defensenews.com
 awokonewspapersl.com
 awp.ch
@@ -1406,12 +1366,10 @@ awp.is
 axar.az
 axios.com
 axynewsglobal.com
-axyo.de
 aydinlik.com.tr
 aydinlikgazete.com
 ayibopost.com
 aysor.am
-ayther.fr
 az-landshut.de
 az-online.de
 az.com.na
@@ -1457,7 +1415,6 @@ babruisk.info
 babushahi.com
 bacauexpress.ro
 baccinoticias.com.br
-backily.com
 badaladas.pt
 badalnovas.com
 baden24.de
@@ -1512,7 +1469,6 @@ bancaynegocios.com
 bancroftthisweek.com
 band.com.br
 band.uol.com.br
-bandaancha.eu
 bandab.com.br
 bandao.cn
 bandera.org
@@ -1581,12 +1537,9 @@ bastropadvertiser.com
 bastropenterprise.com
 batesstudent.com
 bathchronicle.co.uk
-batiactu.com
 batimes.com.ar
 batonrougesource.com
 battlecreekenquirer.com
-bauernzeitung.ch
-bauernzeitung.de
 bavisa.no
 baxterbulletin.com
 bayanealyaoume.press.ma
@@ -1642,7 +1595,6 @@ bedfordshire-news.co.uk
 beedreporter.com
 beeld.co.za
 beenews.com
-behindwoods.com
 beijingreview.com.cn
 bekasi.tribunnews.com
 bel.ru
@@ -1656,7 +1608,6 @@ belga.be
 belganewsagency.eu
 belgienu.be
 belgrade-news.com
-belhalat.news
 belizetimes.bz
 bellacaledonia.org.uk
 bellingcat.com
@@ -1696,7 +1647,6 @@ beritasatu.com
 berkeleybarb.net
 berkeleydailyplanet.com
 berkeleyside.org
-berksconnect.com
 berkshireeagle.com
 berlin-live.de
 berlin247.net
@@ -1721,7 +1671,6 @@ besedanews.com
 besheva.co.il
 bestofneworleans.com
 beta.rs
-betakit.com
 bethanyclipper.com
 beto.cd
 betootaadvocate.com
@@ -1731,12 +1680,10 @@ beverlypress.com
 beverlyweekly.com
 bewusst.tv
 beyazgazete.com
-beyondparadiseadventures.com
 beznen.ru
 bfm.ru
 bfmtv.com
 bg-turk.com
-bg.mondediplo.com
 bgdailynews.com
 bgfalconmedia.com
 bgindependentmedia.org
@@ -1765,7 +1712,6 @@ bielarus.org
 bielbienne.com
 bielertagblatt.ch
 bienpublic.com
-biernet.nl
 big-rostov.ru
 bigbeargrizzly.net
 bigbearsource.com
@@ -1802,8 +1748,6 @@ bismarcktribune.com
 bisnis.com
 biss-magazin.de
 bit.me
-bitcoinbasis.de
-bitcultures.com
 bitterrootstar.com
 bivol.bg
 biz.sbs.co.kr
@@ -1823,7 +1767,6 @@ bjinformation.com
 bjnews.com.cn
 bjorklovet.com
 bjreview.com
-bkmedia.cn
 bkz.de
 blackagendareport.com
 blackchronicle.com
@@ -1846,7 +1789,6 @@ blesk.cz
 blic.rs
 blick-aktuell.de
 blick.ch
-blick.de
 blikk.hu
 blikopnieuws.nl
 bliteoc.com
@@ -1873,7 +1815,6 @@ blueandgoldtoday.org
 bluemountaineagle.com
 blueprint.ng
 blueridgenow.com
-bluesci.org
 blufftonicon.com
 blufftontoday.com
 bluradio.com
@@ -1894,7 +1835,6 @@ bnonews.com
 bnps.co.uk
 bnr.bg
 bnr.nl
-bns-news.com
 bns.ee
 bns.lt
 bns.lv
@@ -1904,7 +1844,6 @@ bobrlife.by
 bobruisk.ru
 bocabeacon.com
 bocojo.com
-boerenbusiness.nl
 boersen-kurier.at
 boersen-zeitung.de
 bohemian.com
@@ -1914,7 +1853,6 @@ boiseweekly.com
 bok365.no
 bokra.net
 boktugg.se
-bolavip.com
 boliviaverifica.bo
 bollettinosalesiano.it
 bolnews.com
@@ -1927,8 +1865,6 @@ bombaysamachar.com
 bomboradyo.com
 bomlo-nytt.no
 bon.tv
-bondbuyer.com
-bondebladet.no
 bondia.ad
 bondia.com
 bonginoreport.com
@@ -1941,7 +1877,6 @@ boon.hu
 boonesource.com
 boonevilledemocrat.com
 boonvilledailynews.com
-booska-p.com
 borba.me
 bordeaux7.com
 borderlandbeat.com
@@ -1984,7 +1919,6 @@ bournemouthecho.co.uk
 boursedirect.fr
 boutique.assabah.tn
 boutique.humanite.fr
-boutique.revue21.fr
 bowdoinorient.com
 bowenislandundercurrent.com
 boyacadigital.com
@@ -2041,7 +1975,6 @@ brisbanetimes.com.au
 bristolpost.co.uk
 bristolpress.com
 bristolworld.com
-britishpathe.com
 brivalatvija.lv
 brl.mk.ru
 brnensky.denik.cz
@@ -2079,7 +2012,6 @@ bt.no
 bt.se
 bt2ha9xt3y.search.serialssolutions.com
 bta.bg
-btc-echo.de
 btvnovinite.bg
 bucchake-housing.co.jp
 buckinghamshirelive.com
@@ -2099,7 +2031,6 @@ buerstaedter-zeitung.de
 buffalobeast.com
 buffalonews.com
 buglenewspapers.com
-buildersinfintech.ai
 bukamatanews.id
 bukedde.co.ug
 bukhariantimes.org
@@ -2225,14 +2156,12 @@ caixin.com
 caixinglobal.com
 calaverasenterprise.com
 calcalist.co.il
-calcalistech.com
 calcuttagazette.com
 caledonianrecord.com
 calexicochronicle.com
 calgarycitizen.com
 calgaryherald.com
 calgarysun.com
-calgarytechjournal.com
 calhealthreport.org
 caliber.az
 californiademocrat.com
@@ -2288,7 +2217,6 @@ cancertherapyadvisor.com
 cancha.com
 cand.com.vn
 caninsesi.com.tr
-caniplaythat.com
 cankaoxiaoxi.com
 canmoreleader.com
 cannarias.net
@@ -2304,7 +2232,6 @@ capecodonline.com
 capecodtimes.com
 capecoralsource.com
 capegazette.com
-capeia.com
 capemaytimes.com
 capenews.net
 capilanocourier.com
@@ -2352,7 +2279,6 @@ carolinajournal.com
 carrollcountytimes.com
 carrollnews.org
 carrollspaper.com
-carros.portaln10.com.br
 carsonvalleytimes.com
 cartacapital.com.br
 cartamz.com
@@ -2425,7 +2351,6 @@ cdsb.com
 cdt.ch
 ce.cn
 cebudailynews.inquirer.net
-cecam.org
 cecildaily.com
 cedarstreettimes.com
 ceh.com.cn
@@ -2441,7 +2366,6 @@ centralwesterndaily.com.au
 centredaily.com
 centrepresseaveyron.fr
 cenzolovka.rs
-ceowire.co
 cequilfautdetruire.org
 cerescourier.com
 ceskenoviny.cz
@@ -2492,7 +2416,6 @@ chathamthisweek.ca
 chattahoocheenews.com
 chausynews.by
 chayka.lv
-cheapassgamer.com
 cheb.mk.ru
 cheboygannews.com
 checherskivestnik.by
@@ -2568,7 +2491,6 @@ chosonsinbo.com
 chosun.com
 chouftv.ma
 chr.mk.ru
-christcenteredgamer.com
 christianpost.com
 christiantoday.co.jp
 christiantoday.com
@@ -2586,7 +2508,6 @@ chroniquepalestine.com
 chronline.com
 chronotype.com
 chuala.me
-chuapp.com
 chugoku-np.co.jp
 chulavistasource.com
 chungfadaily.com
@@ -2600,15 +2521,12 @@ cibercuba.com
 cicero.de
 cidadeverde.com
 cimac.org.mx
-cin.ba
 cincinnati.com
 cincodias.com
 cinecittanews.it
-cinescape.com
 cink.hu
 ciociariaoggi.it
 ciperchile.cl
-circleid.com
 circoloinvestitori.it
 circuit.news
 citibusinessnews.com
@@ -2640,13 +2558,11 @@ citypages.com
 citypaper.com
 citypress.co.za
 citypress.gr
-cityvillagenews.com
 cityweekly.net
 ciudadccs.info
 ciudadderosario.com
 civil.ge
 civilbeat.org
-civileats.com
 civilmedia.mk
 civilnet.am
 cjn.org
@@ -2667,7 +2583,6 @@ clarionledger.com
 clarkcountypublishing.com
 clarkecountydemocrat.com
 clarkecountytrib.com
-classicgameroom.com
 classmag.ru
 claxtonenterprise.com
 claycountyprogress.com
@@ -2710,7 +2625,6 @@ cmlt.ru
 cmmedia.com.tw
 cn.chinadaily.com.cn
 cn.kabar.kg
-cn.mondediplo.com
 cn.nikkei.com
 cn.nytimes.com
 cn.reuters.com
@@ -2757,7 +2671,6 @@ cocokala.jp
 coconuts.co
 codigocero.com
 coffscoastadvocate.com.au
-cogconnected.com
 coinagemag.com
 coinex-farsi.com
 coinworld.com
@@ -2794,9 +2707,7 @@ columbuspost.com
 columbustelegram.com
 come-on.de
 comercioyjusticia.info
-comhar.ie
 comillarkagoj.com
-commentaire.fr
 commentary.org
 comments.ua
 commercial-news.com
@@ -2808,7 +2719,6 @@ commonwealthbeacon.org
 commonwealthtimes.org
 commsupdate.com
 communa.ru
-community.lambdageneration.com
 community.triblive.com
 communityadvocate.com
 communityimpact.com
@@ -2818,7 +2728,6 @@ compact-online.de
 compactmag.com
 compassnewspaper.com.ng
 computerworld.dk
-computerworld.pl
 con-telegraph.ie
 concordiensis.com
 concordmonitor.com
@@ -2840,8 +2749,6 @@ conservativehome.com
 conservativereview.com
 conservativewoman.co.uk
 consortiumnews.com
-constructiondive.com
-constructionequipment.com
 contacto.lu
 contagionlive.com
 context.ro
@@ -2857,7 +2764,6 @@ contrariannews.org
 contraste.org
 contre-attaque.net
 contrepoints.org
-control-online.nl
 controverses.fr
 convertingmagazine.com
 convoca.pe
@@ -2873,7 +2779,6 @@ cope.es
 coppercourier.com
 corbeaunews-centrafrique.org
 cordeledispatch.com
-coretechdaily.com
 corkbeo.ie
 corkindependent.com
 corkman.ie
@@ -2898,7 +2803,6 @@ corriere.com
 corriere.it
 corriereadriatico.it
 corrierearetino.it
-corrieredellascienza.it
 corrieredelmezzogiorno.corriere.it
 corrieredelveneto.corriere.it
 corrieredelveneto.it
@@ -2967,7 +2871,6 @@ crainsnewyork.com
 cravenherald.co.uk
 crc891.com
 creativeloafing.com
-creators.com
 crestedbuttenews.com
 cretalive.gr
 crewechronicle.co.uk
@@ -2979,7 +2882,6 @@ crimea.mk.ru
 crimeapress.info
 crimetimesusa.com
 crimeworld.com
-criptovaluta.it
 criterio.hn
 criteriohidalgo.com
 critica-online.de
@@ -3007,9 +2909,7 @@ crtvg.es
 crusoe.com.br
 cruwsible.com.au
 cruxnow.com
-cryptotimes.io
 cs.com.cn
-cs3news.org
 csbj.com
 csemag.com
 csmonitor.com
@@ -3044,7 +2944,6 @@ cugat.cat
 cuindependent.org
 cullmantimes.com
 cultmontreal.com
-culturefix.co.uk
 culturu.com
 culvercityobserver.com
 cumberlandnewsnow.com
@@ -3071,7 +2970,6 @@ cvbugle.com
 cvlpress.ro
 cw.com.tw
 cwherald.com
-cyberinsider.com
 cyol.com
 cyprus-mail.com
 cyrustimes.com
@@ -3096,9 +2994,7 @@ dagensarbete.se
 dagensit.no
 dagensjuridik.se
 dagensmedia.se
-dagensmedicin.dk
 dagensmedicin.se
-dagensmedisin.no
 dagensopinion.se
 dagensperspektiv.no
 dagensps.se
@@ -3150,7 +3046,6 @@ dailycommercial.com
 dailydem.com
 dailydemocrat.com
 dailydesherkatha.com
-dailydetectivenews.com
 dailydispatch.co.za
 dailyecho.co.uk
 dailyemerald.com
@@ -3208,7 +3103,6 @@ dailynewsactivist.com
 dailynewsegypt.com
 dailynewstranscript.com
 dailynewstribune.com
-dailynewsvoyage.com
 dailynexus.com
 dailynigerian.com
 dailynk.com
@@ -3216,7 +3110,6 @@ dailynorthwestern.com
 dailyorange.com
 dailypakistan.com.pk
 dailypencil.com
-dailypharm.com
 dailypilot.com
 dailypioneer.com
 dailypost.co.uk
@@ -3252,7 +3145,6 @@ dailystorm.ru
 dailysun.co.za
 dailytargum.com
 dailytarheel.com
-dailytelefrag.ru
 dailytelegraph.com.au
 dailytexanonline.com
 dailythanthi.com
@@ -3314,8 +3206,6 @@ danspapers.com
 dantri.com.vn
 danviet.vn
 dap-news.com
-daraj.com
-daraj.media
 darientimes.com
 darlingtonandstocktontimes.co.uk
 dartreview.com
@@ -3323,8 +3213,6 @@ daryo.uz
 das-parlament.de
 dasecho.com
 dasgelbeblatt.de
-dasklapptsonicht.de
-daswetter.com
 datacameroon.com
 datadista.com
 datanoticias.com
@@ -3354,21 +3242,17 @@ dcnepal.com
 dcnews.ro
 dcourier.com
 dcreport.org
-dday.it
 dddkursk.ru
 de.helvetica.today
 de.herald.christianscience.com
 de.nachrichten.yahoo.com
-de.spaziocrypto.com
 de.syriafocus.com
-de.vgtimes.com
 debate.com.mx
 decaturdaily.com
 deccan.com
 deccanchronicle.com
 deccanherald.com
 declassifieduk.org
-decorrespondent.nl
 deduktif.id
 deebsmagazine.com
 deepika.com
@@ -3421,13 +3305,11 @@ democratv.org
 demokraatti.fi
 demokracija.si
 demokrata.hu
-demonews.de
 demopolistimes.com
 demorgen.be
 dempa-digital.com
 dempa-times.co.jp
 den-svenske.com
-dengekionline.com
 denik.cz
 denikalarm.cz
 denikn.cz
@@ -3645,15 +3527,11 @@ dieson.com
 digar.ee
 digboston.com
 diggers.news
-digi.no
 digi24.ro
 digital.izu-np.co.jp
 digital.odt.co.nz
 digitaledition.corriere.it
-digitallydownloaded.net
-digitalna.nsk.hr
 digitalpaper.stdaily.com
-digitalspy.co.uk
 dikaiologitika.gr
 diken.com.tr
 dillsburgbanner.net
@@ -3673,7 +3551,6 @@ directsoir.net
 direkt36.hu
 direkteaktion.org
 direktno.hr
-dishnation.com
 dispatch.co.kr
 dispatch.com
 dispatchlive.co.za
@@ -3692,7 +3569,6 @@ diyarname.com
 djcoregon.com
 djournal.com
 dl-online.com
-dlh.net
 dlib.si
 dmcityview.com
 dn.no
@@ -3758,8 +3634,6 @@ dontimes.ru
 donya-e-eqtesad.com
 doorcountyadvocate.com
 dordognelibre.fr
-dorfheftli.ch
-dormogodomotor.hu
 dorsetecho.co.uk
 dorzeczy.pl
 dosie102.te.ua
@@ -3779,8 +3653,6 @@ doverpost.com
 dowagiacnews.com
 downtownexpress.com
 downtownnews.com
-doxa.team
-doxajournal.ru
 dp.ru
 dpa-afx.de
 dpa.com
@@ -3793,7 +3665,6 @@ draugas.org
 drawmedia.net
 draytonvalleywesternreview.com
 dreptatea.ro
-drf.com
 driffieldtoday.co.uk
 driva.no
 drm24.no
@@ -3801,7 +3672,6 @@ drnamadhumgr.com
 drogheda-independent.ie
 droghedaleader.ie
 drogobych.com
-droid-life.com
 drome-hebdo.fr
 drone.jp
 dropsitenews.com
@@ -3815,7 +3685,6 @@ dt.se
 dt.ua
 dts-nachrichtenagentur.de
 dtv.walla.co.il
-dualshockers.com
 dubai.news
 dubawa.org
 dublinlive.ie
@@ -3914,11 +3783,9 @@ eastlondonadvertiser.co.uk
 eastmojo.com
 eastoregonian.com
 eastvalleytribune.com
-easyallies.com
 easyreadernews.com
 eatnews.net
 eavis.politiken.dk
-eb.live
 ebar.com
 ebc.et
 ebela.in
@@ -3938,7 +3805,6 @@ echo62.com
 echoancenis.fr
 echodnia.eu
 echoduberry.fr
-echofm.online
 echolive.ie
 echoofarunachal.in
 echoroukonline.com
@@ -4005,16 +3871,12 @@ edition.thehill.com
 edition.walesonline.co.uk
 edition.washingtonexaminer.com
 edition.welt.de
-editionarabediplo.com
 editorialedomani.it
 edmondsbeacon.com
 edmondsun.com
 edmontonexaminer.com
 edmontonjournal.com
 edmontonsun.com
-edn.com
-ednmag.com
-ednnews-12.com
 edp24.co.uk
 edsonleader.com
 edsource.org
@@ -4025,7 +3887,6 @@ eenvandaag.avrotros.nl
 eeo.com.cn
 efe.com
 efectococuyo.com
-effectstory.com
 effinghamdailynews.com
 efsyn.gr
 eg-online.ru
@@ -4034,7 +3895,6 @@ egcitizen.com
 egemen.kz
 eghtesadnews.com
 eghtesadonline.com
-egmnow.com
 egyptianstreets.com
 egyptindependent.com
 egypttoday.com
@@ -4045,8 +3905,6 @@ ehouse411.ca
 eikerbladet.no
 eilandennieuws.nl
 einayim.com
-einfach-tasty.de
-einsiedleranzeiger.ch
 eisamay.com
 eitb.eus
 eitb.tv
@@ -4093,7 +3951,6 @@ elbalad.news
 elbassair.dz
 elbe-weser-kurier.de
 elbilad.net
-elbocon.pe
 elbogotano.com.co
 elbuho.pe
 elcajonsource.com
@@ -4148,7 +4005,6 @@ eldiariony.com
 eldictamen.mx
 eldinamo.cl
 eldinero.com.do
-eldiplo.org
 eldjoumhouria.dz
 eldoce.tv
 eldoradonews.com
@@ -4158,6 +4014,7 @@ eleconomista.com.mx
 eleconomista.es
 electronicintifada.net
 electronictradinghub.com
+elecuanime.com
 eleditorplatense.com.ar
 eleftherostypos.gr
 elektra.elektroteknolog.se
@@ -4167,7 +4024,6 @@ elespecialitomk.com
 elespectador.com
 elestimulo.com
 eletestudomany.hu
-eletric-vehicles.com
 elevenmyanmar.com
 elfagr.org
 elfalconiano.com
@@ -4260,7 +4116,6 @@ elorientaldemonagas.com
 elpais.com
 elpais.com.co
 elpais.com.uy
-elpaisfinanciero.com
 elpasotimes.com
 elpatagonico.net
 elperiodico.cat
@@ -4372,9 +4227,7 @@ emaratalyoum.com
 emarathwadaneta.com
 embarcaderomediagroup.com
 emedia.sn
-emerce.nl
 emerging-europe.com
-emergingtravel.news
 emess.co.il
 emet73.ru
 emirates247.com
@@ -4517,7 +4370,6 @@ en.seoul.co.kr
 en.setopati.com
 en.shafaqna.com
 en.sindonews.com
-en.spaziocrypto.com
 en.sun.mv
 en.tass.ru
 en.tatoli.tl
@@ -4552,8 +4404,6 @@ enanyang.my
 enavabharat.com
 enca.com
 encyclopediasindhiana.org
-endpoints.studio
-endpts.com
 energi24.no
 energybulletin.net
 energybulletin.org
@@ -4567,7 +4417,6 @@ enfoquenayarit.com
 eng.chinamil.com.cn
 eng.kavkaz-uzel.eu
 eng.lsm.lv
-engevitynews.com
 english.aawsat.com
 english.ahram.org.eg
 english.alahednews.com.lb
@@ -4595,7 +4444,6 @@ ens-newswire.com
 ensegundos.com.pa
 ensegundos.do
 ensonhaber.com
-entarabi.com
 entekhab.ir
 enterprise-journal.com
 enterprise.press
@@ -4604,8 +4452,6 @@ enterprisenews.com
 enterprisepub.com
 enterprisepublications.com
 entomologytoday.org
-entreemagazine.nl
-eo.mondediplo.com
 eons.fr
 epa.eu
 epaper.21jingji.com
@@ -4648,7 +4494,6 @@ epaper.xxsb.com
 epaper.zqrb.cn
 epaperhimalayadarpan.com
 epd.de
-epdaily.tv
 epe.es
 epgn.com
 epicenter.bg
@@ -4657,7 +4502,6 @@ epigram.org.uk
 epiteszforum.hu
 epl.delfi.ee
 epl.ee
-epn.tv
 epocanegocios.globo.com
 epoch.org.il
 epochtimes.co.il
@@ -4699,8 +4543,6 @@ es-us.noticias.yahoo.com
 es.hu
 es.mercopress.com
 es.rfi.fr
-es.spaziocrypto.com
-es.vgtimes.com
 esaimaa.fi
 esakal.com
 esamaad.com
@@ -4735,7 +4577,6 @@ eszak.hu
 etc.se
 etela.com
 etemadnewspaper.ir
-eternia.fr
 ethiopia-insight.com
 ethiopianreporter.com
 ethiopiaobserver.com
@@ -4754,16 +4595,12 @@ eu.patriotledger.com
 eub.no
 eugenedailynews.com
 eugeneweekly.com
-eujacksonville.com
 euobserver.com
 euractiv.com
 eurasianet.org
 euro.cz
 euro2day.gr
-eurogamer.es
-eurogamer.pl
 eurointegration.com.ua
-euromag.ru
 euromaidanpress.com
 euronews.al
 euronews.com
@@ -4802,7 +4639,6 @@ eveningtelegraph.co.uk
 eveningtimes.co.uk
 eveningtribune.com
 eventsinfocus.org
-everyeye.it
 everythinggp.com
 everythreeweekly.com
 eviathema.eu
@@ -4831,14 +4667,12 @@ examinerlive.co.uk
 excal.on.ca
 excelsior.com.mx
 exclusive.kz
-exclusivelygames.com
 executivedigest.sapo.pt
 exepose.com
 exit.al
 exitosanoticias.pe
 exmoo.com
 exmouthjournal.co.uk
-exp.de
 expansao.co.ao
 expansion.com
 expansion.mx
@@ -4880,7 +4714,6 @@ exxpress.at
 eyeradio.org
 eyesnews.cn
 ezerzeme.lv
-ezredveg.hu
 f-b.no
 f1wm.pl
 fa.rfi.fr
@@ -4925,12 +4758,9 @@ famillechretienne.fr
 fanabc.com
 fanamc.com
 fanaposten.no
-fandomwire.com
-fandomwiremarketing.com
 fanpage.it
 fararu.com
 farmer.com.cn
-farmpresstheme.com
 farmvilleherald.com
 farnhamherald.com
 farodevigo.es
@@ -5146,8 +4976,6 @@ fhtimes.com
 fidelio.hu
 fides.org
 fier-panda.fr
-fiercehealthcare.com
-fiercepharma.com
 fifetoday.co.uk
 fiftyfifty-galerie.de
 figaroscope.fr
@@ -5156,7 +4984,6 @@ fijisun.com.fj
 fijitimes.com
 fijivillage.com
 filipinoreporter.us
-filmdaily.co
 filodimos.gr
 filosofisksupplement.no
 filternyheter.no
@@ -5164,9 +4991,7 @@ fin24.com
 finance-commerce.com
 finance.si
 finance.sina.com.cn
-finance.ua
 finance.yahoo.com
-financialadvsr.com
 financialexpress.com
 financialmirror.com
 financialnews.com.cn
@@ -5187,7 +5012,6 @@ finnmarken.no
 finnmarksposten.no
 finnvalleyvoice.com
 finsktidskrift.fi
-finwire.pl
 fip.am
 firda.no
 firdaposten.no
@@ -5218,14 +5042,11 @@ flathatnews.com
 flatheadbeacon.com
 flatoday.com
 flauntweekly.com
-flayrah.com
 fleetwoodtoday.co.uk
 flensborg-avis.de
 flensburgjournal.de
 flevopost.nl
-flightsim.com
 flintas.lt
-flintside.com
 flipboard.com
 flippinonline.com
 flkeysnews.com
@@ -5249,7 +5070,6 @@ focusmalaysia.my
 focusnewspaper.com
 focustaiwan.tw
 focusvif.be
-fodevarewatch.dk
 foinse.ie
 fokus.media.pl
 fokus.mk
@@ -5263,21 +5083,17 @@ folhape.com.br
 folhapress.com.br
 folhavitoria.com.br
 folioweekly.com
-foljeton.dk
 folk-rovere.org
 folkbladet.nu
 folkbladet.se
-folkculture.in
 folkebladet.no
 folketidende.dk
 folsomtelegraph.com
-fomos.kr
 fondukraine.com
 fonikastorias.gr
 fontanaheraldnews.com
 fontanasource.com
 fontanka.ru
-foochia.com
 forbes.com
 forbes.com.br
 forbes.com.mx
@@ -5302,7 +5118,6 @@ forsythnews.com
 fortbendstar.com
 fortmacleodgazette.com
 fortmorgantimes.com
-fortressofsolitude.co.za
 fortsaskatchewanrecord.com
 fortuna-gazeta.com.ua
 fortune.com
@@ -5360,9 +5175,7 @@ fr.lebriefpatrimonial.fr
 fr.legit.ng
 fr.news.yahoo.com
 fr.reuters.com
-fr.spaziocrypto.com
 fr.timesofisrael.com
-fr.vgtimes.com
 fr.yna.co.kr
 fr.zenit.org
 fr.zero-bullshit.fr
@@ -5383,7 +5196,6 @@ franceinfo.fr
 francesoir.fr
 francetvinfo.fr
 franchisetimes.com
-frandroid.com
 frankenpost.de
 franklincountytimes.com
 franklinsun.com
@@ -5424,7 +5236,6 @@ fretta.no
 frettabladid.is
 friatider.se
 fridae.asia
-friday.com.ua
 fridolin.ch
 friends.politica.media
 frieschdagblad.nl
@@ -5480,7 +5291,6 @@ furniturestyle.com
 furtherafrica.com
 futuremedway.co.uk
 futuresmag.com
-futurity.org
 fuw.ch
 fvcurrent.com
 fvn.no
@@ -5496,7 +5306,6 @@ gabonactu.com
 gabonmediatime.com
 gabonreview.com
 gaboteur.ca
-gadgeek.in
 gadsdenmessenger.com
 gadsdentimes.com
 gaeta.it
@@ -5519,56 +5328,7 @@ gallupindependent.com
 galwaybeo.ie
 galwaydaily.com
 galychyna.if.ua
-gamaxx.de
-gamazine.de
-game-revolution.com
 game.donga.com
-gameblog.fr
-gamecaptain.de
-gamecrate.com
-gamedaily.biz
-gamegrin.com
-gameguru.ru
-gameign.com
-gameindustry.com
-gameishard.gg
-gamekult.com
-gamemag.ru
-gamemeca.com
-gameplanet.co.nz
-gameplanet.com.au
-gamepressure.com
-gamepro.de
-gamequarter.be
-gamer.no
-gameradio.de
-gameranx.com
-gamerbraves.com
-gamercafe.cl
-gamereactor.se
-gamerevolution.com
-gamergen.com
-gamers.de
-gamersglobal.de
-games.ch
-games.gg
-games.tiscali.cz
-gamesaktuell.de
-gamesbeat.com
-gamesfire.at
-gameskinny.com
-gamesmania.de
-gamespark.jp
-gamespew.com
-gamestm.co.uk
-gameswelt.at
-gameswelt.ch
-gameswelt.de
-gamewatcher.com
-gamezebo.com
-gamezombie.tv
-gamezoom.net
-gamigo.de
 gammag.com
 ganaadhikar.com
 ganadabi.com
@@ -5581,13 +5341,11 @@ gandul.ro
 ganto.co
 gants.by
 garadvest.by
-garfieldmagazin.hu
 garhwalpost.in
 garnett-ks.com
 garoweonline.com
 gasteizhoy.com
 gastongazette.com
-gastroendonews.com
 gat.no
 gatchina-news.ru
 gateway.thedigitel.com
@@ -5596,7 +5354,6 @@ gatoencerrado.news
 gauchazh.clicrbs.com.br
 gauchebdo.ch
 gaudie.co.uk
-gauteng.news
 gaycitynews.com
 gaynews.nl
 gaynewsnetwork.com.au
@@ -5678,7 +5435,6 @@ gbnett.no
 gbnews.com
 gcn.ie
 gcnewsgazette.com
-gcores.com
 gctelegram.com
 gd.no
 gd.se
@@ -5693,16 +5449,13 @@ geelongindy.com.au
 geenstijl.nl
 gehoerlosenzeitung.de
 gelderlander.nl
-gematsu.com
 gemercan.sk
 geminigrafica.it
 gendai.media
 genderindetail.org.ua
-generation-nintendo.com
 geneticliteracyproject.org
 genevasolutions.news
 gentenaar.be
-genztech.blog
 geo.tv
 geopoliticalfutures.com
 georgetowner.com
@@ -5716,14 +5469,12 @@ german.beijingreview.com.cn
 german.china.org.cn
 german.xinhuanet.com
 gestion.pe
-getcarnews.com
 getmagnet.com
 getreading.co.uk
 getsurrey.co.uk
 gettysburgtimes.com
 gf24.pl
 gfcnieuws.com
-gfmag.com
 ggwash.org
 ghanabusinessnews.com
 ghanaiantimes.com.gh
@@ -5740,7 +5491,6 @@ giessener-allgemeine.de
 giessener-anzeiger.de
 giftfocus.com
 gifu-np.co.jp
-gilabola.com
 gilbertsource.com
 gildot.org
 gillettenewsrecord.com
@@ -5800,7 +5550,6 @@ gloucestershirelive.co.uk
 gloucestertimes.com
 glueckspost.ch
 gmanetwork.com
-gmrmagazine.com
 gmtoday.com
 gmw.cn
 gna.org.gh
@@ -5811,13 +5560,10 @@ goalchina.net
 goaprism.com
 god.tv
 godanriver.com
-godisageek.com
 godtv.com
 goerie.com
 goettinger-tageblatt.de
 gogo.mn
-goha.ru
-gol.caracoltv.com
 goldcoast.com.au
 goldcoastbulletin.com.au
 goldengatexpress.org
@@ -5872,7 +5618,6 @@ graffici.ca
 grahamstar.com
 graiulsalajului.ro
 grakantert.am
-gram.pl
 granadahoy.com
 granbydrummer.com
 granbydrummer.org
@@ -5897,7 +5642,6 @@ greatfallstribune.com
 greatyarmouthmercury.co.uk
 greekherald.com.au
 greekreporter.com
-greenanarchy.anarchyplanet.org
 greenbaypressgazette.com
 greenbeltnewsreview.com
 greenevillesun.com
@@ -5916,7 +5660,6 @@ greenvilleonline.com
 greenwichtime.com
 greenwichwire.co.uk
 gremionews.com.br
-grenchnerstadtanzeiger.ch
 grenda.no
 grenzecho.net
 greystar.co.nz
@@ -5943,7 +5686,6 @@ gryyne.ee
 gs.by
 gsdmagazine.org
 gsh.al
-gtaboom.com
 gtn-pravda.ru
 gtrnews.com
 gtweekly.com
@@ -5960,7 +5702,6 @@ gubdaily.ru
 gubernia.media
 guddzje.de
 gudok.ru
-gudvibe.app
 guelphmercury.com
 guelphtoday.com
 guernseypress.com
@@ -6024,6 +5765,7 @@ haarlemsdagblad.nl
 hab.mk.ru
 habarileo.co.tz
 haber.com
+haber365.com
 haber365.com.tr
 haber7.com
 haberglobal.com
@@ -6059,7 +5801,6 @@ halktv.com.tr
 hallandsposten.se
 hallingdolen.no
 hallmarknews.com
-hallo-eltern.de
 halloweendailynews.com
 halsteadgazette.co.uk
 haluansumatera.com
@@ -6084,9 +5825,7 @@ hankyung.com
 hannibal.net
 hanoimoi.vn
 hanslucas.com
-hanteonews.com
 haon.hu
-happypuppy.com
 haqqin.az
 harakahdaily.net
 haramsnytt.no
@@ -6095,8 +5834,6 @@ haravgi.com.cy
 harborcountry-news.com
 harburg-aktuell.de
 hardanger-folkeblad.no
-hardballtimes.com
-hardcoregamer.com
 harderwijksezaken.nl
 hargitanepe.ro
 harianjogja.com
@@ -6156,14 +5893,10 @@ hbwebben.se
 hch.tv
 hcn.org
 hcnews.com
-hcplive.com
 hd.se
 hdnews.net
 headlinne.com
 headtopics.com
-healthcaredive.com
-healthday.com
-healthsignals.news
 heaptalk.com
 heathercoxrichardson.substack.com
 hebdo-ardeche.fr
@@ -6182,7 +5915,6 @@ hellgatenyc.com
 helsinginsanomat.fi
 helsinginuutiset.fi
 helsinkitimes.fi
-hemali.no
 hemeltoday.co.uk
 hemmetsvan.se
 hendersondispatch.com
@@ -6291,7 +6023,6 @@ hindustanurdutimes.com
 hindutamil.in
 hinsdale.chicagotribune.com
 hintonparklander.com
-hiphopnewscs.jp
 hirado.hu
 hirklikk.hu
 hirstart.hu
@@ -6315,7 +6046,6 @@ hkpost.com.hk
 hlavnespravy.sk
 hlidacipes.org
 hln.be
-hlplanet.com
 hlrecord.org
 hm-news.co.il
 hmbreview.com
@@ -6330,10 +6060,8 @@ hndaily.cn
 hnnoticias.com.br
 hnonline.sk
 hntqb.com
-hntrbrk.com
 hocipo.hu
 hodotokushu.net
-hogapage.de
 hojeemdia.com.br
 hojemacau.com.mo
 hokkaido-np.co.jp
@@ -6453,10 +6181,8 @@ hustadvikingen.no
 hutchnews.com
 hvg.hu
 hwsw.hu
-hwupgrade.it
 hxnews.com
 hymn.se
-hynerd.it
 hypar.ru
 hypernewsletter.fr
 hzdaily.hangzhou.com.cn
@@ -6497,7 +6223,6 @@ idahostatesman.com
 ideal.es
 ideamensch.com
 idelreal.org
-idexxcurrents.com
 idl-reporteros.pe
 idler.co.uk
 idn.com.tw
@@ -6522,8 +6247,6 @@ ifp.co.in
 ifre.com
 igfm.sn
 igihe.com
-igli5.com
-ign.com.cn
 iha.com.tr
 ihalla.com
 ihlashaberajansi.com.tr
@@ -6546,7 +6269,6 @@ ilcorrieredelgiorno.it
 ilcrotonese.it
 ildenaro.it
 ildubbio.news
-ilemonde.com
 ilevanger.no
 ilfattoquotidiano.it
 ilfirenze.it
@@ -6562,13 +6284,11 @@ ilgiorno.it
 ilkkapohjalainen.fi
 illawarramercury.com.au
 illegaletrouw.nl
-illinoispress.org
 illinoistimes.com
 ilmajoki-lehti.fi
 ilmanifesto.it
 ilmattino.it
 ilmessaggero.it
-ilmeteo.net
 iln.co.uk
 ilna.ir
 ilnapolista.it
@@ -6594,7 +6314,6 @@ imaeil.com
 imagekhabar.com
 imagenradio.com.mx
 imatralainen.fi
-imbuzz.media
 imedi.ge
 imedia.news
 imedinews.ge
@@ -6606,7 +6325,6 @@ imn.iq
 imnews.imbc.com
 impartialreporter.com
 imprimerieprogres.com
-impulsegamer.com
 imticker.ch
 imtl.org
 imvahonshya.co.rw
@@ -6614,7 +6332,6 @@ in-cyprus.com
 in-domodedovo.ru
 in-istra.ru
 in-korolev.ru
-in-training.org
 in.fo
 in.gr
 in.news.yahoo.com
@@ -6654,7 +6371,6 @@ indexjournal.com
 india.com
 indiaabroad.com
 indiafirst.live
-indiaglitz.com
 indianacapitalchronicle.com
 indianagazette.com
 indianapolisrecorder.com
@@ -6671,18 +6387,12 @@ indiatvnews.com
 indiavisiontv.com
 indiawest.com
 indicatoreweb.it
-indiegamewebsite.com
-indiemag.fr
-indiepost.co.kr
 indigo.fr
-indoasiadefense.com
 indopos.co.id
-indrastra.com
 indre.no
 indubnacity.ru
 indus.news
 indusage.com.au
-industrypulse.media
 industryweek.com
 indy100.com
 indybay.org
@@ -6728,8 +6438,6 @@ informante.web.na
 informatia-zilei.ro
 information.dk
 information.tv5monde.com
-informatiquenews.fr
-informativostelecinco.com
 informburo.kz
 informe360.com
 informer.rs
@@ -6739,14 +6447,12 @@ inforpress.cv
 inforpress.publ.cv
 inforum.com
 infos-ouvrieres.fr
-infos229.groupecrytalnews.com
 infosperber.ch
 infostart.hu
 infowakat.net
 infowars.com
 infranken.de
 infzm.com
-ing.dk
 inilah.com
 initiativesnews.com
 injusticewatch.org
@@ -6767,11 +6473,8 @@ inn.ir
 innebandyavisen.no
 innherred.no
 innovando.news
-innovanews.ru
 innsalzach24.de
 inosmi.ru
-inputmag.dk
-inputmag.se
 inqnews.com
 inquilab.com
 inquirer.com
@@ -6787,14 +6490,11 @@ inside-paradeplatz.ch
 inside.com.tw
 insidebiz.com
 insidecroydon.com
-insideedition.com
 insidehoops.com
-insidemacgames.com
 insideparadeplatz.ch
 insidephilanthropy.com
 insider.com
 insider.gr
-insideradio.com
 insidernj.com
 insiderpa.com
 insiderpaper.com
@@ -6807,7 +6507,6 @@ insidetucsonbusiness.com
 insight.co.kr
 insightcrime.org
 insightnews.com
-insurancetimes.co.uk
 integrimi.com
 intelligenceonline.com
 intelligenceonline.fr
@@ -6858,9 +6557,7 @@ ionnews.mu
 iowacapitaldispatch.com
 iowastartingline.com
 iowastatedaily.com
-ip-watch.org
 ipfwcommunicator.org
-iphonedigital.es
 ipn.md
 ipolitics.ca
 ippmedia.com
@@ -6870,7 +6567,6 @@ ipsnews.net
 ipswichstar.co.uk
 iqtissadiya.com
 ir.lv
-ir.mondediplo.com
 iran-newspaper.com
 iran-times.com
 irandaily.ir
@@ -6904,7 +6600,6 @@ irishvoice.com
 irl.mk
 irleaks.com
 irna.ir
-irodalmijelen.hu
 irontontribune.com
 irozhlas.cz
 irrawaddy.com
@@ -6953,7 +6648,6 @@ italianamericanherald.com
 italiaoggi.it
 itasuomalainen.fi
 itavayla.fi
-itavisen.no
 itemlive.com
 itemonline.com
 ithaca.com
@@ -6962,7 +6656,6 @@ ithacavoice.com
 ithome.com.tw
 itidal.de
 itineraire.ca
-itnews.com.au
 itnijs.frl
 itnonline.com
 itongadol.com.ar
@@ -6986,16 +6679,13 @@ iwate-np.co.jp
 iwcp.co.uk
 iwgazette.co.uk
 iwnsvg.com
-ixbt.games
 iz.ru
 iza.ne.jp
 izhevsk.mk.ru
-izm.co.kr
 izmacity.com
 izmirgundem.com
 izvmor.ru
 j-cast.com
-ja.spaziocrypto.com
 ja7.com.br
 jacksonadvocateonline.com
 jacksoncountypilot.com
@@ -7065,7 +6755,6 @@ javanonline.ir
 jawapos.com
 jawharafm.net
 jaxdailyrecord.com
-jayisgames.com
 jb.com.br
 jbl.no
 jbnews.com
@@ -7090,9 +6779,6 @@ jerusalem-times.net
 jeune-independant.net
 jeuneafrique.com
 jeunessedalgerie.dz
-jeuxactu.com
-jeuxvideo-live.com
-jeuxvideo.fr
 jeversches-wochenblatt.de
 jewelry-korea.com
 jewishaz.com
@@ -7125,7 +6811,6 @@ jiemian.com
 jiji.co.jp
 jiji.com
 jimmatimes.com
-jinacoin.ne.jp
 jinhaagency.com
 jinrieluosi.cn
 jinrmag.jinr.ru
@@ -7136,12 +6821,10 @@ jjckb.xinhuanet.com
 jkb.com.cn
 jksb.com.cn
 jm-madeira.pt
-jmd.co.jp
 jn.pt
 jnilbo.com
 jns.org
 jo24.net
-jobat.be
 johnmenadue.com
 join1440.com
 jomhouria.com
@@ -7194,7 +6877,6 @@ journal.lemonde.fr
 journal.obcon.org
 journal.ouest-france.fr
 journalauto.com
-journaldemickey.com
 journaldemontreal.com
 journaldemorges.ch
 journaldequebec.com
@@ -7207,7 +6889,6 @@ journalexpress.ca
 journalgazette.net
 journalinquirer.com
 journalista.dk
-journalisten.no
 journallesoir.ca
 journallive.co.uk
 journalnow.com
@@ -7228,7 +6909,6 @@ jovempan.com.br
 jp-europe-times.com
 jp-kunnallissanomat.fi
 jp.dk
-jp.mondediplo.com
 jp.reuters.com
 jp.wsj.com
 jp.xinhuanet.com
@@ -7258,7 +6938,6 @@ jurnal.md
 jurnalkepri.com
 jurnalul.ro
 jurvansanomat.fi
-justadventure.com
 justnewsbd.com
 justout.com
 justsecurity.org
@@ -7324,13 +7003,10 @@ kanalfrederikshavn.dk
 kanaloco.jp
 kanaren.news
 kanashen.ru
-kanebridgenews.com
 kanivatonga.co.nz
-kankokeizai.com
 kannadaprabha.com
 kannadatimes.com
 kannapoliscitizen.com
-kanobu.ru
 kanoner.com
 kansan.com
 kansanaani.net
@@ -7354,7 +7030,6 @@ karjalalehti.fi
 karjalanheili.fi
 karjalanmaa.fi
 kark.com
-karmadio.ir
 karmel.co.il
 karmoynytt.no
 karnatakamalla.com
@@ -7479,7 +7154,6 @@ khaosodenglish.com
 khaskhabar.com
 khbr.me
 kherson-news.ru
-khgames.co.kr
 khmertimeskh.com
 khojsamachar.com
 khon2.com
@@ -7496,7 +7170,6 @@ kidderminstershuttle.co.uk
 kidsguidemagazine.com
 kidsweek.nl
 kieler.news
-kielerexpress-online.de
 kienyke.com
 kigalitoday.com
 kikar.co.il
@@ -7509,7 +7182,6 @@ kilkennypeople.ie
 kincardinenews.com
 kineactu.com
 king5.com
-kingfeatures.com
 kingsbridge-today.co.uk
 kingstonthisweek.com
 kingstreenews.com
@@ -7572,7 +7244,6 @@ knnews.co.kr
 knoxnews.com
 knoxvillesource.com
 knr.gl
-ko.spaziocrypto.com
 koaci.com
 koat.com
 kob.com
@@ -7625,7 +7296,6 @@ koran-jakarta.com
 koran-sindo.com
 koranperbatasan.com
 koransatu.id
-koraplus.com
 koreadaily.com
 koreaexpose.com
 koreaherald.com
@@ -7636,7 +7306,6 @@ koreatimes.co.kr
 koreatimes.com
 koreatourismtimes.com
 korkusuz.com.tr
-kormedi.com
 korrespondent.net
 korrieri.com
 korsetsseier.no
@@ -7650,7 +7319,6 @@ kosovo-online.com
 kossev.info
 kostanaytany.kz
 kostroma.mk.ru
-kotaku.com.au
 kotilappi.fi
 kotimaa.fi
 kotsu.co.jp
@@ -7677,7 +7345,6 @@ krarm-press.cap.ru
 kras.mk.ru
 krassever.ru
 krautreporter.de
-krawall.de
 kray.ck.ua
 krdo.com
 kreiszeitung.de
@@ -7727,7 +7394,6 @@ ktrk.com.ua
 ktrk.kg
 ktvu.com
 ku.fi
-ku.mondediplo.com
 kuam.com
 kuban.mk.ru
 kubanpress.ru
@@ -7740,7 +7406,6 @@ kul-alarab.com
 kulingen.no
 kultmagasin.se
 kultura-info.by
-kulturagz.ru
 kumanichi.com
 kumparan.com
 kun.uz
@@ -7784,7 +7449,6 @@ kvira.ge
 kvoa.com
 kvue.com
 kw.be
-kwachanews.com
 kwangju.co.kr
 kwch.com
 kwnews.co.kr
@@ -7815,7 +7479,6 @@ l-express.ca
 l-iz.de
 l1.nl
 l1visible.com
-l4news.com
 la-bas.org
 la-croix.com
 la-prensa.com.mx
@@ -7948,10 +7611,8 @@ lancashiretelegraph.co.uk
 lancasterfarming.com
 lancasterguardian.co.uk
 lancasteronline.com
-lancenet.com.br
 lancs.live
 land.lu
-landanzeiger.ch
 landbote.ch
 landeszeitung.de
 landtiere.de
@@ -7997,7 +7658,6 @@ laopinionpuebla.com
 laoren.com
 laotiantimes.com
 lapagina.com.sv
-lapaginamillonaria.com
 lapalabraisraelita.cl
 lapasserelleplanoise.free.fr
 lapatilla.com
@@ -8049,7 +7709,6 @@ larepublica.net
 larepublica.pe
 larepublique77.fr
 larepubliquedespyrenees.fr
-largus.fr
 larioja.com
 larnetimes.co.uk
 larotonde.ca
@@ -8145,8 +7804,6 @@ lawfaremedia.org
 lawgazette.co.uk
 lawrencecountypress.com
 lawrentian.com
-lawweekly.org
-lawweekonline.com
 lb.ua
 lbc.co.uk
 lbcgroup.tv
@@ -8230,10 +7887,8 @@ lefigaro.fr
 lefinancier-dz.com
 lefront.com
 leftfootforward.org
-legacyvillagenews.com
 legaldaily.com.cn
 leggo.it
-legia.net
 legislativegazette.com
 legit.ng
 legnanonews.com
@@ -8266,7 +7921,6 @@ lejsl.com
 lelchitsy.by
 lelezard.com
 lemainelibre.fr
-lemaitrepapetier.ca
 lemanifest.com
 lemarin.fr
 lematin.ch
@@ -8282,9 +7936,6 @@ lemidi-dz.com
 lemko.com
 lemky.org.ua
 lemonde.fr
-lemonde.uy
-lemondediplomatique.al
-lemondediplomatique.cl
 lemondeinformatique.fr
 lemoniteur.fr
 lenational.org
@@ -8296,11 +7947,9 @@ lenouveleconomiste.fr
 lenouvelliste.ca
 lenouvelliste.ch
 lenouvelliste.com
-lenreactiv.ru
 lensakalteng.com
 lent.az
 lenta.ru
-lentoposti.fi
 leominsterchamp.com
 leonoticias.com
 leoweekly.com
@@ -8313,7 +7962,6 @@ lepaysmalouin.fr
 lepaystchad.com
 lepel-kraj.by
 lepelerin.com
-lepetitjurassien.ch
 lepetitquotidien.fr
 lepeuplelotbiniere.ca
 lephareonline.net
@@ -8339,7 +7987,6 @@ lerepublicain.com
 lerevelateur224.com
 lerougeetleblanc.com
 les-cahiers-bleus.com
-les-enovateurs.com
 les4verites.com
 lesafriques.com
 lesahel.org
@@ -8350,9 +7997,7 @@ lesdepechesdebrazzaville.fr
 lesechos.fr
 leseco.ma
 lesgeniesdelascience.fr
-lesinrocks.com
 lesiteinfo.com
-lesjoiesducode.fr
 lesjours.fr
 lesnouvellesdanjou.fr
 lesoftonline.net
@@ -8393,7 +8038,6 @@ levenementprecis.com
 levif.be
 levogue.leadership.ng
 levoyageur.ca
-lewdgamer.com
 lexobserver.org
 lexplik.be
 lexpress-net.com
@@ -8404,7 +8048,6 @@ lexpressarchives.ch
 lexpression.dz
 lexpressiondz.com
 lfpress.com
-lgbtqnation.com
 lgbtqsd.news
 lh-inc.ca
 lhc.media
@@ -8483,7 +8126,6 @@ linkiesta.it
 links-series.com
 linsoumission.fr
 lintelligentdabidjan.org
-linuxgames.com
 linuxiac.com
 lionsroar.com
 lioznonews.by
@@ -8525,7 +8167,6 @@ liternet.ro
 litgazeta.com.ua
 lithuaniatribune.com
 litrossanat.com
-litrossia.ru
 littleelm.com
 littlefallstimes.com
 littlerocksource.com
@@ -8555,7 +8196,6 @@ lloydslistdcn.com.au
 lluban.by
 lmd.nedeljnik.rs
 lmd.no
-lmdturkce.com.tr
 lmhnews.com
 lmneuquen.com
 lmtonline.com
@@ -8670,7 +8310,6 @@ ludingtondailynews.com
 ludwigshafen24.de
 ludzaszeme.lv
 lufkindailynews.com
-luftfahrtmagazin.de
 lug-info.com
 luhze.de
 lun.com
@@ -9193,7 +8832,6 @@ m.ledauphine.com
 m.ledevoir.com
 m.lefigaro.fr
 m.leggo.it
-m.legia.net
 m.lejdd.fr
 m.lematin.ch
 m.lemonde.fr
@@ -9728,8 +9366,6 @@ m.znaj.ua
 m.zurnal24.si
 m24.no
 m24.ru
-m3.idg.se
-m3.se
 ma.rfi.fr
 maaal.com
 maalaimalar.com
@@ -9740,7 +9376,6 @@ maaseuduntulevaisuus.fi
 macaodaily.com
 macaubusiness.com
 macaudailytimes.com.mo
-macblox.com
 maccaclub.com
 macclesfield-express.co.uk
 macleans.ca
@@ -9778,7 +9413,6 @@ magicvalley.com
 magill.ie
 magnabureau.space
 magozine.it
-magyardiplo.hu
 magyarhirlap.hu
 magyarkurir.hu
 magyarnarancs.hu
@@ -9848,6 +9482,8 @@ manchexpress.com
 mancs.hu
 mandegardaily.com
 mandiner.hu
+mangalam.com
+mangaloretoday.com
 mangfall24.de
 manhattantimesnews.com
 manifesto-21.com
@@ -9865,8 +9501,6 @@ manoramaonline.com
 mansfield.wickedlocal.com
 mansfieldnewsjournal.com
 mantecabulletin.com
-manualdousuario.net
-manufacturing.net
 map.ma
 mapexpress.ma
 mapnews.ma
@@ -9887,7 +9521,6 @@ marketbusinessnews.com
 marketdaily.com.cn
 marketingdirecto.com
 marketplace.org
-marketpostcenter.com
 marketwatch.com
 marlindemocrat.com
 marmarismanset.com
@@ -9954,19 +9587,16 @@ mcleannews.com
 mcot.net
 mcphersonsentinel.com
 mcrecordonline.com
-mcvuk.com
 mdedge.com
 mdgazet.ru
 mdilbo.com
 mdjonline.com
-mdmag.com
 mdnkids.com
 mdr.de
 mdzol.com
 meadvilletribune.com
 meantornionlaakso.fi
 meathchronicle.ie
-meaww.com
 mebaneenterprise.com
 mechlocal.com
 mecktimes.com
@@ -9983,7 +9613,6 @@ mediacites.fr
 mediacongo.net
 mediafax.ro
 mediafiledc.com
-mediafilm.ca
 mediaguinee.org
 mediaguru.cz
 mediaindonesia.com
@@ -10005,17 +9634,12 @@ medias24.com
 mediatoday.co.kr
 mediaus.co.kr
 mediazona.ca
-medicinar.mef.hr
 medicinehatnews.com
-mediotiempo.com
-medischcontact.nl
-mediuutiset.fi
 meduza.io
 medvestnik.by
 medyabar.com
 medyascope.tv
 medyayenigun.net
-meegames.com
 megafon.no
 meganoticias.cl
 megaphone.news
@@ -10023,7 +9647,6 @@ megapro.org.il
 mehrnews.com
 meidasnews.com
 meidastouch.com
-mein-mmo.de
 meinbezirk.at
 meine-anzeigenzeitung.de
 meinviertel.berlin
@@ -10050,7 +9673,6 @@ mercurynews.com
 merdeka.com
 meredithherald.com
 meridianbooster.com
-meridiano.net
 meridianstar.com
 merikarvialehti.fi
 merit-times.com
@@ -10066,14 +9688,12 @@ messengereast.com.au
 messengernewspapers.co.uk
 messengersaintanthony.com
 messengerwest.com.au
-mestemnakole.cz
 meta.mk
 metadata.cat
 methodistrecorder.co.uk
 methowvalleynews.com
 metimes.com
 metior.com.au
-metnews.com
 metro.co.uk
 metro.pr
 metro.se
@@ -10090,7 +9710,6 @@ metropol.hu
 metropolehaiti.com
 metropoles.com
 metropolisweb.it
-metrorailnews.in
 metrosantacruz.com
 metrosiliconvalley.com
 metrospirit.com
@@ -10117,7 +9736,6 @@ mi-reporter.com
 mia.mk
 miamicelebrities.com
 miamiherald.com
-miamiinnews.com
 miaminewtimes.com
 miamiok.com
 miamistudent.net
@@ -10202,7 +9820,6 @@ minutodigital.com
 minutouno.com
 minval.az
 minyu-net.com
-mirf.ru
 mirrab.ru
 mirror.co.uk
 mirrormedia.mg
@@ -10225,7 +9842,6 @@ mitti.se
 mittkongsvinger.no
 mixanitouxronou.gr
 mixnews.lv
-mixnmojo.com
 mizanonline.ir
 mizbala.com
 mizzima.com
@@ -10277,7 +9893,6 @@ mlyn.by
 mmafighting.com
 mmegi.bw
 mmnews.tv
-mmorpg.com
 mmsonline.com
 mmtimes.com
 mndaily.com
@@ -10607,16 +10222,8 @@ moldpres.md
 moment.at
 monaco-tribune.com
 monacomatin.mc
-monde-diplomatique.de
-monde-diplomatique.fr
-monde-diplomatique.gr
-monde-diplomatique.pl
 monde-libertaire.fr
 monde-libertaire.net
-mondediplo.com
-mondediplo.fi
-mondediplomatique.ro
-mondiplo.com
 mondo.rs
 mondoweiss.net
 monewsguyane.com
@@ -10681,7 +10288,6 @@ morningstaronline.co.uk
 morningsun.net
 moroccomirror.com
 moroccoworldnews.com
-morok.ink
 morpethherald.co.uk
 morungexpress.com
 mosaiquefm.net
@@ -10694,12 +10300,8 @@ mostecky.denik.cz
 motherjones.com
 mothership.sg
 mothersnews.net
-motociclismo.pt
 motolko.help
 motorcitydirect.com
-motorcyclenews.com
-motorplus-online.com
-motorvarlden.se
 moultonadvertiser.com
 moultrieobserver.com
 moundcitynews.com
@@ -10749,16 +10351,13 @@ mtlblog.com
 mtsprout.nl
 mtstandard.com
 mtv.com.lb
-mtviggy.com
 mtvuutiset.fi
-mudconnect.com
 mudgeeguardian.com.au
 muehlacker-tagblatt.de
 mujeresenred.net
 muksun.fm
 multi-housingnews.com
 multihousingnews.com
-multiplayer.it
 mumbaimirror.com
 mumbaimirror.indiatimes.com
 mundiario.com
@@ -10837,8 +10436,6 @@ mz-mz.net
 mz.de
 mzamin.com
 mzyfz.com
-n-mag.de
-n-mag.org
 n-slovo.com.ua
 n-tv.de
 n.com.do
@@ -10892,10 +10489,8 @@ napavalleyregister.com
 napilap.vg.hu
 napiujsag.hu
 naplesnews.com
-napnieuws.nl
 napolitoday.it
 napost.com
-napsugar.ro
 napunk.dennikn.sk
 nara-np.co.jp
 narasi.tv
@@ -10904,7 +10499,6 @@ narodni-list.hr
 narovlya.by
 narrominenewsonline.com.au
 nasarijec.ba
-nasaspaceflight.com
 nasepravda.cz
 nashagazeta.ch
 nashagazeta.com.ua
@@ -10941,7 +10535,6 @@ nationalpost.com
 nationalreport.net
 nationalreview.com
 nationalworld.com
-nationen.no
 nationnews.com
 nationthailand.com
 nationwideradiojm.com
@@ -10951,7 +10544,6 @@ nau.ch
 naukatv.ru
 navabharat.com
 navajotimes.com
-naval-pages.com
 navarracapital.es
 navarraconfidencial.com
 navatelangana.com
@@ -11060,20 +10652,16 @@ nettavisen.no
 netwerk24.com
 netzeitung.de
 netzpolitik.org
-neu.muenzenwoche.de
 neue-zeitung.hu
 neuepresse.de
-neuesgera.de
 neuewelt.at
 neuewocheaustralien.com
-neuralgamer.com
 nevadaappeal.com
 nevadacurrent.com
 nevadasagebrush.com
 neviditelnypes.cz
 neviditelnypes.lidovky.cz
 nevnov.ru
-new.coinsweekly.com
 new.finalcall.com
 new.qq.com
 new7.com.tw
@@ -11123,7 +10711,6 @@ news-abc.com
 news-bangla.com
 news-banner.com
 news-bulletin.com
-news-choice.com
 news-eleven.com
 news-front.su
 news-gazette.com
@@ -11252,7 +10839,6 @@ news.google.com.au
 news.google.ie
 news.gr
 news.gunosy.com
-news.hamidun.com
 news.hankyung.com
 news.harianjogja.com
 news.headtopics.com
@@ -11546,7 +11132,6 @@ newsofbahrain.com
 newsoforange.com
 newson6.com
 newsone.com
-newspaper-daily.com
 newspaper.fdn.ir
 newspaper.jcrb.com
 newspectives.com
@@ -11620,22 +11205,14 @@ newzroomafrika.tv
 nexojornal.com.br
 nexos.com.mx
 next.gazeta.pl
-next.ink
 nexta.tv
 nextavenue.org
-nextg.tv
 nextleftnotes.org
-nextpit.com
-nextpit.de
-nextpit.fr
 nextquotidiano.it
 nezavisen.mk
 nezavisne.com
-nftmagazine.com
-ng-gamer.nl
 ng.by
 ng.ru
-ng4a.com
 ngnews.ca
 ngs.ru
 ngs24.ru
@@ -11655,7 +11232,6 @@ niagarafallsreporter.com
 niagaraindependent.ca
 niasam.ru
 nicematin.com
-nicolaytidsskrift.no
 nidaalwatan.com
 nidaros.no
 nidoragir.com
@@ -11681,11 +11257,6 @@ ninanews.com
 nine.com.au
 nineoclock.ro
 ninertimes.com
-nintendo-connect.de
-nintendo-online.de
-nintendoeverything.com
-nintendowire.com
-nintendoworldreport.com
 nippon-times.net
 nippon.com
 nique.net
@@ -11735,11 +11306,8 @@ nodal.am
 noen.at
 noev-kovcheg.ru
 noevalleyvoice.com
-nofrag.com
 nogalesinternational.com
 noi.md
-noisypixel.net
-noklapja.nlcafe.hu
 nokta.md
 nola.com
 nolalive.com
@@ -11757,7 +11325,6 @@ norddalen.no
 nordeclair.be
 nordeclair.fr
 nordhordland.no
-nordicdefencesector.com
 nordjyske.dk
 nordkurier.de
 nordlittoral.fr
@@ -11812,7 +11379,6 @@ northshoreweekend.com
 northshropshirechronicle.com
 northumberlandgazette.co.uk
 northumberlandnews.com
-norvasi.se
 norwaypost.no
 norwegianamerican.com
 norwichbulletin.com
@@ -11853,7 +11419,6 @@ notipress.mx
 notiuno.com
 notizie.it
 notizieoggi24.it
-notretemps.com
 notrevoie.com
 nottinghampost.com
 notundrishti.com
@@ -11897,7 +11462,6 @@ novosti.rs
 novostivolgograda.ru
 novynarnia.com
 now14.co.il
-nowgamer.com
 nowgrenada.com
 nowiny24.pl
 nownews.com
@@ -12056,7 +11620,6 @@ obrii.com.ua
 observador.cr
 observador.pt
 observalgerie.com
-observantonline.nl
 observatornews.ro
 observatorul.md
 observer-reporter.com
@@ -12112,15 +11675,12 @@ ohmedia.my
 ohmynews.com
 ohtuleht.ee
 oilcapital.ru
-oilgasstoragenews.com
 oimparcial.com.br
 oisehebdo.fr
 oita-press.co.jp
-oiusho.it
 ojaivalleynews.com
 ojo-publico.com
 ojo.pe
-ojogo.pt
 ojornal.com
 okaz.com.sa
 okcfriday.com
@@ -12137,12 +11697,10 @@ oktoberfest.bayern
 olandsbladet.se
 olaymedya.com
 old.ltn.com.tw
-old.mirf.ru
 oldgoldandblack.com
 oldham-chronicle.co.uk
 oldhamadvertiser.co.uk
 oldhamera.com
-oldmanmurray.com
 oldpostbooks.com
 oleantimesherald.com
 olfi.dk
@@ -12184,18 +11742,14 @@ oneman.gr
 onemk.co.uk
 onenews.ph
 onet.pl
-ongamers.com
 online.le.ee
 onlineathens.com
-onlinecasino.amsterdam
 onlinekhabar.com
 onlinesentinel.com
 onlinevologda.ru
-onlinewelten.com
 onlymagazine.ca
 onmanorama.com
 onswestfriesland.nl
-ontariofarmer.com
 ontheditch.com
 ontnews.com
 onwardstate.com
@@ -12220,7 +11774,6 @@ openthemagazine.com
 opera-online.com
 operamundi.uol.com.br
 operanewsapp.com
-operationrainfall.com
 operativmm.az
 opindia.com
 opiniaogoias.com.br
@@ -12304,7 +11857,6 @@ osvnews.com
 oswegonian.com
 ot.fi
 ot.gr
-otakukart.com
 oteatre.info
 otechestvo.biz
 otempo.com.br
@@ -12334,7 +11886,6 @@ ourscom.fr
 ourtimepress.com
 out.com
 outandaboutnewspaper.com
-outbreaknewstoday.com
 outfrontonline.com
 outinperth.com
 outlookafghanistan.net
@@ -12360,7 +11911,6 @@ oyene.no
 oyposten.no
 ozodi.org
 ozodlik.org
-p-nintendo.com
 pa-report.com
 pa.azadiradio.com
 pa.media
@@ -12373,7 +11923,6 @@ pacificpressnewyork.com
 pacificsun.com
 pacindex.com
 packagingdigest.com
-padandpixel.com
 padang.tribunnews.com
 padangkita.com
 paducahsun.com
@@ -12423,7 +11972,6 @@ panampost.com
 panamza.com
 panarmenian.net
 panchjanya.com
-panduanproperti.id
 panet.co.il
 panews.com
 panora.tokyo
@@ -12438,7 +11986,6 @@ pap.pl
 paper.cntheory.com
 paper.jyb.cn
 paper.people.com.cn
-paperdna.ai
 paperjam.lu
 paperpaper.io
 papotin.site
@@ -12494,9 +12041,6 @@ pbc.ps
 pbcommercial.com
 pbn.com
 pbpost.com
-pc.gamerweb.com
-pcgames.de
-pcguru.hu
 pch24.pl
 pcherald.com
 pcij.org
@@ -12518,7 +12062,6 @@ peeblesshirenews.com
 peepalsglobal.com
 pegasusnews.com
 pekintimes.com
-pelaaja.fi
 pelhamexaminer.com
 pelop.gr
 pendletoday.co.uk
@@ -12644,23 +12187,12 @@ pku.fi
 plaindealer-sun.com
 plainlaw.me
 plainsman.com
-planetcnc.gamespy.com
-planethalflife.gamespy.com
 planetsmag.com
-planetxbox360.com
 plantbasednews.org
-plantengineering.com
 planv.com.ec
-plasticportal.cz
-plasticportal.de
-plasticportal.eu
-plasticportal.sk
 plataformamedia.com
 platfor.ma
 platform-investico.nl
-platformer.news
-play.tm
-playfront.de
 playtech.ro
 plazajuarez.mx
 plazapublica.com.gt
@@ -12668,7 +12200,6 @@ pleasantonweekly.com
 pleno.news
 plo.vn
 plovdiv24.bg
-pltv.fr
 plumasatomicas.com
 plumassun.org
 plural.jor.br
@@ -12695,10 +12226,8 @@ pobjeda.me
 poblanerias.com
 pobleandorra.com
 pocahontastimes.com
-pockettactics.com
 poconorecord.com
 poder360.com.br
-podnews.net
 podrobno.uz
 poetsandquants.com
 pogostansanomat.fi
@@ -12706,7 +12235,6 @@ poher-hebdo.fr
 pohjankyro-lehti.fi
 point.md
 point24.lu
-pointdevue.fr
 pointparkglobe.com
 pointsdevente.fr
 poknapham.in
@@ -12775,7 +12303,6 @@ poresto.net
 portadowntimes.co.uk
 portafolio.co
 portagedailyregister.com
-portal-kultura.ru
 portal6.com.br
 portalanalitika.me
 portalcorreio.com.br
@@ -12829,7 +12356,6 @@ pothwar.com
 pottsmerc.com
 pottstownmercury.com
 poughkeepsiejournal.com
-poupardinheiro.com.br
 pov.international
 povaha.org.ua
 povoasemanario.pt
@@ -12885,9 +12411,7 @@ president.jp
 press-citizen.com
 press.lv
 press.lvcva.com
-press.polytechnic.am
 pressafrik.com
-pressakey.com
 pressandguide.com
 pressandjournal.co.uk
 pressball.by
@@ -12905,7 +12429,6 @@ pressofatlanticcity.com
 pressone.ph
 pressone.ro
 pressonline.rs
-pressplay.at
 pressplus.com
 pressprogress.ca
 presspublications.com
@@ -12936,10 +12459,8 @@ print.kompas.com
 prishtinainsight.com
 privatbankar.hu
 private-eye.co.uk
-privatewealthdaily.com
 privatka.info
 privredni.hr
-priyalifescience.com
 prmira.ru
 prnigeria.com
 proceso.com.mx
@@ -12961,7 +12482,6 @@ pronews.gr
 propastop.org
 propeller.hu
 properm.ru
-propertynotify.co.uk
 propublica.org
 proremodeler.com
 proskurivplus.km.ua
@@ -12983,22 +12503,16 @@ prsanomat.fi
 pryordailytimes.com
 psdispatch.com
 psmnews.mv
-psmonline.com
-psu.com
 psucollegian.com
 psuvanguard.com
 psv.org.ua
-psxnation.com
-psychedelichealth.co.uk
 pszeitung.ch
-pt.mondediplo.com
 pt.rfi.fr
 ptinews.com
 ptleader.com
 ptreyeslight.com
 ptv.com.pk
 pubblicogiornale.it
-publicdomainreview.org
 publicnews.com
 publicnewshub.com
 publico.es
@@ -13013,7 +12527,6 @@ publika.ge
 publimetro.cl
 publimetro.com.mx
 publinews.gt
-publishersmarketplace.com
 puck.news
 pudding.cool
 pudhari.com
@@ -13022,7 +12535,6 @@ pueblosource.com
 puertademadrid.org
 pukmedia.com
 pulaskicitizen.com
-puls.no
 puls24.at
 pulse.com.gh
 pulse.ng
@@ -13032,7 +12544,6 @@ pulsechronicles.com
 pulsehknews.com
 pulselive.co.ke
 pulseniagara.com
-pulsetoday.co.uk
 pulsoslp.com.mx
 pulzo.com
 punchbowl.news
@@ -13048,8 +12559,6 @@ puntlandpost.net
 purcellvillegazette.com
 purchasing.com
 purdueexponent.org
-purenintendo.com
-purexbox.com
 puri.ee
 puruvesi.net
 pusula-app.com
@@ -13130,8 +12639,6 @@ r.nikkei.com
 r7.com
 raahenseutu.fi
 raajje.mv
-rabble.ca
-raberalf.de
 rablad.no
 rabochy-put.ru
 rabwah.net
@@ -13161,10 +12668,8 @@ radyo.inquirer.net
 rafnews.co.uk
 rafu.com
 raialyoum.com
-raiderking.com
 rainews.it
 rajanews.com
-ramenparados.com
 ramonasentinel.com
 ranablad.no
 ranchiexpress.com
@@ -13278,7 +12783,6 @@ redding.com
 redeyechicago.com
 redflag.by
 redflag.org.au
-redgol.cl
 redlandcitybulletin.com.au
 redlandsdailyfacts.com
 redmondmoments.com
@@ -13329,7 +12833,6 @@ reisjarvilehti.fi
 reitschuster.de
 reliable-news.com
 religionnews.com
-relyonhorror.com
 remate.ph
 remindernews.com
 remiremontvallees.com
@@ -13399,7 +12902,6 @@ revistaoeste.com
 revistasix.es
 revolver.news
 revue-pyreneenne.com
-revue21.fr
 revue303.com
 rewire.news
 rewirenewsgroup.com
@@ -13430,7 +12932,6 @@ rhonddaleader.co.uk
 ria-m.tv
 ria.ru
 riaupos.jawapos.com
-riazor.org
 ricentral.com
 richfieldreaper.com
 richmond-dailynews.com
@@ -13476,7 +12977,6 @@ rivesudexpress.ca
 rizospastis.gr
 rjionline.org
 rk37.ru
-rllmukforum.com
 rmf24.pl
 rmn.ph
 rmol.id
@@ -13486,7 +12986,6 @@ rmzxb.com.cn
 rnd.de
 rnz.co.nz
 rnz.de
-roadbook.travel
 roadsbridges.com
 roanoke-chowannewsherald.com
 roanoke.com
@@ -13506,7 +13005,6 @@ rockymounttelegram.com
 rodiaki.gr
 rodniva.by
 rodong.rep.kp
-rogreviews.com
 rojavainformationcenter.org
 rokna.net
 rokokoposten.dk
@@ -13544,7 +13042,6 @@ rotativooaxaca.com.mx
 roteanneliese.ch
 rotoruadailypost.co.nz
 rotter.net
-roundballdaily.com
 rowadweb.com
 roxboro-courier.com
 royalgazette.com
@@ -13557,7 +13054,6 @@ rozsdakupac.hu
 rp-online.de
 rp.pl
 rp10.com.br
-rpgamer.com
 rpp.pe
 rr.pt
 rrdailyherald.com
@@ -13718,7 +13214,6 @@ rtl.de
 rtl.fr
 rtl.hu
 rtl.lu
-rtlnieuws.nl
 rtnk.me
 rtp.pt
 rtr.ch
@@ -13737,15 +13232,12 @@ rtvoost.nl
 rtvslo.si
 rtvutrecht.nl
 ru.kabar.kg
-ru.mondediplo.com
 ru.netgazeti.ge
 ru.reuters.com
 ru.rfi.fr
-ru.spaziocrypto.com
 ru.trend.az
 ru.wikinews.org
 rudaw.net
-rudimathematici.com
 rudnyi-altai.kz
 rue20.com
 rue89.com
@@ -13835,7 +13327,6 @@ sagat.no
 sahanjournal.com
 saharamedias.net
 saharareporters.com
-saiganak.com
 saipantribune.com
 sajewishreport.co.za
 sajr.co.za
@@ -13855,7 +13346,6 @@ salemnews.net
 salemreporter.com
 salfordadvertiser.co.uk
 salientpublications.com
-salimbasarda.net
 salinecourier.com
 salisburyjournal.co.uk
 salisburypost.com
@@ -13930,7 +13420,6 @@ santaclaritasource.com
 santacruzsentinel.com
 santacruzweekly.com
 santafenewmexican.com
-santageai.com
 santamariahoy.com
 santamariasun.com
 santamariatimes.com
@@ -13948,7 +13437,6 @@ sarawaktribune.com
 sarayanews.com
 sarbasadharana.com
 sarbc.ru
-sarcasticgamer.com
 sardarabad.com.ar
 sardegna.notizie.it
 saristorynetwork.com
@@ -13974,7 +13462,6 @@ sbstatesman.com
 sbsun.com
 sbtnews.sbt.com.br
 scamtelegraph.com
-scandinaviantraveler.com
 scarsdalenews.com
 scbiznews.com
 scdaily.cn
@@ -13982,9 +13469,7 @@ scdailypress.com
 schaffhausen24.ch
 schenefelder-tageblatt.de
 schifferstadter-tagblatt.de
-schlager.de
 schlesien-heute.de
-schoolschoolschool.com
 schulenburgsticker.com
 schwaebische.de
 schwarzwaelder-bote.de
@@ -14022,7 +13507,6 @@ seacoastonline.com
 searchlight.vc
 seattlechinesepost.com
 seattleglobalist.com
-seattlemag.com
 seattlemedium.com
 seattlepi.com
 seattlespectator.com
@@ -14030,7 +13514,6 @@ seattletimes.com
 seattletimes.nwsource.com
 seattleweekly.com
 secoloditalia.it
-sector.sk
 seculodiario.com.br
 sedaily.com
 sedaliademocrat.com
@@ -14064,9 +13547,7 @@ seneplus.com
 seneweb.com
 sengpou.com
 seniorsnews.net
-senken.co.jp
 senno.by
-sentientmedia.org
 sentimentmetrics.com
 sentinel-standard.com
 sentinelandenterprise.com
@@ -14079,7 +13560,6 @@ sentralnews.com
 seoul.co.kr
 serbestiyet.com
 serbske-nowiny.de
-seriesphere.com
 sermitsiaq.ag
 serp.mk.ru
 serqqapisi.az
@@ -14090,7 +13570,6 @@ setit.us
 setn.com
 setopati.com
 settimananews.it
-seucreditodigital.com.br
 seudinheiro.com
 seurakuntalainen.fi
 seutumajakka.fi
@@ -14122,7 +13601,6 @@ sfvbj.com
 sfweekly.com
 sg.news.yahoo.com
 sg.yahoo.com
-sgazeta.ru
 sggp.org.vn
 sgn.org
 sgvibor.ru
@@ -14131,7 +13609,6 @@ shaam.org
 shabaton1.co.il
 shabestan.ir
 shabiba.com
-shacknews.com
 shafaq.com
 shafaqna.com
 shambalanews.com
@@ -14143,7 +13620,6 @@ sharghdaily.com
 sharjah24.ae
 sharonherald.com
 sharpdaily.com.tw
-shazoo.ru
 sheboyganpress.com
 sheffieldtribune.co.uk
 shehab.ps
@@ -14151,7 +13627,6 @@ shehabnews.com
 shekulli.com.al
 shelbycountyreporter.com
 shelbystar.com
-shelterforce.org
 shepherdexpress.com
 sheppnews.com.au
 shepvisnyk.com.ua
@@ -14163,15 +13638,12 @@ shihannews.net
 shikoku-np.co.jp
 shilapatra.com
 shimotsuke.co.jp
-shinkenpress.co.jp
 shinmai.co.jp
 shinshunan.co.jp
 shklovinfo.by
 shn.ch
 shobserver.com
-shop.exacteditions.com
 shop.ilmessaggero.it
-shorenewsnow.com
 shorouknews.com
 shoshonenewspress.com
 showbusinessweekly.com
@@ -14208,11 +13680,8 @@ signalcleveland.org
 signalhfx.ca
 signalscv.com
 signonsandiego.com
-signpost.news
 sikaajournal.tg
 sikkimexpress.com
-siliconcanals.com
-siliconera.com
 siliconprairienews.com
 siliconvalley.com
 silive.com
@@ -14273,7 +13742,6 @@ skwawkbox.org
 skynews.com.au
 skynewsarabia.com
 skypost.hk
-sl.vgtimes.com
 sla.se
 slaskaopinia.pl
 slate.com
@@ -14284,7 +13752,6 @@ slawa.tv
 slaynews.com
 sligochampion.ie
 sligoweekender.com
-slippedisc.com
 slk.kh.ua
 slobodenpecat.mk
 slobodna-bosna.ba
@@ -14337,7 +13804,6 @@ snn.ir
 snn.sk
 snoop.ro
 snopes.com
-snowbrains.com
 snowmasssun.com
 snrtnews.com
 sntv.com
@@ -14397,7 +13863,6 @@ sonorannews.com
 sonpou.net
 sooeveningnews.com
 sootoday.com
-soperth.com.au
 sora24.it
 sorong.tribunnews.com
 sosialnytt.com
@@ -14454,8 +13919,6 @@ spanish.people.com.cn
 spanishrevolution.net
 sparechangenews.net
 sparknewspaper.co.uk
-spaziocrypto.com
-spaziogames.it
 spb.mk.ru
 spbdnevnik.ru
 spbvedomosti.ru
@@ -14472,19 +13935,12 @@ spectator.sme.sk
 spectatorindex.com
 spectrumnews1.com
 spectrumnewsnecn.com
-spedtaculardailyliving.com
-speedmaniacs.com
-speedmaniacs.de
 spektr.press
-spelinsikten.se
 spencerdailyreporter.com
 spiegel.de
-spieletester.com
-spieletipps.de
 spiked-online.com
 spiritofjefferson.com
 spitsnieuws.nl
-splashgames.de
 splicetoday.com
 spokanejournal.com
 spokanesource.com
@@ -14518,7 +13974,6 @@ srilankamirror.com
 srilankanz.co.nz
 srna.rs
 srpskainfo.com
-srsly.ru
 srugim.co.il
 ss-times.com
 ssnewstelegram.com
@@ -14582,14 +14037,12 @@ statesman.com
 statesmanjournal.com
 statesville.com
 statetimes.in
-status.news
 staugustine.com
 stayinspirednews.com
 stcatharinesstandard.ca
 stcn.com
 stdaily.com
 steamboatpilot.com
-steamdeckhq.com
 stears.co
 stedum.com
 steenwijkercourant.nl
@@ -14608,7 +14061,6 @@ sthelenastar.com
 stiften.dk
 stimme.de
 stiri.md
-stirileimobiliare.ro
 stirileprotv.ro
 stiriletransilvaniei.ro
 stiripesurse.ro
@@ -14637,7 +14089,6 @@ stormlake.com
 stornowaygazette.co.uk
 storyblick.de
 storyful.com
-storynetwork.in
 stowmarketmercury.co.uk
 stoxos.gr
 stp-press.st
@@ -14651,8 +14102,6 @@ strategies.fr
 stratford-herald.com
 stratfordbeaconherald.com
 strathclydetelegraph.com
-stratics.com
-stream.org
 streamclues.com
 streamingworldtv.it
 streetpress.com
@@ -14664,7 +14113,6 @@ stribuna.ru
 strilen.no
 stripes.com
 stromstadstidning.se
-strongmanarchives.com
 stroubly.com
 stt.fi
 sttidningen.se
@@ -14756,13 +14204,11 @@ sunwebhk.com
 suomenkuvalehti.fi
 suomenmaa.fi
 suomenselansanomat.net
-suomenuutiset.fi
 suomenuutisviikko.se
 supchina.com
 super.kg
 super.ru
 superando.it
-supercombo.gg
 supermedia.hk
 supernowosci24.pl
 suprabhaatham.com
@@ -14795,7 +14241,6 @@ svenskhampa.se
 svenskhistoria.se
 sverigesradio.se
 svet24.si
-svg.com
 svherald.com
 svinews.com
 svoboda-news.com
@@ -14972,7 +14417,6 @@ tazabek.kg
 tb.no
 tbnewswatch.com
 tbnweekly.com
-tbreak.com
 tbrnews.com
 tbsnews.net
 tchadinfos.com
@@ -14986,25 +14430,7 @@ tdn.com
 tdtnews.com
 teaonews.co.nz
 teatral.cat
-techaeris.com
-techamerica.ai
-techcapital.com
-techdgst.ru
-techgage.com
-techgarage.blog
-techhq.com
-techmaniacs.gr
-techmeme.com
 technicianonline.com
-technikart.com
-technopolis.susu.ru
-techraptor.net
-techstrong.it
-techsutram.com
-techturco.com
-techverma.com
-techwhoknows.com
-tecnologiageek.com
 tednik.svet24.si
 teesdalemercury.co.uk
 tehachapinews.com
@@ -15012,8 +14438,6 @@ tehelka.com
 tehrantimes.com
 tejaratnews.com
 tejuka-lehti.fi
-tek.no
-tekniikkatalous.fi
 telanganatoday.com
 telanganatribune.com
 telanon.info
@@ -15041,7 +14465,6 @@ telepoche.fr
 telepolis.de
 teleqraf.az
 teleqraf.com
-teleshkronjapost.com
 telestar.fr
 telesurenglish.net
 telesurtv.net
@@ -15059,7 +14482,6 @@ teluguvaaditv.com
 temoignagechretien.fr
 temoignages.re
 tempo.co
-tempo.com
 teneriffa-news.com
 tenews.org.ua
 tengrinews.kz
@@ -15106,7 +14528,6 @@ tg5.mediaset.it
 tgcom24.mediaset.it
 tghat.com
 tgmax.it
-tgn.no
 tgrthaber.com
 tgrthaber.com.tr
 tha.com.tr
@@ -15122,12 +14543,9 @@ thanthitv.com
 tharrosnews.gr
 thawra.sy
 the-daily-record.com
-the-decoder.com
-the-decoder.de
 the-dispatch.com
 the-downballot.com
 the-fed.net
-the-flow.ru
 the-independent.com
 the-japan-news.com
 the-journal.com
@@ -15147,7 +14565,6 @@ the-tidings.com
 the-underground.online
 the-village.ru
 the-world-now.com
-the5krunner.com
 the74million.org
 the961.com
 theaccradailymail.com
@@ -15283,7 +14700,6 @@ thecollegianur.com
 thecolumbiastar.com
 thecomet.net
 thecomfortnews.com
-thecomicstoday.com
 thecommonreview.org
 thecommunityvoice.com
 theconcordian.com
@@ -15303,10 +14719,8 @@ thecreswellchronicle.com
 thecrimson.com
 thecritic.co.uk
 thecriticalreview.org
-thecultsbay.com
 thecurbsidechronicle.org
 thecurrency.news
-thecurrencyanalytics.com
 thecurrent-online.com
 thecurrent.pk
 thecurrentla.com
@@ -15333,13 +14747,11 @@ thedailyworld.com
 thedaonline.com
 thedartmouth.com
 theday.com
-thedebrief.org
 thedenmarknews.com
 thederrick.com
 thedesertreview.com
 thedesk.net
 thedetail.tv
-thedigitalweekly.com
 thediplomat.com
 thediplomatindia.com
 thedispatch.com
@@ -15372,7 +14784,6 @@ theexpressnewspaper.com
 theeyeopener.com
 thef1formula.com
 thefacts.com
-thefader.com
 thefederal.com
 thefederalist.com
 theferndaleenterprise.com
@@ -15419,7 +14830,6 @@ theguadalajarareporter.net
 theguardian.com
 theguidon.com
 theguru.co.kr
-thegww.com
 thehansindia.com
 thehardtimes.net
 theharvardvoice.com
@@ -15529,7 +14939,6 @@ themacdonaldnotebook.ca
 themadisonrecord.com
 themagnoliapotpourri.com
 themaineedge.com
-themakoreactor.com
 themalaysianinsight.com
 themalaysianreserve.com
 themalaysiapost.com
@@ -15539,7 +14948,6 @@ themarker.com
 themarkup.org
 themarshallproject.org
 themedialine.org
-themedicalstudent.co.uk
 themedium.ca
 themeghalayan.com
 themelrosemessenger.org
@@ -15557,7 +14965,6 @@ themonitor.com
 themontclarion.org
 themonthly.com.au
 themorning.lk
-themorningnews.org
 themorningsun.com
 themoscowtimes.com
 themountaineagle.com
@@ -15649,7 +15056,6 @@ thepeninsulaqatar.com
 thepeoplemagazine.co.kr
 thepeoplesvoice.tv
 thepeterboroughexaminer.com
-thephenomenonmag.com
 thephiladelphiabulletin.com
 thephiladelphiacitizen.org
 thephoenix.ie
@@ -15725,7 +15131,6 @@ thesierraleonetelegraph.com
 thesignpostwsu.com
 thesimpsonian.com
 thesiuslawnews.com
-thesixthaxis.com
 theskanner.com
 theskimm.com
 thesmokymountaintimes.com
@@ -15738,7 +15143,6 @@ thesouthfirst.com
 thespec.com
 thespectrum.com
 thespinoff.co.nz
-thestage.co.uk
 thestandard.co
 thestandard.com.hk
 thestandard.com.ph
@@ -15753,7 +15157,6 @@ thestarphoenix.com
 thestarpress.com
 thestate.com
 thestatesman.com
-thestatesmanindia.com
 thestatesmanonline.com
 thestival.gr
 thestkittsnevisobserver.com
@@ -15787,7 +15190,6 @@ thetandd.com
 thetartan.org
 thetartpaper.com
 thetd.com
-thetechlantis.com
 thetelegram.com
 thetelegraph.com
 thetelegraph.com.au
@@ -15836,7 +15238,6 @@ thewalrus.ca
 thewandererpress.com
 thewashingtondailynews.com
 thewashingtonsun.com
-theweather.com
 theweek.co.uk
 theweek.com
 theweek.in
@@ -15883,13 +15284,11 @@ thisdaylive.com
 thisisafricaonline.com
 thisisbeirut.com.lb
 thisisexeter.co.uk
-thisisgame.com
 thisismoney.co.uk
 thisiswiltshire.co.uk
 thisweekmedia.com
 thmeythmey.com
 thonline.com
-thr.com
 threeriversnews.com
 thueringen24.de
 thueringer-allgemeine.de
@@ -15921,7 +15320,6 @@ tillamookheadlightherald.com
 timashevsk-zt.ru
 time.com
 time.kz
-timeextension.com
 times-advocate.com
 times-age.co.nz
 times-gazette.com
@@ -16037,12 +15435,10 @@ tolucantimes.info
 tomanifesto.gr
 tombstoneepitaph.com
 tomdispatch.com
-tomshw.it
 tomsk.mk.ru
 tonganoxiemirror.com
 tooeleonline.com
 toonippo.co.jp
-toornews.com
 top-channel.tv
 topic.ie
 topics.or.jp
@@ -16050,14 +15446,12 @@ topics.smt.docomo.ne.jp
 topky.sk
 toppresa.bg
 topwar.ru
-torgranate.de
 torilehti.fi
 torinotoday.it
 torontostandard.com
 torontosun.com
 torontotoday.ca
 torquayheraldexpress.co.uk
-torquenews.com
 torresette.news
 torringtontelegram.com
 tortoisemedia.com
@@ -16065,8 +15459,6 @@ total.kz
 totalcar.hu
 totcerdanyola.cat
 totenidag.no
-tottusinpari.it
-tourprom.ru
 toute-la-franchise.com
 toutiao.com
 toutmontpellier.fr
@@ -16087,7 +15479,6 @@ trabajadores.cu
 tracypress.com
 tracysource.com
 trad.cn.rfi.fr
-tradewindsnews.com
 tradingonline.com
 traerstarclipper.com
 traildailytimes.ca
@@ -16099,10 +15490,6 @@ transsibinfo.com
 transtelex.ro
 transylvaniatimes.com
 trashitaliano.it
-travelextra.ie
-traveloffpath.com
-travelpearls.ch
-travelweekly.com
 traversesource.com
 trbn.com.br
 trelleborgsallehanda.se
@@ -16190,10 +15577,8 @@ tssdnews.com.tw
 tt.com
 tt.se
 ttela.se
-ttgdigital.com
 tuairisc.ie
 tuamherald.ie
-tuapppara.com
 tubantia.nl
 tucollegian.org
 tucson.com
@@ -16259,10 +15644,8 @@ tvanouvelles.ca
 tvcnews.tv
 tvedestrandsposten.no
 tver.mk.ru
-tvfreaks.gr
 tvilletimes.com
 tvmag.com
-tvmaze.com
 tvmidtvest.dk
 tvmnews.mt
 tvn-2.com
@@ -16284,7 +15667,6 @@ tweednews.com.au
 twentyfournews.com
 twice.com
 twincities.com
-twinfinite.net
 twitchy.com
 twnewsdaily.com
 twreporter.org
@@ -16318,7 +15700,6 @@ ubupan.be
 ubyssey.ca
 uc.kr.ua
 ucanews.com
-ucg.cn
 uchalinka.ru
 ucsdguardian.org
 udayavani.com
@@ -16333,7 +15714,6 @@ ufvcascade.ca
 ugandaradionetwork.net
 ugenserhverv.dk
 ugluu.mn
-ugo.com
 ugra-news.ru
 ugra.mk.ru
 uhia.revealdigital.org
@@ -16364,7 +15744,6 @@ uk.yahoo.com
 uk.zawya.com
 ukiahdailyjournal.com
 ukr.lb.ua
-ukr.vgtimes.com
 ukraina.ru
 ukrainepravo.com
 ukrainer.net
@@ -16389,7 +15768,6 @@ ulusal.com.tr
 ulysmedia.kz
 umaleht.ee
 umanitanova.org
-umanity.jp
 umdmedia.com
 umdmitzpeh.com
 umlauf.de
@@ -16401,7 +15779,6 @@ unb.com.bd
 unbiasable.com
 unbnews.org
 uncmirror.com
-undeadly.org
 underdusken.no
 unfallgiganten.de
 unfspinnaker.com
@@ -16433,7 +15810,6 @@ unn.ua
 unomasuno.com.mx
 unotv.com
 unseen-japan.com
-unseen64.net
 unsere-zeit.de
 unt.se
 unter-emmentaler.ch
@@ -16450,9 +15826,7 @@ upi.com
 upl.uz
 uplift.com
 upmedia.mg
-upozit.com
 upressonline.com
-upsidetelevision.com
 ur6sa6pd6b.search.serialssolutions.com
 ura.news
 ura.ru
@@ -16493,7 +15867,6 @@ usat.ly
 usatoday.com
 usbeketrica.com
 usforacle.com
-usine-digitale.fr
 usmfreepress.org
 usnews.com
 usustatesman.com
@@ -16507,7 +15880,6 @@ utrechtnieuwsblad.nl
 utrinski.com.mk
 utrop.no
 utsandiego.com
-utsvertigo.com
 utusan.com.my
 utusantv.com
 utviraq.net
@@ -16531,7 +15903,6 @@ uzunews.com
 v-chelny.ru
 v.daum.net
 v1.ru
-v2.fi
 v6velugu.com
 vaasainsider.fi
 vaasalehti.fi
@@ -16545,7 +15916,6 @@ vaksdalposten.no
 valaszonline.hu
 valdostadailytimes.com
 valdostasource.com
-valenciafruits.com
 valeursactuelles.com
 valigiablu.it
 valley.newhavenindependent.org
@@ -16570,7 +15940,6 @@ vanguardia.com
 vanguardia.com.mx
 vanguardngr.com
 vantaansanomat.fi
-vantechjournal.com
 vanvoice.com
 vaol.hu
 varden.no
@@ -16589,7 +15958,6 @@ vasabladet.fi
 vasarnap.hu
 vasilkov.info
 vasluiexpres.ro
-vastgoedinsider.nl
 vastgotabladet.se
 vastranyland.fi
 vatanemrooz.ir
@@ -16619,7 +15987,6 @@ vechirniy.kyiv.ua
 vechufa.ru
 vectorwire.ai
 vedomosti.ru
-veintitres.com.ar
 veja.abril.com.br
 velskie-vesti.ru
 venezia.notizie.it
@@ -16639,7 +16006,6 @@ verlagshaus-jaumann.de
 verler-leben.de
 vermontdailychronicle.com
 vermontwoman.com
-version2.dk
 versionfinal.com.ve
 verstka.media
 vert.eco
@@ -16674,21 +16040,16 @@ vf.se
 vg-gazeta.by
 vg.hu
 vg.no
-vg247.com
 vgorode.ua
 vgoroden.ru
 vgr.by
-vgtime.com
-vgtimes.com
 vi.rfi.fr
 viaempresa.cat
 viborg-folkeblad.dk
 vice.com
-victechjournal.com
 victoriaadvocate.com
 vidaenelvalle.com
 videoageinternational.com
-videospiele.com
 vien-dong.com
 viendongonline.com
 vienna.at
@@ -16751,7 +16112,6 @@ vishvasnews.com
 visionguinee.info
 visionthai.net
 visir.is
-visla.kr
 visnik-press.com.ua
 visnyk-irpin.com.ua
 visnyk.lutsk.ua
@@ -16857,8 +16217,6 @@ vrastan.ge
 vreme.com
 vremya.ru
 vremyan.ru
-vrgamecritic.com
-vrgames.by
 vrn.mk.ru
 vrt.be
 vrtnws.be
@@ -16922,7 +16280,6 @@ waou.com.mo
 wapo.st
 wapt.com
 war.telegraf.com.ua
-wargamer.com
 warminsterjournal.co.uk
 warnerrobinspatriot.com
 warontherocks.com
@@ -17017,7 +16374,6 @@ webtekno.com
 webun.jp
 wedel-schulauer-tageblatt.de
 wedge.ismedia.jp
-wedistribute.org
 weekendavisen.dk
 weekendpost.co.bw
 weeklyblitz.net
@@ -17052,7 +16408,6 @@ westallgaeuer-zeitung.de
 westernadvocate.com.au
 westerncarolinian.com
 westerndailypress.co.uk
-westerndigs.org
 westerneye.net
 westerngazette.ca
 westernherald.com
@@ -17084,7 +16439,6 @@ westviewnews.org
 westvirginiawatch.com
 westword.com
 westyellowstonenews.com
-weszlo.com
 wetterauer-zeitung.de
 wfaa.com
 wfae.org
@@ -17101,9 +16455,7 @@ wgrz.com
 wgxa.tv
 whakatanebeacon.co.nz
 whas11.com
-whatculture.com
 whatfinger.com
-whatsnewinpublishing.com
 whatsupkansascity.net
 whatsuppub.com
 whb.cn
@@ -17134,12 +16486,9 @@ wickenburgsun.com
 wienerzeitung.at
 wiesn.bayern
 wigantoday.net
-wiig.de
-wiiinsider.de
 wijchensnieuws.nl
 wijzijndestad.com
 wikinews.org
-wikinewsie.toolforge.org
 wikitree.co.kr
 wiler-nachrichten.ch
 wilerzeitung.ch
@@ -17158,7 +16507,6 @@ wiltshiretimes.co.uk
 winchester.wickedlocal.com
 winchesternewsgazette.com
 winchesterstar.com
-windowsitpro.com
 windsorexpress.co.uk
 windsorstar.com
 windspeaker.com
@@ -17171,10 +16519,8 @@ winrating.ru
 winstedcitizen.org
 wintersexpress.com
 winterthurer-zeitung.ch
-winwin.com
 wionews.com
 wire.im
-wired.it
 wireread.com
 wirralglobe.co.uk
 wirtschaftskurier.de
@@ -17244,18 +16590,13 @@ workercn.cn
 workingjournalistpress.com
 workpointtoday.com
 worksopguardian.co.uk
-worldboxingnews.com
-worldboxingnews.net
-worldcoffeeportal.com
 worldjournal.com
 worldnews.net.ph
-worldofreel.com
 worldtimes.co.jp
 wormser-zeitung.de
 woroni.com.au
 wort.lu
 worthingherald.co.uk
-worthplaying.com
 wowt.com
 woxx.lu
 woz.ch
@@ -17326,7 +16667,6 @@ www.0532.ua
 www.056.ua
 www.057.ua
 www.061.ua
-www.1001beers.bg
 www.100komma7.lu
 www.10news.com
 www.10news.com.au
@@ -17364,7 +16704,6 @@ www.2001online.com
 www.20min.ch
 www.20minutes.fr
 www.20minutos.es
-www.20wattsmagazine.com
 www.218tv.net
 www.21jingji.com
 www.21news.be
@@ -17399,7 +16738,6 @@ www.263chat.com
 www.26sep.net
 www.27avril.com
 www.29.ru
-www.2duerighe.com
 www.2gb.com
 www.2theadvocate.net
 www.338canada.com
@@ -17419,9 +16757,6 @@ www.48.ru
 www.48hills.org
 www.4bc.com.au
 www.4bcaonline.com
-www.4gamers.co.th
-www.4gamers.com.tw
-www.4p.de
 www.5-tv.ru
 www.5.ua
 www.51.ru
@@ -17480,11 +16815,9 @@ www.92newshd.tv
 www.93.ru
 www.964media.com
 www.970universal.com
-www.972mag.com
 www.985fm.ca
 www.9news.com
 www.9news.com.au
-www.9to5linux.com
 www.a-pravda.ru
 www.a-radio.net
 www.a1on.mk
@@ -17493,7 +16826,6 @@ www.a24.com
 www.a2larm.cz
 www.a2news.com
 www.a2prl.fr
-www.a9vg.com
 www.aa.com.tr
 www.aachener-nachrichten.de
 www.aachener-zeitung.de
@@ -17549,7 +16881,6 @@ www.abcnoticias.com
 www.abcnoticias.mx
 www.abcnyheter.no
 www.abctlx.com
-www.abendblatt-berlin.de
 www.abendblatt.de
 www.abendzeitung-muenchen.de
 www.aberdeennews.com
@@ -17609,7 +16940,6 @@ www.ad.nl
 www.adaderana.lk
 www.adaicon.com
 www.adalet.az
-www.adcf.org
 www.addisadmassnews.com
 www.addisfortune.news
 www.addisonindependent.com
@@ -17632,13 +16962,9 @@ www.adngad.net
 www.adnkronos.com
 www.adnradio.cl
 www.adomonline.com
-www.adoredtv.com
 www.adressa.no
-www.adtechradar.com
 www.advancemonticellonian.com
 www.advantagenews.com
-www.adventure-treff.de
-www.adventuregamers.com
 www.advertisergleam.com
 www.advertisernews.biz
 www.advocate-news.com
@@ -17646,7 +16972,6 @@ www.advocate.com
 www.advokatwatch.dk
 www.adygvoice.ru
 www.aera.gr
-www.aerotechnews.com
 www.affaritaliani.it
 www.affarsvarlden.se
 www.affiches.fr
@@ -17663,7 +16988,6 @@ www.africaguinee.com
 www.africanarguments.org
 www.africanclimatewire.org
 www.africanews.com
-www.africanmirrorusa.com
 www.africannewsagency.com
 www.africapresse.com
 www.afrik.com
@@ -17674,7 +16998,6 @@ www.aftabeyazd.ir
 www.aftabnews.ir
 www.aftenbladet.no
 www.aftenposten.no
-www.aftermath.site
 www.afternoonvoice.com
 www.aftonbladet.se
 www.agara.co.jp
@@ -17693,13 +17016,11 @@ www.agenda.ge
 www.agendamagasin.no
 www.agenparl.eu
 www.agensir.it
-www.agentmodeai.com
 www.agents.media
 www.agenzianova.com
 www.agerpres.ro
 www.agi.it
 www.agile-news.com
-www.aglanews.com
 www.agn.gt
 www.agniban.com
 www.agon.gr
@@ -17723,7 +17044,6 @@ www.ahotsa.info
 www.ahram.org.eg
 www.ahwatukee.com
 www.aib.media
-www.aibites.press
 www.aidas.lt
 www.aidas.us
 www.aif.ru
@@ -17735,7 +17055,6 @@ www.aina.org
 www.aip.ci
 www.air-cosmos.com
 www.airforcetimes.com
-www.airwaysmag.com
 www.aisnenouvelle.fr
 www.aistockwire.com
 www.ait-online.de
@@ -17847,7 +17166,6 @@ www.albanyherald.com
 www.albawabhnews.com
 www.albayan.ae
 www.albayane.press.ma
-www.albconnection.com
 www.albertleatribune.com
 www.albiladpress.com
 www.albionmonitor.com
@@ -17888,7 +17206,6 @@ www.alhijrahnews.com
 www.alhurra.com
 www.alibi.com
 www.alicenow.com.au
-www.aliennews.co.il
 www.alikonline.ir
 www.alingsastidning.se
 www.alithia.com.cy
@@ -18030,11 +17347,9 @@ www.amazoniareal.com.br
 www.ambebi.ge
 www.ambito.com
 www.amc215.com
-www.amednews.com
 www.ameliarueda.com
 www.amennews.com
 www.amensagem.pt
-www.america-mag.com
 www.americaeconomia.com
 www.americanbanker.com
 www.americancanyoneagle.com
@@ -18045,7 +17360,6 @@ www.americanisraelite.com
 www.americanomedia.com
 www.americanpress.com
 www.americanthinker.com
-www.americanwineryguide.com
 www.americaoutloud.news
 www.americustimesrecorder.com
 www.amerika21.de
@@ -18184,7 +17498,6 @@ www.apne.ws
 www.apnews.com
 www.apollo-news.net
 www.apollo.lv
-www.aponet.de
 www.apostrophe.ua
 www.app.com
 www.app.com.pk
@@ -18228,12 +17541,10 @@ www.arcananews.com
 www.archdaily.cl
 www.archdaily.cn
 www.archdaily.com.br
-www.archiletras.com
 www.archpaper.com
 www.arcinfo.ch
 www.ardmoreite.com
 www.ardrossanherald.com
-www.areagames.de
 www.areanewsgroup.com
 www.aredacao.com.br
 www.arenadodinheiro.com.br
@@ -18250,7 +17561,6 @@ www.argusobserver.com
 www.arguspers.nl
 www.arh.mk.ru
 www.ariananews.af
-www.ariase.com
 www.aripaev.ee
 www.arise.tv
 www.aristeguinoticias.com
@@ -18274,10 +17584,8 @@ www.arogyadaily.com
 www.aroundosceola.com
 www.aroundprague.cz
 www.arranbanner.co.uk
-www.arretsurimages.net
 www.arstadposten.no
 www.arsvest.ru
-www.arte.it
 www.arthasarokar.com
 www.article-14.com
 www.articulo14.es
@@ -18338,7 +17646,6 @@ www.assamiyakhabor.com
 www.assamtribune.com
 www.assawsana.com
 www.assayha.net
-www.assignmentx.com
 www.association-rodina.ru
 www.ast.mk.ru
 www.astaga.co
@@ -18365,7 +17672,6 @@ www.athensnews.com
 www.athensohiotoday.com
 www.athensreview.com
 www.athensvoice.gr
-www.athleticsindia.com
 www.atholdailynews.com
 www.atinitonews.com
 www.atlantablackstar.com
@@ -18411,9 +17717,7 @@ www.austagderblad.no
 www.austinchronicle.com
 www.austindailyherald.com
 www.austinmonitor.com
-www.australiangamer.com
 www.authorityngr.com
-www.automaton-media.com
 www.autonomija.info
 www.av-avis.no
 www.av.pl.ua
@@ -18446,16 +17750,13 @@ www.avoyellestoday.com
 www.avozdetrasosmontes.pt
 www.avozdevilalba.gal
 www.avpress.com
-www.avsim.com
 www.avtimes.net
 www.avvenire.it
 www.avvenirelavoratori.eu
 www.avvir.no
-www.awardswatch.com
 www.awate.com
 www.awedis.ormianie.pl
 www.awemainta.com
-www.awfulannouncing.com
 www.awi.defensenews.com
 www.awokonewspapersl.com
 www.awp.ch
@@ -18463,12 +17764,10 @@ www.awp.is
 www.axar.az
 www.axios.com
 www.axynewsglobal.com
-www.axyo.de
 www.aydinlik.com.tr
 www.aydinlikgazete.com
 www.ayibopost.com
 www.aysor.am
-www.ayther.fr
 www.az-landshut.de
 www.az-online.de
 www.az.com.na
@@ -18513,7 +17812,6 @@ www.babruisk.info
 www.babushahi.com
 www.bacauexpress.ro
 www.baccinoticias.com.br
-www.backily.com
 www.badaladas.pt
 www.badalnovas.com
 www.baden24.de
@@ -18566,7 +17864,6 @@ www.bancaynegocios.com
 www.bancroftthisweek.com
 www.band.com.br
 www.band.uol.com.br
-www.bandaancha.eu
 www.bandab.com.br
 www.bandao.cn
 www.bandera.org
@@ -18629,12 +17926,9 @@ www.bastropadvertiser.com
 www.bastropenterprise.com
 www.batesstudent.com
 www.bathchronicle.co.uk
-www.batiactu.com
 www.batimes.com.ar
 www.batonrougesource.com
 www.battlecreekenquirer.com
-www.bauernzeitung.ch
-www.bauernzeitung.de
 www.bavisa.no
 www.baxterbulletin.com
 www.bayanealyaoume.press.ma
@@ -18690,7 +17984,6 @@ www.bedfordshire-news.co.uk
 www.beedreporter.com
 www.beeld.co.za
 www.beenews.com
-www.behindwoods.com
 www.beijingreview.com.cn
 www.bel.ru
 www.belaruspartisan.org
@@ -18701,7 +17994,6 @@ www.belga.be
 www.belganewsagency.eu
 www.belgienu.be
 www.belgrade-news.com
-www.belhalat.news
 www.belizetimes.bz
 www.bellacaledonia.org.uk
 www.bellingcat.com
@@ -18739,7 +18031,6 @@ www.beritasatu.com
 www.berkeleybarb.net
 www.berkeleydailyplanet.com
 www.berkeleyside.org
-www.berksconnect.com
 www.berkshireeagle.com
 www.berlin-live.de
 www.berlin247.net
@@ -18763,7 +18054,6 @@ www.besedanews.com
 www.besheva.co.il
 www.bestofneworleans.com
 www.beta.rs
-www.betakit.com
 www.bethanyclipper.com
 www.beto.cd
 www.betootaadvocate.com
@@ -18773,12 +18063,10 @@ www.beverlypress.com
 www.beverlyweekly.com
 www.bewusst.tv
 www.beyazgazete.com
-www.beyondparadiseadventures.com
 www.beznen.ru
 www.bfm.ru
 www.bfmtv.com
 www.bg-turk.com
-www.bg.mondediplo.com
 www.bgdailynews.com
 www.bgfalconmedia.com
 www.bgindependentmedia.org
@@ -18806,7 +18094,6 @@ www.bielarus.org
 www.bielbienne.com
 www.bielertagblatt.ch
 www.bienpublic.com
-www.biernet.nl
 www.big-rostov.ru
 www.bigbeargrizzly.net
 www.bigbearsource.com
@@ -18843,8 +18130,6 @@ www.bismarcktribune.com
 www.bisnis.com
 www.biss-magazin.de
 www.bit.me
-www.bitcoinbasis.de
-www.bitcultures.com
 www.bitterrootstar.com
 www.bivol.bg
 www.bizimyolinfo.com
@@ -18863,7 +18148,6 @@ www.bjinformation.com
 www.bjnews.com.cn
 www.bjorklovet.com
 www.bjreview.com
-www.bkmedia.cn
 www.bkz.de
 www.blackagendareport.com
 www.blackchronicle.com
@@ -18886,7 +18170,6 @@ www.blesk.cz
 www.blic.rs
 www.blick-aktuell.de
 www.blick.ch
-www.blick.de
 www.blikk.hu
 www.blikopnieuws.nl
 www.bliteoc.com
@@ -18911,7 +18194,6 @@ www.blueandgoldtoday.org
 www.bluemountaineagle.com
 www.blueprint.ng
 www.blueridgenow.com
-www.bluesci.org
 www.blufftonicon.com
 www.blufftontoday.com
 www.bluradio.com
@@ -18931,7 +18213,6 @@ www.bnonews.com
 www.bnps.co.uk
 www.bnr.bg
 www.bnr.nl
-www.bns-news.com
 www.bns.ee
 www.bns.lt
 www.bntnews.bg
@@ -18940,7 +18221,6 @@ www.bobrlife.by
 www.bobruisk.ru
 www.bocabeacon.com
 www.bocojo.com
-www.boerenbusiness.nl
 www.boersen-kurier.at
 www.boersen-zeitung.de
 www.bohemian.com
@@ -18950,7 +18230,6 @@ www.boiseweekly.com
 www.bok365.no
 www.bokra.net
 www.boktugg.se
-www.bolavip.com
 www.boliviaverifica.bo
 www.bollettinosalesiano.it
 www.bolnews.com
@@ -18962,8 +18241,6 @@ www.bombaysamachar.com
 www.bomboradyo.com
 www.bomlo-nytt.no
 www.bon.tv
-www.bondbuyer.com
-www.bondebladet.no
 www.bondia.ad
 www.bondia.com
 www.bonginoreport.com
@@ -18976,7 +18253,6 @@ www.boon.hu
 www.boonesource.com
 www.boonevilledemocrat.com
 www.boonvilledailynews.com
-www.booska-p.com
 www.borba.me
 www.bordeaux7.com
 www.borderlandbeat.com
@@ -19072,7 +18348,6 @@ www.brisbanetimes.com.au
 www.bristolpost.co.uk
 www.bristolpress.com
 www.bristolworld.com
-www.britishpathe.com
 www.brivalatvija.lv
 www.brl.mk.ru
 www.brnow.org
@@ -19107,7 +18382,6 @@ www.bt.no
 www.bt.se
 www.bt2ha9xt3y.search.serialssolutions.com
 www.bta.bg
-www.btc-echo.de
 www.btvnovinite.bg
 www.bucchake-housing.co.jp
 www.buckinghamshirelive.com
@@ -19126,7 +18400,6 @@ www.buerstaedter-zeitung.de
 www.buffalobeast.com
 www.buffalonews.com
 www.buglenewspapers.com
-www.buildersinfintech.ai
 www.bukamatanews.id
 www.bukedde.co.ug
 www.bukhariantimes.org
@@ -19251,14 +18524,12 @@ www.caixin.com
 www.caixinglobal.com
 www.calaverasenterprise.com
 www.calcalist.co.il
-www.calcalistech.com
 www.calcuttagazette.com
 www.caledonianrecord.com
 www.calexicochronicle.com
 www.calgarycitizen.com
 www.calgaryherald.com
 www.calgarysun.com
-www.calgarytechjournal.com
 www.calhealthreport.org
 www.caliber.az
 www.californiademocrat.com
@@ -19313,7 +18584,6 @@ www.cancertherapyadvisor.com
 www.cancha.com
 www.cand.com.vn
 www.caninsesi.com.tr
-www.caniplaythat.com
 www.cankaoxiaoxi.com
 www.canmoreleader.com
 www.cannarias.net
@@ -19329,7 +18599,6 @@ www.capecodonline.com
 www.capecodtimes.com
 www.capecoralsource.com
 www.capegazette.com
-www.capeia.com
 www.capemaytimes.com
 www.capenews.net
 www.capilanocourier.com
@@ -19445,7 +18714,6 @@ www.cdrb.com.cn
 www.cdsb.com
 www.cdt.ch
 www.ce.cn
-www.cecam.org
 www.cecildaily.com
 www.cedarstreettimes.com
 www.ceh.com.cn
@@ -19461,7 +18729,6 @@ www.centralwesterndaily.com.au
 www.centredaily.com
 www.centrepresseaveyron.fr
 www.cenzolovka.rs
-www.ceowire.co
 www.cequilfautdetruire.org
 www.cerescourier.com
 www.ceskenoviny.cz
@@ -19510,7 +18777,6 @@ www.chathamthisweek.ca
 www.chattahoocheenews.com
 www.chausynews.by
 www.chayka.lv
-www.cheapassgamer.com
 www.cheb.mk.ru
 www.cheboygannews.com
 www.checherskivestnik.by
@@ -19583,7 +18849,6 @@ www.chosonsinbo.com
 www.chosun.com
 www.chouftv.ma
 www.chr.mk.ru
-www.christcenteredgamer.com
 www.christianpost.com
 www.christiantoday.co.jp
 www.christiantoday.com
@@ -19601,7 +18866,6 @@ www.chroniquepalestine.com
 www.chronline.com
 www.chronotype.com
 www.chuala.me
-www.chuapp.com
 www.chugoku-np.co.jp
 www.chulavistasource.com
 www.chungfadaily.com
@@ -19615,15 +18879,12 @@ www.cibercuba.com
 www.cicero.de
 www.cidadeverde.com
 www.cimac.org.mx
-www.cin.ba
 www.cincinnati.com
 www.cincodias.com
 www.cinecittanews.it
-www.cinescape.com
 www.cink.hu
 www.ciociariaoggi.it
 www.ciperchile.cl
-www.circleid.com
 www.circoloinvestitori.it
 www.circuit.news
 www.citibusinessnews.com
@@ -19654,13 +18915,11 @@ www.citypages.com
 www.citypaper.com
 www.citypress.co.za
 www.citypress.gr
-www.cityvillagenews.com
 www.cityweekly.net
 www.ciudadccs.info
 www.ciudadderosario.com
 www.civil.ge
 www.civilbeat.org
-www.civileats.com
 www.civilmedia.mk
 www.civilnet.am
 www.cjn.org
@@ -19680,7 +18939,6 @@ www.clarionledger.com
 www.clarkcountypublishing.com
 www.clarkecountydemocrat.com
 www.clarkecountytrib.com
-www.classicgameroom.com
 www.classmag.ru
 www.claxtonenterprise.com
 www.claycountyprogress.com
@@ -19720,7 +18978,6 @@ www.clujexpres.ro
 www.cmjornal.pt
 www.cmlt.ru
 www.cmmedia.com.tw
-www.cn.mondediplo.com
 www.cn.reuters.com
 www.cn.wsj.com
 www.cna.com.tw
@@ -19761,7 +19018,6 @@ www.cocokala.jp
 www.coconuts.co
 www.codigocero.com
 www.coffscoastadvocate.com.au
-www.cogconnected.com
 www.coinagemag.com
 www.coinex-farsi.com
 www.coinworld.com
@@ -19798,9 +19054,7 @@ www.columbuspost.com
 www.columbustelegram.com
 www.come-on.de
 www.comercioyjusticia.info
-www.comhar.ie
 www.comillarkagoj.com
-www.commentaire.fr
 www.commentary.org
 www.comments.ua
 www.commercial-news.com
@@ -19812,7 +19066,6 @@ www.commonwealthbeacon.org
 www.commonwealthtimes.org
 www.commsupdate.com
 www.communa.ru
-www.community.lambdageneration.com
 www.communityadvocate.com
 www.communityimpact.com
 www.communityvoiceks.com
@@ -19821,7 +19074,6 @@ www.compact-online.de
 www.compactmag.com
 www.compassnewspaper.com.ng
 www.computerworld.dk
-www.computerworld.pl
 www.con-telegraph.ie
 www.concordiensis.com
 www.concordmonitor.com
@@ -19843,8 +19095,6 @@ www.conservativehome.com
 www.conservativereview.com
 www.conservativewoman.co.uk
 www.consortiumnews.com
-www.constructiondive.com
-www.constructionequipment.com
 www.contacto.lu
 www.contagionlive.com
 www.context.ro
@@ -19860,7 +19110,6 @@ www.contrariannews.org
 www.contraste.org
 www.contre-attaque.net
 www.contrepoints.org
-www.control-online.nl
 www.controverses.fr
 www.convertingmagazine.com
 www.convoca.pe
@@ -19876,7 +19125,6 @@ www.cope.es
 www.coppercourier.com
 www.corbeaunews-centrafrique.org
 www.cordeledispatch.com
-www.coretechdaily.com
 www.corkbeo.ie
 www.corkindependent.com
 www.corkman.ie
@@ -19901,7 +19149,6 @@ www.corriere.com
 www.corriere.it
 www.corriereadriatico.it
 www.corrierearetino.it
-www.corrieredellascienza.it
 www.corrieredelveneto.corriere.it
 www.corrieredelveneto.it
 www.corrieredisiena.it
@@ -19968,7 +19215,6 @@ www.crainsnewyork.com
 www.cravenherald.co.uk
 www.crc891.com
 www.creativeloafing.com
-www.creators.com
 www.crestedbuttenews.com
 www.cretalive.gr
 www.crewechronicle.co.uk
@@ -19980,7 +19226,6 @@ www.crimea.mk.ru
 www.crimeapress.info
 www.crimetimesusa.com
 www.crimeworld.com
-www.criptovaluta.it
 www.criterio.hn
 www.criteriohidalgo.com
 www.critica-online.de
@@ -20008,9 +19253,7 @@ www.crtvg.es
 www.crusoe.com.br
 www.cruwsible.com.au
 www.cruxnow.com
-www.cryptotimes.io
 www.cs.com.cn
-www.cs3news.org
 www.csbj.com
 www.csemag.com
 www.csmonitor.com
@@ -20043,7 +19286,6 @@ www.cugat.cat
 www.cuindependent.org
 www.cullmantimes.com
 www.cultmontreal.com
-www.culturefix.co.uk
 www.culturu.com
 www.culvercityobserver.com
 www.cumberlandnewsnow.com
@@ -20069,7 +19311,6 @@ www.cvbugle.com
 www.cvlpress.ro
 www.cw.com.tw
 www.cwherald.com
-www.cyberinsider.com
 www.cyol.com
 www.cyprus-mail.com
 www.cyrustimes.com
@@ -20092,9 +19333,7 @@ www.dagensarbete.se
 www.dagensit.no
 www.dagensjuridik.se
 www.dagensmedia.se
-www.dagensmedicin.dk
 www.dagensmedicin.se
-www.dagensmedisin.no
 www.dagensopinion.se
 www.dagensperspektiv.no
 www.dagensps.se
@@ -20145,7 +19384,6 @@ www.dailycommercial.com
 www.dailydem.com
 www.dailydemocrat.com
 www.dailydesherkatha.com
-www.dailydetectivenews.com
 www.dailydispatch.co.za
 www.dailyecho.co.uk
 www.dailyemerald.com
@@ -20203,7 +19441,6 @@ www.dailynewsactivist.com
 www.dailynewsegypt.com
 www.dailynewstranscript.com
 www.dailynewstribune.com
-www.dailynewsvoyage.com
 www.dailynexus.com
 www.dailynigerian.com
 www.dailynk.com
@@ -20211,7 +19448,6 @@ www.dailynorthwestern.com
 www.dailyorange.com
 www.dailypakistan.com.pk
 www.dailypencil.com
-www.dailypharm.com
 www.dailypilot.com
 www.dailypioneer.com
 www.dailypost.co.uk
@@ -20247,7 +19483,6 @@ www.dailystorm.ru
 www.dailysun.co.za
 www.dailytargum.com
 www.dailytarheel.com
-www.dailytelefrag.ru
 www.dailytelegraph.com.au
 www.dailytexanonline.com
 www.dailythanthi.com
@@ -20308,8 +19543,6 @@ www.danspapers.com
 www.dantri.com.vn
 www.danviet.vn
 www.dap-news.com
-www.daraj.com
-www.daraj.media
 www.darientimes.com
 www.darlingtonandstocktontimes.co.uk
 www.dartreview.com
@@ -20317,8 +19550,6 @@ www.daryo.uz
 www.das-parlament.de
 www.dasecho.com
 www.dasgelbeblatt.de
-www.dasklapptsonicht.de
-www.daswetter.com
 www.datacameroon.com
 www.datadista.com
 www.datanoticias.com
@@ -20347,7 +19578,6 @@ www.dcnepal.com
 www.dcnews.ro
 www.dcourier.com
 www.dcreport.org
-www.dday.it
 www.dddkursk.ru
 www.de.syriafocus.com
 www.debate.com.mx
@@ -20356,7 +19586,6 @@ www.deccan.com
 www.deccanchronicle.com
 www.deccanherald.com
 www.declassifieduk.org
-www.decorrespondent.nl
 www.deduktif.id
 www.deebsmagazine.com
 www.deepika.com
@@ -20409,13 +19638,11 @@ www.democratv.org
 www.demokraatti.fi
 www.demokracija.si
 www.demokrata.hu
-www.demonews.de
 www.demopolistimes.com
 www.demorgen.be
 www.dempa-digital.com
 www.dempa-times.co.jp
 www.den-svenske.com
-www.dengekionline.com
 www.denik.cz
 www.denikalarm.cz
 www.denikn.cz
@@ -20628,10 +19855,7 @@ www.dieson.com
 www.digar.ee
 www.digboston.com
 www.diggers.news
-www.digi.no
 www.digi24.ro
-www.digitallydownloaded.net
-www.digitalspy.co.uk
 www.dikaiologitika.gr
 www.diken.com.tr
 www.dillsburgbanner.net
@@ -20651,7 +19875,6 @@ www.directsoir.net
 www.direkt36.hu
 www.direkteaktion.org
 www.direktno.hr
-www.dishnation.com
 www.dispatch.co.kr
 www.dispatch.com
 www.dispatchlive.co.za
@@ -20670,7 +19893,6 @@ www.diyarname.com
 www.djcoregon.com
 www.djournal.com
 www.dl-online.com
-www.dlh.net
 www.dlib.si
 www.dmcityview.com
 www.dn.no
@@ -20736,8 +19958,6 @@ www.dontimes.ru
 www.donya-e-eqtesad.com
 www.doorcountyadvocate.com
 www.dordognelibre.fr
-www.dorfheftli.ch
-www.dormogodomotor.hu
 www.dorsetecho.co.uk
 www.dorzeczy.pl
 www.dosie102.te.ua
@@ -20757,8 +19977,6 @@ www.doverpost.com
 www.dowagiacnews.com
 www.downtownexpress.com
 www.downtownnews.com
-www.doxa.team
-www.doxajournal.ru
 www.dp.ru
 www.dpa-afx.de
 www.dpa.com
@@ -20771,7 +19989,6 @@ www.draugas.org
 www.drawmedia.net
 www.draytonvalleywesternreview.com
 www.dreptatea.ro
-www.drf.com
 www.driffieldtoday.co.uk
 www.driva.no
 www.drm24.no
@@ -20779,7 +19996,6 @@ www.drnamadhumgr.com
 www.drogheda-independent.ie
 www.droghedaleader.ie
 www.drogobych.com
-www.droid-life.com
 www.drome-hebdo.fr
 www.drone.jp
 www.dropsitenews.com
@@ -20792,7 +20008,6 @@ www.dt.no
 www.dt.se
 www.dt.ua
 www.dts-nachrichtenagentur.de
-www.dualshockers.com
 www.dubai.news
 www.dubawa.org
 www.dublinlive.ie
@@ -20884,10 +20099,8 @@ www.eastlondonadvertiser.co.uk
 www.eastmojo.com
 www.eastoregonian.com
 www.eastvalleytribune.com
-www.easyallies.com
 www.easyreadernews.com
 www.eatnews.net
-www.eb.live
 www.ebar.com
 www.ebc.et
 www.ebela.in
@@ -20907,7 +20120,6 @@ www.echo62.com
 www.echoancenis.fr
 www.echodnia.eu
 www.echoduberry.fr
-www.echofm.online
 www.echolive.ie
 www.echoofarunachal.in
 www.echoroukonline.com
@@ -20950,16 +20162,12 @@ www.edgp.gazetaprawna.pl
 www.edinburghlive.co.uk
 www.edition.cnn.com
 www.edition.mv
-www.editionarabediplo.com
 www.editorialedomani.it
 www.edmondsbeacon.com
 www.edmondsun.com
 www.edmontonexaminer.com
 www.edmontonjournal.com
 www.edmontonsun.com
-www.edn.com
-www.ednmag.com
-www.ednnews-12.com
 www.edp24.co.uk
 www.edsonleader.com
 www.edsource.org
@@ -20969,7 +20177,6 @@ www.eenadu.net
 www.eeo.com.cn
 www.efe.com
 www.efectococuyo.com
-www.effectstory.com
 www.effinghamdailynews.com
 www.efsyn.gr
 www.eg-online.ru
@@ -20978,7 +20185,6 @@ www.egcitizen.com
 www.egemen.kz
 www.eghtesadnews.com
 www.eghtesadonline.com
-www.egmnow.com
 www.egyptianstreets.com
 www.egyptindependent.com
 www.egypttoday.com
@@ -20989,8 +20195,6 @@ www.ehouse411.ca
 www.eikerbladet.no
 www.eilandennieuws.nl
 www.einayim.com
-www.einfach-tasty.de
-www.einsiedleranzeiger.ch
 www.eisamay.com
 www.eitb.eus
 www.eitb.tv
@@ -21035,7 +20239,6 @@ www.elbalad.news
 www.elbassair.dz
 www.elbe-weser-kurier.de
 www.elbilad.net
-www.elbocon.pe
 www.elbogotano.com.co
 www.elbuho.pe
 www.elcajonsource.com
@@ -21089,7 +20292,6 @@ www.eldiariony.com
 www.eldictamen.mx
 www.eldinamo.cl
 www.eldinero.com.do
-www.eldiplo.org
 www.eldjoumhouria.dz
 www.eldoce.tv
 www.eldoradonews.com
@@ -21099,6 +20301,7 @@ www.eleconomista.com.mx
 www.eleconomista.es
 www.electronicintifada.net
 www.electronictradinghub.com
+www.elecuanime.com
 www.eleditorplatense.com.ar
 www.eleftherostypos.gr
 www.elepoch.com
@@ -21107,7 +20310,6 @@ www.elespecialitomk.com
 www.elespectador.com
 www.elestimulo.com
 www.eletestudomany.hu
-www.eletric-vehicles.com
 www.elevenmyanmar.com
 www.elfagr.org
 www.elfalconiano.com
@@ -21200,7 +20402,6 @@ www.elorientaldemonagas.com
 www.elpais.com
 www.elpais.com.co
 www.elpais.com.uy
-www.elpaisfinanciero.com
 www.elpasotimes.com
 www.elpatagonico.net
 www.elperiodico.cat
@@ -21312,9 +20513,7 @@ www.emaratalyoum.com
 www.emarathwadaneta.com
 www.embarcaderomediagroup.com
 www.emedia.sn
-www.emerce.nl
 www.emerging-europe.com
-www.emergingtravel.news
 www.emess.co.il
 www.emet73.ru
 www.emirates247.com
@@ -21338,7 +20537,6 @@ www.enanyang.my
 www.enavabharat.com
 www.enca.com
 www.encyclopediasindhiana.org
-www.endpts.com
 www.energi24.no
 www.energybulletin.net
 www.energybulletin.org
@@ -21350,7 +20548,6 @@ www.enewsroom.in
 www.enfieldindependent.co.uk
 www.enfoquenayarit.com
 www.eng.kavkaz-uzel.eu
-www.engevitynews.com
 www.english.alahednews.com.lb
 www.english.nv.ua
 www.enhorningen.net
@@ -21366,7 +20563,6 @@ www.ens-newswire.com
 www.ensegundos.com.pa
 www.ensegundos.do
 www.ensonhaber.com
-www.entarabi.com
 www.entekhab.ir
 www.enterprise-journal.com
 www.enterprise.press
@@ -21375,8 +20571,6 @@ www.enterprisenews.com
 www.enterprisepub.com
 www.enterprisepublications.com
 www.entomologytoday.org
-www.entreemagazine.nl
-www.eo.mondediplo.com
 www.eons.fr
 www.epa.eu
 www.epaper.jagobangla.in
@@ -21384,7 +20578,6 @@ www.epaper.manatelangana.news
 www.epaper.xxsb.com
 www.epaperhimalayadarpan.com
 www.epd.de
-www.epdaily.tv
 www.epe.es
 www.epgn.com
 www.epicenter.bg
@@ -21393,7 +20586,6 @@ www.epigram.org.uk
 www.epiteszforum.hu
 www.epl.delfi.ee
 www.epl.ee
-www.epn.tv
 www.epoch.org.il
 www.epochtimes.co.il
 www.epochtimes.com
@@ -21464,7 +20656,6 @@ www.eszak.hu
 www.etc.se
 www.etela.com
 www.etemadnewspaper.ir
-www.eternia.fr
 www.ethiopia-insight.com
 www.ethiopianreporter.com
 www.ethiopiaobserver.com
@@ -21481,16 +20672,12 @@ www.eu-digest.com
 www.eub.no
 www.eugenedailynews.com
 www.eugeneweekly.com
-www.eujacksonville.com
 www.euobserver.com
 www.euractiv.com
 www.eurasianet.org
 www.euro.cz
 www.euro2day.gr
-www.eurogamer.es
-www.eurogamer.pl
 www.eurointegration.com.ua
-www.euromag.ru
 www.euromaidanpress.com
 www.euronews.al
 www.euronews.com
@@ -21528,7 +20715,6 @@ www.eveningtelegraph.co.uk
 www.eveningtimes.co.uk
 www.eveningtribune.com
 www.eventsinfocus.org
-www.everyeye.it
 www.everythinggp.com
 www.everythreeweekly.com
 www.eviathema.eu
@@ -21557,14 +20743,12 @@ www.examinerlive.co.uk
 www.excal.on.ca
 www.excelsior.com.mx
 www.exclusive.kz
-www.exclusivelygames.com
 www.executivedigest.sapo.pt
 www.exepose.com
 www.exit.al
 www.exitosanoticias.pe
 www.exmoo.com
 www.exmouthjournal.co.uk
-www.exp.de
 www.expansao.co.ao
 www.expansion.com
 www.expansion.mx
@@ -21606,7 +20790,6 @@ www.exxpress.at
 www.eyeradio.org
 www.eyesnews.cn
 www.ezerzeme.lv
-www.ezredveg.hu
 www.f-b.no
 www.f1wm.pl
 www.fabsmag.com
@@ -21648,11 +20831,9 @@ www.famillechretienne.fr
 www.fanabc.com
 www.fanamc.com
 www.fanaposten.no
-www.fandomwire.com
 www.fanpage.it
 www.fararu.com
 www.farmer.com.cn
-www.farmpresstheme.com
 www.farmvilleherald.com
 www.farnhamherald.com
 www.farodevigo.es
@@ -21715,24 +20896,19 @@ www.fhtimes.com
 www.fidelio.hu
 www.fides.org
 www.fier-panda.fr
-www.fiercehealthcare.com
-www.fiercepharma.com
 www.fifetoday.co.uk
 www.fiftyfifty-galerie.de
 www.fij.ng
 www.fijisun.com.fj
 www.fijitimes.com
 www.fijivillage.com
-www.filmdaily.co
 www.filodimos.gr
 www.filosofisksupplement.no
 www.filternyheter.no
 www.fin24.com
 www.finance-commerce.com
 www.finance.si
-www.finance.ua
 www.finance.yahoo.com
-www.financialadvsr.com
 www.financialexpress.com
 www.financialmirror.com
 www.financialnews.com.cn
@@ -21753,7 +20929,6 @@ www.finnmarken.no
 www.finnmarksposten.no
 www.finnvalleyvoice.com
 www.finsktidskrift.fi
-www.finwire.pl
 www.fip.am
 www.firda.no
 www.firdaposten.no
@@ -21782,14 +20957,11 @@ www.flathatnews.com
 www.flatheadbeacon.com
 www.flatoday.com
 www.flauntweekly.com
-www.flayrah.com
 www.fleetwoodtoday.co.uk
 www.flensborg-avis.de
 www.flensburgjournal.de
 www.flevopost.nl
-www.flightsim.com
 www.flintas.lt
-www.flintside.com
 www.flipboard.com
 www.flippinonline.com
 www.flkeysnews.com
@@ -21813,7 +20985,6 @@ www.focusmalaysia.my
 www.focusnewspaper.com
 www.focustaiwan.tw
 www.focusvif.be
-www.fodevarewatch.dk
 www.foinse.ie
 www.fokus.media.pl
 www.fokus.mk
@@ -21827,21 +20998,17 @@ www.folhape.com.br
 www.folhapress.com.br
 www.folhavitoria.com.br
 www.folioweekly.com
-www.foljeton.dk
 www.folk-rovere.org
 www.folkbladet.nu
 www.folkbladet.se
-www.folkculture.in
 www.folkebladet.no
 www.folketidende.dk
 www.folsomtelegraph.com
-www.fomos.kr
 www.fondukraine.com
 www.fonikastorias.gr
 www.fontanaheraldnews.com
 www.fontanasource.com
 www.fontanka.ru
-www.foochia.com
 www.forbes.com
 www.forbes.com.br
 www.forbes.com.mx
@@ -21866,7 +21033,6 @@ www.forsythnews.com
 www.fortbendstar.com
 www.fortmacleodgazette.com
 www.fortmorgantimes.com
-www.fortressofsolitude.co.za
 www.fortsaskatchewanrecord.com
 www.fortuna-gazeta.com.ua
 www.fortune.com
@@ -21936,7 +21102,6 @@ www.franceinfo.fr
 www.francesoir.fr
 www.francetvinfo.fr
 www.franchisetimes.com
-www.frandroid.com
 www.frankenpost.de
 www.franklincountytimes.com
 www.franklinsun.com
@@ -21973,7 +21138,6 @@ www.fretta.no
 www.frettabladid.is
 www.friatider.se
 www.fridae.asia
-www.friday.com.ua
 www.fridolin.ch
 www.frieschdagblad.nl
 www.friesenanzeiger.de
@@ -22026,7 +21190,6 @@ www.furniturestyle.com
 www.furtherafrica.com
 www.futuremedway.co.uk
 www.futuresmag.com
-www.futurity.org
 www.fuw.ch
 www.fvcurrent.com
 www.fvn.no
@@ -22042,7 +21205,6 @@ www.gabonactu.com
 www.gabonmediatime.com
 www.gabonreview.com
 www.gaboteur.ca
-www.gadgeek.in
 www.gadsdenmessenger.com
 www.gadsdentimes.com
 www.gaeta.it
@@ -22065,55 +21227,6 @@ www.gallupindependent.com
 www.galwaybeo.ie
 www.galwaydaily.com
 www.galychyna.if.ua
-www.gamaxx.de
-www.gamazine.de
-www.game-revolution.com
-www.gameblog.fr
-www.gamecaptain.de
-www.gamecrate.com
-www.gamedaily.biz
-www.gamegrin.com
-www.gameguru.ru
-www.gameign.com
-www.gameindustry.com
-www.gameishard.gg
-www.gamekult.com
-www.gamemag.ru
-www.gamemeca.com
-www.gameplanet.co.nz
-www.gameplanet.com.au
-www.gamepressure.com
-www.gamepro.de
-www.gamequarter.be
-www.gamer.no
-www.gameradio.de
-www.gameranx.com
-www.gamerbraves.com
-www.gamercafe.cl
-www.gamereactor.se
-www.gamerevolution.com
-www.gamergen.com
-www.gamers.de
-www.gamersglobal.de
-www.games.ch
-www.games.gg
-www.games.tiscali.cz
-www.gamesaktuell.de
-www.gamesbeat.com
-www.gamesfire.at
-www.gameskinny.com
-www.gamesmania.de
-www.gamespark.jp
-www.gamespew.com
-www.gamestm.co.uk
-www.gameswelt.at
-www.gameswelt.ch
-www.gameswelt.de
-www.gamewatcher.com
-www.gamezebo.com
-www.gamezombie.tv
-www.gamezoom.net
-www.gamigo.de
 www.gammag.com
 www.ganaadhikar.com
 www.ganadabi.com
@@ -22126,13 +21239,11 @@ www.gandul.ro
 www.ganto.co
 www.gants.by
 www.garadvest.by
-www.garfieldmagazin.hu
 www.garhwalpost.in
 www.garnett-ks.com
 www.garoweonline.com
 www.gasteizhoy.com
 www.gastongazette.com
-www.gastroendonews.com
 www.gat.no
 www.gatchina-news.ru
 www.gateway.thedigitel.com
@@ -22140,7 +21251,6 @@ www.gatlinburgsource.com
 www.gatoencerrado.news
 www.gauchebdo.ch
 www.gaudie.co.uk
-www.gauteng.news
 www.gaycitynews.com
 www.gaynews.nl
 www.gaynewsnetwork.com.au
@@ -22220,7 +21330,6 @@ www.gbnett.no
 www.gbnews.com
 www.gcn.ie
 www.gcnewsgazette.com
-www.gcores.com
 www.gctelegram.com
 www.gd.no
 www.gd.se
@@ -22235,15 +21344,12 @@ www.geelongindy.com.au
 www.geenstijl.nl
 www.gehoerlosenzeitung.de
 www.gelderlander.nl
-www.gematsu.com
 www.gemercan.sk
 www.geminigrafica.it
 www.genderindetail.org.ua
-www.generation-nintendo.com
 www.geneticliteracyproject.org
 www.genevasolutions.news
 www.gentenaar.be
-www.genztech.blog
 www.geo.tv
 www.geopoliticalfutures.com
 www.georgetowner.com
@@ -22254,14 +21360,12 @@ www.georgiastatesignal.com
 www.georgiatoday.ge
 www.geotimes.ge
 www.gestion.pe
-www.getcarnews.com
 www.getmagnet.com
 www.getreading.co.uk
 www.getsurrey.co.uk
 www.gettysburgtimes.com
 www.gf24.pl
 www.gfcnieuws.com
-www.gfmag.com
 www.ggwash.org
 www.ghanabusinessnews.com
 www.ghanaiantimes.com.gh
@@ -22278,7 +21382,6 @@ www.giessener-allgemeine.de
 www.giessener-anzeiger.de
 www.giftfocus.com
 www.gifu-np.co.jp
-www.gilabola.com
 www.gilbertsource.com
 www.gildot.org
 www.gillettenewsrecord.com
@@ -22335,7 +21438,6 @@ www.gloucestershirelive.co.uk
 www.gloucestertimes.com
 www.glueckspost.ch
 www.gmanetwork.com
-www.gmrmagazine.com
 www.gmtoday.com
 www.gmw.cn
 www.gna.org.gh
@@ -22346,12 +21448,10 @@ www.goalchina.net
 www.goaprism.com
 www.god.tv
 www.godanriver.com
-www.godisageek.com
 www.godtv.com
 www.goerie.com
 www.goettinger-tageblatt.de
 www.gogo.mn
-www.goha.ru
 www.goldcoast.com.au
 www.goldcoastbulletin.com.au
 www.goldengatexpress.org
@@ -22406,7 +21506,6 @@ www.graffici.ca
 www.grahamstar.com
 www.graiulsalajului.ro
 www.grakantert.am
-www.gram.pl
 www.granadahoy.com
 www.granbydrummer.com
 www.granbydrummer.org
@@ -22431,7 +21530,6 @@ www.greatfallstribune.com
 www.greatyarmouthmercury.co.uk
 www.greekherald.com.au
 www.greekreporter.com
-www.greenanarchy.anarchyplanet.org
 www.greenbaypressgazette.com
 www.greenbeltnewsreview.com
 www.greenevillesun.com
@@ -22450,7 +21548,6 @@ www.greenvilleonline.com
 www.greenwichtime.com
 www.greenwichwire.co.uk
 www.gremionews.com.br
-www.grenchnerstadtanzeiger.ch
 www.grenda.no
 www.grenzecho.net
 www.greystar.co.nz
@@ -22476,7 +21573,6 @@ www.gryyne.ee
 www.gs.by
 www.gsdmagazine.org
 www.gsh.al
-www.gtaboom.com
 www.gtn-pravda.ru
 www.gtrnews.com
 www.gtweekly.com
@@ -22491,7 +21587,6 @@ www.guardianmessenger.com.au
 www.gubdaily.ru
 www.guddzje.de
 www.gudok.ru
-www.gudvibe.app
 www.guelphmercury.com
 www.guelphtoday.com
 www.guernseypress.com
@@ -22550,6 +21645,7 @@ www.haarlemsdagblad.nl
 www.hab.mk.ru
 www.habarileo.co.tz
 www.haber.com
+www.haber365.com
 www.haber365.com.tr
 www.haber7.com
 www.haberglobal.com
@@ -22584,7 +21680,6 @@ www.halktv.com.tr
 www.hallandsposten.se
 www.hallingdolen.no
 www.hallmarknews.com
-www.hallo-eltern.de
 www.halloweendailynews.com
 www.halsteadgazette.co.uk
 www.haluansumatera.com
@@ -22609,9 +21704,7 @@ www.hankyung.com
 www.hannibal.net
 www.hanoimoi.vn
 www.hanslucas.com
-www.hanteonews.com
 www.haon.hu
-www.happypuppy.com
 www.haqqin.az
 www.harakahdaily.net
 www.haramsnytt.no
@@ -22620,8 +21713,6 @@ www.haravgi.com.cy
 www.harborcountry-news.com
 www.harburg-aktuell.de
 www.hardanger-folkeblad.no
-www.hardballtimes.com
-www.hardcoregamer.com
 www.harderwijksezaken.nl
 www.hargitanepe.ro
 www.harianjogja.com
@@ -22678,14 +21769,10 @@ www.hbwebben.se
 www.hch.tv
 www.hcn.org
 www.hcnews.com
-www.hcplive.com
 www.hd.se
 www.hdnews.net
 www.headlinne.com
 www.headtopics.com
-www.healthcaredive.com
-www.healthday.com
-www.healthsignals.news
 www.heaptalk.com
 www.heathercoxrichardson.substack.com
 www.hebdo-ardeche.fr
@@ -22703,7 +21790,6 @@ www.hellgatenyc.com
 www.helsinginsanomat.fi
 www.helsinginuutiset.fi
 www.helsinkitimes.fi
-www.hemali.no
 www.hemeltoday.co.uk
 www.hemmetsvan.se
 www.hendersondispatch.com
@@ -22805,7 +21891,6 @@ www.hindustantimes.com
 www.hindustanurdutimes.com
 www.hindutamil.in
 www.hintonparklander.com
-www.hiphopnewscs.jp
 www.hirado.hu
 www.hirklikk.hu
 www.hirstart.hu
@@ -22828,7 +21913,6 @@ www.hkpost.com.hk
 www.hlavnespravy.sk
 www.hlidacipes.org
 www.hln.be
-www.hlplanet.com
 www.hlrecord.org
 www.hm-news.co.il
 www.hmbreview.com
@@ -22842,10 +21926,8 @@ www.hna.de
 www.hnnoticias.com.br
 www.hnonline.sk
 www.hntqb.com
-www.hntrbrk.com
 www.hocipo.hu
 www.hodotokushu.net
-www.hogapage.de
 www.hojeemdia.com.br
 www.hojemacau.com.mo
 www.hokkaido-np.co.jp
@@ -22963,10 +22045,8 @@ www.hustadvikingen.no
 www.hutchnews.com
 www.hvg.hu
 www.hwsw.hu
-www.hwupgrade.it
 www.hxnews.com
 www.hymn.se
-www.hynerd.it
 www.hypar.ru
 www.hypernewsletter.fr
 www.i-bejar.com
@@ -23004,7 +22084,6 @@ www.idahostatesman.com
 www.ideal.es
 www.ideamensch.com
 www.idelreal.org
-www.idexxcurrents.com
 www.idl-reporteros.pe
 www.idler.co.uk
 www.idn.com.tw
@@ -23029,8 +22108,6 @@ www.ifp.co.in
 www.ifre.com
 www.igfm.sn
 www.igihe.com
-www.igli5.com
-www.ign.com.cn
 www.iha.com.tr
 www.ihalla.com
 www.ihlashaberajansi.com.tr
@@ -23053,7 +22130,6 @@ www.ilcorrieredelgiorno.it
 www.ilcrotonese.it
 www.ildenaro.it
 www.ildubbio.news
-www.ilemonde.com
 www.ilevanger.no
 www.ilfattoquotidiano.it
 www.ilfirenze.it
@@ -23068,13 +22144,11 @@ www.ilgiornaledivicenza.it
 www.ilgiorno.it
 www.ilkkapohjalainen.fi
 www.illawarramercury.com.au
-www.illinoispress.org
 www.illinoistimes.com
 www.ilmajoki-lehti.fi
 www.ilmanifesto.it
 www.ilmattino.it
 www.ilmessaggero.it
-www.ilmeteo.net
 www.iln.co.uk
 www.ilna.ir
 www.ilnapolista.it
@@ -23100,7 +22174,6 @@ www.imaeil.com
 www.imagekhabar.com
 www.imagenradio.com.mx
 www.imatralainen.fi
-www.imbuzz.media
 www.imedi.ge
 www.imedia.news
 www.imedinews.ge
@@ -23111,7 +22184,6 @@ www.imlebanon.org
 www.imn.iq
 www.impartialreporter.com
 www.imprimerieprogres.com
-www.impulsegamer.com
 www.imticker.ch
 www.imtl.org
 www.imvahonshya.co.rw
@@ -23119,7 +22191,6 @@ www.in-cyprus.com
 www.in-domodedovo.ru
 www.in-istra.ru
 www.in-korolev.ru
-www.in-training.org
 www.in.fo
 www.in.gr
 www.in.news.yahoo.com
@@ -23158,7 +22229,6 @@ www.indexjournal.com
 www.india.com
 www.indiaabroad.com
 www.indiafirst.live
-www.indiaglitz.com
 www.indianacapitalchronicle.com
 www.indianagazette.com
 www.indianapolisrecorder.com
@@ -23173,18 +22243,12 @@ www.indiatv.in
 www.indiatvnews.com
 www.indiawest.com
 www.indicatoreweb.it
-www.indiegamewebsite.com
-www.indiemag.fr
-www.indiepost.co.kr
 www.indigo.fr
-www.indoasiadefense.com
 www.indopos.co.id
-www.indrastra.com
 www.indre.no
 www.indubnacity.ru
 www.indus.news
 www.indusage.com.au
-www.industrypulse.media
 www.industryweek.com
 www.indy100.com
 www.indybay.org
@@ -23229,8 +22293,6 @@ www.informante.web.na
 www.informatia-zilei.ro
 www.information.dk
 www.information.tv5monde.com
-www.informatiquenews.fr
-www.informativostelecinco.com
 www.informburo.kz
 www.informe360.com
 www.informer.rs
@@ -23240,14 +22302,12 @@ www.inforpress.cv
 www.inforpress.publ.cv
 www.inforum.com
 www.infos-ouvrieres.fr
-www.infos229.groupecrytalnews.com
 www.infosperber.ch
 www.infostart.hu
 www.infowakat.net
 www.infowars.com
 www.infranken.de
 www.infzm.com
-www.ing.dk
 www.inilah.com
 www.initiativesnews.com
 www.injusticewatch.org
@@ -23268,11 +22328,8 @@ www.inn.ir
 www.innebandyavisen.no
 www.innherred.no
 www.innovando.news
-www.innovanews.ru
 www.innsalzach24.de
 www.inosmi.ru
-www.inputmag.dk
-www.inputmag.se
 www.inqnews.com
 www.inquilab.com
 www.inquirer.com
@@ -23288,14 +22345,11 @@ www.inside-paradeplatz.ch
 www.inside.com.tw
 www.insidebiz.com
 www.insidecroydon.com
-www.insideedition.com
 www.insidehoops.com
-www.insidemacgames.com
 www.insideparadeplatz.ch
 www.insidephilanthropy.com
 www.insider.com
 www.insider.gr
-www.insideradio.com
 www.insidernj.com
 www.insiderpa.com
 www.insiderpaper.com
@@ -23308,7 +22362,6 @@ www.insidetucsonbusiness.com
 www.insight.co.kr
 www.insightcrime.org
 www.insightnews.com
-www.insurancetimes.co.uk
 www.integrimi.com
 www.intelligenceonline.com
 www.intelligenceonline.fr
@@ -23357,9 +22410,7 @@ www.ionnews.mu
 www.iowacapitaldispatch.com
 www.iowastartingline.com
 www.iowastatedaily.com
-www.ip-watch.org
 www.ipfwcommunicator.org
-www.iphonedigital.es
 www.ipn.md
 www.ipolitics.ca
 www.ippmedia.com
@@ -23369,7 +22420,6 @@ www.ipsnews.net
 www.ipswichstar.co.uk
 www.iqtissadiya.com
 www.ir.lv
-www.ir.mondediplo.com
 www.iran-newspaper.com
 www.iran-times.com
 www.irandaily.ir
@@ -23402,7 +22452,6 @@ www.irishvoice.com
 www.irl.mk
 www.irleaks.com
 www.irna.ir
-www.irodalmijelen.hu
 www.irontontribune.com
 www.irozhlas.cz
 www.irrawaddy.com
@@ -23450,7 +22499,6 @@ www.italianamericanherald.com
 www.italiaoggi.it
 www.itasuomalainen.fi
 www.itavayla.fi
-www.itavisen.no
 www.itemlive.com
 www.itemonline.com
 www.ithaca.com
@@ -23459,7 +22507,6 @@ www.ithacavoice.com
 www.ithome.com.tw
 www.itidal.de
 www.itineraire.ca
-www.itnews.com.au
 www.itnijs.frl
 www.itnonline.com
 www.itongadol.com.ar
@@ -23481,11 +22528,9 @@ www.iwate-np.co.jp
 www.iwcp.co.uk
 www.iwgazette.co.uk
 www.iwnsvg.com
-www.ixbt.games
 www.iz.ru
 www.iza.ne.jp
 www.izhevsk.mk.ru
-www.izm.co.kr
 www.izmacity.com
 www.izmirgundem.com
 www.izvmor.ru
@@ -23548,7 +22593,6 @@ www.javanonline.ir
 www.jawapos.com
 www.jawharafm.net
 www.jaxdailyrecord.com
-www.jayisgames.com
 www.jb.com.br
 www.jbl.no
 www.jbnews.com
@@ -23570,9 +22614,6 @@ www.jerusalem-times.net
 www.jeune-independant.net
 www.jeuneafrique.com
 www.jeunessedalgerie.dz
-www.jeuxactu.com
-www.jeuxvideo-live.com
-www.jeuxvideo.fr
 www.jeversches-wochenblatt.de
 www.jewelry-korea.com
 www.jewishaz.com
@@ -23601,7 +22642,6 @@ www.jhunewsletter.com
 www.jiemian.com
 www.jiji.co.jp
 www.jiji.com
-www.jinacoin.ne.jp
 www.jinrieluosi.cn
 www.jiskra-benesov.cz
 www.jjan.kr
@@ -23609,12 +22649,10 @@ www.jjckb.cn
 www.jkb.com.cn
 www.jksb.com.cn
 www.jm-madeira.pt
-www.jmd.co.jp
 www.jn.pt
 www.jnilbo.com
 www.jns.org
 www.jo24.net
-www.jobat.be
 www.join1440.com
 www.jomhouria.com
 www.jomhourieslami.com
@@ -23664,7 +22702,6 @@ www.journal-spectator.com
 www.journal.com.ph
 www.journal.ouest-france.fr
 www.journalauto.com
-www.journaldemickey.com
 www.journaldemontreal.com
 www.journaldemorges.ch
 www.journaldequebec.com
@@ -23677,7 +22714,6 @@ www.journalexpress.ca
 www.journalgazette.net
 www.journalinquirer.com
 www.journalista.dk
-www.journalisten.no
 www.journallesoir.ca
 www.journallive.co.uk
 www.journalnow.com
@@ -23698,7 +22734,6 @@ www.jovempan.com.br
 www.jp-europe-times.com
 www.jp-kunnallissanomat.fi
 www.jp.dk
-www.jp.mondediplo.com
 www.jp.wsj.com
 www.jpinews.com
 www.jpnn.com
@@ -23724,7 +22759,6 @@ www.jurnal.md
 www.jurnalkepri.com
 www.jurnalul.ro
 www.jurvansanomat.fi
-www.justadventure.com
 www.justnewsbd.com
 www.justout.com
 www.justsecurity.org
@@ -23787,13 +22821,10 @@ www.kanalfrederikshavn.dk
 www.kanaloco.jp
 www.kanaren.news
 www.kanashen.ru
-www.kanebridgenews.com
 www.kanivatonga.co.nz
-www.kankokeizai.com
 www.kannadaprabha.com
 www.kannadatimes.com
 www.kannapoliscitizen.com
-www.kanobu.ru
 www.kanoner.com
 www.kansan.com
 www.kansanaani.net
@@ -23817,7 +22848,6 @@ www.karjalalehti.fi
 www.karjalanheili.fi
 www.karjalanmaa.fi
 www.kark.com
-www.karmadio.ir
 www.karmel.co.il
 www.karmoynytt.no
 www.karnatakamalla.com
@@ -23940,7 +22970,6 @@ www.khaosodenglish.com
 www.khaskhabar.com
 www.khbr.me
 www.kherson-news.ru
-www.khgames.co.kr
 www.khmertimeskh.com
 www.khojsamachar.com
 www.khon2.com
@@ -23956,7 +22985,6 @@ www.kidderminstershuttle.co.uk
 www.kidsguidemagazine.com
 www.kidsweek.nl
 www.kieler.news
-www.kielerexpress-online.de
 www.kienyke.com
 www.kigalitoday.com
 www.kikar.co.il
@@ -23969,7 +22997,6 @@ www.kilkennypeople.ie
 www.kincardinenews.com
 www.kineactu.com
 www.king5.com
-www.kingfeatures.com
 www.kingsbridge-today.co.uk
 www.kingstonthisweek.com
 www.kingstreenews.com
@@ -24078,7 +23105,6 @@ www.koran-jakarta.com
 www.koran-sindo.com
 www.koranperbatasan.com
 www.koransatu.id
-www.koraplus.com
 www.koreadaily.com
 www.koreaexpose.com
 www.koreaherald.com
@@ -24087,7 +23113,6 @@ www.koreatimes.co.kr
 www.koreatimes.com
 www.koreatourismtimes.com
 www.korkusuz.com.tr
-www.kormedi.com
 www.korrespondent.net
 www.korrieri.com
 www.korsetsseier.no
@@ -24101,7 +23126,6 @@ www.kosovo-online.com
 www.kossev.info
 www.kostanaytany.kz
 www.kostroma.mk.ru
-www.kotaku.com.au
 www.kotilappi.fi
 www.kotimaa.fi
 www.kotsu.co.jp
@@ -24125,7 +23149,6 @@ www.krarm-press.cap.ru
 www.kras.mk.ru
 www.krassever.ru
 www.krautreporter.de
-www.krawall.de
 www.kray.ck.ua
 www.krdo.com
 www.kreiszeitung.de
@@ -24174,7 +23197,6 @@ www.ktrk.com.ua
 www.ktrk.kg
 www.ktvu.com
 www.ku.fi
-www.ku.mondediplo.com
 www.kuam.com
 www.kuban.mk.ru
 www.kubanpress.ru
@@ -24187,7 +23209,6 @@ www.kul-alarab.com
 www.kulingen.no
 www.kultmagasin.se
 www.kultura-info.by
-www.kulturagz.ru
 www.kumanichi.com
 www.kumparan.com
 www.kun.uz
@@ -24260,7 +23281,6 @@ www.l-express.ca
 www.l-iz.de
 www.l1.nl
 www.l1visible.com
-www.l4news.com
 www.la-bas.org
 www.la-croix.com
 www.la-prensa.com.mx
@@ -24389,10 +23409,8 @@ www.lancashiretelegraph.co.uk
 www.lancasterfarming.com
 www.lancasterguardian.co.uk
 www.lancasteronline.com
-www.lancenet.com.br
 www.lancs.live
 www.land.lu
-www.landanzeiger.ch
 www.landbote.ch
 www.landeszeitung.de
 www.landtiere.de
@@ -24438,7 +23456,6 @@ www.laopinionpuebla.com
 www.laoren.com
 www.laotiantimes.com
 www.lapagina.com.sv
-www.lapaginamillonaria.com
 www.lapalabraisraelita.cl
 www.lapatilla.com
 www.lapatriaenlinea.com
@@ -24487,7 +23504,6 @@ www.larepublica.net
 www.larepublica.pe
 www.larepublique77.fr
 www.larepubliquedespyrenees.fr
-www.largus.fr
 www.larioja.com
 www.larnetimes.co.uk
 www.larotonde.ca
@@ -24582,8 +23598,6 @@ www.lawfaremedia.org
 www.lawgazette.co.uk
 www.lawrencecountypress.com
 www.lawrentian.com
-www.lawweekly.org
-www.lawweekonline.com
 www.lb.ua
 www.lbc.co.uk
 www.lbcgroup.tv
@@ -24667,10 +23681,8 @@ www.lefigaro.fr
 www.lefinancier-dz.com
 www.lefront.com
 www.leftfootforward.org
-www.legacyvillagenews.com
 www.legaldaily.com.cn
 www.leggo.it
-www.legia.net
 www.legislativegazette.com
 www.legit.ng
 www.legnanonews.com
@@ -24703,7 +23715,6 @@ www.lejsl.com
 www.lelchitsy.by
 www.lelezard.com
 www.lemainelibre.fr
-www.lemaitrepapetier.ca
 www.lemanifest.com
 www.lemarin.fr
 www.lematin.ch
@@ -24719,9 +23730,6 @@ www.lemidi-dz.com
 www.lemko.com
 www.lemky.org.ua
 www.lemonde.fr
-www.lemonde.uy
-www.lemondediplomatique.al
-www.lemondediplomatique.cl
 www.lemondeinformatique.fr
 www.lemoniteur.fr
 www.lenational.org
@@ -24733,11 +23741,9 @@ www.lenouveleconomiste.fr
 www.lenouvelliste.ca
 www.lenouvelliste.ch
 www.lenouvelliste.com
-www.lenreactiv.ru
 www.lensakalteng.com
 www.lent.az
 www.lenta.ru
-www.lentoposti.fi
 www.leominsterchamp.com
 www.leonoticias.com
 www.leoweekly.com
@@ -24749,7 +23755,6 @@ www.lepaysmalouin.fr
 www.lepaystchad.com
 www.lepel-kraj.by
 www.lepelerin.com
-www.lepetitjurassien.ch
 www.lepetitquotidien.fr
 www.lepeuplelotbiniere.ca
 www.lephareonline.net
@@ -24775,7 +23780,6 @@ www.lerepublicain.com
 www.lerevelateur224.com
 www.lerougeetleblanc.com
 www.les-cahiers-bleus.com
-www.les-enovateurs.com
 www.les4verites.com
 www.lesafriques.com
 www.lesahel.org
@@ -24786,9 +23790,7 @@ www.lesdepechesdebrazzaville.fr
 www.lesechos.fr
 www.leseco.ma
 www.lesgeniesdelascience.fr
-www.lesinrocks.com
 www.lesiteinfo.com
-www.lesjoiesducode.fr
 www.lesjours.fr
 www.lesnouvellesdanjou.fr
 www.lesoftonline.net
@@ -24828,7 +23830,6 @@ www.leveller.live
 www.levenementprecis.com
 www.levif.be
 www.levoyageur.ca
-www.lewdgamer.com
 www.lexobserver.org
 www.lexplik.be
 www.lexpress-net.com
@@ -24839,7 +23840,6 @@ www.lexpressarchives.ch
 www.lexpression.dz
 www.lexpressiondz.com
 www.lfpress.com
-www.lgbtqnation.com
 www.lgbtqsd.news
 www.lh-inc.ca
 www.lhc.media
@@ -24917,7 +23917,6 @@ www.linkiesta.it
 www.links-series.com
 www.linsoumission.fr
 www.lintelligentdabidjan.org
-www.linuxgames.com
 www.linuxiac.com
 www.lionsroar.com
 www.lioznonews.by
@@ -24961,7 +23960,6 @@ www.lloydslistdcn.com.au
 www.lluban.by
 www.lmd.nedeljnik.rs
 www.lmd.no
-www.lmdturkce.com.tr
 www.lmhnews.com
 www.lmneuquen.com
 www.lmtonline.com
@@ -25075,7 +24073,6 @@ www.ludingtondailynews.com
 www.ludwigshafen24.de
 www.ludzaszeme.lv
 www.lufkindailynews.com
-www.luftfahrtmagazin.de
 www.lug-info.com
 www.luhze.de
 www.lun.com
@@ -25107,8 +24104,6 @@ www.lz.de
 www.lzinios.lt
 www.m24.no
 www.m24.ru
-www.m3.idg.se
-www.m3.se
 www.maaal.com
 www.maalaimalar.com
 www.maaleht.delfi.ee
@@ -25154,7 +24149,6 @@ www.magicvalley.com
 www.magill.ie
 www.magnabureau.space
 www.magozine.it
-www.magyardiplo.hu
 www.magyarhirlap.hu
 www.magyarkurir.hu
 www.magyarnarancs.hu
@@ -25220,6 +24214,8 @@ www.manchexpress.com
 www.mancs.hu
 www.mandegardaily.com
 www.mandiner.hu
+www.mangalam.com
+www.mangaloretoday.com
 www.mangfall24.de
 www.manhattantimesnews.com
 www.manifesto-21.com
@@ -25236,8 +24232,6 @@ www.manoramanews.com
 www.manoramaonline.com
 www.mansfieldnewsjournal.com
 www.mantecabulletin.com
-www.manualdousuario.net
-www.manufacturing.net
 www.map.ma
 www.mapexpress.ma
 www.mapnews.ma
@@ -25256,7 +24250,6 @@ www.marketbusinessnews.com
 www.marketdaily.com.cn
 www.marketingdirecto.com
 www.marketplace.org
-www.marketpostcenter.com
 www.marketwatch.com
 www.marlindemocrat.com
 www.marmarismanset.com
@@ -25320,19 +24313,16 @@ www.mcleannews.com
 www.mcot.net
 www.mcphersonsentinel.com
 www.mcrecordonline.com
-www.mcvuk.com
 www.mdedge.com
 www.mdgazet.ru
 www.mdilbo.com
 www.mdjonline.com
-www.mdmag.com
 www.mdnkids.com
 www.mdr.de
 www.mdzol.com
 www.meadvilletribune.com
 www.meantornionlaakso.fi
 www.meathchronicle.ie
-www.meaww.com
 www.mebaneenterprise.com
 www.mechlocal.com
 www.mecktimes.com
@@ -25348,7 +24338,6 @@ www.mediacites.fr
 www.mediacongo.net
 www.mediafax.ro
 www.mediafiledc.com
-www.mediafilm.ca
 www.mediaguinee.org
 www.mediaguru.cz
 www.mediaindonesia.com
@@ -25371,15 +24360,11 @@ www.mediatoday.co.kr
 www.mediaus.co.kr
 www.mediazona.ca
 www.medicinehatnews.com
-www.mediotiempo.com
-www.medischcontact.nl
-www.mediuutiset.fi
 www.meduza.io
 www.medvestnik.by
 www.medyabar.com
 www.medyascope.tv
 www.medyayenigun.net
-www.meegames.com
 www.megafon.no
 www.meganoticias.cl
 www.megaphone.news
@@ -25387,7 +24372,6 @@ www.megapro.org.il
 www.mehrnews.com
 www.meidasnews.com
 www.meidastouch.com
-www.mein-mmo.de
 www.meinbezirk.at
 www.meine-anzeigenzeitung.de
 www.meinviertel.berlin
@@ -25414,7 +24398,6 @@ www.mercurynews.com
 www.merdeka.com
 www.meredithherald.com
 www.meridianbooster.com
-www.meridiano.net
 www.meridianstar.com
 www.merikarvialehti.fi
 www.merit-times.com
@@ -25430,14 +24413,12 @@ www.messengereast.com.au
 www.messengernewspapers.co.uk
 www.messengersaintanthony.com
 www.messengerwest.com.au
-www.mestemnakole.cz
 www.meta.mk
 www.metadata.cat
 www.methodistrecorder.co.uk
 www.methowvalleynews.com
 www.metimes.com
 www.metior.com.au
-www.metnews.com
 www.metro.co.uk
 www.metro.pr
 www.metro.se
@@ -25454,7 +24435,6 @@ www.metropol.hu
 www.metropolehaiti.com
 www.metropoles.com
 www.metropolisweb.it
-www.metrorailnews.in
 www.metrosantacruz.com
 www.metrosiliconvalley.com
 www.metrospirit.com
@@ -25480,7 +24460,6 @@ www.mgronline.com
 www.mi-reporter.com
 www.miamicelebrities.com
 www.miamiherald.com
-www.miamiinnews.com
 www.miaminewtimes.com
 www.miamiok.com
 www.miamistudent.net
@@ -25565,7 +24544,6 @@ www.minutodigital.com
 www.minutouno.com
 www.minval.az
 www.minyu-net.com
-www.mirf.ru
 www.mirrab.ru
 www.mirror.co.uk
 www.mirrormedia.mg
@@ -25588,7 +24566,6 @@ www.mitti.se
 www.mittkongsvinger.no
 www.mixanitouxronou.gr
 www.mixnews.lv
-www.mixnmojo.com
 www.mizanonline.ir
 www.mizbala.com
 www.mizzima.com
@@ -25640,7 +24617,6 @@ www.mlyn.by
 www.mmafighting.com
 www.mmegi.bw
 www.mmnews.tv
-www.mmorpg.com
 www.mmsonline.com
 www.mmtimes.com
 www.mndaily.com
@@ -25669,16 +24645,8 @@ www.moldpres.md
 www.moment.at
 www.monaco-tribune.com
 www.monacomatin.mc
-www.monde-diplomatique.de
-www.monde-diplomatique.fr
-www.monde-diplomatique.gr
-www.monde-diplomatique.pl
 www.monde-libertaire.fr
 www.monde-libertaire.net
-www.mondediplo.com
-www.mondediplo.fi
-www.mondediplomatique.ro
-www.mondiplo.com
 www.mondo.rs
 www.mondoweiss.net
 www.monewsguyane.com
@@ -25751,12 +24719,8 @@ www.moss-avis.no
 www.motherjones.com
 www.mothership.sg
 www.mothersnews.net
-www.motociclismo.pt
 www.motolko.help
 www.motorcitydirect.com
-www.motorcyclenews.com
-www.motorplus-online.com
-www.motorvarlden.se
 www.moultonadvertiser.com
 www.moultrieobserver.com
 www.moundcitynews.com
@@ -25805,16 +24769,13 @@ www.mtlblog.com
 www.mtsprout.nl
 www.mtstandard.com
 www.mtv.com.lb
-www.mtviggy.com
 www.mtvuutiset.fi
-www.mudconnect.com
 www.mudgeeguardian.com.au
 www.muehlacker-tagblatt.de
 www.mujeresenred.net
 www.muksun.fm
 www.multi-housingnews.com
 www.multihousingnews.com
-www.multiplayer.it
 www.mumbaimirror.com
 www.mumbaimirror.indiatimes.com
 www.mundiario.com
@@ -25890,8 +24851,6 @@ www.mz-mz.net
 www.mz.de
 www.mzamin.com
 www.mzyfz.com
-www.n-mag.de
-www.n-mag.org
 www.n-slovo.com.ua
 www.n-tv.de
 www.n.com.do
@@ -25941,10 +24900,8 @@ www.napaneeguide.com
 www.napavalleyregister.com
 www.napiujsag.hu
 www.naplesnews.com
-www.napnieuws.nl
 www.napolitoday.it
 www.napost.com
-www.napsugar.ro
 www.napunk.dennikn.sk
 www.nara-np.co.jp
 www.narasi.tv
@@ -25953,7 +24910,6 @@ www.narodni-list.hr
 www.narovlya.by
 www.narrominenewsonline.com.au
 www.nasarijec.ba
-www.nasaspaceflight.com
 www.nasepravda.cz
 www.nashagazeta.ch
 www.nashaniva.com
@@ -25989,7 +24945,6 @@ www.nationalpost.com
 www.nationalreport.net
 www.nationalreview.com
 www.nationalworld.com
-www.nationen.no
 www.nationnews.com
 www.nationthailand.com
 www.nationwideradiojm.com
@@ -25999,7 +24954,6 @@ www.nau.ch
 www.naukatv.ru
 www.navabharat.com
 www.navajotimes.com
-www.naval-pages.com
 www.navarracapital.es
 www.navarraconfidencial.com
 www.navatelangana.com
@@ -26106,10 +25060,8 @@ www.netzeitung.de
 www.netzpolitik.org
 www.neue-zeitung.hu
 www.neuepresse.de
-www.neuesgera.de
 www.neuewelt.at
 www.neuewocheaustralien.com
-www.neuralgamer.com
 www.nevadaappeal.com
 www.nevadacurrent.com
 www.nevadasagebrush.com
@@ -26164,7 +25116,6 @@ www.news-abc.com
 www.news-bangla.com
 www.news-banner.com
 www.news-bulletin.com
-www.news-choice.com
 www.news-eleven.com
 www.news-front.su
 www.news-gazette.com
@@ -26299,7 +25250,6 @@ www.newsofbahrain.com
 www.newsoforange.com
 www.newson6.com
 www.newsone.com
-www.newspaper-daily.com
 www.newspectives.com
 www.newspicks.com
 www.newspim.com
@@ -26369,22 +25319,14 @@ www.newzroomafrika.tv
 www.nexojornal.com.br
 www.nexos.com.mx
 www.next.gazeta.pl
-www.next.ink
 www.nexta.tv
 www.nextavenue.org
-www.nextg.tv
 www.nextleftnotes.org
-www.nextpit.com
-www.nextpit.de
-www.nextpit.fr
 www.nextquotidiano.it
 www.nezavisen.mk
 www.nezavisne.com
-www.nftmagazine.com
-www.ng-gamer.nl
 www.ng.by
 www.ng.ru
-www.ng4a.com
 www.ngnews.ca
 www.ngs.ru
 www.ngs24.ru
@@ -26404,7 +25346,6 @@ www.niagarafallsreporter.com
 www.niagaraindependent.ca
 www.niasam.ru
 www.nicematin.com
-www.nicolaytidsskrift.no
 www.nidaalwatan.com
 www.nidaros.no
 www.nidoragir.com
@@ -26430,11 +25371,6 @@ www.ninanews.com
 www.nine.com.au
 www.nineoclock.ro
 www.ninertimes.com
-www.nintendo-connect.de
-www.nintendo-online.de
-www.nintendoeverything.com
-www.nintendowire.com
-www.nintendoworldreport.com
 www.nippon-times.net
 www.nippon.com
 www.nique.net
@@ -26482,10 +25418,8 @@ www.nodal.am
 www.noen.at
 www.noev-kovcheg.ru
 www.noevalleyvoice.com
-www.nofrag.com
 www.nogalesinternational.com
 www.noi.md
-www.noisypixel.net
 www.nokta.md
 www.nola.com
 www.nolalive.com
@@ -26503,7 +25437,6 @@ www.norddalen.no
 www.nordeclair.be
 www.nordeclair.fr
 www.nordhordland.no
-www.nordicdefencesector.com
 www.nordjyske.dk
 www.nordkurier.de
 www.nordlittoral.fr
@@ -26558,7 +25491,6 @@ www.northshoreweekend.com
 www.northshropshirechronicle.com
 www.northumberlandgazette.co.uk
 www.northumberlandnews.com
-www.norvasi.se
 www.norwaypost.no
 www.norwegianamerican.com
 www.norwichbulletin.com
@@ -26598,7 +25530,6 @@ www.notipress.mx
 www.notiuno.com
 www.notizie.it
 www.notizieoggi24.it
-www.notretemps.com
 www.notrevoie.com
 www.nottinghampost.com
 www.notundrishti.com
@@ -26640,7 +25571,6 @@ www.novosti.rs
 www.novostivolgograda.ru
 www.novynarnia.com
 www.now14.co.il
-www.nowgamer.com
 www.nowgrenada.com
 www.nowiny24.pl
 www.nownews.com
@@ -26793,7 +25723,6 @@ www.obrii.com.ua
 www.observador.cr
 www.observador.pt
 www.observalgerie.com
-www.observantonline.nl
 www.observatornews.ro
 www.observatorul.md
 www.observer-reporter.com
@@ -26849,15 +25778,12 @@ www.ohmedia.my
 www.ohmynews.com
 www.ohtuleht.ee
 www.oilcapital.ru
-www.oilgasstoragenews.com
 www.oimparcial.com.br
 www.oisehebdo.fr
 www.oita-press.co.jp
-www.oiusho.it
 www.ojaivalleynews.com
 www.ojo-publico.com
 www.ojo.pe
-www.ojogo.pt
 www.ojornal.com
 www.okaz.com.sa
 www.okcfriday.com
@@ -26877,7 +25803,6 @@ www.oldgoldandblack.com
 www.oldham-chronicle.co.uk
 www.oldhamadvertiser.co.uk
 www.oldhamera.com
-www.oldmanmurray.com
 www.oldpostbooks.com
 www.oleantimesherald.com
 www.olfi.dk
@@ -26918,17 +25843,13 @@ www.oneman.gr
 www.onemk.co.uk
 www.onenews.ph
 www.onet.pl
-www.ongamers.com
 www.onlineathens.com
-www.onlinecasino.amsterdam
 www.onlinekhabar.com
 www.onlinesentinel.com
 www.onlinevologda.ru
-www.onlinewelten.com
 www.onlymagazine.ca
 www.onmanorama.com
 www.onswestfriesland.nl
-www.ontariofarmer.com
 www.ontheditch.com
 www.ontnews.com
 www.onwardstate.com
@@ -26953,7 +25874,6 @@ www.openthemagazine.com
 www.opera-online.com
 www.operamundi.uol.com.br
 www.operanewsapp.com
-www.operationrainfall.com
 www.operativmm.az
 www.opindia.com
 www.opiniaogoias.com.br
@@ -27033,7 +25953,6 @@ www.osvnews.com
 www.oswegonian.com
 www.ot.fi
 www.ot.gr
-www.otakukart.com
 www.oteatre.info
 www.otechestvo.biz
 www.otempo.com.br
@@ -27062,7 +25981,6 @@ www.ourscom.fr
 www.ourtimepress.com
 www.out.com
 www.outandaboutnewspaper.com
-www.outbreaknewstoday.com
 www.outfrontonline.com
 www.outinperth.com
 www.outlookafghanistan.net
@@ -27088,7 +26006,6 @@ www.oyene.no
 www.oyposten.no
 www.ozodi.org
 www.ozodlik.org
-www.p-nintendo.com
 www.pa-report.com
 www.pa.media
 www.pabusinesscentral.com
@@ -27100,7 +26017,6 @@ www.pacificpressnewyork.com
 www.pacificsun.com
 www.pacindex.com
 www.packagingdigest.com
-www.padandpixel.com
 www.padangkita.com
 www.paducahsun.com
 www.pagenewspaper.com
@@ -27148,7 +26064,6 @@ www.panampost.com
 www.panamza.com
 www.panarmenian.net
 www.panchjanya.com
-www.panduanproperti.id
 www.panet.co.il
 www.panews.com
 www.panora.tokyo
@@ -27161,7 +26076,6 @@ www.panorama.tvp.pl
 www.pantagraph.com
 www.pap.pl
 www.paper.people.com.cn
-www.paperdna.ai
 www.paperjam.lu
 www.paperpaper.io
 www.papotin.site
@@ -27214,9 +26128,6 @@ www.pbc.ps
 www.pbcommercial.com
 www.pbn.com
 www.pbpost.com
-www.pc.gamerweb.com
-www.pcgames.de
-www.pcguru.hu
 www.pch24.pl
 www.pcherald.com
 www.pcij.org
@@ -27238,7 +26149,6 @@ www.peeblesshirenews.com
 www.peepalsglobal.com
 www.pegasusnews.com
 www.pekintimes.com
-www.pelaaja.fi
 www.pelhamexaminer.com
 www.pelop.gr
 www.pendletoday.co.uk
@@ -27360,20 +26270,11 @@ www.plaindealer-sun.com
 www.plainlaw.me
 www.plainsman.com
 www.planetsmag.com
-www.planetxbox360.com
 www.plantbasednews.org
-www.plantengineering.com
 www.planv.com.ec
-www.plasticportal.cz
-www.plasticportal.de
-www.plasticportal.eu
-www.plasticportal.sk
 www.plataformamedia.com
 www.platfor.ma
 www.platform-investico.nl
-www.platformer.news
-www.play.tm
-www.playfront.de
 www.playtech.ro
 www.plazajuarez.mx
 www.plazapublica.com.gt
@@ -27381,7 +26282,6 @@ www.pleasantonweekly.com
 www.pleno.news
 www.plo.vn
 www.plovdiv24.bg
-www.pltv.fr
 www.plumasatomicas.com
 www.plumassun.org
 www.plural.jor.br
@@ -27408,10 +26308,8 @@ www.pobjeda.me
 www.poblanerias.com
 www.pobleandorra.com
 www.pocahontastimes.com
-www.pockettactics.com
 www.poconorecord.com
 www.poder360.com.br
-www.podnews.net
 www.podrobno.uz
 www.poetsandquants.com
 www.pogostansanomat.fi
@@ -27419,7 +26317,6 @@ www.poher-hebdo.fr
 www.pohjankyro-lehti.fi
 www.point.md
 www.point24.lu
-www.pointdevue.fr
 www.pointparkglobe.com
 www.pointsdevente.fr
 www.poknapham.in
@@ -27486,7 +26383,6 @@ www.poresto.net
 www.portadowntimes.co.uk
 www.portafolio.co
 www.portagedailyregister.com
-www.portal-kultura.ru
 www.portal6.com.br
 www.portalanalitika.me
 www.portalcorreio.com.br
@@ -27539,7 +26435,6 @@ www.pothwar.com
 www.pottsmerc.com
 www.pottstownmercury.com
 www.poughkeepsiejournal.com
-www.poupardinheiro.com.br
 www.pov.international
 www.povaha.org.ua
 www.povoasemanario.pt
@@ -27592,9 +26487,7 @@ www.prensaobrera.com
 www.president.jp
 www.press-citizen.com
 www.press.lv
-www.press.polytechnic.am
 www.pressafrik.com
-www.pressakey.com
 www.pressandguide.com
 www.pressandjournal.co.uk
 www.pressball.by
@@ -27612,7 +26505,6 @@ www.pressofatlanticcity.com
 www.pressone.ph
 www.pressone.ro
 www.pressonline.rs
-www.pressplay.at
 www.pressplus.com
 www.pressprogress.ca
 www.presspublications.com
@@ -27642,10 +26534,8 @@ www.princegeorgecitizen.com
 www.prishtinainsight.com
 www.privatbankar.hu
 www.private-eye.co.uk
-www.privatewealthdaily.com
 www.privatka.info
 www.privredni.hr
-www.priyalifescience.com
 www.prmira.ru
 www.prnigeria.com
 www.proceso.com.mx
@@ -27666,7 +26556,6 @@ www.pronews.gr
 www.propastop.org
 www.propeller.hu
 www.properm.ru
-www.propertynotify.co.uk
 www.propublica.org
 www.proremodeler.com
 www.proskurivplus.km.ua
@@ -27688,20 +26577,15 @@ www.prsanomat.fi
 www.pryordailytimes.com
 www.psdispatch.com
 www.psmnews.mv
-www.psmonline.com
-www.psu.com
 www.psucollegian.com
 www.psuvanguard.com
 www.psv.org.ua
-www.psxnation.com
-www.psychedelichealth.co.uk
 www.pszeitung.ch
 www.ptinews.com
 www.ptleader.com
 www.ptreyeslight.com
 www.ptv.com.pk
 www.pubblicogiornale.it
-www.publicdomainreview.org
 www.publicnews.com
 www.publicnewshub.com
 www.publico.es
@@ -27715,7 +26599,6 @@ www.publika.ge
 www.publimetro.cl
 www.publimetro.com.mx
 www.publinews.gt
-www.publishersmarketplace.com
 www.puck.news
 www.pudding.cool
 www.pudhari.com
@@ -27724,7 +26607,6 @@ www.pueblosource.com
 www.puertademadrid.org
 www.pukmedia.com
 www.pulaskicitizen.com
-www.puls.no
 www.puls24.at
 www.pulse.com.gh
 www.pulse.ng
@@ -27734,7 +26616,6 @@ www.pulsechronicles.com
 www.pulsehknews.com
 www.pulselive.co.ke
 www.pulseniagara.com
-www.pulsetoday.co.uk
 www.pulsoslp.com.mx
 www.pulzo.com
 www.punchbowl.news
@@ -27750,8 +26631,6 @@ www.puntlandpost.net
 www.purcellvillegazette.com
 www.purchasing.com
 www.purdueexponent.org
-www.purenintendo.com
-www.purexbox.com
 www.puri.ee
 www.puruvesi.net
 www.pusula-app.com
@@ -27828,8 +26707,6 @@ www.r-a.no
 www.r-word.org
 www.r7.com
 www.raahenseutu.fi
-www.rabble.ca
-www.raberalf.de
 www.rablad.no
 www.rabochy-put.ru
 www.rabwah.net
@@ -27857,10 +26734,8 @@ www.radiozamaneh.com
 www.rafnews.co.uk
 www.rafu.com
 www.raialyoum.com
-www.raiderking.com
 www.rainews.it
 www.rajanews.com
-www.ramenparados.com
 www.ramonasentinel.com
 www.ranablad.no
 www.ranchiexpress.com
@@ -27974,7 +26849,6 @@ www.redding.com
 www.redeyechicago.com
 www.redflag.by
 www.redflag.org.au
-www.redgol.cl
 www.redlandcitybulletin.com.au
 www.redlandsdailyfacts.com
 www.redmondmoments.com
@@ -28025,7 +26899,6 @@ www.reisjarvilehti.fi
 www.reitschuster.de
 www.reliable-news.com
 www.religionnews.com
-www.relyonhorror.com
 www.remate.ph
 www.remindernews.com
 www.remiremontvallees.com
@@ -28094,7 +26967,6 @@ www.revistaoeste.com
 www.revistasix.es
 www.revolver.news
 www.revue-pyreneenne.com
-www.revue21.fr
 www.revue303.com
 www.rewire.news
 www.rewirenewsgroup.com
@@ -28123,7 +26995,6 @@ www.rhodeislandcurrent.com
 www.rhonddaleader.co.uk
 www.ria-m.tv
 www.ria.ru
-www.riazor.org
 www.ricentral.com
 www.richfieldreaper.com
 www.richmond-dailynews.com
@@ -28168,7 +27039,6 @@ www.rivesudexpress.ca
 www.rizospastis.gr
 www.rjionline.org
 www.rk37.ru
-www.rllmukforum.com
 www.rmf24.pl
 www.rmn.ph
 www.rmol.id
@@ -28178,7 +27048,6 @@ www.rmzxb.com.cn
 www.rnd.de
 www.rnz.co.nz
 www.rnz.de
-www.roadbook.travel
 www.roadsbridges.com
 www.roanoke-chowannewsherald.com
 www.roanoke.com
@@ -28198,7 +27067,6 @@ www.rockymounttelegram.com
 www.rodiaki.gr
 www.rodniva.by
 www.rodong.rep.kp
-www.rogreviews.com
 www.rojavainformationcenter.org
 www.rokna.net
 www.rokokoposten.dk
@@ -28235,7 +27103,6 @@ www.rotativooaxaca.com.mx
 www.roteanneliese.ch
 www.rotoruadailypost.co.nz
 www.rotter.net
-www.roundballdaily.com
 www.rowadweb.com
 www.roxboro-courier.com
 www.royalgazette.com
@@ -28248,7 +27115,6 @@ www.rozsdakupac.hu
 www.rp-online.de
 www.rp.pl
 www.rp10.com.br
-www.rpgamer.com
 www.rpp.pe
 www.rr.pt
 www.rrdailyherald.com
@@ -28270,7 +27136,6 @@ www.rtl.de
 www.rtl.fr
 www.rtl.hu
 www.rtl.lu
-www.rtlnieuws.nl
 www.rtnk.me
 www.rtp.pt
 www.rtr.ch
@@ -28288,9 +27153,7 @@ www.rtvonline.com
 www.rtvoost.nl
 www.rtvslo.si
 www.rtvutrecht.nl
-www.ru.mondediplo.com
 www.rudaw.net
-www.rudimathematici.com
 www.rudnyi-altai.kz
 www.rue20.com
 www.rue89.com
@@ -28370,7 +27233,6 @@ www.sagat.no
 www.sahanjournal.com
 www.saharamedias.net
 www.saharareporters.com
-www.saiganak.com
 www.saipantribune.com
 www.sajewishreport.co.za
 www.sajr.co.za
@@ -28390,7 +27252,6 @@ www.salemnews.net
 www.salemreporter.com
 www.salfordadvertiser.co.uk
 www.salientpublications.com
-www.salimbasarda.net
 www.salinecourier.com
 www.salisburyjournal.co.uk
 www.salisburypost.com
@@ -28465,7 +27326,6 @@ www.santaclaritasource.com
 www.santacruzsentinel.com
 www.santacruzweekly.com
 www.santafenewmexican.com
-www.santageai.com
 www.santamariahoy.com
 www.santamariasun.com
 www.santamariatimes.com
@@ -28483,7 +27343,6 @@ www.sarawaktribune.com
 www.sarayanews.com
 www.sarbasadharana.com
 www.sarbc.ru
-www.sarcasticgamer.com
 www.sardarabad.com.ar
 www.saristorynetwork.com
 www.satakunnankansa.fi
@@ -28506,7 +27365,6 @@ www.sbs.com.au
 www.sbstatesman.com
 www.sbsun.com
 www.scamtelegraph.com
-www.scandinaviantraveler.com
 www.scarsdalenews.com
 www.scbiznews.com
 www.scdaily.cn
@@ -28514,9 +27372,7 @@ www.scdailypress.com
 www.schaffhausen24.ch
 www.schenefelder-tageblatt.de
 www.schifferstadter-tagblatt.de
-www.schlager.de
 www.schlesien-heute.de
-www.schoolschoolschool.com
 www.schulenburgsticker.com
 www.schwaebische.de
 www.schwarzwaelder-bote.de
@@ -28553,7 +27409,6 @@ www.seacoastonline.com
 www.searchlight.vc
 www.seattlechinesepost.com
 www.seattleglobalist.com
-www.seattlemag.com
 www.seattlemedium.com
 www.seattlepi.com
 www.seattlespectator.com
@@ -28561,7 +27416,6 @@ www.seattletimes.com
 www.seattletimes.nwsource.com
 www.seattleweekly.com
 www.secoloditalia.it
-www.sector.sk
 www.seculodiario.com.br
 www.sedaily.com
 www.sedaliademocrat.com
@@ -28593,9 +27447,7 @@ www.seneplus.com
 www.seneweb.com
 www.sengpou.com
 www.seniorsnews.net
-www.senken.co.jp
 www.senno.by
-www.sentientmedia.org
 www.sentimentmetrics.com
 www.sentinel-standard.com
 www.sentinelandenterprise.com
@@ -28608,7 +27460,6 @@ www.sentralnews.com
 www.seoul.co.kr
 www.serbestiyet.com
 www.serbske-nowiny.de
-www.seriesphere.com
 www.sermitsiaq.ag
 www.serp.mk.ru
 www.serqqapisi.az
@@ -28619,7 +27470,6 @@ www.setit.us
 www.setn.com
 www.setopati.com
 www.settimananews.it
-www.seucreditodigital.com.br
 www.seudinheiro.com
 www.seurakuntalainen.fi
 www.seutumajakka.fi
@@ -28650,7 +27500,6 @@ www.sfvbj.com
 www.sfweekly.com
 www.sg.news.yahoo.com
 www.sg.yahoo.com
-www.sgazeta.ru
 www.sggp.org.vn
 www.sgn.org
 www.sgvibor.ru
@@ -28659,7 +27508,6 @@ www.shaam.org
 www.shabaton1.co.il
 www.shabestan.ir
 www.shabiba.com
-www.shacknews.com
 www.shafaq.com
 www.shafaqna.com
 www.shambalanews.com
@@ -28671,7 +27519,6 @@ www.sharghdaily.com
 www.sharjah24.ae
 www.sharonherald.com
 www.sharpdaily.com.tw
-www.shazoo.ru
 www.sheboyganpress.com
 www.sheffieldtribune.co.uk
 www.shehab.ps
@@ -28679,7 +27526,6 @@ www.shehabnews.com
 www.shekulli.com.al
 www.shelbycountyreporter.com
 www.shelbystar.com
-www.shelterforce.org
 www.shepherdexpress.com
 www.sheppnews.com.au
 www.shepvisnyk.com.ua
@@ -28691,13 +27537,11 @@ www.shihannews.net
 www.shikoku-np.co.jp
 www.shilapatra.com
 www.shimotsuke.co.jp
-www.shinkenpress.co.jp
 www.shinmai.co.jp
 www.shinshunan.co.jp
 www.shklovinfo.by
 www.shn.ch
 www.shobserver.com
-www.shorenewsnow.com
 www.shorouknews.com
 www.shoshonenewspress.com
 www.showbusinessweekly.com
@@ -28735,8 +27579,6 @@ www.signalhfx.ca
 www.signalscv.com
 www.signonsandiego.com
 www.sikkimexpress.com
-www.siliconcanals.com
-www.siliconera.com
 www.siliconprairienews.com
 www.siliconvalley.com
 www.silive.com
@@ -28808,7 +27650,6 @@ www.slawa.tv
 www.slaynews.com
 www.sligochampion.ie
 www.sligoweekender.com
-www.slippedisc.com
 www.slk.kh.ua
 www.slobodenpecat.mk
 www.slobodna-bosna.ba
@@ -28860,7 +27701,6 @@ www.snn.ir
 www.snn.sk
 www.snoop.ro
 www.snopes.com
-www.snowbrains.com
 www.snowmasssun.com
 www.snrtnews.com
 www.sntv.com
@@ -28919,7 +27759,6 @@ www.sonomanews.com
 www.sonpou.net
 www.sooeveningnews.com
 www.sootoday.com
-www.soperth.com.au
 www.sora24.it
 www.sosialnytt.com
 www.sosialurin.fo
@@ -28972,8 +27811,6 @@ www.spanish.people.com.cn
 www.spanishrevolution.net
 www.sparechangenews.net
 www.sparknewspaper.co.uk
-www.spaziocrypto.com
-www.spaziogames.it
 www.spb.mk.ru
 www.spbdnevnik.ru
 www.spbvedomosti.ru
@@ -28990,19 +27827,12 @@ www.spectator.sme.sk
 www.spectatorindex.com
 www.spectrumnews1.com
 www.spectrumnewsnecn.com
-www.spedtaculardailyliving.com
-www.speedmaniacs.com
-www.speedmaniacs.de
 www.spektr.press
-www.spelinsikten.se
 www.spencerdailyreporter.com
 www.spiegel.de
-www.spieletester.com
-www.spieletipps.de
 www.spiked-online.com
 www.spiritofjefferson.com
 www.spitsnieuws.nl
-www.splashgames.de
 www.splicetoday.com
 www.spokanejournal.com
 www.spokanesource.com
@@ -29028,7 +27858,6 @@ www.srilankamirror.com
 www.srilankanz.co.nz
 www.srna.rs
 www.srpskainfo.com
-www.srsly.ru
 www.srugim.co.il
 www.ss-times.com
 www.ssnewstelegram.com
@@ -29092,14 +27921,12 @@ www.statesman.com
 www.statesmanjournal.com
 www.statesville.com
 www.statetimes.in
-www.status.news
 www.staugustine.com
 www.stayinspirednews.com
 www.stcatharinesstandard.ca
 www.stcn.com
 www.stdaily.com
 www.steamboatpilot.com
-www.steamdeckhq.com
 www.stears.co
 www.stedum.com
 www.steenwijkercourant.nl
@@ -29118,7 +27945,6 @@ www.sthelenastar.com
 www.stiften.dk
 www.stimme.de
 www.stiri.md
-www.stirileimobiliare.ro
 www.stirileprotv.ro
 www.stiriletransilvaniei.ro
 www.stiripesurse.ro
@@ -29147,7 +27973,6 @@ www.stormlake.com
 www.stornowaygazette.co.uk
 www.storyblick.de
 www.storyful.com
-www.storynetwork.in
 www.stowmarketmercury.co.uk
 www.stoxos.gr
 www.stp-press.st
@@ -29161,8 +27986,6 @@ www.strategies.fr
 www.stratford-herald.com
 www.stratfordbeaconherald.com
 www.strathclydetelegraph.com
-www.stratics.com
-www.stream.org
 www.streamclues.com
 www.streamingworldtv.it
 www.streetpress.com
@@ -29174,7 +27997,6 @@ www.stribuna.ru
 www.strilen.no
 www.stripes.com
 www.stromstadstidning.se
-www.strongmanarchives.com
 www.stroubly.com
 www.stt.fi
 www.sttidningen.se
@@ -29265,13 +28087,11 @@ www.sunwebhk.com
 www.suomenkuvalehti.fi
 www.suomenmaa.fi
 www.suomenselansanomat.net
-www.suomenuutiset.fi
 www.suomenuutisviikko.se
 www.supchina.com
 www.super.kg
 www.super.ru
 www.superando.it
-www.supercombo.gg
 www.supermedia.hk
 www.supernowosci24.pl
 www.suprabhaatham.com
@@ -29302,7 +28122,6 @@ www.svenskhampa.se
 www.svenskhistoria.se
 www.sverigesradio.se
 www.svet24.si
-www.svg.com
 www.svherald.com
 www.svoboda-news.com
 www.svoboda.org
@@ -29471,7 +28290,6 @@ www.tazabek.kg
 www.tb.no
 www.tbnewswatch.com
 www.tbnweekly.com
-www.tbreak.com
 www.tbrnews.com
 www.tbsnews.net
 www.tchadinfos.com
@@ -29484,32 +28302,13 @@ www.tdn.com
 www.tdtnews.com
 www.teaonews.co.nz
 www.teatral.cat
-www.techamerica.ai
-www.techcapital.com
-www.techdgst.ru
-www.techgage.com
-www.techgarage.blog
-www.techhq.com
-www.techmaniacs.gr
-www.techmeme.com
 www.technicianonline.com
-www.technikart.com
-www.technopolis.susu.ru
-www.techraptor.net
-www.techstrong.it
-www.techsutram.com
-www.techturco.com
-www.techverma.com
-www.techwhoknows.com
-www.tecnologiageek.com
 www.teesdalemercury.co.uk
 www.tehachapinews.com
 www.tehelka.com
 www.tehrantimes.com
 www.tejaratnews.com
 www.tejuka-lehti.fi
-www.tek.no
-www.tekniikkatalous.fi
 www.telanganatoday.com
 www.telanganatribune.com
 www.telanon.info
@@ -29537,7 +28336,6 @@ www.telepoche.fr
 www.telepolis.de
 www.teleqraf.az
 www.teleqraf.com
-www.teleshkronjapost.com
 www.telestar.fr
 www.telesurenglish.net
 www.telesurtv.net
@@ -29555,7 +28353,6 @@ www.teluguvaaditv.com
 www.temoignagechretien.fr
 www.temoignages.re
 www.tempo.co
-www.tempo.com
 www.teneriffa-news.com
 www.tenews.org.ua
 www.tengrinews.kz
@@ -29601,7 +28398,6 @@ www.tg5.mediaset.it
 www.tgcom24.mediaset.it
 www.tghat.com
 www.tgmax.it
-www.tgn.no
 www.tgrthaber.com
 www.tgrthaber.com.tr
 www.tha.com.tr
@@ -29617,12 +28413,9 @@ www.thanthitv.com
 www.tharrosnews.gr
 www.thawra.sy
 www.the-daily-record.com
-www.the-decoder.com
-www.the-decoder.de
 www.the-dispatch.com
 www.the-downballot.com
 www.the-fed.net
-www.the-flow.ru
 www.the-independent.com
 www.the-journal.com
 www.the-leader.com
@@ -29640,7 +28433,6 @@ www.the-tidings.com
 www.the-underground.online
 www.the-village.ru
 www.the-world-now.com
-www.the5krunner.com
 www.the74million.org
 www.the961.com
 www.theaccradailymail.com
@@ -29774,7 +28566,6 @@ www.thecollegianur.com
 www.thecolumbiastar.com
 www.thecomet.net
 www.thecomfortnews.com
-www.thecomicstoday.com
 www.thecommonreview.org
 www.thecommunityvoice.com
 www.theconcordian.com
@@ -29794,10 +28585,8 @@ www.thecreswellchronicle.com
 www.thecrimson.com
 www.thecritic.co.uk
 www.thecriticalreview.org
-www.thecultsbay.com
 www.thecurbsidechronicle.org
 www.thecurrency.news
-www.thecurrencyanalytics.com
 www.thecurrent-online.com
 www.thecurrent.pk
 www.thecurrentla.com
@@ -29829,7 +28618,6 @@ www.thederrick.com
 www.thedesertreview.com
 www.thedesk.net
 www.thedetail.tv
-www.thedigitalweekly.com
 www.thediplomat.com
 www.thediplomatindia.com
 www.thedispatch.com
@@ -29862,7 +28650,6 @@ www.theexpressnewspaper.com
 www.theeyeopener.com
 www.thef1formula.com
 www.thefacts.com
-www.thefader.com
 www.thefederal.com
 www.thefederalist.com
 www.theferndaleenterprise.com
@@ -29909,7 +28696,6 @@ www.theguadalajarareporter.net
 www.theguardian.com
 www.theguidon.com
 www.theguru.co.kr
-www.thegww.com
 www.thehansindia.com
 www.thehardtimes.net
 www.theharvardvoice.com
@@ -30019,7 +28805,6 @@ www.themacdonaldnotebook.ca
 www.themadisonrecord.com
 www.themagnoliapotpourri.com
 www.themaineedge.com
-www.themakoreactor.com
 www.themalaysianinsight.com
 www.themalaysianreserve.com
 www.themalaysiapost.com
@@ -30029,7 +28814,6 @@ www.themarker.com
 www.themarkup.org
 www.themarshallproject.org
 www.themedialine.org
-www.themedicalstudent.co.uk
 www.themedium.ca
 www.themeghalayan.com
 www.themelrosemessenger.org
@@ -30047,7 +28831,6 @@ www.themonitor.com
 www.themontclarion.org
 www.themonthly.com.au
 www.themorning.lk
-www.themorningnews.org
 www.themorningsun.com
 www.themoscowtimes.com
 www.themountaineagle.com
@@ -30139,7 +28922,6 @@ www.thepeninsulaqatar.com
 www.thepeoplemagazine.co.kr
 www.thepeoplesvoice.tv
 www.thepeterboroughexaminer.com
-www.thephenomenonmag.com
 www.thephiladelphiabulletin.com
 www.thephiladelphiacitizen.org
 www.thephoenix.ie
@@ -30214,7 +28996,6 @@ www.thesierraleonetelegraph.com
 www.thesignpostwsu.com
 www.thesimpsonian.com
 www.thesiuslawnews.com
-www.thesixthaxis.com
 www.theskanner.com
 www.theskimm.com
 www.thesmokymountaintimes.com
@@ -30227,7 +29008,6 @@ www.thesouthfirst.com
 www.thespec.com
 www.thespectrum.com
 www.thespinoff.co.nz
-www.thestage.co.uk
 www.thestandard.co
 www.thestandard.com.hk
 www.thestandard.com.ph
@@ -30242,7 +29022,6 @@ www.thestarphoenix.com
 www.thestarpress.com
 www.thestate.com
 www.thestatesman.com
-www.thestatesmanindia.com
 www.thestatesmanonline.com
 www.thestival.gr
 www.thestkittsnevisobserver.com
@@ -30276,7 +29055,6 @@ www.thetandd.com
 www.thetartan.org
 www.thetartpaper.com
 www.thetd.com
-www.thetechlantis.com
 www.thetelegram.com
 www.thetelegraph.com
 www.thetelegraph.com.au
@@ -30324,7 +29102,6 @@ www.thewalrus.ca
 www.thewandererpress.com
 www.thewashingtondailynews.com
 www.thewashingtonsun.com
-www.theweather.com
 www.theweek.co.uk
 www.theweek.com
 www.theweek.in
@@ -30371,13 +29148,11 @@ www.thisdaylive.com
 www.thisisafricaonline.com
 www.thisisbeirut.com.lb
 www.thisisexeter.co.uk
-www.thisisgame.com
 www.thisismoney.co.uk
 www.thisiswiltshire.co.uk
 www.thisweekmedia.com
 www.thmeythmey.com
 www.thonline.com
-www.thr.com
 www.threeriversnews.com
 www.thueringen24.de
 www.thueringer-allgemeine.de
@@ -30408,7 +29183,6 @@ www.tillamookheadlightherald.com
 www.timashevsk-zt.ru
 www.time.com
 www.time.kz
-www.timeextension.com
 www.times-advocate.com
 www.times-age.co.nz
 www.times-gazette.com
@@ -30518,26 +29292,22 @@ www.tolucantimes.info
 www.tomanifesto.gr
 www.tombstoneepitaph.com
 www.tomdispatch.com
-www.tomshw.it
 www.tomsk.mk.ru
 www.tonganoxiemirror.com
 www.tooeleonline.com
 www.toonippo.co.jp
-www.toornews.com
 www.top-channel.tv
 www.topic.ie
 www.topics.or.jp
 www.topky.sk
 www.toppresa.bg
 www.topwar.ru
-www.torgranate.de
 www.torilehti.fi
 www.torinotoday.it
 www.torontostandard.com
 www.torontosun.com
 www.torontotoday.ca
 www.torquayheraldexpress.co.uk
-www.torquenews.com
 www.torresette.news
 www.torringtontelegram.com
 www.tortoisemedia.com
@@ -30545,8 +29315,6 @@ www.total.kz
 www.totalcar.hu
 www.totcerdanyola.cat
 www.totenidag.no
-www.tottusinpari.it
-www.tourprom.ru
 www.toute-la-franchise.com
 www.toutiao.com
 www.toutmontpellier.fr
@@ -30565,7 +29333,6 @@ www.tposcht.ch
 www.trabajadores.cu
 www.tracypress.com
 www.tracysource.com
-www.tradewindsnews.com
 www.tradingonline.com
 www.traerstarclipper.com
 www.traildailytimes.ca
@@ -30577,10 +29344,6 @@ www.transsibinfo.com
 www.transtelex.ro
 www.transylvaniatimes.com
 www.trashitaliano.it
-www.travelextra.ie
-www.traveloffpath.com
-www.travelpearls.ch
-www.travelweekly.com
 www.traversesource.com
 www.trbn.com.br
 www.trelleborgsallehanda.se
@@ -30668,7 +29431,6 @@ www.tt.se
 www.ttela.se
 www.tuairisc.ie
 www.tuamherald.ie
-www.tuapppara.com
 www.tubantia.nl
 www.tucollegian.org
 www.tucson.com
@@ -30732,10 +29494,8 @@ www.tvanouvelles.ca
 www.tvcnews.tv
 www.tvedestrandsposten.no
 www.tver.mk.ru
-www.tvfreaks.gr
 www.tvilletimes.com
 www.tvmag.com
-www.tvmaze.com
 www.tvmidtvest.dk
 www.tvmnews.mt
 www.tvn-2.com
@@ -30755,7 +29515,6 @@ www.tweednews.com.au
 www.twentyfournews.com
 www.twice.com
 www.twincities.com
-www.twinfinite.net
 www.twitchy.com
 www.twnewsdaily.com
 www.twreporter.org
@@ -30787,7 +29546,6 @@ www.ubupan.be
 www.ubyssey.ca
 www.uc.kr.ua
 www.ucanews.com
-www.ucg.cn
 www.ucsdguardian.org
 www.udayavani.com
 www.udiena.lt
@@ -30801,7 +29559,6 @@ www.ufvcascade.ca
 www.ugandaradionetwork.net
 www.ugenserhverv.dk
 www.ugluu.mn
-www.ugo.com
 www.ugra-news.ru
 www.ugra.mk.ru
 www.ujember.hu
@@ -30833,7 +29590,6 @@ www.ultrasawt.com
 www.ulusal.com.tr
 www.ulysmedia.kz
 www.umaleht.ee
-www.umanity.jp
 www.umdmedia.com
 www.umdmitzpeh.com
 www.umlauf.de
@@ -30845,7 +29601,6 @@ www.unb.com.bd
 www.unbiasable.com
 www.unbnews.org
 www.uncmirror.com
-www.undeadly.org
 www.underdusken.no
 www.unfallgiganten.de
 www.unfspinnaker.com
@@ -30876,7 +29631,6 @@ www.unn.ua
 www.unomasuno.com.mx
 www.unotv.com
 www.unseen-japan.com
-www.unseen64.net
 www.unsere-zeit.de
 www.unt.se
 www.unter-emmentaler.ch
@@ -30893,7 +29647,6 @@ www.upi.com
 www.upl.uz
 www.uplift.com
 www.upmedia.mg
-www.upozit.com
 www.upressonline.com
 www.ur6sa6pd6b.search.serialssolutions.com
 www.ura.news
@@ -30916,7 +29669,6 @@ www.usat.ly
 www.usatoday.com
 www.usbeketrica.com
 www.usforacle.com
-www.usine-digitale.fr
 www.usmfreepress.org
 www.usnews.com
 www.usustatesman.com
@@ -30930,7 +29682,6 @@ www.utrechtnieuwsblad.nl
 www.utrinski.com.mk
 www.utrop.no
 www.utsandiego.com
-www.utsvertigo.com
 www.utusan.com.my
 www.utusantv.com
 www.utviraq.net
@@ -30950,7 +29701,6 @@ www.uzreport.news
 www.uzunews.com
 www.v-chelny.ru
 www.v1.ru
-www.v2.fi
 www.v6velugu.com
 www.vaasainsider.fi
 www.vaasalehti.fi
@@ -30964,7 +29714,6 @@ www.vaksdalposten.no
 www.valaszonline.hu
 www.valdostadailytimes.com
 www.valdostasource.com
-www.valenciafruits.com
 www.valeursactuelles.com
 www.valigiablu.it
 www.valleycenter.com
@@ -30986,7 +29735,6 @@ www.vanguardia.com
 www.vanguardia.com.mx
 www.vanguardngr.com
 www.vantaansanomat.fi
-www.vantechjournal.com
 www.vanvoice.com
 www.vaol.hu
 www.varden.no
@@ -31005,7 +29753,6 @@ www.vasabladet.fi
 www.vasarnap.hu
 www.vasilkov.info
 www.vasluiexpres.ro
-www.vastgoedinsider.nl
 www.vastgotabladet.se
 www.vastranyland.fi
 www.vatanemrooz.ir
@@ -31034,7 +29781,6 @@ www.vechirniy.kyiv.ua
 www.vechufa.ru
 www.vectorwire.ai
 www.vedomosti.ru
-www.veintitres.com.ar
 www.veja.abril.com.br
 www.velskie-vesti.ru
 www.venneslatidende.no
@@ -31052,7 +29798,6 @@ www.verkkouutiset.fi
 www.verlagshaus-jaumann.de
 www.verler-leben.de
 www.vermontwoman.com
-www.version2.dk
 www.versionfinal.com.ve
 www.verstka.media
 www.vert.eco
@@ -31087,20 +29832,15 @@ www.vf.se
 www.vg-gazeta.by
 www.vg.hu
 www.vg.no
-www.vg247.com
 www.vgorode.ua
 www.vgoroden.ru
 www.vgr.by
-www.vgtime.com
-www.vgtimes.com
 www.viaempresa.cat
 www.viborg-folkeblad.dk
 www.vice.com
-www.victechjournal.com
 www.victoriaadvocate.com
 www.vidaenelvalle.com
 www.videoageinternational.com
-www.videospiele.com
 www.vien-dong.com
 www.viendongonline.com
 www.vienna.at
@@ -31159,7 +29899,6 @@ www.vishvasnews.com
 www.visionguinee.info
 www.visionthai.net
 www.visir.is
-www.visla.kr
 www.visnik-press.com.ua
 www.visnyk-irpin.com.ua
 www.visnyk.lutsk.ua
@@ -31263,8 +30002,6 @@ www.vrastan.ge
 www.vreme.com
 www.vremya.ru
 www.vremyan.ru
-www.vrgamecritic.com
-www.vrgames.by
 www.vrn.mk.ru
 www.vrt.be
 www.vrtnws.be
@@ -31325,7 +30062,6 @@ www.want-daily.com
 www.wantokniuspepa.com
 www.waou.com.mo
 www.wapt.com
-www.wargamer.com
 www.warminsterjournal.co.uk
 www.warnerrobinspatriot.com
 www.warontherocks.com
@@ -31449,7 +30185,6 @@ www.westallgaeuer-zeitung.de
 www.westernadvocate.com.au
 www.westerncarolinian.com
 www.westerndailypress.co.uk
-www.westerndigs.org
 www.westerneye.net
 www.westerngazette.ca
 www.westernherald.com
@@ -31481,7 +30216,6 @@ www.westviewnews.org
 www.westvirginiawatch.com
 www.westword.com
 www.westyellowstonenews.com
-www.weszlo.com
 www.wetterauer-zeitung.de
 www.wfaa.com
 www.wfae.org
@@ -31498,9 +30232,7 @@ www.wgrz.com
 www.wgxa.tv
 www.whakatanebeacon.co.nz
 www.whas11.com
-www.whatculture.com
 www.whatfinger.com
-www.whatsnewinpublishing.com
 www.whatsupkansascity.net
 www.whatsuppub.com
 www.whb.cn
@@ -31530,12 +30262,9 @@ www.wickenburgsun.com
 www.wienerzeitung.at
 www.wiesn.bayern
 www.wigantoday.net
-www.wiig.de
-www.wiiinsider.de
 www.wijchensnieuws.nl
 www.wijzijndestad.com
 www.wikinews.org
-www.wikinewsie.toolforge.org
 www.wikitree.co.kr
 www.wiler-nachrichten.ch
 www.wilerzeitung.ch
@@ -31553,7 +30282,6 @@ www.wiltshirelive.co.uk
 www.wiltshiretimes.co.uk
 www.winchesternewsgazette.com
 www.winchesterstar.com
-www.windowsitpro.com
 www.windsorexpress.co.uk
 www.windsorstar.com
 www.windspeaker.com
@@ -31565,10 +30293,8 @@ www.winonadailynews.com
 www.winrating.ru
 www.wintersexpress.com
 www.winterthurer-zeitung.ch
-www.winwin.com
 www.wionews.com
 www.wire.im
-www.wired.it
 www.wireread.com
 www.wirralglobe.co.uk
 www.wirtschaftskurier.de
@@ -31638,18 +30364,13 @@ www.workercn.cn
 www.workingjournalistpress.com
 www.workpointtoday.com
 www.worksopguardian.co.uk
-www.worldboxingnews.com
-www.worldboxingnews.net
-www.worldcoffeeportal.com
 www.worldjournal.com
 www.worldnews.net.ph
-www.worldofreel.com
 www.worldtimes.co.jp
 www.wormser-zeitung.de
 www.woroni.com.au
 www.wort.lu
 www.worthingherald.co.uk
-www.worthplaying.com
 www.wowt.com
 www.woxx.lu
 www.woz.ch
@@ -31728,18 +30449,14 @@ www.xal.cat
 www.xalqqazeti.az
 www.xalqqazeti.com
 www.xasb168.com
-www.xb1.co.uk
 www.xdkb.net
 www.xebat.net
 www.xeniagazette.com
-www.xfire.com
 www.xfrb.com.cn
 www.xg9ax2jm9j.search.serialssolutions.com
-www.xgn.nl
 www.xhby.net
 www.xhnet.com
 www.xiancn.com
-www.xiaomitoday.it
 www.xibaaru.sn
 www.xinhuanet.com
 www.xinhuanet.ltd
@@ -31755,7 +30472,6 @@ www.xn--80aaafcmcb6evaidf6r.xn--p1ai
 www.xn--80aaajllkisg9bu3m.xn--p1ai
 www.xn--a-1fa.no
 www.xn--b1agapfwapgcl.xn--p1ai
-www.xn--b1akda1aagn5c3eg.xn--p1ai
 www.xn--c1acbl2abdlkab1og.xn--p1ai
 www.xn--lamaanaonline-lkb.com.ar
 www.xn--tylkkri-9wa.fi
@@ -31811,7 +30527,6 @@ www.yerkir.am
 www.yerkramas.org
 www.yesilgazete.org
 www.yesweekly.com
-www.yfarmx.com
 www.yhbtv.com
 www.yicai.com
 www.yicaiglobal.com
@@ -31846,10 +30561,8 @@ www.youngwitness.com.au
 www.yourbasin.com
 www.yourdailyglobe.com
 www.yourgv.com
-www.yourkorea.life
 www.yourlocalguardian.co.uk
 www.yourottawaregion.com
-www.yourweather.co.uk
 www.yourwestvalley.com
 www.youth.cn
 www.youth.rep.kp
@@ -31868,16 +30581,13 @@ www.yukon-news.com
 www.yukonreview.net
 www.yuldash-sputnik.ru
 www.yumasun.com
-www.yurinavi.com
 www.yurtgazetesi.com.tr
-www.yystv.cn
 www.z-krant.nl
 www.z101digital.com
 www.zabrab75.ru
 www.zackzack.at
 www.zadarskilist.hr
 www.zahracleaning.com
-www.zaim.com
 www.zak.tv
 www.zakon.kz
 www.zamana.info
@@ -31982,7 +30692,6 @@ www.zqrb.cn
 www.zrpress.ru
 www.zsz.ch
 www.ztanews.ir
-www.ztgd.com
 www.ztgzt.kz
 www.zueriost.ch
 www.zugerwoche.ch
@@ -31991,7 +30700,6 @@ www.zumapress.com
 www.zuqiubao.info
 www.zurnal.info
 www.zurnal.mk
-www.zurnal.rs
 www.zurnal24.si
 www.zuzeu.eus
 www.zvezdaaltaya.ru
@@ -32022,19 +30730,15 @@ xal.cat
 xalqqazeti.az
 xalqqazeti.com
 xasb168.com
-xb1.co.uk
 xdkb.net
 xebat.net
 xeniagazette.com
-xfire.com
 xfrb.com.cn
 xg9ax2jm9j.search.serialssolutions.com
-xgn.nl
 xh.xhby.net
 xhby.net
 xhnet.com
 xiancn.com
-xiaomitoday.it
 xibaaru.sn
 xinhuanet.com
 xinhuanet.ltd
@@ -32051,7 +30755,6 @@ xn--80aaafcmcb6evaidf6r.xn--p1ai
 xn--80aaajllkisg9bu3m.xn--p1ai
 xn--a-1fa.no
 xn--b1agapfwapgcl.xn--p1ai
-xn--b1akda1aagn5c3eg.xn--p1ai
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--h1aebnog.xn--p1ai
 xn--lamaanaonline-lkb.com.ar
@@ -32110,7 +30813,6 @@ yerkir.am
 yerkramas.org
 yesilgazete.org
 yesweekly.com
-yfarmx.com
 yhbtv.com
 yicai.com
 yicaiglobal.com
@@ -32146,10 +30848,8 @@ youngwitness.com.au
 yourbasin.com
 yourdailyglobe.com
 yourgv.com
-yourkorea.life
 yourlocalguardian.co.uk
 yourottawaregion.com
-yourweather.co.uk
 yourwestvalley.com
 youth.cn
 youth.rep.kp
@@ -32168,17 +30868,14 @@ yukon-news.com
 yukonreview.net
 yuldash-sputnik.ru
 yumasun.com
-yurinavi.com
 yurtgazetesi.com.tr
 yuvaportal.com
-yystv.cn
 z-krant.nl
 z101digital.com
 zabrab75.ru
 zackzack.at
 zadarskilist.hr
 zahracleaning.com
-zaim.com
 zak.tv
 zakon.kz
 zamana.info
@@ -32231,7 +30928,6 @@ zetland.dk
 zevener-zeitung.de
 zf.ro
 zgswcn.com
-zh.spaziocrypto.com
 zhabinka.by
 zham.am
 zhengguannews.cn
@@ -32287,7 +30983,6 @@ zqrb.cn
 zrpress.ru
 zsz.ch
 ztanews.ir
-ztgd.com
 ztgzt.kz
 zueriost.ch
 zugerwoche.ch
@@ -32296,7 +30991,6 @@ zumapress.com
 zuqiubao.info
 zurnal.info
 zurnal.mk
-zurnal.rs
 zurnal24.si
 zuzeu.eus
 zvezdaaltaya.ru
