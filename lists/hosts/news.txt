@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: hosts file (0.0.0.0 hostname); exact names, subdomains listed separately
-# Entries: 30,992
-# Last modified: 2026-11-23 12:19 UTC
+# Entries: 30,993
+# Last modified: 2026-11-23 12:27 UTC
 #
 0.0.0.0 021.rs
 0.0.0.0 021east.com
@@ -8875,6 +8875,7 @@
 0.0.0.0 m.malaysiakini.com
 0.0.0.0 m.manager-magazin.de
 0.0.0.0 m.manchestereveningnews.co.uk
+0.0.0.0 m.mangalam.com
 0.0.0.0 m.manoramaonline.com
 0.0.0.0 m.martinoticias.com
 0.0.0.0 m.masslive.com
