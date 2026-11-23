@@ -386,7 +386,7 @@ def main() -> int:
     print(f"  {len(classes)} classes, {len(excluded_classes)} excluded, {len(genres)} genres")
     rows = fetch_items(sorted(classes), "P31") + fetch_items(sorted(genres), "P136")
     skip_items = excluded_items(excluded_classes, subjects)
-    print(f"  {len(rows)} website claims; {len(skip_items)} items excluded by class")
+    print(f"  {len(rows)} website claims; {len(skip_items)} items skipped by class or subject")
 
     by_host: dict[str, dict] = {}
     for item, url, links in rows:
