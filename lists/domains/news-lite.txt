@@ -3,7 +3,7 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: one hostname per line; exact names, subdomains listed separately
-# Entries: 15,928
+# Entries: 15,936
 # Last modified: 2026-11-23 12:44 UTC
 #
 021.rs
@@ -531,6 +531,7 @@ amp.news5cleveland.com
 amp.newschannel5.com
 amp.newser.com
 amp.newsobserver.com
+amp.nextshark.com
 amp.nos.nl
 amp.noticiasdegipuzkoa.eus
 amp.noticiasdenavarra.com
@@ -2635,6 +2636,7 @@ feeds.tio.ch
 feeds.tsf.pt
 feeds.tvnet.lv
 feeds.upi.com
+feeds.villagevoice.com
 feeds.voanews.com
 feeds.volkskrant.nl
 feeds.wamu.org
@@ -5045,6 +5047,7 @@ m.sputnik-tj.com
 m.sputnik.kg
 m.sputnik.kz
 m.sputnik.tj
+m.sputniknews.com
 m.standaard.be
 m.standard.co.me
 m.standard.sk
@@ -5194,6 +5197,7 @@ m.wfxl.com
 m.wgal.com
 m.wgrz.com
 m.wgxa.tv
+m.whdh.com
 m.whio.com
 m.wiadomosci.gazeta.pl
 m.wiadomosci.radiozet.pl
@@ -5796,6 +5800,7 @@ mobile.wavy.com
 mobile.wbtv.com
 mobile.wfsb.com
 mobile.wgntv.com
+mobile.whdh.com
 mobile.whotv.com
 mobile.wibw.com
 mobile.wistv.com
@@ -6395,6 +6400,7 @@ news.vanguardngr.com
 news.vesti.ru
 news.vienna.at
 news.vietnamnet.vn
+news.villagevoice.com
 news.vn.at
 news.vnanet.vn
 news.vol.at
@@ -8729,6 +8735,7 @@ uk.politnavigator.net
 uk.reuters.com
 uk.rfi.fr
 uk.shafaqna.com
+uk.sputniknews.com
 uk.theepochtimes.com
 uk.vijesti.me
 uk.wikinews.org
@@ -8799,6 +8806,7 @@ us.jagran.com
 us.manoramaonline.com
 us.ntvbd.com
 us.shafaqna.com
+us.sputniknews.com
 us.tayyar.org
 us.xinhuanet.com
 usat.ly

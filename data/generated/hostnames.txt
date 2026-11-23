@@ -2263,6 +2263,7 @@ citybeatla.com: www.citybeatla.com
 citybiz.co: citybiz.co www.citybiz.co
 citybookreview.com: citybookreview.com www.citybookreview.com
 cityjournal.in: cityjournal.in www.cityjournal.in
+citylimits.org: citylimits.org www.citylimits.org
 citymessenger.com.au: citymessenger.com.au www.citymessenger.com.au
 citynews.ca: citynews.ca m.citynews.ca www.citynews.ca
 citynow.it: citynow.it www.citynow.it
@@ -3800,6 +3801,7 @@ elsalvador.com: elsalvador.com www.elsalvador.com
 elsalvadornow.org: elsalvadornow.org www.elsalvadornow.org
 elsemanal.es: elsemanal.es www.elsemanal.es
 elsemanal.mx: elsemanal.mx www.elsemanal.mx
+elsevierweekblad.nl: elsevierweekblad.nl www.elsevierweekblad.nl
 elsiglo.cl: elsiglo.cl www.elsiglo.cl
 elsiglo.com: elsiglo.com www.elsiglo.com
 elsiglo.com.gt: elsiglo.com.gt www.elsiglo.com.gt
@@ -8827,6 +8829,7 @@ nexta.tv: nexta.tv www.nexta.tv
 nextavenue.org: nextavenue.org www.nextavenue.org
 nextleftnotes.org: nextleftnotes.org www.nextleftnotes.org
 nextquotidiano.it: nextquotidiano.it www.nextquotidiano.it
+nextshark.com: amp.nextshark.com nextshark.com www.nextshark.com
 nezavisen.mk: nezavisen.mk www.nezavisen.mk
 nezavisne.com: nezavisne.com www.nezavisne.com
 ng.by: ng.by www.ng.by
@@ -10645,6 +10648,7 @@ rtl.be: m.rtl.be mobile.rtl.be rtl.be www.rtl.be
 rtl.fr: rtl.fr www.rtl.fr
 rtl.hu: rss.rtl.hu rtl.hu www.rtl.hu
 rtl.lu: 5minutes.rtl.lu rtl.lu today.rtl.lu www.5minutes.rtl.lu www.rtl.lu www.today.rtl.lu
+rtlnieuws.nl: rtlnieuws.nl www.rtlnieuws.nl
 rtnk.me: rtnk.me www.rtnk.me
 rtrs.tv: mobile.rtrs.tv rtrs.tv www.rtrs.tv
 rts.rs: m.rts.rs mobile.rts.rs rts.rs www.rts.rs
@@ -11360,6 +11364,7 @@ sputnik.kg: m.sputnik.kg sputnik.kg www.sputnik.kg
 sputnik.kz: m.sputnik.kz sputnik.kz
 sputnik.tj: m.sputnik.tj sputnik.tj www.sputnik.tj
 sputnikglobe.com: sputnikglobe.com
+sputniknews.com: m.sputniknews.com sputniknews.com uk.sputniknews.com us.sputniknews.com www.sputniknews.com
 sputniknews.ru: sputniknews.ru
 spynews.ro: spynews.ro www.spynews.ro
 sqlmag.com: sqlmag.com www.sqlmag.com
@@ -11897,6 +11902,7 @@ tetonvalleynews.net: tetonvalleynews.net www.tetonvalleynews.net
 tevahadvarim.co.il: tevahadvarim.co.il www.tevahadvarim.co.il
 texarkanagazette.com: texarkanagazette.com www.texarkanagazette.com
 texasmonthly.com: texasmonthly.com www.texasmonthly.com
+texasobserver.org: texasobserver.org www.texasobserver.org
 texastravesty.com: texastravesty.com www.texastravesty.com
 texastribune.org: feeds.texastribune.org texastribune.org www.texastribune.org
 texreporter.com: texreporter.com www.texreporter.com
@@ -12061,6 +12067,7 @@ thechronicleherald.ca: thechronicleherald.ca www.thechronicleherald.ca
 thechronicleonline.com: thechronicleonline.com www.thechronicleonline.com
 thechurchnews.com: thechurchnews.com www.thechurchnews.com
 thecincinnatiherald.com: thecincinnatiherald.com www.thecincinnatiherald.com
+thecipherbrief.com: thecipherbrief.com www.thecipherbrief.com
 thecitizen.co.tz: thecitizen.co.tz www.thecitizen.co.tz
 thecitizen.com: thecitizen.com www.thecitizen.com
 thecitizen.in: thecitizen.in www.thecitizen.in
@@ -12207,6 +12214,7 @@ thegreensheet.com: thegreensheet.com www.thegreensheet.com
 thegrio.com: thegrio.com www.thegrio.com
 thegryphon.co.uk: thegryphon.co.uk www.thegryphon.co.uk
 theguadalajarareporter.net: theguadalajarareporter.net www.theguadalajarareporter.net
+theguardian.co.uk: theguardian.co.uk www.theguardian.co.uk
 theguardian.com: amp.theguardian.com feeds.theguardian.com theguardian.com www.theguardian.com
 theguidon.com: theguidon.com www.theguidon.com
 theguru.co.kr: theguru.co.kr www.theguru.co.kr
@@ -13405,6 +13413,7 @@ villagegreennj.com: villagegreennj.com www.villagegreennj.com
 villagemagazine.ie: villagemagazine.ie www.villagemagazine.ie
 villagenews.com: villagenews.com www.villagenews.com
 villagerpublishing.com: villagerpublishing.com www.villagerpublishing.com
+villagevoice.com: feeds.villagevoice.com news.villagevoice.com villagevoice.com www.villagevoice.com
 villagevoicenews.com: villagevoicenews.com www.villagevoicenews.com
 villalivet.se: villalivet.se www.villalivet.se
 vilne.org.ua: vilne.org.ua www.vilne.org.ua
@@ -13770,6 +13779,7 @@ whatfinger.com: news.whatfinger.com whatfinger.com www.whatfinger.com
 whatsupkansascity.net: whatsupkansascity.net www.whatsupkansascity.net
 whatsuppub.com: whatsuppub.com www.whatsuppub.com
 whb.cn: whb.cn www.whb.cn
+whdh.com: m.whdh.com mobile.whdh.com whdh.com www.whdh.com
 wherewhatwhen.com: wherewhatwhen.com www.wherewhatwhen.com
 whidbeynewstimes.com: whidbeynewstimes.com www.whidbeynewstimes.com
 whig.com: whig.com www.whig.com

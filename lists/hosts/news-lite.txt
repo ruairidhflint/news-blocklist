@@ -3,7 +3,7 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: hosts file (0.0.0.0 hostname); exact names, subdomains listed separately
-# Entries: 15,928
+# Entries: 15,936
 # Last modified: 2026-11-23 12:44 UTC
 #
 0.0.0.0 021.rs
@@ -531,6 +531,7 @@
 0.0.0.0 amp.newschannel5.com
 0.0.0.0 amp.newser.com
 0.0.0.0 amp.newsobserver.com
+0.0.0.0 amp.nextshark.com
 0.0.0.0 amp.nos.nl
 0.0.0.0 amp.noticiasdegipuzkoa.eus
 0.0.0.0 amp.noticiasdenavarra.com
@@ -2635,6 +2636,7 @@
 0.0.0.0 feeds.tsf.pt
 0.0.0.0 feeds.tvnet.lv
 0.0.0.0 feeds.upi.com
+0.0.0.0 feeds.villagevoice.com
 0.0.0.0 feeds.voanews.com
 0.0.0.0 feeds.volkskrant.nl
 0.0.0.0 feeds.wamu.org
@@ -5045,6 +5047,7 @@
 0.0.0.0 m.sputnik.kg
 0.0.0.0 m.sputnik.kz
 0.0.0.0 m.sputnik.tj
+0.0.0.0 m.sputniknews.com
 0.0.0.0 m.standaard.be
 0.0.0.0 m.standard.co.me
 0.0.0.0 m.standard.sk
@@ -5194,6 +5197,7 @@
 0.0.0.0 m.wgal.com
 0.0.0.0 m.wgrz.com
 0.0.0.0 m.wgxa.tv
+0.0.0.0 m.whdh.com
 0.0.0.0 m.whio.com
 0.0.0.0 m.wiadomosci.gazeta.pl
 0.0.0.0 m.wiadomosci.radiozet.pl
@@ -5796,6 +5800,7 @@
 0.0.0.0 mobile.wbtv.com
 0.0.0.0 mobile.wfsb.com
 0.0.0.0 mobile.wgntv.com
+0.0.0.0 mobile.whdh.com
 0.0.0.0 mobile.whotv.com
 0.0.0.0 mobile.wibw.com
 0.0.0.0 mobile.wistv.com
@@ -6395,6 +6400,7 @@
 0.0.0.0 news.vesti.ru
 0.0.0.0 news.vienna.at
 0.0.0.0 news.vietnamnet.vn
+0.0.0.0 news.villagevoice.com
 0.0.0.0 news.vn.at
 0.0.0.0 news.vnanet.vn
 0.0.0.0 news.vol.at
@@ -8729,6 +8735,7 @@
 0.0.0.0 uk.reuters.com
 0.0.0.0 uk.rfi.fr
 0.0.0.0 uk.shafaqna.com
+0.0.0.0 uk.sputniknews.com
 0.0.0.0 uk.theepochtimes.com
 0.0.0.0 uk.vijesti.me
 0.0.0.0 uk.wikinews.org
@@ -8799,6 +8806,7 @@
 0.0.0.0 us.manoramaonline.com
 0.0.0.0 us.ntvbd.com
 0.0.0.0 us.shafaqna.com
+0.0.0.0 us.sputniknews.com
 0.0.0.0 us.tayyar.org
 0.0.0.0 us.xinhuanet.com
 0.0.0.0 usat.ly
