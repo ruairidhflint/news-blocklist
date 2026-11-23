@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: hosts file (0.0.0.0 hostname); exact names, subdomains listed separately
-# Entries: 15,908
-# Last modified: 2026-11-23 12:43 UTC
+# Entries: 15,928
+# Last modified: 2026-11-23 12:44 UTC
 #
 0.0.0.0 021.rs
 0.0.0.0 0223.com.ar
@@ -1325,6 +1325,7 @@
 0.0.0.0 cityandstateny.com
 0.0.0.0 citybeat.com
 0.0.0.0 citybiz.co
+0.0.0.0 citylimits.org
 0.0.0.0 citynews.ca
 0.0.0.0 citypages.com
 0.0.0.0 citypaper.com
@@ -2117,6 +2118,7 @@
 0.0.0.0 elpuntavui.cat
 0.0.0.0 elsaltodiario.com
 0.0.0.0 elsalvador.com
+0.0.0.0 elsevierweekblad.nl
 0.0.0.0 elsiglo.com.pa
 0.0.0.0 elsiglodedurango.com.mx
 0.0.0.0 elsiglodetorreon.com.mx
@@ -6525,6 +6527,7 @@
 0.0.0.0 next.gazeta.pl
 0.0.0.0 nextavenue.org
 0.0.0.0 nextquotidiano.it
+0.0.0.0 nextshark.com
 0.0.0.0 nezavisen.mk
 0.0.0.0 nezavisne.com
 0.0.0.0 ng.ru
@@ -7555,6 +7558,7 @@
 0.0.0.0 rtl.fr
 0.0.0.0 rtl.hu
 0.0.0.0 rtl.lu
+0.0.0.0 rtlnieuws.nl
 0.0.0.0 rtnk.me
 0.0.0.0 rtp.pt
 0.0.0.0 rtr.ch
@@ -7897,6 +7901,7 @@
 0.0.0.0 sputnik.kz
 0.0.0.0 sputnik.tj
 0.0.0.0 sputnikglobe.com
+0.0.0.0 sputniknews.com
 0.0.0.0 sputniknews.ru
 0.0.0.0 spynews.ro
 0.0.0.0 sr.de
@@ -8168,6 +8173,7 @@
 0.0.0.0 tert.am
 0.0.0.0 texarkanagazette.com
 0.0.0.0 texasmonthly.com
+0.0.0.0 texasobserver.org
 0.0.0.0 texastribune.org
 0.0.0.0 text.npr.org
 0.0.0.0 texty.org.ua
@@ -8236,6 +8242,7 @@
 0.0.0.0 thechronicle.com.au
 0.0.0.0 thechronicleherald.ca
 0.0.0.0 thechurchnews.com
+0.0.0.0 thecipherbrief.com
 0.0.0.0 thecitizen.co.tz
 0.0.0.0 thecitizen.com
 0.0.0.0 thecitizen.in
@@ -8296,6 +8303,7 @@
 0.0.0.0 theglobeandmail.com
 0.0.0.0 thegrayzone.com
 0.0.0.0 thegrio.com
+0.0.0.0 theguardian.co.uk
 0.0.0.0 theguardian.com
 0.0.0.0 thehansindia.com
 0.0.0.0 theherald.co.za
@@ -8878,6 +8886,7 @@
 0.0.0.0 vijesti.rtl.hr
 0.0.0.0 vikatan.com
 0.0.0.0 vilaweb.cat
+0.0.0.0 villagevoice.com
 0.0.0.0 villagevoicenews.com
 0.0.0.0 vindy.com
 0.0.0.0 vineyardgazette.com
@@ -9055,6 +9064,7 @@
 0.0.0.0 whas11.com
 0.0.0.0 whatfinger.com
 0.0.0.0 whb.cn
+0.0.0.0 whdh.com
 0.0.0.0 whio.com
 0.0.0.0 whittierdailynews.com
 0.0.0.0 whnt.com
@@ -10225,6 +10235,7 @@
 0.0.0.0 www.cityandstateny.com
 0.0.0.0 www.citybeat.com
 0.0.0.0 www.citybiz.co
+0.0.0.0 www.citylimits.org
 0.0.0.0 www.citynews.ca
 0.0.0.0 www.citypages.com
 0.0.0.0 www.citypaper.com
@@ -10961,6 +10972,7 @@
 0.0.0.0 www.elpuntavui.cat
 0.0.0.0 www.elsaltodiario.com
 0.0.0.0 www.elsalvador.com
+0.0.0.0 www.elsevierweekblad.nl
 0.0.0.0 www.elsiglo.com.pa
 0.0.0.0 www.elsiglodedurango.com.mx
 0.0.0.0 www.elsiglodetorreon.com.mx
@@ -13278,6 +13290,7 @@
 0.0.0.0 www.next.gazeta.pl
 0.0.0.0 www.nextavenue.org
 0.0.0.0 www.nextquotidiano.it
+0.0.0.0 www.nextshark.com
 0.0.0.0 www.nezavisen.mk
 0.0.0.0 www.nezavisne.com
 0.0.0.0 www.ng.ru
@@ -14134,6 +14147,7 @@
 0.0.0.0 www.rtl.fr
 0.0.0.0 www.rtl.hu
 0.0.0.0 www.rtl.lu
+0.0.0.0 www.rtlnieuws.nl
 0.0.0.0 www.rtnk.me
 0.0.0.0 www.rtp.pt
 0.0.0.0 www.rtr.ch
@@ -14447,6 +14461,7 @@
 0.0.0.0 www.sputnik.by
 0.0.0.0 www.sputnik.kg
 0.0.0.0 www.sputnik.tj
+0.0.0.0 www.sputniknews.com
 0.0.0.0 www.spynews.ro
 0.0.0.0 www.sr.de
 0.0.0.0 www.srbijadanas.com
@@ -14710,6 +14725,7 @@
 0.0.0.0 www.tert.am
 0.0.0.0 www.texarkanagazette.com
 0.0.0.0 www.texasmonthly.com
+0.0.0.0 www.texasobserver.org
 0.0.0.0 www.texastribune.org
 0.0.0.0 www.texty.org.ua
 0.0.0.0 www.teyit.org
@@ -14774,6 +14790,7 @@
 0.0.0.0 www.thechronicle.com.au
 0.0.0.0 www.thechronicleherald.ca
 0.0.0.0 www.thechurchnews.com
+0.0.0.0 www.thecipherbrief.com
 0.0.0.0 www.thecitizen.co.tz
 0.0.0.0 www.thecitizen.com
 0.0.0.0 www.thecitizen.in
@@ -14834,6 +14851,7 @@
 0.0.0.0 www.theglobeandmail.com
 0.0.0.0 www.thegrayzone.com
 0.0.0.0 www.thegrio.com
+0.0.0.0 www.theguardian.co.uk
 0.0.0.0 www.theguardian.com
 0.0.0.0 www.thehansindia.com
 0.0.0.0 www.theherald.co.za
@@ -15352,6 +15370,7 @@
 0.0.0.0 www.vijesti.rtl.hr
 0.0.0.0 www.vikatan.com
 0.0.0.0 www.vilaweb.cat
+0.0.0.0 www.villagevoice.com
 0.0.0.0 www.villagevoicenews.com
 0.0.0.0 www.vindy.com
 0.0.0.0 www.vineyardgazette.com
@@ -15523,6 +15542,7 @@
 0.0.0.0 www.whas11.com
 0.0.0.0 www.whatfinger.com
 0.0.0.0 www.whb.cn
+0.0.0.0 www.whdh.com
 0.0.0.0 www.whio.com
 0.0.0.0 www.whittierdailynews.com
 0.0.0.0 www.whnt.com

@@ -121,6 +121,7 @@ thebureauinvestigates.com     # The Bureau of Investigative Journalism
 thecritic.co.uk               # The Critic
 thedetail.tv                  # The Detail
 theferret.scot                # The Ferret
+theguardian.co.uk             # The Guardian (old domain)
 theguardian.com               # The Guardian
 thelondoneconomic.com         # The London Economic
 thescottishsun.co.uk          # The Scottish Sun

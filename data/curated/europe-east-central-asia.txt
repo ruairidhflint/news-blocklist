@@ -663,6 +663,7 @@ sibreal.org              # Sibir.Realii (RFE/RL)
 sochi1.ru                # Sochi1
 sota.vision              # SOTAvision
 sputnikglobe.com         # Sputnik
+sputniknews.com          # Sputnik (old domain)
 sputniknews.ru           # Sputnik (near-abroad editions)
 tass.com                 # TASS (English)
 tass.ru                  # TASS

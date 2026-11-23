@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: one hostname per line; exact names, subdomains listed separately
-# Entries: 30,835
-# Last modified: 2026-11-23 12:43 UTC
+# Entries: 30,855
+# Last modified: 2026-11-23 12:44 UTC
 #
 021.rs
 021east.com
@@ -2538,6 +2538,7 @@ citybeatla.com
 citybiz.co
 citybookreview.com
 cityjournal.in
+citylimits.org
 citymessenger.com.au
 citynews.ca
 citynow.it
@@ -4123,6 +4124,7 @@ elsalvador.com
 elsalvadornow.org
 elsemanal.es
 elsemanal.mx
+elsevierweekblad.nl
 elsiglo.cl
 elsiglo.com
 elsiglo.com.gt
@@ -11152,6 +11154,7 @@ nexta.tv
 nextavenue.org
 nextleftnotes.org
 nextquotidiano.it
+nextshark.com
 nezavisen.mk
 nezavisne.com
 ng.by
@@ -13149,6 +13152,7 @@ rtl.de
 rtl.fr
 rtl.hu
 rtl.lu
+rtlnieuws.nl
 rtnk.me
 rtp.pt
 rtr.ch
@@ -13897,6 +13901,7 @@ sputnik.kg
 sputnik.kz
 sputnik.tj
 sputnikglobe.com
+sputniknews.com
 sputniknews.ru
 spynews.ro
 sqlmag.com
@@ -14445,6 +14450,7 @@ tetonvalleynews.net
 tevahadvarim.co.il
 texarkanagazette.com
 texasmonthly.com
+texasobserver.org
 texastravesty.com
 texastribune.org
 texreporter.com
@@ -14610,6 +14616,7 @@ thechronicleherald.ca
 thechronicleonline.com
 thechurchnews.com
 thecincinnatiherald.com
+thecipherbrief.com
 thecitizen.co.tz
 thecitizen.com
 thecitizen.in
@@ -14756,6 +14763,7 @@ thegreensheet.com
 thegrio.com
 thegryphon.co.uk
 theguadalajarareporter.net
+theguardian.co.uk
 theguardian.com
 theguidon.com
 theguru.co.kr
@@ -16009,6 +16017,7 @@ villagegreennj.com
 villagemagazine.ie
 villagenews.com
 villagerpublishing.com
+villagevoice.com
 villagevoicenews.com
 villalivet.se
 vilne.org.ua
@@ -16382,6 +16391,7 @@ whatfinger.com
 whatsupkansascity.net
 whatsuppub.com
 whb.cn
+whdh.com
 wherewhatwhen.com
 whidbeynewstimes.com
 whig.com
@@ -18818,6 +18828,7 @@ www.citybeatla.com
 www.citybiz.co
 www.citybookreview.com
 www.cityjournal.in
+www.citylimits.org
 www.citymessenger.com.au
 www.citynews.ca
 www.citynow.it
@@ -20332,6 +20343,7 @@ www.elsalvador.com
 www.elsalvadornow.org
 www.elsemanal.es
 www.elsemanal.mx
+www.elsevierweekblad.nl
 www.elsiglo.cl
 www.elsiglo.com
 www.elsiglo.com.gt
@@ -25184,6 +25196,7 @@ www.nexta.tv
 www.nextavenue.org
 www.nextleftnotes.org
 www.nextquotidiano.it
+www.nextshark.com
 www.nezavisen.mk
 www.nezavisne.com
 www.ng.by
@@ -26990,6 +27003,7 @@ www.rtl.de
 www.rtl.fr
 www.rtl.hu
 www.rtl.lu
+www.rtlnieuws.nl
 www.rtnk.me
 www.rtp.pt
 www.rtr.ch
@@ -27702,6 +27716,7 @@ www.sputnik-tj.com
 www.sputnik.by
 www.sputnik.kg
 www.sputnik.tj
+www.sputniknews.com
 www.spynews.ro
 www.sqlmag.com
 www.sr.de
@@ -28236,6 +28251,7 @@ www.tetonvalleynews.net
 www.tevahadvarim.co.il
 www.texarkanagazette.com
 www.texasmonthly.com
+www.texasobserver.org
 www.texastravesty.com
 www.texastribune.org
 www.texreporter.com
@@ -28396,6 +28412,7 @@ www.thechronicleherald.ca
 www.thechronicleonline.com
 www.thechurchnews.com
 www.thecincinnatiherald.com
+www.thecipherbrief.com
 www.thecitizen.co.tz
 www.thecitizen.com
 www.thecitizen.in
@@ -28542,6 +28559,7 @@ www.thegreensheet.com
 www.thegrio.com
 www.thegryphon.co.uk
 www.theguadalajarareporter.net
+www.theguardian.co.uk
 www.theguardian.com
 www.theguidon.com
 www.theguru.co.kr
@@ -29718,6 +29736,7 @@ www.villagegreennj.com
 www.villagemagazine.ie
 www.villagenews.com
 www.villagerpublishing.com
+www.villagevoice.com
 www.villagevoicenews.com
 www.villalivet.se
 www.vilne.org.ua
@@ -30081,6 +30100,7 @@ www.whatfinger.com
 www.whatsupkansascity.net
 www.whatsuppub.com
 www.whb.cn
+www.whdh.com
 www.wherewhatwhen.com
 www.whidbeynewstimes.com
 www.whig.com

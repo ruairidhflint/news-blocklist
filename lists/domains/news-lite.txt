@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: one hostname per line; exact names, subdomains listed separately
-# Entries: 15,908
-# Last modified: 2026-11-23 12:43 UTC
+# Entries: 15,928
+# Last modified: 2026-11-23 12:44 UTC
 #
 021.rs
 0223.com.ar
@@ -1325,6 +1325,7 @@ cityam.com
 cityandstateny.com
 citybeat.com
 citybiz.co
+citylimits.org
 citynews.ca
 citypages.com
 citypaper.com
@@ -2117,6 +2118,7 @@ elpulso.hn
 elpuntavui.cat
 elsaltodiario.com
 elsalvador.com
+elsevierweekblad.nl
 elsiglo.com.pa
 elsiglodedurango.com.mx
 elsiglodetorreon.com.mx
@@ -6525,6 +6527,7 @@ nexos.com.mx
 next.gazeta.pl
 nextavenue.org
 nextquotidiano.it
+nextshark.com
 nezavisen.mk
 nezavisne.com
 ng.ru
@@ -7555,6 +7558,7 @@ rtl.de
 rtl.fr
 rtl.hu
 rtl.lu
+rtlnieuws.nl
 rtnk.me
 rtp.pt
 rtr.ch
@@ -7897,6 +7901,7 @@ sputnik.kg
 sputnik.kz
 sputnik.tj
 sputnikglobe.com
+sputniknews.com
 sputniknews.ru
 spynews.ro
 sr.de
@@ -8168,6 +8173,7 @@ terra.com.mx
 tert.am
 texarkanagazette.com
 texasmonthly.com
+texasobserver.org
 texastribune.org
 text.npr.org
 texty.org.ua
@@ -8236,6 +8242,7 @@ thechanzo.com
 thechronicle.com.au
 thechronicleherald.ca
 thechurchnews.com
+thecipherbrief.com
 thecitizen.co.tz
 thecitizen.com
 thecitizen.in
@@ -8296,6 +8303,7 @@ theghanareport.com
 theglobeandmail.com
 thegrayzone.com
 thegrio.com
+theguardian.co.uk
 theguardian.com
 thehansindia.com
 theherald.co.za
@@ -8878,6 +8886,7 @@ vijesti.me
 vijesti.rtl.hr
 vikatan.com
 vilaweb.cat
+villagevoice.com
 villagevoicenews.com
 vindy.com
 vineyardgazette.com
@@ -9055,6 +9064,7 @@ wgxa.tv
 whas11.com
 whatfinger.com
 whb.cn
+whdh.com
 whio.com
 whittierdailynews.com
 whnt.com
@@ -10225,6 +10235,7 @@ www.cityam.com
 www.cityandstateny.com
 www.citybeat.com
 www.citybiz.co
+www.citylimits.org
 www.citynews.ca
 www.citypages.com
 www.citypaper.com
@@ -10961,6 +10972,7 @@ www.elpulso.hn
 www.elpuntavui.cat
 www.elsaltodiario.com
 www.elsalvador.com
+www.elsevierweekblad.nl
 www.elsiglo.com.pa
 www.elsiglodedurango.com.mx
 www.elsiglodetorreon.com.mx
@@ -13278,6 +13290,7 @@ www.nexos.com.mx
 www.next.gazeta.pl
 www.nextavenue.org
 www.nextquotidiano.it
+www.nextshark.com
 www.nezavisen.mk
 www.nezavisne.com
 www.ng.ru
@@ -14134,6 +14147,7 @@ www.rtl.de
 www.rtl.fr
 www.rtl.hu
 www.rtl.lu
+www.rtlnieuws.nl
 www.rtnk.me
 www.rtp.pt
 www.rtr.ch
@@ -14447,6 +14461,7 @@ www.sputnik-tj.com
 www.sputnik.by
 www.sputnik.kg
 www.sputnik.tj
+www.sputniknews.com
 www.spynews.ro
 www.sr.de
 www.srbijadanas.com
@@ -14710,6 +14725,7 @@ www.terra.com.mx
 www.tert.am
 www.texarkanagazette.com
 www.texasmonthly.com
+www.texasobserver.org
 www.texastribune.org
 www.texty.org.ua
 www.teyit.org
@@ -14774,6 +14790,7 @@ www.thechanzo.com
 www.thechronicle.com.au
 www.thechronicleherald.ca
 www.thechurchnews.com
+www.thecipherbrief.com
 www.thecitizen.co.tz
 www.thecitizen.com
 www.thecitizen.in
@@ -14834,6 +14851,7 @@ www.theghanareport.com
 www.theglobeandmail.com
 www.thegrayzone.com
 www.thegrio.com
+www.theguardian.co.uk
 www.theguardian.com
 www.thehansindia.com
 www.theherald.co.za
@@ -15352,6 +15370,7 @@ www.vijesti.me
 www.vijesti.rtl.hr
 www.vikatan.com
 www.vilaweb.cat
+www.villagevoice.com
 www.villagevoicenews.com
 www.vindy.com
 www.vineyardgazette.com
@@ -15523,6 +15542,7 @@ www.wgxa.tv
 www.whas11.com
 www.whatfinger.com
 www.whb.cn
+www.whdh.com
 www.whio.com
 www.whittierdailynews.com
 www.whnt.com

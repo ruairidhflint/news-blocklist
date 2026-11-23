@@ -4,8 +4,8 @@
 ! Homepage: https://github.com/ruairidhflint/news-blocklist
 ! License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 ! Syntax: Adblock Plus / uBlock Origin / AdGuard (||domain^)
-! Entries: 6,646
-! Last modified: 2026-11-23 12:43 UTC
+! Entries: 6,656
+! Last modified: 2026-11-23 12:44 UTC
 ! Expires: 1 day
 !
 ||021.rs^
@@ -1042,6 +1042,7 @@
 ||cityandstateny.com^
 ||citybeat.com^
 ||citybiz.co^
+||citylimits.org^
 ||citynews.ca^
 ||citypages.com^
 ||citypaper.com^
@@ -1778,6 +1779,7 @@
 ||elpuntavui.cat^
 ||elsaltodiario.com^
 ||elsalvador.com^
+||elsevierweekblad.nl^
 ||elsiglo.com.pa^
 ||elsiglodedurango.com.mx^
 ||elsiglodetorreon.com.mx^
@@ -4134,6 +4136,7 @@
 ||next.gazeta.pl^
 ||nextavenue.org^
 ||nextquotidiano.it^
+||nextshark.com^
 ||nezavisen.mk^
 ||nezavisne.com^
 ||ng.ru^
@@ -4975,6 +4978,7 @@
 ||rtl.fr^
 ||rtl.hu^
 ||rtl.lu^
+||rtlnieuws.nl^
 ||rtnk.me^
 ||rtrs.tv^
 ||rts.rs^
@@ -5278,6 +5282,7 @@
 ||sputnik.kz^
 ||sputnik.tj^
 ||sputnikglobe.com^
+||sputniknews.com^
 ||sputniknews.ru^
 ||spynews.ro^
 ||srbijadanas.com^
@@ -5535,6 +5540,7 @@
 ||tert.am^
 ||texarkanagazette.com^
 ||texasmonthly.com^
+||texasobserver.org^
 ||texastribune.org^
 ||texty.org.ua^
 ||teyit.org^
@@ -5601,6 +5607,7 @@
 ||thechronicle.com.au^
 ||thechronicleherald.ca^
 ||thechurchnews.com^
+||thecipherbrief.com^
 ||thecitizen.co.tz^
 ||thecitizen.com^
 ||thecitizen.in^
@@ -5661,6 +5668,7 @@
 ||theglobeandmail.com^
 ||thegrayzone.com^
 ||thegrio.com^
+||theguardian.co.uk^
 ||theguardian.com^
 ||thehansindia.com^
 ||theherald.co.za^
@@ -6179,6 +6187,7 @@
 ||vijesti.rtl.hr^
 ||vikatan.com^
 ||vilaweb.cat^
+||villagevoice.com^
 ||villagevoicenews.com^
 ||vindy.com^
 ||vineyardgazette.com^
@@ -6347,6 +6356,7 @@
 ||whas11.com^
 ||whatfinger.com^
 ||whb.cn^
+||whdh.com^
 ||whio.com^
 ||whittierdailynews.com^
 ||whnt.com^

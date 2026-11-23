@@ -4,8 +4,8 @@
 ! Homepage: https://github.com/ruairidhflint/news-blocklist
 ! License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 ! Syntax: Adblock Plus / uBlock Origin / AdGuard (||domain^)
-! Entries: 14,167
-! Last modified: 2026-11-23 12:43 UTC
+! Entries: 14,177
+! Last modified: 2026-11-23 12:44 UTC
 ! Expires: 1 day
 !
 ||021.rs^
@@ -2254,6 +2254,7 @@
 ||citybiz.co^
 ||citybookreview.com^
 ||cityjournal.in^
+||citylimits.org^
 ||citymessenger.com.au^
 ||citynews.ca^
 ||citynow.it^
@@ -3779,6 +3780,7 @@
 ||elsalvadornow.org^
 ||elsemanal.es^
 ||elsemanal.mx^
+||elsevierweekblad.nl^
 ||elsiglo.cl^
 ||elsiglo.com^
 ||elsiglo.com.gt^
@@ -8736,6 +8738,7 @@
 ||nextavenue.org^
 ||nextleftnotes.org^
 ||nextquotidiano.it^
+||nextshark.com^
 ||nezavisen.mk^
 ||nezavisne.com^
 ||ng.by^
@@ -10543,6 +10546,7 @@
 ||rtl.fr^
 ||rtl.hu^
 ||rtl.lu^
+||rtlnieuws.nl^
 ||rtnk.me^
 ||rtrs.tv^
 ||rts.rs^
@@ -11249,6 +11253,7 @@
 ||sputnik.kz^
 ||sputnik.tj^
 ||sputnikglobe.com^
+||sputniknews.com^
 ||sputniknews.ru^
 ||spynews.ro^
 ||sqlmag.com^
@@ -11783,6 +11788,7 @@
 ||tevahadvarim.co.il^
 ||texarkanagazette.com^
 ||texasmonthly.com^
+||texasobserver.org^
 ||texastravesty.com^
 ||texastribune.org^
 ||texreporter.com^
@@ -11946,6 +11952,7 @@
 ||thechronicleonline.com^
 ||thechurchnews.com^
 ||thecincinnatiherald.com^
+||thecipherbrief.com^
 ||thecitizen.co.tz^
 ||thecitizen.com^
 ||thecitizen.in^
@@ -12092,6 +12099,7 @@
 ||thegrio.com^
 ||thegryphon.co.uk^
 ||theguadalajarareporter.net^
+||theguardian.co.uk^
 ||theguardian.com^
 ||theguidon.com^
 ||theguru.co.kr^
@@ -13278,6 +13286,7 @@
 ||villagemagazine.ie^
 ||villagenews.com^
 ||villagerpublishing.com^
+||villagevoice.com^
 ||villagevoicenews.com^
 ||villalivet.se^
 ||vilne.org.ua^
@@ -13642,6 +13651,7 @@
 ||whatsupkansascity.net^
 ||whatsuppub.com^
 ||whb.cn^
+||whdh.com^
 ||wherewhatwhen.com^
 ||whidbeynewstimes.com^
 ||whig.com^

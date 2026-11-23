@@ -381,6 +381,7 @@ destentor.nl            # De Stentor
 dutchnews.nl            # DutchNews.nl
 ed.nl                   # Eindhovens Dagblad
 eenvandaag.avrotros.nl  # EenVandaag
+elsevierweekblad.nl     # EW (old Elsevier Weekblad domain)
 ewmagazine.nl           # EW
 fd.nl                   # Het Financieele Dagblad
 geenstijl.nl            # GeenStijl
@@ -405,6 +406,7 @@ omropfryslan.nl         # Omrop Fryslân
 oost.nl                 # RTV Oost
 parool.nl               # Het Parool
 powned.tv               # PowNed
+rtlnieuws.nl            # RTL Nieuws (old domain; the news now lives at rtl.nl/nieuws, which can't be blocked on its own)
 rtvdrenthe.nl           # RTV Drenthe
 rtvnoord.nl             # RTV Noord
 rtvoost.nl              # RTV Oost

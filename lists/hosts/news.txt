@@ -3,8 +3,8 @@
 # Homepage: https://github.com/ruairidhflint/news-blocklist
 # License: MIT (https://github.com/ruairidhflint/news-blocklist/blob/main/LICENSE)
 # Syntax: hosts file (0.0.0.0 hostname); exact names, subdomains listed separately
-# Entries: 30,835
-# Last modified: 2026-11-23 12:43 UTC
+# Entries: 30,855
+# Last modified: 2026-11-23 12:44 UTC
 #
 0.0.0.0 021.rs
 0.0.0.0 021east.com
@@ -2538,6 +2538,7 @@
 0.0.0.0 citybiz.co
 0.0.0.0 citybookreview.com
 0.0.0.0 cityjournal.in
+0.0.0.0 citylimits.org
 0.0.0.0 citymessenger.com.au
 0.0.0.0 citynews.ca
 0.0.0.0 citynow.it
@@ -4123,6 +4124,7 @@
 0.0.0.0 elsalvadornow.org
 0.0.0.0 elsemanal.es
 0.0.0.0 elsemanal.mx
+0.0.0.0 elsevierweekblad.nl
 0.0.0.0 elsiglo.cl
 0.0.0.0 elsiglo.com
 0.0.0.0 elsiglo.com.gt
@@ -11152,6 +11154,7 @@
 0.0.0.0 nextavenue.org
 0.0.0.0 nextleftnotes.org
 0.0.0.0 nextquotidiano.it
+0.0.0.0 nextshark.com
 0.0.0.0 nezavisen.mk
 0.0.0.0 nezavisne.com
 0.0.0.0 ng.by
@@ -13149,6 +13152,7 @@
 0.0.0.0 rtl.fr
 0.0.0.0 rtl.hu
 0.0.0.0 rtl.lu
+0.0.0.0 rtlnieuws.nl
 0.0.0.0 rtnk.me
 0.0.0.0 rtp.pt
 0.0.0.0 rtr.ch
@@ -13897,6 +13901,7 @@
 0.0.0.0 sputnik.kz
 0.0.0.0 sputnik.tj
 0.0.0.0 sputnikglobe.com
+0.0.0.0 sputniknews.com
 0.0.0.0 sputniknews.ru
 0.0.0.0 spynews.ro
 0.0.0.0 sqlmag.com
@@ -14445,6 +14450,7 @@
 0.0.0.0 tevahadvarim.co.il
 0.0.0.0 texarkanagazette.com
 0.0.0.0 texasmonthly.com
+0.0.0.0 texasobserver.org
 0.0.0.0 texastravesty.com
 0.0.0.0 texastribune.org
 0.0.0.0 texreporter.com
@@ -14610,6 +14616,7 @@
 0.0.0.0 thechronicleonline.com
 0.0.0.0 thechurchnews.com
 0.0.0.0 thecincinnatiherald.com
+0.0.0.0 thecipherbrief.com
 0.0.0.0 thecitizen.co.tz
 0.0.0.0 thecitizen.com
 0.0.0.0 thecitizen.in
@@ -14756,6 +14763,7 @@
 0.0.0.0 thegrio.com
 0.0.0.0 thegryphon.co.uk
 0.0.0.0 theguadalajarareporter.net
+0.0.0.0 theguardian.co.uk
 0.0.0.0 theguardian.com
 0.0.0.0 theguidon.com
 0.0.0.0 theguru.co.kr
@@ -16009,6 +16017,7 @@
 0.0.0.0 villagemagazine.ie
 0.0.0.0 villagenews.com
 0.0.0.0 villagerpublishing.com
+0.0.0.0 villagevoice.com
 0.0.0.0 villagevoicenews.com
 0.0.0.0 villalivet.se
 0.0.0.0 vilne.org.ua
@@ -16382,6 +16391,7 @@
 0.0.0.0 whatsupkansascity.net
 0.0.0.0 whatsuppub.com
 0.0.0.0 whb.cn
+0.0.0.0 whdh.com
 0.0.0.0 wherewhatwhen.com
 0.0.0.0 whidbeynewstimes.com
 0.0.0.0 whig.com
@@ -18818,6 +18828,7 @@
 0.0.0.0 www.citybiz.co
 0.0.0.0 www.citybookreview.com
 0.0.0.0 www.cityjournal.in
+0.0.0.0 www.citylimits.org
 0.0.0.0 www.citymessenger.com.au
 0.0.0.0 www.citynews.ca
 0.0.0.0 www.citynow.it
@@ -20332,6 +20343,7 @@
 0.0.0.0 www.elsalvadornow.org
 0.0.0.0 www.elsemanal.es
 0.0.0.0 www.elsemanal.mx
+0.0.0.0 www.elsevierweekblad.nl
 0.0.0.0 www.elsiglo.cl
 0.0.0.0 www.elsiglo.com
 0.0.0.0 www.elsiglo.com.gt
@@ -25184,6 +25196,7 @@
 0.0.0.0 www.nextavenue.org
 0.0.0.0 www.nextleftnotes.org
 0.0.0.0 www.nextquotidiano.it
+0.0.0.0 www.nextshark.com
 0.0.0.0 www.nezavisen.mk
 0.0.0.0 www.nezavisne.com
 0.0.0.0 www.ng.by
@@ -26990,6 +27003,7 @@
 0.0.0.0 www.rtl.fr
 0.0.0.0 www.rtl.hu
 0.0.0.0 www.rtl.lu
+0.0.0.0 www.rtlnieuws.nl
 0.0.0.0 www.rtnk.me
 0.0.0.0 www.rtp.pt
 0.0.0.0 www.rtr.ch
@@ -27702,6 +27716,7 @@
 0.0.0.0 www.sputnik.by
 0.0.0.0 www.sputnik.kg
 0.0.0.0 www.sputnik.tj
+0.0.0.0 www.sputniknews.com
 0.0.0.0 www.spynews.ro
 0.0.0.0 www.sqlmag.com
 0.0.0.0 www.sr.de
@@ -28236,6 +28251,7 @@
 0.0.0.0 www.tevahadvarim.co.il
 0.0.0.0 www.texarkanagazette.com
 0.0.0.0 www.texasmonthly.com
+0.0.0.0 www.texasobserver.org
 0.0.0.0 www.texastravesty.com
 0.0.0.0 www.texastribune.org
 0.0.0.0 www.texreporter.com
@@ -28396,6 +28412,7 @@
 0.0.0.0 www.thechronicleonline.com
 0.0.0.0 www.thechurchnews.com
 0.0.0.0 www.thecincinnatiherald.com
+0.0.0.0 www.thecipherbrief.com
 0.0.0.0 www.thecitizen.co.tz
 0.0.0.0 www.thecitizen.com
 0.0.0.0 www.thecitizen.in
@@ -28542,6 +28559,7 @@
 0.0.0.0 www.thegrio.com
 0.0.0.0 www.thegryphon.co.uk
 0.0.0.0 www.theguadalajarareporter.net
+0.0.0.0 www.theguardian.co.uk
 0.0.0.0 www.theguardian.com
 0.0.0.0 www.theguidon.com
 0.0.0.0 www.theguru.co.kr
@@ -29718,6 +29736,7 @@
 0.0.0.0 www.villagemagazine.ie
 0.0.0.0 www.villagenews.com
 0.0.0.0 www.villagerpublishing.com
+0.0.0.0 www.villagevoice.com
 0.0.0.0 www.villagevoicenews.com
 0.0.0.0 www.villalivet.se
 0.0.0.0 www.vilne.org.ua
@@ -30081,6 +30100,7 @@
 0.0.0.0 www.whatsupkansascity.net
 0.0.0.0 www.whatsuppub.com
 0.0.0.0 www.whb.cn
+0.0.0.0 www.whdh.com
 0.0.0.0 www.wherewhatwhen.com
 0.0.0.0 www.whidbeynewstimes.com
 0.0.0.0 www.whig.com
